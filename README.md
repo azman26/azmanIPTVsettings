@@ -1,7 +1,7 @@
 # Listy z linkami do przekazów polskich lokalnych stacji TV, kanałów na YouTube oraz przekazów z TVP Stream i HbbTV
 
 Do prawidłowego działania niektórych kanałów w listach wymagany jest dodatek Streamlink mod by j00zek lub mod by Billy2011. 
-(Wymagane pluginy: limetv, pilotwppl, tvp, tvpstream, tvregionalna, akamaihd, filmon, okru, pluto, twitch, vk, youtube, facebook)
+(Wymagane wtyczki: limetv, pilotwppl, tvp, tvpstream, tvregionalna, akamaihd, filmon, okru, pluto, twitch, vk, youtube, facebook)
 
 - IPTV_PL_azman, lista zawiera wszystkie lokalne polskie kanały oraz stałe przekazy na YT jakie udało się znaleźć. Dodatkowo zawiera pakiet radia PL (z sat i z sieci).
 
