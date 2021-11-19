@@ -953,6 +953,8 @@ http://stream3.polskieradio.pl:8960
 http://stream3.polskieradio.pl:8966
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Kierowców
 http://stream3.polskieradio.pl:8968
+#EXTINF:0 radio=true,Moje Polskie Radio - Abba Non Stop
+http://stream3.polskieradio.pl:8576
 #EXTINF:0 radio=true,Moje Polskie Radio - Archeologia
 http://stream3.polskieradio.pl:8514
 #EXTINF:0 radio=true,Moje Polskie Radio - Ballady
@@ -1499,6 +1501,8 @@ http://s1.slotex.pl:7410
 http://s1.slotex.pl:7172
 #EXTINF:0 radio=true,Radio Chrześcijanin - Smooth Jazz /katolickie/
 http://radiointernetowe.net:8026
+#EXTINF:0 radio=true,Radio Dobre Media /katolickie/
+http://shoutcast.abikus.pl:8000/dobremedia
 #EXTINF:0 radio=true,Radio Doxa /katolickie/
 http://shot2.inten.pl:10000
 #EXTINF:0 radio=true,Radio eM Katowice/katolickie/
@@ -1687,6 +1691,8 @@ http://91.121.222.81:8234/stream1
 https://secure1.reliastream.com/polskieradio
 #EXTINF:0 radio=true,Radio Chicago - Christmas, 80s, 90s
 http://206.190.130.182:8154/stream
+#EXTINF:0 radio=true,Radio Chwila z Hiacynt
+https://s3.slotex.pl/shoutcast/7232/stream
 #EXTINF:0 radio=true,Radio Clubbers
 https://s3.slotex.pl/shoutcast/7300/stream
 #EXTINF:0 radio=true,Radio Clubbers Akademia
@@ -1983,6 +1989,8 @@ http://sluchaj.107i5.fm
 http://s1.slotex.pl:7018
 #EXTINF:0 radio=true,Radio Nasze.fm
 https://online.nasze.fm:8443/stream
+#EXTINF:0 radio=true,Radio Nasze... nostalgicznie
+http://online.nasze.fm:9210/stream
 #EXTINF:0 radio=true,Radio Nasze Radio USA
 https://s2.radio.co/sff6a5ee11/listen
 #EXTINF:0 radio=true,Radio Nestolatki
