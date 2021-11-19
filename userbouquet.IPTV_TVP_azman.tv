@@ -13,16 +13,14 @@
 #DESCRIPTION TVP Kultura 2
 #SERVICE 4097:0:1:31:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=52491596&prefertype=mpd:TVP Historia 2
 #DESCRIPTION TVP Historia 2
-#SERVICE 4097:0:1:1:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=45417105:TVP Wilno (17%3a30-19%3a30)
+#SERVICE 4097:0:1:1:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=44418549:TVP Wilno (17%3a30-19%3a30)
 #DESCRIPTION TVP Wilno (17:30-19:30)
-#SERVICE 4097:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=56277363&prefertype=mpd:Poland IN
-#DESCRIPTION Poland IN
-#SERVICE 4097:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCBjUPsHj7bXt24SUWNoZ0zA/live:Poland IN  (YT)
-#DESCRIPTION Poland IN  (YT)
+#SERVICE 5002:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51590674:TVP World
+#DESCRIPTION TVP World
+#SERVICE 4097:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCBjUPsHj7bXt24SUWNoZ0zA/live:TVP World  (YT)
+#DESCRIPTION TVP World  (YT)
 #SERVICE 4097:0:1:28:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=47094324:TVP eSzkoła (Pn-Pt 9%3a00-17%3a00)
 #DESCRIPTION TVP eSzkoła (Pn-Pt 9:00-17:00)
-#SERVICE 5002:0:1:1D23:4973:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=43894349&prefertype=mpd:TVP Msze
-#DESCRIPTION TVP Msze
 #SERVICE 4097:0:1:29:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=36588687:Teatr TVP (Pn 21%3a00)
 #DESCRIPTION Teatr TVP (Pn 21:00)
 #SERVICE 4097:0:1:6:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1729:Wiadomości TVP (8%3a00, 12%3a00, 15%3a00, 19%3a30)
