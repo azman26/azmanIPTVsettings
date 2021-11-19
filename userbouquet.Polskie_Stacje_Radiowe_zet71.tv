@@ -467,7 +467,7 @@
 #DESCRIPTION OPEN FM EDM Anthems
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness
 #DESCRIPTION OPEN FM Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz%3a Jesień 2021
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Jesień 2021
 #DESCRIPTION OPEN FM Freszzz: Jesień 2021
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118:OPEN FM Giganci Rocka
 #DESCRIPTION OPEN FM Giganci Rocka
@@ -531,6 +531,22 @@
 #DESCRIPTION OPEN FM Love
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/366:OPEN FM Miejska Stacja
 #DESCRIPTION OPEN FM Miejska Stacja
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/414:OPEN FM Mój Polski Top: Adi Nowak
+#DESCRIPTION OPEN FM Mój Polski Top: Adi Nowak
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/413:OPEN FM Mój Polski Top: Arek Kłusowski
+#DESCRIPTION OPEN FM Mój Polski Top: Arek Kłusowski
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/417:OPEN FM Mój Polski Top: Białas
+#DESCRIPTION OPEN FM Mój Polski Top: Białas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/412:OPEN FM Mój Polski Top: Kacperczyk
+#DESCRIPTION OPEN FM Mój Polski Top: Kacperczyk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/419:OPEN FM Mój Polski Top: Muchy
+#DESCRIPTION OPEN FM Mój Polski Top: Muchy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/415:OPEN FM Mój Polski Top: Reni Jusis
+#DESCRIPTION OPEN FM Mój Polski Top: Reni Jusis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/418:OPEN FM Mój Polski Top: Sarsa
+#DESCRIPTION OPEN FM Mój Polski Top: Sarsa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/416:OPEN FM Mój Polski Top: Solar
+#DESCRIPTION OPEN FM Mój Polski Top: Solar
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/70:OPEN FM Muzyka do snu
 #DESCRIPTION OPEN FM Muzyka do snu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/38:OPEN FM Muzyka Filmowa
@@ -595,7 +611,7 @@
 #DESCRIPTION OPEN FM Sad
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/410:OPEN FM Schodki
 #DESCRIPTION OPEN FM Schodki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy%3a Soul & R'n'B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy: Soul & R'n'B
 #DESCRIPTION OPEN FM Sexy: Soul & R'n'B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/169:OPEN FM Shanson
 #DESCRIPTION OPEN FM Shanson
@@ -703,7 +719,7 @@
 #DESCRIPTION Tok FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/363:WP Klub
 #DESCRIPTION WP Klub
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio%3a muzyka i informacje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio: muzyka i informacje
 #DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/201:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
@@ -937,6 +953,8 @@
 #DESCRIPTION Moje Polskie Radio - Radio Dzieciom
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968:Moje Polskie Radio - Radio Kierowców
 #DESCRIPTION Moje Polskie Radio - Radio Kierowców
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8576:Moje Polskie Radio - Abba Non Stop
+#DESCRIPTION Moje Polskie Radio - Abba Non Stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8514:Moje Polskie Radio - Archeologia
 #DESCRIPTION Moje Polskie Radio - Archeologia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8474:Moje Polskie Radio - Ballady
@@ -1425,8 +1443,8 @@
 #DESCRIPTION Radio Krysjan /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7028:Radio Lenka /śląskie/
 #DESCRIPTION Radio Lenka /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo:Radio Larmo /śląskie/
-#DESCRIPTION Radio Larmo /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo: Radio Larmo /śląskie/
+#DESCRIPTION  Radio Larmo /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomazurek.com.pl%3a8000:Radio Mazurek /śląskie/
 #DESCRIPTION Radio Mazurek /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.slotex.pl%3a10102:Radio MoniRaj /śląskie/
@@ -1483,6 +1501,8 @@
 #DESCRIPTION Radio Chrześcijanin - Muzyka Instrumentalna /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiointernetowe.net%3a8026:Radio Chrześcijanin - Smooth Jazz /katolickie/
 #DESCRIPTION Radio Chrześcijanin - Smooth Jazz /katolickie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.abikus.pl%3a8000/dobremedia:Radio Dobre Media /katolickie/
+#DESCRIPTION Radio Dobre Media /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shot2.inten.pl%3a10000:Radio Doxa /katolickie/
 #DESCRIPTION Radio Doxa /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//194.181.177.253%3a8000:Radio eM Katowice/katolickie/
@@ -1671,6 +1691,8 @@
 #DESCRIPTION Radio Chicago
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//206.190.130.182%3a8154/stream:Radio Chicago - Christmas, 80s, 90s
 #DESCRIPTION Radio Chicago - Christmas, 80s, 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7232/stream:Radio Chwila z Hiacynt
+#DESCRIPTION Radio Chwila z Hiacynt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7300/stream:Radio Clubbers
 #DESCRIPTION Radio Clubbers
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7522/stream:Radio Clubbers Akademia
@@ -1967,6 +1989,8 @@
 #DESCRIPTION Radio Nasza Bajka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:Radio Nasze.fm
 #DESCRIPTION Radio Nasze.fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.nasze.fm%3a9210/stream:Radio Nasze... nostalgicznie
+#DESCRIPTION Radio Nasze... nostalgicznie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.radio.co/sff6a5ee11/listen:Radio Nasze Radio USA
 #DESCRIPTION Radio Nasze Radio USA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7306:Radio Nestolatki
