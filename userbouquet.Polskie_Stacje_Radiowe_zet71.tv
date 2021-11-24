@@ -531,22 +531,6 @@
 #DESCRIPTION OPEN FM Love
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/366:OPEN FM Miejska Stacja
 #DESCRIPTION OPEN FM Miejska Stacja
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/414:OPEN FM Mój Polski Top: Adi Nowak
-#DESCRIPTION OPEN FM Mój Polski Top: Adi Nowak
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/413:OPEN FM Mój Polski Top: Arek Kłusowski
-#DESCRIPTION OPEN FM Mój Polski Top: Arek Kłusowski
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/417:OPEN FM Mój Polski Top: Białas
-#DESCRIPTION OPEN FM Mój Polski Top: Białas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/412:OPEN FM Mój Polski Top: Kacperczyk
-#DESCRIPTION OPEN FM Mój Polski Top: Kacperczyk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/419:OPEN FM Mój Polski Top: Muchy
-#DESCRIPTION OPEN FM Mój Polski Top: Muchy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/415:OPEN FM Mój Polski Top: Reni Jusis
-#DESCRIPTION OPEN FM Mój Polski Top: Reni Jusis
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/418:OPEN FM Mój Polski Top: Sarsa
-#DESCRIPTION OPEN FM Mój Polski Top: Sarsa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/416:OPEN FM Mój Polski Top: Solar
-#DESCRIPTION OPEN FM Mój Polski Top: Solar
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/70:OPEN FM Muzyka do snu
 #DESCRIPTION OPEN FM Muzyka do snu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/38:OPEN FM Muzyka Filmowa
