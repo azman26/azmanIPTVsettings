@@ -47,9 +47,7 @@
 #DESCRIPTION Ezo Tv
 #SERVICE 4097:0:1:1090:3EE:1:C00000:0:0:0:https%3a//trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8?m=1577689011:TV Trwam
 #DESCRIPTION TV Trwam
-#SERVICE 4097:0:1:1090:3EE:1:C00000:0:0:0:https%3a//trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8:TV Trwam
-#DESCRIPTION TV Trwam
-#SERVICE 4097:0:1:70:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=-d-X_kxZIL4:EWTN Polska  (YT)
+#SERVICE 4097:0:1:70:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=tiRxw4Ufx2k:EWTN Polska  (YT)
 #DESCRIPTION EWTN Polska  (YT)
 #SERVICE 4097:0:1:81:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCOZvcN7zQbf5kpi321dVcZQ/live:Dobre Media  (YT)
 #DESCRIPTION Dobre Media  (YT)
@@ -65,16 +63,14 @@
 #DESCRIPTION TV Kablowa Kołobrzeg (Serwis Inf)
 #SERVICE 4097:0:1:86:1:48:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
 #DESCRIPTION TV Kujawy
-#SERVICE 4097:0:1:87:1:48:0:0:0:0:http%3a//95.160.28.218%3a1935/pogranicze/myStream/playlist.m3u8:Pogranicze TV
+#SERVICE 4097:0:1:87:1:48:0:0:0:0:https%3a//stream.elzappero.net/tvglubczyce.m3u8:Pogranicze TV
 #DESCRIPTION Pogranicze TV
 #SERVICE 4097:0:1:89:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCdBYAZdagaQcr-Fe15ifMPQ/live:TV Narew  (YT)
 #DESCRIPTION TV Narew  (YT)
 #SERVICE 4097:0:1:92:1:48:0:0:0:0:https%3a//stream6.nadaje.com%3a35308/live/stream-1/chunklist_w1534321118.m3u8:TV Wielkopolska
 #DESCRIPTION TV Wielkopolska
-#SERVICE 4097:0:1:93:1:48:0:0:0:0:http%3a//95.160.28.218%3a1935/elblag/myStream_aac/chunklist_w693626581.m3u8:Truso TV
+#SERVICE 4097:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
 #DESCRIPTION Truso TV
-#SERVICE 4097:0:1:C20B:406A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ck4X1Vk6ZwY:Truso TV  (YT)
-#DESCRIPTION Truso TV  (YT)
 #SERVICE 4097:0:1:95:1:48:0:0:0:0:http%3a//176.107.129.219/media/tvt/index.m3u8:TVT Rybnik
 #DESCRIPTION TVT Rybnik
 #SERVICE 4097:0:1:96:1:48:0:0:0:0:https%3a//cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8:TV JASŁO
@@ -97,20 +93,28 @@
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/hls/live.stream.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
+#SERVICE 5002:0:1:4B92:8492:EC:0:0:0:0:http%3a//176.102.89.77%3a7654/udp/239.239.4.175%3a1234:Krynica TV
+#DESCRIPTION Krynica TV
+#SERVICE 5002:0:1:B68D:B865:EC:0:0:0:0:http%3a//176.102.89.77%3a7654/udp/239.239.4.141%3a1234:TV Kłodzka
+#DESCRIPTION TV Kłodzka
+#SERVICE 5002:0:1:6B93:B53:EC:0:0:0:0:http%3a//176.102.89.77%3a7654/udp/239.239.3.216%3a1234:Dębica TV
+#DESCRIPTION Dębica TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCjkNubkfecaFLZbHnnsz6pw/live:Onet Rano  (YT) (7%3a55-9%3a30)
 #DESCRIPTION Onet Rano  (YT) (7:55-9:30)
+#SERVICE 4097:0:1:374:F6ED:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCJ33TxiuEEYWLZ4ahILb0zQ/live:Super Express  (YT) (9%3a00-10%3a00)
+#DESCRIPTION Super Express  (YT) (9:00-10:00)
 #SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8:TV Republika
 #DESCRIPTION TV Republika
 #SERVICE 4097:0:19:4279:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live:wPolsce.pl  (YT)
 #DESCRIPTION wPolsce.pl  (YT)
 #SERVICE 4097:0:1:3DD2:640:13E:820000:0:0:0:http%3a//207.110.52.61%3a8080/s//hls/5/9584/tvn24_243/1/1/tracks-v1a1/mono.m3u8:TVN 24 HD
 #DESCRIPTION TVN 24 HD
-#SERVICE 4097:0:19:10EA:3E8:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a03y:TVN24 BiS
-#DESCRIPTION TVN24 BiS
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:http%3a//207.110.52.61%3a8080/s//hls/5/9584/tvp1_276/1/1/index.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
 #SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:http%3a//207.110.52.61%3a8080/s//hls/5/9584/tvp2_274/1/1/tracks-v1a1/mono.m3u8:TVP 2 HD
 #DESCRIPTION TVP 2 HD
+#SERVICE 5002:0:1:5EC9:13FB:EC:0:0:0:0:http%3a//185.97.150.19%3a10082/532:TVP Kobieta
+#DESCRIPTION TVP Kobieta
 #SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/7418/tvp_polonia_425/1/1/tracks-v1a1/mono.m3u8:TVP Polonia
 #DESCRIPTION TVP Polonia
 #SERVICE 4097:0:1:3DCD:640:13E:820000:0:0:0:http%3a//207.110.52.61%3a8080/s//hls/5/9584/tvn_hd_806/1/1/tracks-v1a1/mono.m3u8:TVN HD
@@ -119,14 +123,8 @@
 #DESCRIPTION POLSAT HD
 #SERVICE 4097:0:1:3393:3390:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/2405187460677:TV 4 HD
 #DESCRIPTION TV 4 HD
-#SERVICE 4097:0:1:3D66:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3302458990286:TV Puls HD
-#DESCRIPTION TV Puls HD
 #SERVICE 4097:0:19:3DD8:640:13E:820000:0:0:0:http%3a//58.65.171.202%3a8000/play/15832:Travel Channel HD
 #DESCRIPTION Travel Channel HD
-#SERVICE 4097:0:19:10E0:3E8:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a03n:Discovery Life
-#DESCRIPTION Discovery Life
-#SERVICE 4097:0:19:10EB:3E8:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a03j:HGTV
-#DESCRIPTION HGTV
 #SERVICE 4097:0:1:1:1964:13E:820000:0:0:0:http%3a//58.65.171.202%3a8000/play/1:MTV Live HD
 #DESCRIPTION MTV Live HD
 #SERVICE 4097:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4 Fun Tv
@@ -145,28 +143,48 @@
 #DESCRIPTION Eleven Sports 2 HD
 #SERVICE 4097:0:1:32DE:190:13E:820000:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8:Canal + Sport HD
 #DESCRIPTION Canal + Sport HD
-#SERVICE 4097:0:1:12C2:2E7C:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a042:CANAL+ SPORT 3 HD
-#DESCRIPTION CANAL+ SPORT 3 HD
-#SERVICE 4097:0:1:12C3:2E7C:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a044:CANAL+ SPORT 4 HD
-#DESCRIPTION CANAL+ SPORT 4 HD
 #SERVICE 4097:0:1:DB1:2D50:13E:820000:0:0:0:http%3a//207.110.52.61%3a8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8:TVP Sport HD
 #DESCRIPTION TVP Sport HD
 #SERVICE 1:0:1:3E23:2EE0:13E:820000:0:0:0:http%3a//58.65.171.202%3a8000/play/15907:Golf Channel PL (Audio ENG)
 #DESCRIPTION Golf Channel PL (Audio ENG)
+#SERVICE 4097:0:1:6745:7F4A:EC:0:0:0:0:http%3a//176.102.89.77%3a7654/udp/239.239.3.194%3a1234:E-Sport
+#DESCRIPTION E-Sport
 #SERVICE 1:64:1:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
-#SERVICE 4097:0:1:61:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=8NpyeyyztBg:Rzeczpospolita TV  (YT)
+#SERVICE 4097:0:1:61:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCpchzx2u5Ab8YASeJsR1WIw/live:Rzeczpospolita TV  (YT)
 #DESCRIPTION Rzeczpospolita TV  (YT)
-#SERVICE 4097:0:1:48:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCYG4JRAdsBM6BiuF5-UL9DQ/live:UAM.TV  (YT)
-#DESCRIPTION UAM.TV  (YT)
-#SERVICE 4097:0:1:42:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvsm.pl/live/hls/6DYnDE4lYdeAq8qqrXyMAA/1635107605/video.m3u8:TVK SM Grudziądz
-#DESCRIPTION TVK SM Grudziądz
+#SERVICE 4097:0:1:C20B:406A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ck4X1Vk6ZwY:Truso TV  (YT)
+#DESCRIPTION Truso TV  (YT)
 #SERVICE 4097:0:1:59:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCYxbE-WoPqKq26sSeQ6eD1w/live:Lubelska TV  (YT)
 #DESCRIPTION Lubelska TV  (YT)
-#SERVICE 4097:0:1:94:1:48:0:0:0:0:http%3a//91.231.169.250%3a19380/media_server/tvl_low/index.m3u8:TVL Tarnobrzeg
-#DESCRIPTION TVL Tarnobrzeg
+#SERVICE 4097:0:1:48:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCYG4JRAdsBM6BiuF5-UL9DQ/live:UAM.TV  (YT)
+#DESCRIPTION UAM.TV  (YT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=VTaDtlrcyjA:Lokalna TV  (YT)
 #DESCRIPTION Lokalna TV  (YT)
+#SERVICE 4097:0:1:94:1:48:0:0:0:0:http%3a//91.231.169.250%3a19380/media_server/tvl_low/index.m3u8:TVL Tarnobrzeg
+#DESCRIPTION TVL Tarnobrzeg
+#SERVICE 4097:0:1:42:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/--tvksm-email='azman@wp.pl' --tvksm-password='Azman@0218' https%3a//tvsm.pl/live/hls/6DYnDE4lYdeAq8qqrXyMAA/1635107605/video.m3u8:TVK SM Grudziądz
+#DESCRIPTION TVK SM Grudziądz
+#SERVICE 4097:0:19:10EA:3E8:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a03y:TVN24 BiS
+#DESCRIPTION TVN24 BiS
+#SERVICE 4097:0:19:10E0:3E8:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a03n:Discovery Life
+#DESCRIPTION Discovery Life
+#SERVICE 4097:0:19:10EB:3E8:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a03j:HGTV
+#DESCRIPTION HGTV
+#SERVICE 4097:0:1:12C2:2E7C:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a042:CANAL+ SPORT 3 HD
+#DESCRIPTION CANAL+ SPORT 3 HD
+#SERVICE 4097:0:1:12C3:2E7C:13E:820000:0:0:0:http%3a//89.160.178.236%3a8080/play/a044:CANAL+ SPORT 4 HD
+#DESCRIPTION CANAL+ SPORT 4 HD
+#SERVICE 1:64:1:0:0:0:0:0:0:0::--- TESTY ---
+#DESCRIPTION --- TESTY ---
+#SERVICE 4097:0:1:E0A:2D50:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/2432379657797:HBO 3 HD
+#DESCRIPTION HBO 3 HD
+#SERVICE 4097:0:1:3DD3:640:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3363659718350:TVN 7 HD
+#DESCRIPTION TVN 7 HD
+#SERVICE 4097:0:1:3D66:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3363669614286:TV Puls HD
+#DESCRIPTION TV Puls HD
+#SERVICE 4097:0:1:709:32C8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3414052052686:Polsat Sport Premium 1
+#DESCRIPTION Polsat Sport Premium 1
 #SERVICE 1:64:4:0:0:0:0:0:0:0::--- RADIO  PL ---
 #DESCRIPTION --- RADIO  PL ---
 #SERVICE 1:0:2:1091:3EE:1:C00000:0:0:0:
@@ -233,8 +251,6 @@
 #DESCRIPTION Radio SZCZECIN
 #SERVICE 4097:0:2:0:174:0:0:0:0:0:http%3a//stream.open.fm/331:Radio KOLOR
 #DESCRIPTION Radio KOLOR
-#SERVICE 4097:0:2:0:175:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350:ROCKREACTOR
-#DESCRIPTION ROCKREACTOR
 #SERVICE 4097:0:2:0:176:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8048:Radio KASZËBË
 #DESCRIPTION Radio KASZËBË
 #SERVICE 4097:0:2:0:177:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg1:Radio GDAŃSK
