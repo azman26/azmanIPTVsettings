@@ -41,8 +41,6 @@ http://195.150.20.7/rmf_top_5_rock
 http://195.150.20.7/rmf_nostalgia
 #EXTINF:0 radio=true,RMF Beatlemania
 http://195.150.20.7/rmf_beatlemania
-#EXTINF:0 radio=true,RMF Best Of Krzysztof Krawczyk
-http://195.150.20.7/rmf_top5
 #EXTINF:0 radio=true,RMF Best Of RMFon
 http://195.150.20.7/best_of_rmfon
 #EXTINF:0 radio=true,RMF Blues
@@ -163,6 +161,8 @@ http://195.150.20.7/rmf_studencka_impreza
 http://195.150.20.7/rmf_styl
 #EXTINF:0 radio=true,RMF Szanty
 http://195.150.20.7/rmf_szanty
+#EXTINF:0 radio=true,RMF Świąteczne Nowości 2021
+http://195.150.20.7/rmf_top5
 #EXTINF:0 radio=true,RMF Święta
 http://195.150.20.7/rmf_swieta
 #EXTINF:0 radio=true,RMF Teen
@@ -513,6 +513,8 @@ http://stream.open.fm/147
 http://stream.open.fm/16
 #EXTINF:0 radio=true,OPEN FM Klub 90
 http://stream.open.fm/8
+#EXTINF:0 radio=true,OPEN FM Kolędy
+http://stream.open.fm/89
 #EXTINF:0 radio=true,OPEN FM Kołysanki
 http://stream.open.fm/142
 #EXTINF:0 radio=true,OPEN FM Koncentracja
@@ -539,6 +541,16 @@ http://stream.open.fm/38
 http://stream.open.fm/67
 #EXTINF:0 radio=true,OPEN FM Muzyka Motywacyjna
 http://stream.open.fm/143
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę
+http://stream.open.fm/87
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Jazz & Classic
+http://stream.open.fm/88
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Hity
+http://stream.open.fm/90
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę PL
+http://stream.open.fm/56
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Rock
+http://stream.open.fm/91
 #EXTINF:0 radio=true,OPEN FM Największe Przeboje XX w.
 http://stream.open.fm/163
 #EXTINF:0 radio=true,OPEN FM Nauka
@@ -991,8 +1003,6 @@ http://stream3.polskieradio.pl:8470
 http://stream3.polskieradio.pl:8534
 #EXTINF:0 radio=true,Moje Polskie Radio - Piosenki Niezależnych
 http://stream3.polskieradio.pl:8578
-#EXTINF:0 radio=true,Moje Polskie Radio - Polski top Wszech Czasow
-http://stream3.polskieradio.pl:8556
 #EXTINF:0 radio=true,Moje Polskie Radio - Prog Rock
 http://stream3.polskieradio.pl:8462
 #EXTINF:0 radio=true,Moje Polskie Radio - Przeboje Lata z Radiem
@@ -1002,7 +1012,7 @@ http://stream3.polskieradio.pl:8466
 #EXTINF:0 radio=true,Moje Polskie Radio - Przeżyjmy to jeszcze raz
 http://stream3.polskieradio.pl:8506
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Baczyński
-http://stream3.polskieradio.pl:8538
+http://stream3.polskieradio.pl:8556
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Freud
 http://stream3.polskieradio.pl:8404
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Klenczon
@@ -1415,6 +1425,8 @@ http://s1.slotex.pl:7474
 https://stream.rcs.revma.com/yx6cub73kwzuv
 #EXTINF:0 radio=true,Radio Fest /śląskie/
 http://primary.moodyradiostream.org/radiofest
+#EXTINF:0 radio=true,Radio Fruzia /śląskie/
+http://s1.admin-marcin.pl:8020
 #EXTINF:0 radio=true,Radio Hajer /śląskie/
 http://s3.slotex.pl:7648
 #EXTINF:0 radio=true,Radio Hit Mix /śląskie/
@@ -1457,8 +1469,6 @@ http://s1.slotex.pl:7550
 http://stream.slonskyradio.eu
 #EXTINF:0 radio=true,Radio SR24 /śląskie/
 http://s1.slotex.pl:7560
-#EXTINF:0 radio=true,Radio Sympatyk /śląskie/
-http://radio.admin-marcin.pl:8020
 #EXTINF:0 radio=true,Radio Śląsk /śląskie/
 http://s1.slotex.pl:7022
 #EXTINF:0 radio=true,Radio Śląskie Radio /śląskie/
@@ -1571,6 +1581,42 @@ http://radio.viennaplus.at:8000
 http://streaming03.technologicznie.net:8765/radio_warszawa.mp3
 #EXTINF:0 radio=true,Radio Zamość /katolickie/
 http://91.231.120.124:80
+#EXTINF:0 radio=true,RMF Kolędy /świąteczne/
+http://195.150.20.7/rmf_koledy
+#EXTINF:0 radio=true,ZET Kolędy /świąteczne/
+http://zt02.cdn.eurozet.pl/ZETKOL.mp3
+#EXTINF:0 radio=true,Radio Polski.FM Chicago - Kolędy /świąteczne/
+http://198.27.127.246:5717
+#EXTINF:0 radio=true,OPEN FM Kolędy /świąteczne/
+http://stream.open.fm/89
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę /świąteczne/
+http://stream.open.fm/87
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
+http://stream.open.fm/88
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Hity /świąteczne/
+http://stream.open.fm/90
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę PL /świąteczne/
+http://stream.open.fm/56
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Rock /świąteczne/
+http://stream.open.fm/91
+#EXTINF:0 radio=true,RMF Święta /świąteczne/
+http://195.150.20.7/rmf_swieta
+#EXTINF:0 radio=true,RMF Top 30 Święta /świąteczne/
+http://195.150.20.7/rmf_top_30_swieta
+#EXTINF:0 radio=true,RMF Świąteczne Nowości 2021 /świąteczne/
+http://195.150.20.7/rmf_top5
+#EXTINF:0 radio=true,ZET Na Święta /świąteczne/
+http://zt02.cdn.eurozet.pl/ZETSWI.mp3
+#EXTINF:0 radio=true,Chillizet Christmas /świąteczne/
+http://ch02.cdn.eurozet.pl/CHISWI.mp3
+#EXTINF:0 radio=true,Meloradio Christmas /świąteczne/
+http://ml02.cdn.eurozet.pl/MELCHR.mp3
+#EXTINF:0 radio=true,Radiostacja Świąteczne Klasyki /świąteczne/
+http://zt02.cdn.eurozet.pl/ZGLSWI.mp3
+#EXTINF:0 radio=true,Antyradio - X-mass /świąteczne/
+http://an02.cdn.eurozet.pl/ANTXMA.mp3
+#EXTINF:0 radio=true,Radio Chicago - Christmas /świąteczne/
+http://206.190.130.182:8154/stream
 #EXTINF:0 radio=true,Radio 1.7
 http://emisja.radio17.pl:8000/R17
 #EXTINF:0 radio=true,Radio 4Music
@@ -1639,6 +1685,8 @@ https://streaming.radio5.com.pl:8888/bayerfm
 https://s3.slotex.pl/shoutcast/7816/stream
 #EXTINF:0 radio=true,Radio Beattraax
 http://sc1.readycast.org:9000/
+#EXTINF:0 radio=true,Radio Beauty
+https://s3.slotex.pl/shoutcast/7464/stream
 #EXTINF:0 radio=true,Radio Bezpieczna Podróż
 https://ssl-1.radiohost.pl:9162/live
 #EXTINF:0 radio=true,Radio Biedrzychowice
@@ -1673,7 +1721,7 @@ http://62.93.41.27:8000
 http://91.121.222.81:8234/stream1
 #EXTINF:0 radio=true,Radio Chicago
 https://secure1.reliastream.com/polskieradio
-#EXTINF:0 radio=true,Radio Chicago - Christmas, 80s, 90s
+#EXTINF:0 radio=true,Radio Chicago - Christmas
 http://206.190.130.182:8154/stream
 #EXTINF:0 radio=true,Radio Chwila z Hiacynt
 https://s3.slotex.pl/shoutcast/7232/stream
