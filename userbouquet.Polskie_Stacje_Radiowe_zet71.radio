@@ -41,8 +41,6 @@
 #DESCRIPTION RMF Ballady
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_beatlemania:RMF Beatlemania
 #DESCRIPTION RMF Beatlemania
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Best Of Krzysztof Krawczyk
-#DESCRIPTION RMF Best Of Krzysztof Krawczyk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/best_of_rmfon:RMF Best Of RMFon
 #DESCRIPTION RMF Best Of RMFon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_blues:RMF Blues
@@ -163,6 +161,8 @@
 #DESCRIPTION RMF Styl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_szanty:RMF Szanty
 #DESCRIPTION RMF Szanty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Świąteczne Nowości 2021
+#DESCRIPTION RMF Świąteczne Nowości 2021
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_swieta:RMF Święta
 #DESCRIPTION RMF Święta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_groove:RMF Teen
@@ -513,6 +513,8 @@
 #DESCRIPTION OPEN FM Kids - Muzyka & Ciekawostki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/8:OPEN FM Klub 90
 #DESCRIPTION OPEN FM Klub 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/89:OPEN FM Kolędy
+#DESCRIPTION OPEN FM Kolędy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/142:OPEN FM Kołysanki
 #DESCRIPTION OPEN FM Kołysanki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/161:OPEN FM Koncentracja
@@ -539,6 +541,16 @@
 #DESCRIPTION OPEN FM Muzyka Klasyczna
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/143:OPEN FM Muzyka Motywacyjna
 #DESCRIPTION OPEN FM Muzyka Motywacyjna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/87:OPEN FM Na Gwiazdkę
+#DESCRIPTION OPEN FM Na Gwiazdkę
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/88:OPEN FM Na Gwiazdkę Jazz & Classic
+#DESCRIPTION OPEN FM Na Gwiazdkę Jazz & Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/90:OPEN FM Na Gwiazdkę Hity
+#DESCRIPTION OPEN FM Na Gwiazdkę Hity
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/56:OPEN FM Na Gwiazdkę PL
+#DESCRIPTION OPEN FM Na Gwiazdkę PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/91:OPEN FM Na Gwiazdkę Rock
+#DESCRIPTION OPEN FM Na Gwiazdkę Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/163:OPEN FM Największe Przeboje XX w.
 #DESCRIPTION OPEN FM Największe Przeboje XX w.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/117:OPEN FM Nauka
@@ -991,8 +1003,6 @@
 #DESCRIPTION Moje Polskie Radio - Piosenki Krzysztofa Krawczyka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8578:Moje Polskie Radio - Piosenki Niezależnych
 #DESCRIPTION Moje Polskie Radio - Piosenki Niezależnych
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8556:Moje Polskie Radio - Polski top Wszech Czasow
-#DESCRIPTION Moje Polskie Radio - Polski top Wszech Czasow
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8462:Moje Polskie Radio - Prog Rock
 #DESCRIPTION Moje Polskie Radio - Prog Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8426:Moje Polskie Radio - Przeboje Lata z Radiem
@@ -1001,7 +1011,7 @@
 #DESCRIPTION Moje Polskie Radio - Przeboje PRL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8506:Moje Polskie Radio - Przeżyjmy to jeszcze raz
 #DESCRIPTION Moje Polskie Radio - Przeżyjmy to jeszcze raz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8538:Moje Polskie Radio - Radio Baczyński
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8556:Moje Polskie Radio - Radio Baczyński
 #DESCRIPTION Moje Polskie Radio - Radio Baczyński
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8404:Moje Polskie Radio - Radio Freud
 #DESCRIPTION Moje Polskie Radio - Radio Freud
@@ -1415,6 +1425,8 @@
 #DESCRIPTION Radio Express FM /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//primary.moodyradiostream.org/radiofest:Radio Fest /śląskie/
 #DESCRIPTION Radio Fest /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.admin-marcin.pl%3a8020:Radio Fruzia /śląskie/
+#DESCRIPTION Radio Fruzia /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7648:Radio Hajer /śląskie/
 #DESCRIPTION Radio Hajer /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7294:Radio Hit Mix /śląskie/
@@ -1457,8 +1469,6 @@
 #DESCRIPTION Radio Slonsky /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7560:Radio SR24 /śląskie/
 #DESCRIPTION Radio SR24 /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.admin-marcin.pl%3a8020:Radio Sympatyk /śląskie/
-#DESCRIPTION Radio Sympatyk /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7022:Radio Śląsk /śląskie/
 #DESCRIPTION Radio Śląsk /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream10.hosterion.pl/8066/stream:Radio Śląskie Radio /śląskie/
@@ -1571,6 +1581,42 @@
 #DESCRIPTION Radio Warszawa /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.231.120.124%3a80:Radio Zamość /katolickie/
 #DESCRIPTION Radio Zamość /katolickie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_koledy:RMF Kolędy /świąteczne/
+#DESCRIPTION RMF Kolędy /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zt02.cdn.eurozet.pl/ZETKOL.mp3:ZET Kolędy /świąteczne/
+#DESCRIPTION ZET Kolędy /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.27.127.246%3a5717:Radio Polski.FM Chicago - Kolędy /świąteczne/
+#DESCRIPTION Radio Polski.FM Chicago - Kolędy /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/89:OPEN FM Kolędy /świąteczne/
+#DESCRIPTION OPEN FM Kolędy /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/87:OPEN FM Na Gwiazdkę /świąteczne/
+#DESCRIPTION OPEN FM Na Gwiazdkę /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/88:OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
+#DESCRIPTION OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/90:OPEN FM Na Gwiazdkę Hity /świąteczne/
+#DESCRIPTION OPEN FM Na Gwiazdkę Hity /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/56:OPEN FM Na Gwiazdkę PL /świąteczne/
+#DESCRIPTION OPEN FM Na Gwiazdkę PL /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/91:OPEN FM Na Gwiazdkę Rock /świąteczne/
+#DESCRIPTION OPEN FM Na Gwiazdkę Rock /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_swieta:RMF Święta /świąteczne/
+#DESCRIPTION RMF Święta /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_30_swieta:RMF Top 30 Święta /świąteczne/
+#DESCRIPTION RMF Top 30 Święta /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Świąteczne Nowości 2021 /świąteczne/
+#DESCRIPTION RMF Świąteczne Nowości 2021 /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zt02.cdn.eurozet.pl/ZETSWI.mp3:ZET Na Święta /świąteczne/
+#DESCRIPTION ZET Na Święta /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ch02.cdn.eurozet.pl/CHISWI.mp3:Chillizet Christmas /świąteczne/
+#DESCRIPTION Chillizet Christmas /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ml02.cdn.eurozet.pl/MELCHR.mp3:Meloradio Christmas /świąteczne/
+#DESCRIPTION Meloradio Christmas /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zt02.cdn.eurozet.pl/ZGLSWI.mp3:Radiostacja Świąteczne Klasyki /świąteczne/
+#DESCRIPTION Radiostacja Świąteczne Klasyki /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//an02.cdn.eurozet.pl/ANTXMA.mp3:Antyradio - X-mass /świąteczne/
+#DESCRIPTION Antyradio - X-mass /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//206.190.130.182%3a8154/stream:Radio Chicago - Christmas /świąteczne/
+#DESCRIPTION Radio Chicago - Christmas /świąteczne/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//emisja.radio17.pl%3a8000/R17:Radio 1.7
 #DESCRIPTION Radio 1.7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7102:Radio 4Music
@@ -1639,6 +1685,8 @@
 #DESCRIPTION Radio Beat
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc1.readycast.org%3a9000/:Radio Beattraax
 #DESCRIPTION Radio Beattraax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7464/stream:Radio Beauty
+#DESCRIPTION Radio Beauty
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9162/live:Radio Bezpieczna Podróż
 #DESCRIPTION Radio Bezpieczna Podróż
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.164.158.230%3a9070:Radio Biedrzychowice
@@ -1673,8 +1721,8 @@
 #DESCRIPTION Radio Cenzura
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secure1.reliastream.com/polskieradio:Radio Chicago
 #DESCRIPTION Radio Chicago
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//206.190.130.182%3a8154/stream:Radio Chicago - Christmas, 80s, 90s
-#DESCRIPTION Radio Chicago - Christmas, 80s, 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//206.190.130.182%3a8154/stream:Radio Chicago - Christmas
+#DESCRIPTION Radio Chicago - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7232/stream:Radio Chwila z Hiacynt
 #DESCRIPTION Radio Chwila z Hiacynt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7300/stream:Radio Clubbers
