@@ -1,7 +1,7 @@
 #NAME IPTV TVP azman
-#SERVICE 1:64:8:0:0:0:0:0:0:0::--- TVP Stream ---
+#SERVICE 1:64:A:0:0:0:0:0:0:0::--- TVP Stream ---
 #DESCRIPTION --- TVP Stream ---
-#SERVICE 4097:0:19:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1455:TVP Info
+#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1455:TVP Info
 #DESCRIPTION TVP Info
 #SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=34776037:TVP Polonia
 #DESCRIPTION TVP Polonia
@@ -13,16 +13,14 @@
 #DESCRIPTION TVP Kultura 2
 #SERVICE 4097:0:1:31:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=52491596&prefertype=mpd:TVP Historia 2
 #DESCRIPTION TVP Historia 2
-#SERVICE 5002:0:1:5EC9:13FB:EC:0:0:0:0:http%3a//185.97.150.19%3a10082/532:TVP Kobieta
-#DESCRIPTION TVP Kobieta
 #SERVICE 4097:0:1:1:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=44418549:TVP Wilno (17%3a30-19%3a30)
 #DESCRIPTION TVP Wilno (17:30-19:30)
+#SERVICE 4097:0:1:28:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=47094324:TVP eSzkoła (Pn-Pt 9%3a00-17%3a00)
+#DESCRIPTION TVP eSzkoła (Pn-Pt 9:00-17:00)
 #SERVICE 5002:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51590674:TVP World
 #DESCRIPTION TVP World
 #SERVICE 4097:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCBjUPsHj7bXt24SUWNoZ0zA/live:TVP World  (YT)
 #DESCRIPTION TVP World  (YT)
-#SERVICE 4097:0:1:28:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=47094324:TVP eSzkoła (Pn-Pt 9%3a00-17%3a00)
-#DESCRIPTION TVP eSzkoła (Pn-Pt 9:00-17:00)
 #SERVICE 4097:0:1:6:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1729:Wiadomości TVP (8%3a00, 12%3a00, 15%3a00, 19%3a30)
 #DESCRIPTION Wiadomości TVP (8:00, 12:00, 15:00, 19:30)
 #SERVICE 4097:0:1:27:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1751:PNŚ (7%3a55-11%3a30) Panorama TVP (18%3a00-18%3a20)
@@ -71,7 +69,7 @@
 #DESCRIPTION TVP Parlament 1
 #SERVICE 4097:0:1:26:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=16756568:TVP Parlament 2
 #DESCRIPTION TVP Parlament 2
-#SERVICE 1:64:9:0:0:0:0:0:0:0::--- HbbTV ---
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- HbbTV ---
 #DESCRIPTION --- HbbTV ---
 #SERVICE 4097:0:19:1139:2af8:13e:820000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo:TVP Info
 #DESCRIPTION TVP Info
