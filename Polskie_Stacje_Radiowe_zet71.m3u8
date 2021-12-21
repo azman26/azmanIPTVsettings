@@ -1228,13 +1228,11 @@ https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Live
 http://198.27.127.246/proxy/live?mp=/1
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Live 2
-http://radia2.inten.pl:8014
+https://stream.rcs.revma.com/43sksm6hrc9uv
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Charlie LuV Mix Show
 http://198.27.127.246:5120
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Jedziemy...
 http://198.27.127.246:5663
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Kolędy
-http://198.27.127.246:5717
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Kraina Łagodności
 http://198.27.127.246:6082
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Michalak 24
@@ -1253,6 +1251,8 @@ http://198.27.127.246:5096
 http://198.27.127.246:5491
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Polo FM
 http://198.27.127.246:5705
+#EXTINF:0 radio=true,Radio Polski.FM Chicago - Święta z Polski.FM
+http://198.27.127.246:5717
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Top 100 Polski
 http://198.27.127.246:5970
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Zabawa
@@ -1352,7 +1352,15 @@ http://stream.task.gda.pl:8000/rg3
 #EXTINF:0 radio=true,Radio Gorzów
 http://stream02.radiogorzow.pl:10115
 #EXTINF:0 radio=true,Radio Katowice
-http://stream4.nadaje.com:9212/radiokatowice
+https://stream4.nadaje.com:9213/radiokatowice
+#EXTINF:0 radio=true,Radio Katowice - Jazz
+https://stream4.nadaje.com:8497/katowice_d
+#EXTINF:0 radio=true,Radio Katowice - Moje Radio
+https://stream4.nadaje.com:8497/katowice_c
+#EXTINF:0 radio=true,Radio Katowice - Śląsk
+https://stream4.nadaje.com:8497/katowice_b
+#EXTINF:0 radio=true,Radio Katowice - Top50
+https://stream4.nadaje.com:8497/katowice_a
 #EXTINF:0 radio=true,Radio Kielce
 http://gra.radio.kielce.pl:8000/rk1
 #EXTINF:0 radio=true,Radio Kielce Folk
@@ -1376,15 +1384,13 @@ http://217.113.224.171/RadioLodz-1-HQ-6361726179-web.aac
 #EXTINF:0 radio=true,Radio MC
 http://stream4.nadaje.com:8624/mcradio
 #EXTINF:0 radio=true,Radio Opole
-http://193.47.151.4:8070/1
-#EXTINF:0 radio=true,Radio Opole +1 godz.
-http://193.47.151.4:8050/1
-#EXTINF:0 radio=true,Radio Opole 2 (DAB+)
-http://193.47.151.4:8060/1
-#EXTINF:0 radio=true,Radio Opole 2 (DAB+) +1 godz.
-http://193.47.151.4:8080/1
-#EXTINF:0 radio=true,Radio Opole - Program okolicznościowy
-http://193.47.151.4:9100/1
+http://193.47.151.4:9000/ro1mp3
+#EXTINF:0 radio=true,Radio Opole 2 Kultura
+http://193.47.151.4:9000/ro2mp3
+#EXTINF:0 radio=true,Radio Opole 3 Sport
+http://193.47.151.4:9000/ro3mp3
+#EXTINF:0 radio=true,Radio Opole 4 Historia
+http://193.47.151.4:9000/ro4mp3
 #EXTINF:0 radio=true,Radio Olsztyn
 http://213.73.25.178:7055
 #EXTINF:0 radio=true,Radio PiK
@@ -1433,6 +1439,8 @@ http://s1.slotex.pl:7294
 http://91.232.4.33:8358/stream
 #EXTINF:0 radio=true,Radio Katowice /śląskie/
 http://stream4.nadaje.com:9212/radiokatowice
+#EXTINF:0 radio=true,Radio Katowice - Śląsk /śląskie/
+https://stream4.nadaje.com:8497/katowice_b
 #EXTINF:0 radio=true,Radio Krysjan /śląskie/
 http://radio.admin-marcin.pl:7424
 #EXTINF:0 radio=true,Radio Lenka /śląskie/
@@ -1583,7 +1591,7 @@ http://91.231.120.124:80
 http://195.150.20.7/rmf_koledy
 #EXTINF:0 radio=true,ZET Kolędy /świąteczne/
 http://zt02.cdn.eurozet.pl/ZETKOL.mp3
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Kolędy /świąteczne/
+#EXTINF:0 radio=true,Radio Polski.FM Chicago - Święta z Polski.FM /świąteczne/
 http://198.27.127.246:5717
 #EXTINF:0 radio=true,OPEN FM Kolędy /świąteczne/
 http://stream.open.fm/89
@@ -1867,6 +1875,10 @@ https://s3.slotex.pl/shoutcast/7398/stream
 http://s1.slotex.pl:7508
 #EXTINF:0 radio=true,Radio Halo.Radio
 https://s3.radio.co/s6b9e36d1c/listen
+#EXTINF:0 radio=true,Radio Heaven
+https://s3.slotex.pl/shoutcast/7600/stream
+#EXTINF:0 radio=true,Radio HellsFM
+https://s3.slotex.pl/shoutcast/7426/stream
 #EXTINF:0 radio=true,Radio Hit-Radio.pl
 http://51.255.8.139:9090/stream
 #EXTINF:0 radio=true,Radio Hit Włocławek
@@ -1953,10 +1965,14 @@ http://s1.slotex.pl:7298
 http://stream10.hosterion.pl:8004/stream
 #EXTINF:0 radio=true,Radio Logos
 http://panel.nadaje.com:11058
+#EXTINF:0 radio=true,Radio Lolusiowe
+https://s3.slotex.pl/shoutcast/7570/stream
 #EXTINF:0 radio=true,Radio Lovmusic
 https://s3.slotex.pl/shoutcast/7660/stream
 #EXTINF:0 radio=true,Radio Love Song
 http://s1.slotex.pl:7284
+#EXTINF:0 radio=true,Radio Mafia Gryzonia
+https://s1.slotex.pl/shoutcast/7314/stream
 #EXTINF:0 radio=true,Radio Magicfm.pl
 http://4stream.pl:18094
 #EXTINF:0 radio=true,Radio Malbork
@@ -2011,6 +2027,8 @@ https://stream.rcs.revma.com/1nnezw8qz7zuv
 http://s1.slotex.pl:7686
 #EXTINF:0 radio=true,Radio Muzyczne Uniesienia
 https://s3.slotex.pl/shoutcast/7234/stream
+#EXTINF:0 radio=true,Radio Muzyczny Zakątek
+https://s3.slotex.pl/shoutcast/7336/stream
 #EXTINF:0 radio=true,Radio Muzyka 24
 http://radio.admin-marcin.pl:7718
 #EXTINF:0 radio=true,Radio Muzyka i My
@@ -2202,7 +2220,7 @@ http://s1.slotex.pl:7138/stream/1/
 #EXTINF:0 radio=true,Radio Stacja Impreza PL
 http://185.24.219.206:9090/live
 #EXTINF:0 radio=true,Radio Stacja Mikrofonia
-http://s1.slotex.pl:7458
+https://s1.slotex.pl/shoutcast/7458/stream
 #EXTINF:0 radio=true,Radio Starogard
 https://stream.rcs.revma.com/5wegfyrra2zuv
 #EXTINF:0 radio=true,Radio StarsFM
@@ -2275,6 +2293,8 @@ http://4stream.pl:18124
 https://s3.slotex.pl/shoutcast/7054/stream
 #EXTINF:0 radio=true,Radio Ujot FM
 http://radio.wzks.uj.edu.pl:8000/ujotfm128
+#EXTINF:0 radio=true,Radio UK FM
+http://51.255.8.139:9898/ukradio
 #EXTINF:0 radio=true,Radio Ulotna Bajka
 https://s3.slotex.pl/shoutcast/7564/stream
 #EXTINF:0 radio=true,Radio Underground
