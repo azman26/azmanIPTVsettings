@@ -935,7 +935,7 @@ http://stream3.polskieradio.pl:8956
 http://stream3.polskieradio.pl:8480
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Poland
 http://stream3.polskieradio.pl:8958
-#EXTINF:0 radio=true,Moje Polskie Radio - Radio Poland DAB
+#EXTINF:0 radio=true,Moje Polskie Radio - Radio Poland DAB+
 http://stream3.polskieradio.pl:8962
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Poland East
 http://stream3.polskieradio.pl:8964
@@ -957,6 +957,8 @@ http://stream3.polskieradio.pl:8474
 http://stream3.polskieradio.pl:8484
 #EXTINF:0 radio=true,Moje Polskie Radio - Cafe Fogg
 http://stream3.polskieradio.pl:8418
+#EXTINF:0 radio=true,Moje Polskie Radio - Ciechowski Non Stop
+http://stream3.polskieradio.pl:8412
 #EXTINF:0 radio=true,Moje Polskie Radio - Classic Rock
 http://stream3.polskieradio.pl:8460
 #EXTINF:0 radio=true,Moje Polskie Radio - Genesis
@@ -967,8 +969,6 @@ http://stream3.polskieradio.pl:8482
 http://stream3.polskieradio.pl:8512
 #EXTINF:0 radio=true,Moje Polskie Radio - Jan Paweł II w Radiach Wolności
 http://stream3.polskieradio.pl:8580
-#EXTINF:0 radio=true,Moje Polskie Radio - Klasycy rocka
-http://stream3.polskieradio.pl:8566
 #EXTINF:0 radio=true,Moje Polskie Radio - Kołysanki
 http://stream3.polskieradio.pl:8562
 #EXTINF:0 radio=true,Moje Polskie Radio - Koncerty w Trójce
@@ -1021,16 +1021,12 @@ http://stream3.polskieradio.pl:8416
 http://stream3.polskieradio.pl:8452
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Rytm
 http://stream3.polskieradio.pl:8594
-#EXTINF:0 radio=true,Moje Polskie Radio - Reportaż w Trójce
-http://stream3.polskieradio.pl:8412
 #EXTINF:0 radio=true,Moje Polskie Radio - Rozrywka na wygnaniu
 http://stream3.polskieradio.pl:8526
 #EXTINF:0 radio=true,Moje Polskie Radio - Słynne głosy i wielkie interpretacje
 http://stream3.polskieradio.pl:8560
 #EXTINF:0 radio=true,Moje Polskie Radio - Spotkanie z mistrzem
 http://stream3.polskieradio.pl:8504
-#EXTINF:0 radio=true,Moje Polskie Radio - Strefa rokendrola wolna od angola
-http://stream3.polskieradio.pl:8576
 #EXTINF:0 radio=true,Moje Polskie Radio - Studio Reportażu
 http://stream3.polskieradio.pl:8508
 #EXTINF:0 radio=true,Moje Polskie Radio - Szanty
