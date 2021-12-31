@@ -135,7 +135,7 @@ http://195.150.20.7/rmf_polskie_przeboje
 http://195.150.20.7/rmf_poplista
 #EXTINF:0 radio=true,RMF PRL
 http://195.150.20.7/rmf_prl
-#EXTINF:0 radio=true,RMF Przebój Roku 2020
+#EXTINF:0 radio=true,RMF Przebój Roku 2021
 http://195.150.20.7/rmf_przeboj_roku
 #EXTINF:0 radio=true,RMF Queen
 http://195.150.20.7/rmf_queen
@@ -467,6 +467,8 @@ http://stream.open.fm/69
 http://stream.open.fm/361
 #EXTINF:0 radio=true,OPEN FM Fitness
 http://stream.open.fm/65
+#EXTINF:0 radio=true,OPEN FM Freszzz: Zima
+http://stream.open.fm/39
 #EXTINF:0 radio=true,OPEN FM Giganci Rocka
 http://stream.open.fm/118
 #EXTINF:0 radio=true,OPEN FM Girl Power!
@@ -587,6 +589,8 @@ http://stream.open.fm/104
 http://stream.open.fm/78
 #EXTINF:0 radio=true,OPEN FM Radio Rak'n'Roll
 http://stream.open.fm/168
+#EXTINF:0 radio=true,OPEN FM Rap Sylwester
+http://stream.open.fm/356
 #EXTINF:0 radio=true,OPEN FM Reklama
 http://stream.open.fm/380
 #EXTINF:0 radio=true,OPEN FM Relaks
@@ -611,6 +615,12 @@ http://stream.open.fm/169
 http://stream.open.fm/60
 #EXTINF:0 radio=true,OPEN FM Spacer
 http://stream.open.fm/144
+#EXTINF:0 radio=true,OPEN FM Sylwester 70 80 90
+http://stream.open.fm/133
+#EXTINF:0 radio=true,OPEN FM Sylwester z Disco Polo
+http://stream.open.fm/132
+#EXTINF:0 radio=true,OPEN FM Sylwestrowe Hity
+http://stream.open.fm/71
 #EXTINF:0 radio=true,OPEN FM Szanty
 http://stream.open.fm/28
 #EXTINF:0 radio=true,OPEN FM Szkoła
@@ -635,7 +645,7 @@ http://stream.open.fm/96
 http://stream.open.fm/97
 #EXTINF:0 radio=true,OPEN FM Top 20 Rock
 http://stream.open.fm/99
-#EXTINF:0 radio=true,OPEN FM Top 2020 Hits
+#EXTINF:0 radio=true,OPEN FM Top 2021 Hits
 http://stream.open.fm/131
 #EXTINF:0 radio=true,OPEN FM Top Wszech Czasów - Hip-Hop PL
 http://stream.open.fm/176
@@ -1197,7 +1207,7 @@ http://91.232.4.33:8049/stream
 http://91.232.4.33:8108/stream
 #EXTINF:0 radio=true,Radio Pasja - Dance
 http://91.232.4.33:9466/stream
-#EXTINF:0 radio=true,Radio Pasja - Muzyka Świąteczna
+#EXTINF:0 radio=true,Radio Pasja - Klubowa
 http://91.232.4.33:9460/stream
 #EXTINF:0 radio=true,Radio Pasja - Pop
 http://91.232.4.33:8084/stream
@@ -1615,8 +1625,6 @@ http://zt02.cdn.eurozet.pl/ZETSWI.mp3
 http://ch02.cdn.eurozet.pl/CHISWI.mp3
 #EXTINF:0 radio=true,Meloradio Christmas /świąteczne/
 http://ml02.cdn.eurozet.pl/MELCHR.mp3
-#EXTINF:0 radio=true,Radio Pasja - Muzyka Świąteczna /świąteczne/
-http://91.232.4.33:9460/stream
 #EXTINF:0 radio=true,Radiostacja Świąteczne Klasyki /świąteczne/
 http://zt02.cdn.eurozet.pl/ZGLSWI.mp3
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Gwiazdka /świąteczne/
