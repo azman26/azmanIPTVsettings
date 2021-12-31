@@ -87,6 +87,10 @@
 #DESCRIPTION Radio Wrocław Kultura (Visual Radio)
 #SERVICE 4097:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
+#SERVICE 4097:0:1:205:D9A5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream5.nadaje.com%3a34766/live/Xkd808.stream/chunklist_w1193973789.m3u8%2520--http-add-audio=https%3a//stream6.nadaje.com%3a15293/radioradompl:Radio Radom (Visual Radio)
+#DESCRIPTION Radio Radom (Visual Radio)
+#SERVICE 4097:0:1:6DAF:AEF9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//video.raciborz24.pl/hls/vanessa_high/index.m3u8%2520--http-add-audio=http%3a//s1.slotex.pl%3a7358/stream/1/:Vanessa FM (Visual Radio)
+#DESCRIPTION Vanessa FM (Visual Radio)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCzk5x_PbhFKUoJx_HNTefDQ/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/hls/live.stream.m3u8:TVK Nowy Tomyśl
@@ -109,6 +113,8 @@
 #DESCRIPTION HBO HD
 #SERVICE 4097:0:1:2905:1EDC:71:820000:0:0:0:http%3a//5.39.189.99%3a7000/play/a0f3:Warner TV
 #DESCRIPTION Warner TV
+#SERVICE 5002:0:1:5EC9:13FB:EC:0:0:0:0:http%3a//195.140.237.26%3a4000/play/11/index.m3u8:TVP Kobieta
+#DESCRIPTION TVP Kobieta
 #SERVICE 4097:0:1:1C8F:1CE8:71:820000:0:0:0:http%3a//5.39.189.99%3a7000/play/a0fq:Polsat Rodzina
 #DESCRIPTION Polsat Rodzina
 #SERVICE 4097:0:1:423B:3DB8:13E:820000:0:0:0:http%3a//176.119.67.218%3a34040/udp/239.2.153.78%3a1234:Tele 5
@@ -143,6 +149,8 @@
 #DESCRIPTION Jazz HD
 #SERVICE 4097:0:1:1C8C:1CE8:71:820000:0:0:0:http%3a//5.39.189.99%3a7000/play/a0fo:Disco Polo Music
 #DESCRIPTION Disco Polo Music
+#SERVICE 1:0:1:11AB:12AB:EC:0:0:0:0:http%3a//91.226.51.126%3a8000/udp/239.100.10.115%3a2234:Top Kids HD
+#DESCRIPTION Top Kids HD
 #SERVICE 4097:0:1:2906:1EDC:71:820000:0:0:0:http%3a//5.39.189.99%3a7000/play/a0f4:Cartoon Network HD
 #DESCRIPTION Cartoon Network HD
 #SERVICE 4097:0:1:1CB5:1CE8:71:820000:0:0:0:http%3a//5.39.189.99%3a7000/play/a0fr:Disney XD
