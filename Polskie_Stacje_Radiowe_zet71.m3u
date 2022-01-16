@@ -187,9 +187,9 @@ http://195.150.20.7/rmf_w_pracy
 http://195.150.20.7/rmf_top4
 #EXTINF:0 radio=true,Radiofonia
 http://195.150.20.7/radiofonia
-#EXTINF:0 radio=true,Radio Gra Toruń
+#EXTINF:0 radio=true,Radio Gra - Toruń
 http://195.150.20.7/radio_gra
-#EXTINF:0 radio=true,Radio Gra Wrocław
+#EXTINF:0 radio=true,Radio Gra - Wrocław
 http://195.150.20.7/radio_gra_wroc
 #EXTINF:0 radio=true,Sexify x Netflix Chill
 http://195.150.20.7/sexify_chill
@@ -277,41 +277,41 @@ https://ch.cdn.eurozet.pl/CHISOU.mp3
 https://ch.cdn.eurozet.pl/CHIWJZ.mp3
 #EXTINF:0 radio=true,Meloradio
 https://ml.cdn.eurozet.pl/mel-net.mp3
-#EXTINF:0 radio=true,Meloradio Bielsko-Biała
+#EXTINF:0 radio=true,Meloradio - Bielsko-Biała
 https://ml.cdn.eurozet.pl/mel-bls.mp3
-#EXTINF:0 radio=true,Meloradio Dzierżoniów
+#EXTINF:0 radio=true,Meloradio - Dzierżoniów
 https://ml.cdn.eurozet.pl/mel-dzr.mp3
-#EXTINF:0 radio=true,Meloradio Giżycko
+#EXTINF:0 radio=true,Meloradio - Giżycko
 https://ml.cdn.eurozet.pl/mel-gzc.mp3
-#EXTINF:0 radio=true,Meloradio Iława
+#EXTINF:0 radio=true,Meloradio - Iława
 https://ml.cdn.eurozet.pl/mel-ilw.mp3
-#EXTINF:0 radio=true,Meloradio Inowrocław
+#EXTINF:0 radio=true,Meloradio - Inowrocław
 https://ml.cdn.eurozet.pl/mel-inw.mp3
-#EXTINF:0 radio=true,Meloradio Katowice
+#EXTINF:0 radio=true,Meloradio - Katowice
 https://ml.cdn.eurozet.pl/mel-ktw.mp3
-#EXTINF:0 radio=true,Meloradio Kielce
+#EXTINF:0 radio=true,Meloradio - Kielce
 https://ml.cdn.eurozet.pl/mel-klc.mp3
-#EXTINF:0 radio=true,Meloradio Konin
+#EXTINF:0 radio=true,Meloradio - Konin
 https://ml.cdn.eurozet.pl/mel-knn.mp3
-#EXTINF:0 radio=true,Meloradio Kraków
+#EXTINF:0 radio=true,Meloradio - Kraków
 https://ml.cdn.eurozet.pl/mel-krk.mp3
-#EXTINF:0 radio=true,Meloradio Łódź
+#EXTINF:0 radio=true,Meloradio - Łódź
 https://ml.cdn.eurozet.pl/mel-ldz.mp3
-#EXTINF:0 radio=true,Meloradio Mrągowo
+#EXTINF:0 radio=true,Meloradio - Mrągowo
 https://ml.cdn.eurozet.pl/mel-mrg.mp3
-#EXTINF:0 radio=true,Meloradio Opole
+#EXTINF:0 radio=true,Meloradio - Opole
 https://ml.cdn.eurozet.pl/mel-opl.mp3
-#EXTINF:0 radio=true,Meloradio Ostróda
+#EXTINF:0 radio=true,Meloradio - Ostróda
 https://ml.cdn.eurozet.pl/mel-ost.mp3
-#EXTINF:0 radio=true,Meloradio Olsztyn
+#EXTINF:0 radio=true,Meloradio - Olsztyn
 https://ml.cdn.eurozet.pl/mel-ols.mp3
-#EXTINF:0 radio=true,Meloradio Poznań
+#EXTINF:0 radio=true,Meloradio - Poznań
 https://ml.cdn.eurozet.pl/mel-poz.mp3
-#EXTINF:0 radio=true,Meloradio Słupca
+#EXTINF:0 radio=true,Meloradio - Słupca
 https://ml.cdn.eurozet.pl/mel-slp.mp3
-#EXTINF:0 radio=true,Meloradio Toruń
+#EXTINF:0 radio=true,Meloradio - Toruń
 https://ml.cdn.eurozet.pl/mel-trn.mp3
-#EXTINF:0 radio=true,Meloradio Wrocław
+#EXTINF:0 radio=true,Meloradio - Wrocław
 https://ml.cdn.eurozet.pl/mel-wro.mp3
 #EXTINF:0 radio=true,Meloradio Acoustic
 https://ml.cdn.eurozet.pl/MELACO.mp3
@@ -723,89 +723,89 @@ http://stream.open.fm/363
 http://stream.open.fm/367
 #EXTINF:0 radio=true,Radio Złote Przeboje
 http://stream.open.fm/201
-#EXTINF:0 radio=true,ESKA Bełchatów
+#EXTINF:0 radio=true,ESKA - Bełchatów
 http://ext03.ic.smcdn.pl/2010-1.mp3
-#EXTINF:0 radio=true,ESKA Beskidy
+#EXTINF:0 radio=true,ESKA - Beskidy
 http://ext03.ic.smcdn.pl/2300-1.mp3
-#EXTINF:0 radio=true,ESKA Białystok
+#EXTINF:0 radio=true,ESKA - Białystok
 http://ext03.ic.smcdn.pl/2020-1.mp3
-#EXTINF:0 radio=true,ESKA Braniewo
+#EXTINF:0 radio=true,ESKA - Braniewo
 http://ext03.ic.smcdn.pl/2520-1.mp3
-#EXTINF:0 radio=true,ESKA Bydgoszcz
+#EXTINF:0 radio=true,ESKA - Bydgoszcz
 http://ext03.ic.smcdn.pl/2030-1.mp3
-#EXTINF:0 radio=true,ESKA Elbląg
+#EXTINF:0 radio=true,ESKA - Elbląg
 http://ext03.ic.smcdn.pl/2430-1.mp3
-#EXTINF:0 radio=true,ESKA Gorzów
+#EXTINF:0 radio=true,ESKA - Gorzów
 http://ext03.ic.smcdn.pl/2040-1.mp3
-#EXTINF:0 radio=true,ESKA Grudziądz
+#EXTINF:0 radio=true,ESKA - Grudziądz
 http://ext03.ic.smcdn.pl/2450-1.mp3
-#EXTINF:0 radio=true,ESKA Iława
+#EXTINF:0 radio=true,ESKA - Iława
 http://ext03.ic.smcdn.pl/2440-1.mp3
-#EXTINF:0 radio=true,ESKA Jelenia Góra
+#EXTINF:0 radio=true,ESKA - Jelenia Góra
 http://ext03.ic.smcdn.pl/2480-1.mp3
-#EXTINF:0 radio=true,ESKA Kalisz/Ostrów
+#EXTINF:0 radio=true,ESKA - Kalisz/Ostrów
 http://ext03.ic.smcdn.pl/2200-1.mp3
-#EXTINF:0 radio=true,ESKA Kielce
+#EXTINF:0 radio=true,ESKA - Kielce
 http://ext03.ic.smcdn.pl/2050-1.mp3
-#EXTINF:0 radio=true,ESKA Koszalin
+#EXTINF:0 radio=true,ESKA - Koszalin
 http://ext03.ic.smcdn.pl/2270-1.mp3
-#EXTINF:0 radio=true,ESKA Kraków
+#EXTINF:0 radio=true,ESKA - Kraków
 http://ext03.ic.smcdn.pl/2070-1.mp3
-#EXTINF:0 radio=true,ESKA Kraśnik
+#EXTINF:0 radio=true,ESKA - Kraśnik
 http://ext03.ic.smcdn.pl/2360-1.mp3
-#EXTINF:0 radio=true,ESKA Leszno
+#EXTINF:0 radio=true,ESKA - Leszno
 http://ext03.ic.smcdn.pl/2080-1.mp3
-#EXTINF:0 radio=true,ESKA Lublin
+#EXTINF:0 radio=true,ESKA - Lublin
 http://ext03.ic.smcdn.pl/2130-1.mp3
-#EXTINF:0 radio=true,ESKA Łomża
+#EXTINF:0 radio=true,ESKA - Łomża
 http://ext03.ic.smcdn.pl/2460-1.mp3
-#EXTINF:0 radio=true,ESKA Łódź
+#EXTINF:0 radio=true,ESKA - Łódź
 http://ext03.ic.smcdn.pl/2100-1.mp3
-#EXTINF:0 radio=true,ESKA Małopolska/Nowy Sącz
+#EXTINF:0 radio=true,ESKA - Małopolska/Nowy Sącz
 http://ext03.ic.smcdn.pl/2330-1.mp3
-#EXTINF:0 radio=true,ESKA Olsztyn
+#EXTINF:0 radio=true,ESKA - Olsztyn
 http://ext03.ic.smcdn.pl/2110-1.mp3
-#EXTINF:0 radio=true,ESKA Opole
+#EXTINF:0 radio=true,ESKA - Opole
 http://ext03.ic.smcdn.pl/2120-1.mp3
-#EXTINF:0 radio=true,ESKA Ostrzeszów
+#EXTINF:0 radio=true,ESKA - Ostrzeszów
 http://ext03.ic.smcdn.pl/2500-1.mp3
-#EXTINF:0 radio=true,ESKA Piła
+#EXTINF:0 radio=true,ESKA - Piła
 http://ext03.ic.smcdn.pl/2090-1.mp3
-#EXTINF:0 radio=true,ESKA Płock
+#EXTINF:0 radio=true,ESKA - Płock
 http://ext03.ic.smcdn.pl/2250-1.mp3
-#EXTINF:0 radio=true,ESKA Poznań
+#EXTINF:0 radio=true,ESKA - Poznań
 http://ext03.ic.smcdn.pl/2140-1.mp3
-#EXTINF:0 radio=true,ESKA Przemyśl
+#EXTINF:0 radio=true,ESKA - Przemyśl
 http://ext03.ic.smcdn.pl/2320-1.mp3
-#EXTINF:0 radio=true,ESKA Radom
+#EXTINF:0 radio=true,ESKA - Radom
 http://ext03.ic.smcdn.pl/2210-1.mp3
-#EXTINF:0 radio=true,ESKA Rzeszów
+#EXTINF:0 radio=true,ESKA - Rzeszów
 http://ext03.ic.smcdn.pl/2240-1.mp3
-#EXTINF:0 radio=true,ESKA Siedlce
+#EXTINF:0 radio=true,ESKA - Siedlce
 http://ext03.ic.smcdn.pl/2060-1.mp3
-#EXTINF:0 radio=true,ESKA Starachowice
+#EXTINF:0 radio=true,ESKA - Starachowice
 http://ext03.ic.smcdn.pl/2400-1.mp3
-#EXTINF:0 radio=true,ESKA Szczecin
+#EXTINF:0 radio=true,ESKA - Szczecin
 http://ext03.ic.smcdn.pl/2260-1.mp3
-#EXTINF:0 radio=true,ESKA Szczecinek
+#EXTINF:0 radio=true,ESKA - Szczecinek
 http://ext03.ic.smcdn.pl/2310-1.mp3
-#EXTINF:0 radio=true,ESKA Śląsk
+#EXTINF:0 radio=true,ESKA - Śląsk
 http://ext03.ic.smcdn.pl/2220-1.mp3
-#EXTINF:0 radio=true,ESKA Tarnów
+#EXTINF:0 radio=true,ESKA - Tarnów
 http://ext03.ic.smcdn.pl/2160-1.mp3
-#EXTINF:0 radio=true,ESKA Toruń
+#EXTINF:0 radio=true,ESKA - Toruń
 http://ext03.ic.smcdn.pl/2150-1.mp3
-#EXTINF:0 radio=true,ESKA Trójmiasto
+#EXTINF:0 radio=true,ESKA - Trójmiasto
 http://ext03.ic.smcdn.pl/2170-1.mp3
-#EXTINF:0 radio=true,ESKA Warszawa
+#EXTINF:0 radio=true,ESKA - Warszawa
 http://ext03.ic.smcdn.pl/2380-1.mp3
-#EXTINF:0 radio=true,ESKA Wrocław
+#EXTINF:0 radio=true,ESKA - Wrocław
 http://ext03.ic.smcdn.pl/2180-1.mp3
-#EXTINF:0 radio=true,ESKA Zamość
+#EXTINF:0 radio=true,ESKA - Zamość
 http://ext03.ic.smcdn.pl/2230-1.mp3
-#EXTINF:0 radio=true,ESKA Zielona Góra
+#EXTINF:0 radio=true,ESKA - Zielona Góra
 http://ext03.ic.smcdn.pl/2190-1.mp3
-#EXTINF:0 radio=true,ESKA Żary
+#EXTINF:0 radio=true,ESKA - Żary
 http://ext03.ic.smcdn.pl/2420-1.mp3
 #EXTINF:0 radio=true,ESKA Do Pracy
 http://ext03.ic.smcdn.pl/6140-1.mp3
@@ -825,38 +825,36 @@ http://ext03.ic.smcdn.pl/6010-1.mp3
 http://ext03.ic.smcdn.pl/6090-1.mp3
 #EXTINF:0 radio=true,Radio GO
 http://ext03.ic.smcdn.pl/6490-1.mp3
-#EXTINF:0 radio=true,SuperNova Gdańsk
+#EXTINF:0 radio=true,SuperNova - Gdańsk
 http://ext03.ic.smcdn.pl/1170-1.mp3
-#EXTINF:0 radio=true,SuperNova Jelenia Góra
+#EXTINF:0 radio=true,SuperNova - Jelenia Góra
 http://ext03.ic.smcdn.pl/1480-1.mp3
-#EXTINF:0 radio=true,SuperNova Kielce
+#EXTINF:0 radio=true,SuperNova - Kielce
 http://ext03.ic.smcdn.pl/1050-1.mp3
-#EXTINF:0 radio=true,SuperNova Konin
+#EXTINF:0 radio=true,SuperNova - Konin
 http://ext03.ic.smcdn.pl/1530-1.mp3
-#EXTINF:0 radio=true,SuperNova Kraków
+#EXTINF:0 radio=true,SuperNova - Kraków
 http://ext03.ic.smcdn.pl/1070-1.mp3
-#EXTINF:0 radio=true,SuperNova Łódź
+#EXTINF:0 radio=true,SuperNova - Łódź
 http://ext03.ic.smcdn.pl/1100-1.mp3
-#EXTINF:0 radio=true,SuperNova Nowy Sącz
+#EXTINF:0 radio=true,SuperNova - Nowy Sącz
 http://ext03.ic.smcdn.pl/1290-1.mp3
-#EXTINF:0 radio=true,SuperNova Opole
+#EXTINF:0 radio=true,SuperNova - Opole
 http://ext03.ic.smcdn.pl/1120-1.mp3
-#EXTINF:0 radio=true,SuperNova Rzeszów
+#EXTINF:0 radio=true,SuperNova - Rzeszów
 http://ext03.ic.smcdn.pl/1240-1.mp3
-#EXTINF:0 radio=true,SuperNova Szczecin
+#EXTINF:0 radio=true,SuperNova - Szczecin
 http://ext03.ic.smcdn.pl/1260-1.mp3
-#EXTINF:0 radio=true,SuperNova Toruń
+#EXTINF:0 radio=true,SuperNova - Toruń
 http://ext03.ic.smcdn.pl/1150-1.mp3
-#EXTINF:0 radio=true,SuperNova Trzebnica
+#EXTINF:0 radio=true,SuperNova - Trzebnica
 http://ext03.ic.smcdn.pl/1510-1.mp3
-#EXTINF:0 radio=true,SuperNova Wrocław
+#EXTINF:0 radio=true,SuperNova - Wrocław
 http://ext03.ic.smcdn.pl/1180-1.mp3
-#EXTINF:0 radio=true,SuperNova Warszawa
+#EXTINF:0 radio=true,SuperNova - Warszawa
 http://ext03.ic.smcdn.pl/1380-1.mp3
 #EXTINF:0 radio=true,SuperNova Classic
 http://ext03.ic.smcdn.pl/6040-1.mp3
-#EXTINF:0 radio=true,SuperNova Na Święta
-http://ext03.ic.smcdn.pl/6110-1.mp3
 #EXTINF:0 radio=true,SuperNova Party
 http://ext03.ic.smcdn.pl/6160-1.mp3
 #EXTINF:0 radio=true,SuperNova Rock
@@ -865,11 +863,11 @@ http://ext03.ic.smcdn.pl/6090-1.mp3
 http://ext03.ic.smcdn.pl/6230-1.mp3
 #EXTINF:0 radio=true,VOX FM
 http://ext03.ic.smcdn.pl/3990-1.mp3
-#EXTINF:0 radio=true,VOX FM Gorzów Wielkopolski
+#EXTINF:0 radio=true,VOX FM - Gorzów Wielkopolski
 http://ext03.ic.smcdn.pl/3040-1.mp3
-#EXTINF:0 radio=true,VOX FM Poznań
+#EXTINF:0 radio=true,VOX FM - Poznań
 http://ext03.ic.smcdn.pl/3140-1.mp3
-#EXTINF:0 radio=true,VOX FM Radom
+#EXTINF:0 radio=true,VOX FM - Radom
 http://ext03.ic.smcdn.pl/3210-1.mp3
 #EXTINF:0 radio=true,VOX Best Lista
 http://ext03.ic.smcdn.pl/6100-1.mp3
@@ -877,39 +875,39 @@ http://ext03.ic.smcdn.pl/6100-1.mp3
 http://ext03.ic.smcdn.pl/6170-1.mp3
 #EXTINF:0 radio=true,VOX Disco Party
 http://ext03.ic.smcdn.pl/6180-1.mp3
-#EXTINF:0 radio=true,Radio Plus Polska
+#EXTINF:0 radio=true,Radio Plus - Polska
 http://ext03.ic.smcdn.pl/4000-1.mp3
-#EXTINF:0 radio=true,Radio Plus Bydgoszcz
+#EXTINF:0 radio=true,Radio Plus - Bydgoszcz
 https://pl02.cdn.eurozet.pl/plu-bdg.mp3
-#EXTINF:0 radio=true,Radio Plus Gdańsk
+#EXTINF:0 radio=true,Radio Plus - Gdańsk
 https://pl02.cdn.eurozet.pl/plu-gdn.mp3
-#EXTINF:0 radio=true,Radio Plus Głogów
+#EXTINF:0 radio=true,Radio Plus - Głogów
 https://pl02.cdn.eurozet.pl/plu-glg.mp3
-#EXTINF:0 radio=true,Radio Plus Gniezno
+#EXTINF:0 radio=true,Radio Plus - Gniezno
 https://pl02.cdn.eurozet.pl/plu-gnz.mp3
-#EXTINF:0 radio=true,Radio Plus Gorzów
+#EXTINF:0 radio=true,Radio Plus - Gorzów
 https://pl02.cdn.eurozet.pl/plu-grz.mp3
-#EXTINF:0 radio=true,Radio Plus Koszalin
+#EXTINF:0 radio=true,Radio Plus - Koszalin
 http://ext03.ic.smcdn.pl/4270-1.mp3
-#EXTINF:0 radio=true,Radio Plus Kraków
+#EXTINF:0 radio=true,Radio Plus - Kraków
 http://ext03.ic.smcdn.pl/4070-1.mp3
-#EXTINF:0 radio=true,Radio Plus Legnica
+#EXTINF:0 radio=true,Radio Plus - Legnica
 http://stream.plus.legnica.pl:8000/radioplus
-#EXTINF:0 radio=true,Radio Plus Lublin
+#EXTINF:0 radio=true,Radio Plus - Lublin
 http://ext03.ic.smcdn.pl/4130-1.mp3
-#EXTINF:0 radio=true,Radio Plus Łódź
+#EXTINF:0 radio=true,Radio Plus - Łódź
 http://ext03.ic.smcdn.pl/4100-1.mp3
-#EXTINF:0 radio=true,Radio Plus Olsztyn
+#EXTINF:0 radio=true,Radio Plus - Olsztyn
 http://ext03.ic.smcdn.pl/4110-1.mp3
-#EXTINF:0 radio=true,Radio Plus Podhale
+#EXTINF:0 radio=true,Radio Plus - Podhale
 http://ext03.ic.smcdn.pl/4340-1.mp3
-#EXTINF:0 radio=true,Radio Plus Radom
+#EXTINF:0 radio=true,Radio Plus - Radom
 https://pl02.cdn.eurozet.pl/plu-rdo.mp3
-#EXTINF:0 radio=true,Radio Plus Szczecin
+#EXTINF:0 radio=true,Radio Plus - Szczecin
 http://ext03.ic.smcdn.pl/4260-1.mp3
-#EXTINF:0 radio=true,Radio Plus Warszawa
+#EXTINF:0 radio=true,Radio Plus - Warszawa
 https://pl02.cdn.eurozet.pl/plu-waw.mp3
-#EXTINF:0 radio=true,Radio Plus Zielona Góra
+#EXTINF:0 radio=true,Radio Plus - Zielona Góra
 https://pl02.cdn.eurozet.pl/plu-zgr.mp3
 #EXTINF:0 radio=true,Planeta FM
 https://pl02.cdn.eurozet.pl/pla-net.mp3
@@ -953,8 +951,6 @@ http://stream3.polskieradio.pl:8964
 http://stream3.polskieradio.pl:8960
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Dzieciom
 http://stream3.polskieradio.pl:8966
-#EXTINF:0 radio=true,Moje Polskie Radio - Radio Gwiazdka
-http://stream3.polskieradio.pl:8538
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Kierowców
 http://stream3.polskieradio.pl:8968
 #EXTINF:0 radio=true,Moje Polskie Radio - Abba Non Stop
@@ -1087,18 +1083,18 @@ https://an.cdn.eurozet.pl/ANTUNP.mp3
 https://an.cdn.eurozet.pl/ANTWOD.mp3
 #EXTINF:0 radio=true,Antyradio - X-mass
 https://an.cdn.eurozet.pl/ANTXMA.mp3
-#EXTINF:0 radio=true,Radio Derf Blues Delta
+#EXTINF:0 radio=true,Radio Derf Blues Standard
+http://178.19.96.111:8011
+#EXTINF:0 radio=true,Radio Derf Bluesdelta
 http://178.19.96.111:8007
-#EXTINF:0 radio=true,Radio Derf Blues Rock
+#EXTINF:0 radio=true,Radio Derf Bluesrock
 http://178.19.96.111:8013
 #EXTINF:0 radio=true,Radio Derf Jazz
 http://178.19.96.111:8005
-#EXTINF:0 radio=true,Radio Derf Polski Blues
+#EXTINF:0 radio=true,Radio Derf Polski blues
 http://178.19.96.111:8026
 #EXTINF:0 radio=true,Radio Derf Soul
 http://178.19.96.111:8018
-#EXTINF:0 radio=true,Radio Derf Standard
-http://178.19.96.111:8011
 #EXTINF:0 radio=true,Radio FTB.net - Club
 http://play.radioftb.net:8000
 #EXTINF:0 radio=true,Radio FTB.net - Disco Polo
@@ -1225,21 +1221,21 @@ http://91.232.4.33:8084/stream
 http://91.232.4.33:8102/stream
 #EXTINF:0 radio=true,Radio Pogoda
 http://stream10.radioagora.pl:80/tuba38-1.mp3
-#EXTINF:0 radio=true,Radio Pogoda Bydgoszcz
+#EXTINF:0 radio=true,Radio Pogoda - Bydgoszcz
 https://pl-play.adtonos.com/8102/radio-pogoda-bydgoszcz
-#EXTINF:0 radio=true,Radio Pogoda Gdańsk
+#EXTINF:0 radio=true,Radio Pogoda - Gdańsk
 https://pl-play.adtonos.com/8102/radio-pogoda-gdansk
-#EXTINF:0 radio=true,Radio Pogoda Katowice
+#EXTINF:0 radio=true,Radio Pogoda - Katowice
 https://pl-play.adtonos.com/8102/radio-pogoda-katowice
-#EXTINF:0 radio=true,Radio Pogoda Kraków
+#EXTINF:0 radio=true,Radio Pogoda - Kraków
 https://pl-play.adtonos.com/8102/radio-pogoda-krakw
-#EXTINF:0 radio=true,Radio Pogoda Opole
+#EXTINF:0 radio=true,Radio Pogoda - Opole
 https://pl-play.adtonos.com/8102/radio-pogoda-opole
-#EXTINF:0 radio=true,Radio Pogoda Poznań
+#EXTINF:0 radio=true,Radio Pogoda - Poznań
 https://pl-play.adtonos.com/8102/radio-pogoda-pozna
-#EXTINF:0 radio=true,Radio Pogoda Warszawa
+#EXTINF:0 radio=true,Radio Pogoda - Warszawa
 https://pl-play.adtonos.com/8102/radio-pogoda
-#EXTINF:0 radio=true,Radio Pogoda Wrocław
+#EXTINF:0 radio=true,Radio Pogoda - Wrocław
 https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Live
 http://198.27.127.246/proxy/live?mp=/1
@@ -1273,13 +1269,13 @@ http://198.27.127.246:5970
 http://198.27.127.246:5751
 #EXTINF:0 radio=true,Rock Radio
 https://pl-play.adtonos.com/8101/rock-radio
-#EXTINF:0 radio=true,Rock Radio Kraków
+#EXTINF:0 radio=true,Rock Radio - Kraków
 https://pl-play.adtonos.com/8101/rock-radio-krakw
-#EXTINF:0 radio=true,Rock Radio Opole
+#EXTINF:0 radio=true,Rock Radio - Opole
 http://stream10.radioagora.pl/rr_opo_128.mp3
-#EXTINF:0 radio=true,Rock Radio Poznań
+#EXTINF:0 radio=true,Rock Radio - Poznań
 https://pl-play.adtonos.com/8101/rock-radio-pozna
-#EXTINF:0 radio=true,Rock Radio Warszawa
+#EXTINF:0 radio=true,Rock Radio - Warszawa
 https://pl-play.adtonos.com/8101/rock-radio-warszawa
 #EXTINF:0 radio=true,Radio Toksyna FM
 http://s01.toksyna.fm:8000
@@ -1299,53 +1295,53 @@ http://s01.toksyna.fm:8030
 http://s01.toksyna.fm:8070
 #EXTINF:0 radio=true,Radio Złote Przeboje
 https://pl2-play.adtonos.com/zote-przeboje
-#EXTINF:0 radio=true,Radio Złote Przeboje Białystok
+#EXTINF:0 radio=true,Radio Złote Przeboje - Białystok
 https://radiostream.pl/tuba8900-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Bieszczady
+#EXTINF:0 radio=true,Radio Złote Przeboje - Bieszczady
 https://radiostream.pl/tuba8946-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Bydgoszcz
+#EXTINF:0 radio=true,Radio Złote Przeboje - Bydgoszcz
 https://radiostream.pl/tuba8902-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Częstochowa
+#EXTINF:0 radio=true,Radio Złote Przeboje - Częstochowa
 https://radiostream.pl/tuba8904-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Gdańsk
+#EXTINF:0 radio=true,Radio Złote Przeboje - Gdańsk
 https://radiostream.pl/tuba8906-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Jelenia Góra
+#EXTINF:0 radio=true,Radio Złote Przeboje - Jelenia Góra
 https://radiostream.pl/tuba8908-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Katowice
+#EXTINF:0 radio=true,Radio Złote Przeboje - Katowice
 https://radiostream.pl/tuba8910-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Kielce
+#EXTINF:0 radio=true,Radio Złote Przeboje - Kielce
 https://radiostream.pl/tuba8912-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Kraków
+#EXTINF:0 radio=true,Radio Złote Przeboje - Kraków
 https://radiostream.pl/tuba8914-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Legnica
+#EXTINF:0 radio=true,Radio Złote Przeboje - Legnica
 https://radiostream.pl/tuba8916-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Lublin
+#EXTINF:0 radio=true,Radio Złote Przeboje - Lublin
 https://radiostream.pl/tuba8920-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Łódź
+#EXTINF:0 radio=true,Radio Złote Przeboje - Łódź
 https://radiostream.pl/tuba8918-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Opole
+#EXTINF:0 radio=true,Radio Złote Przeboje - Opole
 https://radiostream.pl/tuba8924-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Podhale
+#EXTINF:0 radio=true,Radio Złote Przeboje - Podhale
 https://radiostream.pl/tuba8922-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Poznań
+#EXTINF:0 radio=true,Radio Złote Przeboje - Poznań
 https://radiostream.pl/tuba8926-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Rzeszów
+#EXTINF:0 radio=true,Radio Złote Przeboje - Rzeszów
 https://radiostream.pl/tuba8928-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Szczecin
+#EXTINF:0 radio=true,Radio Złote Przeboje - Szczecin
 https://radiostream.pl/tuba8930-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Tarnów
+#EXTINF:0 radio=true,Radio Złote Przeboje - Tarnów
 https://radiostream.pl/tuba8932-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Wałbrzych
+#EXTINF:0 radio=true,Radio Złote Przeboje - Wałbrzych
 https://radiostream.pl/tuba8934-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Warszawa
+#EXTINF:0 radio=true,Radio Złote Przeboje - Warszawa
 https://radiostream.pl/tuba8936-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Wolin
+#EXTINF:0 radio=true,Radio Złote Przeboje - Wolin
 https://radiostream.pl/tuba8938-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Wrocław
+#EXTINF:0 radio=true,Radio Złote Przeboje - Wrocław
 https://radiostream.pl/tuba8940-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Zamość
+#EXTINF:0 radio=true,Radio Złote Przeboje - Zamość
 https://radiostream.pl/tuba8942-1.mp3
-#EXTINF:0 radio=true,Radio Złote Przeboje Zielona Góra
+#EXTINF:0 radio=true,Radio Złote Przeboje - Zielona Góra
 https://radiostream.pl/tuba8944-1.mp3
 #EXTINF:0 radio=true,Radio Białystok
 http://stream4.nadaje.com:15476/radiobialystok
@@ -1353,15 +1349,19 @@ http://stream4.nadaje.com:15476/radiobialystok
 https://stream.rcs.revma.com/062uq3z3kwzuv
 #EXTINF:0 radio=true,Radio Dla Ciebie
 http://stream2.nadaje.com:11140/rdc
-#EXTINF:0 radio=true,Radio Extra Szczecin
-http://stream3.nadaje.com:8200/szczecinfm
+#EXTINF:0 radio=true,Radio Dla Ciebie - Płock
+http://stream4.nadaje.com:14006/plock
+#EXTINF:0 radio=true,Radio Dla Ciebie - Radom
+https://stream4.nadaje.com:14001/radom
+#EXTINF:0 radio=true,Radio Dla Ciebie - Siedlce
+https://stream4.nadaje.com:14005/siedlce
 #EXTINF:0 radio=true,Radio Freee
 https://streaming.radio.lublin.pl:8843/radiofreee
 #EXTINF:0 radio=true,Radio Gdańsk
 http://stream.task.gda.pl:8000/rg1
 #EXTINF:0 radio=true,Radio Gdańsk DAB2
 http://stream.task.gda.pl:8000/rg4
-#EXTINF:0 radio=true,Radio Gdańsk Słupsk
+#EXTINF:0 radio=true,Radio Gdańsk - Słupsk
 http://stream.task.gda.pl:8000/rg3
 #EXTINF:0 radio=true,Radio Gorzów
 http://stream02.radiogorzow.pl:10115
@@ -1394,7 +1394,11 @@ http://stream2.nadaje.com:13332/offradiokrakow
 #EXTINF:0 radio=true,Radio Lublin
 https://streaming.radio.lublin.pl:8843/128k
 #EXTINF:0 radio=true,Radio Łódź
-http://217.113.224.171/RadioLodz-1-HQ-6361726179-web.aac
+http://217.113.224.171:80/RadioLodz-1-HQ.aac
+#EXTINF:0 radio=true,Radio Łódź - Extra
+http://217.113.224.171:80/RadioLodz-2-HQ.aac
+#EXTINF:0 radio=true,Radio Łódź - Nad Wartą
+http://217.113.224.171:80/RadioLodz-NW-HQ.aac
 #EXTINF:0 radio=true,Radio MC
 http://stream4.nadaje.com:8624/mcradio
 #EXTINF:0 radio=true,Radio Opole
@@ -1418,7 +1422,9 @@ https://streaming.g-news.pl:8040/rzeszow
 #EXTINF:0 radio=true,Radio Słupsk
 http://91.232.4.33:8240/stream
 #EXTINF:0 radio=true,Radio Szczecin
-http://stream4.nadaje.com:11986/prs
+https://stream4.nadaje.com:11987/prs
+#EXTINF:0 radio=true,Radio Szczecin Extra
+https://stream3.nadaje.com:8201/szczecinextra
 #EXTINF:0 radio=true,Radio Wrocław
 http://stream4.nadaje.com:9240/prw
 #EXTINF:0 radio=true,Radio Wrocław Kultura
@@ -1861,6 +1867,8 @@ http://hqsource.org:2082
 https://azuracast.htmecoradio.com:8000/htm.mp3
 #EXTINF:0 radio=true,Radio I
 http://94.130.209.64:8000
+#EXTINF:0 radio=true,Radio Ibiza
+https://streams.radio.co/sd1bcd1376/listen
 #EXTINF:0 radio=true,Radio Ilona
 https://s3.slotex.pl/shoutcast/7438/stream
 #EXTINF:0 radio=true,Radio Imperium
@@ -2151,6 +2159,8 @@ http://s1.slotex.pl:7392
 http://s1.slotex.pl:7266
 #EXTINF:0 radio=true,Radio RSC
 http://stream3.nadaje.com:8054
+#EXTINF:0 radio=true,Radio RTO Trance
+http://s3.slotex.pl:7056
 #EXTINF:0 radio=true,Radio Rumcajs
 http://sc1.readycast.org:8546
 #EXTINF:0 radio=true,Radio SantoriRPG
