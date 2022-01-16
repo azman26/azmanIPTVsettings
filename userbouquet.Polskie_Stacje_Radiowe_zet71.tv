@@ -187,10 +187,10 @@
 #DESCRIPTION RMF Wakacyjne Top 100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radiofonia:Radiofonia
 #DESCRIPTION Radiofonia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra:Radio Gra Toruń
-#DESCRIPTION Radio Gra Toruń
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra_wroc:Radio Gra Wrocław
-#DESCRIPTION Radio Gra Wrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra:Radio Gra - Toruń
+#DESCRIPTION Radio Gra - Toruń
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra_wroc:Radio Gra - Wrocław
+#DESCRIPTION Radio Gra - Wrocław
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/sexify_chill:Sexify x Netflix Chill
 #DESCRIPTION Sexify x Netflix Chill
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/sexify_power:Sexify x Netflix Power
@@ -277,42 +277,42 @@
 #DESCRIPTION Chillizet World Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-net.mp3:Meloradio
 #DESCRIPTION Meloradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-bls.mp3:Meloradio Bielsko-Biała
-#DESCRIPTION Meloradio Bielsko-Biała
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-dzr.mp3:Meloradio Dzierżoniów
-#DESCRIPTION Meloradio Dzierżoniów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-gzc.mp3:Meloradio Giżycko
-#DESCRIPTION Meloradio Giżycko
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ilw.mp3:Meloradio Iława
-#DESCRIPTION Meloradio Iława
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-inw.mp3:Meloradio Inowrocław
-#DESCRIPTION Meloradio Inowrocław
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ktw.mp3:Meloradio Katowice
-#DESCRIPTION Meloradio Katowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-klc.mp3:Meloradio Kielce
-#DESCRIPTION Meloradio Kielce
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-knn.mp3:Meloradio Konin
-#DESCRIPTION Meloradio Konin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-krk.mp3:Meloradio Kraków
-#DESCRIPTION Meloradio Kraków
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ldz.mp3:Meloradio Łódź
-#DESCRIPTION Meloradio Łódź
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-mrg.mp3:Meloradio Mrągowo
-#DESCRIPTION Meloradio Mrągowo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-opl.mp3:Meloradio Opole
-#DESCRIPTION Meloradio Opole
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ost.mp3:Meloradio Ostróda
-#DESCRIPTION Meloradio Ostróda
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ols.mp3:Meloradio Olsztyn
-#DESCRIPTION Meloradio Olsztyn
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-poz.mp3:Meloradio Poznań
-#DESCRIPTION Meloradio Poznań
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-slp.mp3:Meloradio Słupca
-#DESCRIPTION Meloradio Słupca
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-trn.mp3:Meloradio Toruń
-#DESCRIPTION Meloradio Toruń
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-wro.mp3:Meloradio Wrocław
-#DESCRIPTION Meloradio Wrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-bls.mp3:Meloradio - Bielsko-Biała
+#DESCRIPTION Meloradio - Bielsko-Biała
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-dzr.mp3:Meloradio - Dzierżoniów
+#DESCRIPTION Meloradio - Dzierżoniów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-gzc.mp3:Meloradio - Giżycko
+#DESCRIPTION Meloradio - Giżycko
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ilw.mp3:Meloradio - Iława
+#DESCRIPTION Meloradio - Iława
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-inw.mp3:Meloradio - Inowrocław
+#DESCRIPTION Meloradio - Inowrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ktw.mp3:Meloradio - Katowice
+#DESCRIPTION Meloradio - Katowice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-klc.mp3:Meloradio - Kielce
+#DESCRIPTION Meloradio - Kielce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-knn.mp3:Meloradio - Konin
+#DESCRIPTION Meloradio - Konin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-krk.mp3:Meloradio - Kraków
+#DESCRIPTION Meloradio - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ldz.mp3:Meloradio - Łódź
+#DESCRIPTION Meloradio - Łódź
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-mrg.mp3:Meloradio - Mrągowo
+#DESCRIPTION Meloradio - Mrągowo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-opl.mp3:Meloradio - Opole
+#DESCRIPTION Meloradio - Opole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ost.mp3:Meloradio - Ostróda
+#DESCRIPTION Meloradio - Ostróda
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-ols.mp3:Meloradio - Olsztyn
+#DESCRIPTION Meloradio - Olsztyn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-poz.mp3:Meloradio - Poznań
+#DESCRIPTION Meloradio - Poznań
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-slp.mp3:Meloradio - Słupca
+#DESCRIPTION Meloradio - Słupca
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-trn.mp3:Meloradio - Toruń
+#DESCRIPTION Meloradio - Toruń
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-wro.mp3:Meloradio - Wrocław
+#DESCRIPTION Meloradio - Wrocław
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/MELACO.mp3:Meloradio Acoustic
 #DESCRIPTION Meloradio Acoustic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/MELCHR.mp3:Meloradio Christmas
@@ -723,90 +723,90 @@
 #DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/201:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2010-1.mp3:ESKA Bełchatów
-#DESCRIPTION ESKA Bełchatów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2300-1.mp3:ESKA Beskidy
-#DESCRIPTION ESKA Beskidy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2020-1.mp3:ESKA Białystok
-#DESCRIPTION ESKA Białystok
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2520-1.mp3:ESKA Braniewo
-#DESCRIPTION ESKA Braniewo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2030-1.mp3:ESKA Bydgoszcz
-#DESCRIPTION ESKA Bydgoszcz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2430-1.mp3:ESKA Elbląg
-#DESCRIPTION ESKA Elbląg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2040-1.mp3:ESKA Gorzów
-#DESCRIPTION ESKA Gorzów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2450-1.mp3:ESKA Grudziądz
-#DESCRIPTION ESKA Grudziądz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2440-1.mp3:ESKA Iława
-#DESCRIPTION ESKA Iława
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2480-1.mp3:ESKA Jelenia Góra
-#DESCRIPTION ESKA Jelenia Góra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2200-1.mp3:ESKA Kalisz/Ostrów
-#DESCRIPTION ESKA Kalisz/Ostrów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2050-1.mp3:ESKA Kielce
-#DESCRIPTION ESKA Kielce
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2270-1.mp3:ESKA Koszalin
-#DESCRIPTION ESKA Koszalin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2070-1.mp3:ESKA Kraków
-#DESCRIPTION ESKA Kraków
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2360-1.mp3:ESKA Kraśnik
-#DESCRIPTION ESKA Kraśnik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2080-1.mp3:ESKA Leszno
-#DESCRIPTION ESKA Leszno
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2130-1.mp3:ESKA Lublin
-#DESCRIPTION ESKA Lublin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2460-1.mp3:ESKA Łomża
-#DESCRIPTION ESKA Łomża
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2100-1.mp3:ESKA Łódź
-#DESCRIPTION ESKA Łódź
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2330-1.mp3:ESKA Małopolska/Nowy Sącz
-#DESCRIPTION ESKA Małopolska/Nowy Sącz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2110-1.mp3:ESKA Olsztyn
-#DESCRIPTION ESKA Olsztyn
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2120-1.mp3:ESKA Opole
-#DESCRIPTION ESKA Opole
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2500-1.mp3:ESKA Ostrzeszów
-#DESCRIPTION ESKA Ostrzeszów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2090-1.mp3:ESKA Piła
-#DESCRIPTION ESKA Piła
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2250-1.mp3:ESKA Płock
-#DESCRIPTION ESKA Płock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2140-1.mp3:ESKA Poznań
-#DESCRIPTION ESKA Poznań
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2320-1.mp3:ESKA Przemyśl
-#DESCRIPTION ESKA Przemyśl
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2210-1.mp3:ESKA Radom
-#DESCRIPTION ESKA Radom
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2240-1.mp3:ESKA Rzeszów
-#DESCRIPTION ESKA Rzeszów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2060-1.mp3:ESKA Siedlce
-#DESCRIPTION ESKA Siedlce
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2400-1.mp3:ESKA Starachowice
-#DESCRIPTION ESKA Starachowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2260-1.mp3:ESKA Szczecin
-#DESCRIPTION ESKA Szczecin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2310-1.mp3:ESKA Szczecinek
-#DESCRIPTION ESKA Szczecinek
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2220-1.mp3:ESKA Śląsk
-#DESCRIPTION ESKA Śląsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2160-1.mp3:ESKA Tarnów
-#DESCRIPTION ESKA Tarnów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2150-1.mp3:ESKA Toruń
-#DESCRIPTION ESKA Toruń
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2170-1.mp3:ESKA Trójmiasto
-#DESCRIPTION ESKA Trójmiasto
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2380-1.mp3:ESKA Warszawa
-#DESCRIPTION ESKA Warszawa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2180-1.mp3:ESKA Wrocław
-#DESCRIPTION ESKA Wrocław
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2230-1.mp3:ESKA Zamość
-#DESCRIPTION ESKA Zamość
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2190-1.mp3:ESKA Zielona Góra
-#DESCRIPTION ESKA Zielona Góra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2420-1.mp3:ESKA Żary
-#DESCRIPTION ESKA Żary
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2010-1.mp3:ESKA - Bełchatów
+#DESCRIPTION ESKA - Bełchatów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2300-1.mp3:ESKA - Beskidy
+#DESCRIPTION ESKA - Beskidy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2020-1.mp3:ESKA - Białystok
+#DESCRIPTION ESKA - Białystok
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2520-1.mp3:ESKA - Braniewo
+#DESCRIPTION ESKA - Braniewo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2030-1.mp3:ESKA - Bydgoszcz
+#DESCRIPTION ESKA - Bydgoszcz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2430-1.mp3:ESKA - Elbląg
+#DESCRIPTION ESKA - Elbląg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2040-1.mp3:ESKA - Gorzów
+#DESCRIPTION ESKA - Gorzów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2450-1.mp3:ESKA - Grudziądz
+#DESCRIPTION ESKA - Grudziądz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2440-1.mp3:ESKA - Iława
+#DESCRIPTION ESKA - Iława
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2480-1.mp3:ESKA - Jelenia Góra
+#DESCRIPTION ESKA - Jelenia Góra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2200-1.mp3:ESKA - Kalisz/Ostrów
+#DESCRIPTION ESKA - Kalisz/Ostrów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2050-1.mp3:ESKA - Kielce
+#DESCRIPTION ESKA - Kielce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2270-1.mp3:ESKA - Koszalin
+#DESCRIPTION ESKA - Koszalin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2070-1.mp3:ESKA - Kraków
+#DESCRIPTION ESKA - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2360-1.mp3:ESKA - Kraśnik
+#DESCRIPTION ESKA - Kraśnik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2080-1.mp3:ESKA - Leszno
+#DESCRIPTION ESKA - Leszno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2130-1.mp3:ESKA - Lublin
+#DESCRIPTION ESKA - Lublin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2460-1.mp3:ESKA - Łomża
+#DESCRIPTION ESKA - Łomża
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2100-1.mp3:ESKA - Łódź
+#DESCRIPTION ESKA - Łódź
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2330-1.mp3:ESKA - Małopolska/Nowy Sącz
+#DESCRIPTION ESKA - Małopolska/Nowy Sącz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2110-1.mp3:ESKA - Olsztyn
+#DESCRIPTION ESKA - Olsztyn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2120-1.mp3:ESKA - Opole
+#DESCRIPTION ESKA - Opole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2500-1.mp3:ESKA - Ostrzeszów
+#DESCRIPTION ESKA - Ostrzeszów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2090-1.mp3:ESKA - Piła
+#DESCRIPTION ESKA - Piła
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2250-1.mp3:ESKA - Płock
+#DESCRIPTION ESKA - Płock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2140-1.mp3:ESKA - Poznań
+#DESCRIPTION ESKA - Poznań
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2320-1.mp3:ESKA - Przemyśl
+#DESCRIPTION ESKA - Przemyśl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2210-1.mp3:ESKA - Radom
+#DESCRIPTION ESKA - Radom
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2240-1.mp3:ESKA - Rzeszów
+#DESCRIPTION ESKA - Rzeszów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2060-1.mp3:ESKA - Siedlce
+#DESCRIPTION ESKA - Siedlce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2400-1.mp3:ESKA - Starachowice
+#DESCRIPTION ESKA - Starachowice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2260-1.mp3:ESKA - Szczecin
+#DESCRIPTION ESKA - Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2310-1.mp3:ESKA - Szczecinek
+#DESCRIPTION ESKA - Szczecinek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2220-1.mp3:ESKA - Śląsk
+#DESCRIPTION ESKA - Śląsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2160-1.mp3:ESKA - Tarnów
+#DESCRIPTION ESKA - Tarnów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2150-1.mp3:ESKA - Toruń
+#DESCRIPTION ESKA - Toruń
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2170-1.mp3:ESKA - Trójmiasto
+#DESCRIPTION ESKA - Trójmiasto
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2380-1.mp3:ESKA - Warszawa
+#DESCRIPTION ESKA - Warszawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2180-1.mp3:ESKA - Wrocław
+#DESCRIPTION ESKA - Wrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2230-1.mp3:ESKA - Zamość
+#DESCRIPTION ESKA - Zamość
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2190-1.mp3:ESKA - Zielona Góra
+#DESCRIPTION ESKA - Zielona Góra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2420-1.mp3:ESKA - Żary
+#DESCRIPTION ESKA - Żary
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6140-1.mp3:ESKA Do Pracy
 #DESCRIPTION ESKA Do Pracy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6130-1.mp3:ESKA Gorąca 20
@@ -825,38 +825,36 @@
 #DESCRIPTION ESKA Rock - Teraz Polski Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6490-1.mp3:Radio GO
 #DESCRIPTION Radio GO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1170-1.mp3:SuperNova Gdańsk
-#DESCRIPTION SuperNova Gdańsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1480-1.mp3:SuperNova Jelenia Góra
-#DESCRIPTION SuperNova Jelenia Góra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1050-1.mp3:SuperNova Kielce
-#DESCRIPTION SuperNova Kielce
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1530-1.mp3:SuperNova Konin
-#DESCRIPTION SuperNova Konin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1070-1.mp3:SuperNova Kraków
-#DESCRIPTION SuperNova Kraków
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1100-1.mp3:SuperNova Łódź
-#DESCRIPTION SuperNova Łódź
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1290-1.mp3:SuperNova Nowy Sącz
-#DESCRIPTION SuperNova Nowy Sącz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1120-1.mp3:SuperNova Opole
-#DESCRIPTION SuperNova Opole
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1240-1.mp3:SuperNova Rzeszów
-#DESCRIPTION SuperNova Rzeszów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1260-1.mp3:SuperNova Szczecin
-#DESCRIPTION SuperNova Szczecin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1150-1.mp3:SuperNova Toruń
-#DESCRIPTION SuperNova Toruń
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1510-1.mp3:SuperNova Trzebnica
-#DESCRIPTION SuperNova Trzebnica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1180-1.mp3:SuperNova Wrocław
-#DESCRIPTION SuperNova Wrocław
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1380-1.mp3:SuperNova Warszawa
-#DESCRIPTION SuperNova Warszawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1170-1.mp3:SuperNova - Gdańsk
+#DESCRIPTION SuperNova - Gdańsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1480-1.mp3:SuperNova - Jelenia Góra
+#DESCRIPTION SuperNova - Jelenia Góra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1050-1.mp3:SuperNova - Kielce
+#DESCRIPTION SuperNova - Kielce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1530-1.mp3:SuperNova - Konin
+#DESCRIPTION SuperNova - Konin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1070-1.mp3:SuperNova - Kraków
+#DESCRIPTION SuperNova - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1100-1.mp3:SuperNova - Łódź
+#DESCRIPTION SuperNova - Łódź
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1290-1.mp3:SuperNova - Nowy Sącz
+#DESCRIPTION SuperNova - Nowy Sącz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1120-1.mp3:SuperNova - Opole
+#DESCRIPTION SuperNova - Opole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1240-1.mp3:SuperNova - Rzeszów
+#DESCRIPTION SuperNova - Rzeszów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1260-1.mp3:SuperNova - Szczecin
+#DESCRIPTION SuperNova - Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1150-1.mp3:SuperNova - Toruń
+#DESCRIPTION SuperNova - Toruń
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1510-1.mp3:SuperNova - Trzebnica
+#DESCRIPTION SuperNova - Trzebnica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1180-1.mp3:SuperNova - Wrocław
+#DESCRIPTION SuperNova - Wrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1380-1.mp3:SuperNova - Warszawa
+#DESCRIPTION SuperNova - Warszawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6040-1.mp3:SuperNova Classic
 #DESCRIPTION SuperNova Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6110-1.mp3:SuperNova Na Święta
-#DESCRIPTION SuperNova Na Święta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6160-1.mp3:SuperNova Party
 #DESCRIPTION SuperNova Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6090-1.mp3:SuperNova Rock
@@ -865,52 +863,52 @@
 #DESCRIPTION SuperNova Super 13
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3990-1.mp3:VOX FM
 #DESCRIPTION VOX FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3040-1.mp3:VOX FM Gorzów Wielkopolski
-#DESCRIPTION VOX FM Gorzów Wielkopolski
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3140-1.mp3:VOX FM Poznań
-#DESCRIPTION VOX FM Poznań
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3210-1.mp3:VOX FM Radom
-#DESCRIPTION VOX FM Radom
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3040-1.mp3:VOX FM - Gorzów Wielkopolski
+#DESCRIPTION VOX FM - Gorzów Wielkopolski
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3140-1.mp3:VOX FM - Poznań
+#DESCRIPTION VOX FM - Poznań
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3210-1.mp3:VOX FM - Radom
+#DESCRIPTION VOX FM - Radom
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6100-1.mp3:VOX Best Lista
 #DESCRIPTION VOX Best Lista
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6170-1.mp3:VOX Disco 90
 #DESCRIPTION VOX Disco 90
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6180-1.mp3:VOX Disco Party
 #DESCRIPTION VOX Disco Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4000-1.mp3:Radio Plus Polska
-#DESCRIPTION Radio Plus Polska
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-bdg.mp3:Radio Plus Bydgoszcz
-#DESCRIPTION Radio Plus Bydgoszcz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-gdn.mp3:Radio Plus Gdańsk
-#DESCRIPTION Radio Plus Gdańsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-glg.mp3:Radio Plus Głogów
-#DESCRIPTION Radio Plus Głogów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-gnz.mp3:Radio Plus Gniezno
-#DESCRIPTION Radio Plus Gniezno
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-grz.mp3:Radio Plus Gorzów
-#DESCRIPTION Radio Plus Gorzów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4270-1.mp3:Radio Plus Koszalin
-#DESCRIPTION Radio Plus Koszalin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4070-1.mp3:Radio Plus Kraków
-#DESCRIPTION Radio Plus Kraków
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.plus.legnica.pl%3a8000/radioplus:Radio Plus Legnica
-#DESCRIPTION Radio Plus Legnica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4130-1.mp3:Radio Plus Lublin
-#DESCRIPTION Radio Plus Lublin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4100-1.mp3:Radio Plus Łódź
-#DESCRIPTION Radio Plus Łódź
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4110-1.mp3:Radio Plus Olsztyn
-#DESCRIPTION Radio Plus Olsztyn
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4340-1.mp3:Radio Plus Podhale
-#DESCRIPTION Radio Plus Podhale
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-rdo.mp3:Radio Plus Radom
-#DESCRIPTION Radio Plus Radom
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4260-1.mp3:Radio Plus Szczecin
-#DESCRIPTION Radio Plus Szczecin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-waw.mp3:Radio Plus Warszawa
-#DESCRIPTION Radio Plus Warszawa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-zgr.mp3:Radio Plus Zielona Góra
-#DESCRIPTION Radio Plus Zielona Góra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4000-1.mp3:Radio Plus - Polska
+#DESCRIPTION Radio Plus - Polska
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-bdg.mp3:Radio Plus - Bydgoszcz
+#DESCRIPTION Radio Plus - Bydgoszcz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-gdn.mp3:Radio Plus - Gdańsk
+#DESCRIPTION Radio Plus - Gdańsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-glg.mp3:Radio Plus - Głogów
+#DESCRIPTION Radio Plus - Głogów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-gnz.mp3:Radio Plus - Gniezno
+#DESCRIPTION Radio Plus - Gniezno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-grz.mp3:Radio Plus - Gorzów
+#DESCRIPTION Radio Plus - Gorzów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4270-1.mp3:Radio Plus - Koszalin
+#DESCRIPTION Radio Plus - Koszalin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4070-1.mp3:Radio Plus - Kraków
+#DESCRIPTION Radio Plus - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.plus.legnica.pl%3a8000/radioplus:Radio Plus - Legnica
+#DESCRIPTION Radio Plus - Legnica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4130-1.mp3:Radio Plus - Lublin
+#DESCRIPTION Radio Plus - Lublin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4100-1.mp3:Radio Plus - Łódź
+#DESCRIPTION Radio Plus - Łódź
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4110-1.mp3:Radio Plus - Olsztyn
+#DESCRIPTION Radio Plus - Olsztyn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4340-1.mp3:Radio Plus - Podhale
+#DESCRIPTION Radio Plus - Podhale
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-rdo.mp3:Radio Plus - Radom
+#DESCRIPTION Radio Plus - Radom
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/4260-1.mp3:Radio Plus - Szczecin
+#DESCRIPTION Radio Plus - Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-waw.mp3:Radio Plus - Warszawa
+#DESCRIPTION Radio Plus - Warszawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/plu-zgr.mp3:Radio Plus - Zielona Góra
+#DESCRIPTION Radio Plus - Zielona Góra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/pla-net.mp3:Planeta FM
 #DESCRIPTION Planeta FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl02.cdn.eurozet.pl/PLACLU.mp3:Planeta FM - Clubbing
@@ -953,8 +951,6 @@
 #DESCRIPTION Moje Polskie Radio - Radio Chopin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8966:Moje Polskie Radio - Radio Dzieciom
 #DESCRIPTION Moje Polskie Radio - Radio Dzieciom
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8538:Moje Polskie Radio - Radio Gwiazdka
-#DESCRIPTION Moje Polskie Radio - Radio Gwiazdka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968:Moje Polskie Radio - Radio Kierowców
 #DESCRIPTION Moje Polskie Radio - Radio Kierowców
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8576:Moje Polskie Radio - Abba Non Stop
@@ -1087,18 +1083,18 @@
 #DESCRIPTION Antyradio - Woodstock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTXMA.mp3:Antyradio - X-mass
 #DESCRIPTION Antyradio - X-mass
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8007:Radio Derf Blues Delta
-#DESCRIPTION Radio Derf Blues Delta
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8013:Radio Derf Blues Rock
-#DESCRIPTION Radio Derf Blues Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8011:Radio Derf Blues Standard
+#DESCRIPTION Radio Derf Blues Standard
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8007:Radio Derf Bluesdelta
+#DESCRIPTION Radio Derf Bluesdelta
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8013:Radio Derf Bluesrock
+#DESCRIPTION Radio Derf Bluesrock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8005:Radio Derf Jazz
 #DESCRIPTION Radio Derf Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8026:Radio Derf Polski Blues
-#DESCRIPTION Radio Derf Polski Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8026:Radio Derf Polski blues
+#DESCRIPTION Radio Derf Polski blues
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8018:Radio Derf Soul
 #DESCRIPTION Radio Derf Soul
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8011:Radio Derf Standard
-#DESCRIPTION Radio Derf Standard
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.radioftb.net%3a8000:Radio FTB.net - Club
 #DESCRIPTION Radio FTB.net - Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.radioftb.net%3a8022:Radio FTB.net - Disco Polo
@@ -1225,22 +1221,22 @@
 #DESCRIPTION Radio Pasja - Relaks
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream10.radioagora.pl%3a80/tuba38-1.mp3:Radio Pogoda
 #DESCRIPTION Radio Pogoda
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-bydgoszcz:Radio Pogoda Bydgoszcz
-#DESCRIPTION Radio Pogoda Bydgoszcz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-gdansk:Radio Pogoda Gdańsk
-#DESCRIPTION Radio Pogoda Gdańsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-katowice:Radio Pogoda Katowice
-#DESCRIPTION Radio Pogoda Katowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-krakw:Radio Pogoda Kraków
-#DESCRIPTION Radio Pogoda Kraków
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-opole:Radio Pogoda Opole
-#DESCRIPTION Radio Pogoda Opole
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-pozna:Radio Pogoda Poznań
-#DESCRIPTION Radio Pogoda Poznań
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda:Radio Pogoda Warszawa
-#DESCRIPTION Radio Pogoda Warszawa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-wrocaw:Radio Pogoda Wrocław
-#DESCRIPTION Radio Pogoda Wrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-bydgoszcz:Radio Pogoda - Bydgoszcz
+#DESCRIPTION Radio Pogoda - Bydgoszcz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-gdansk:Radio Pogoda - Gdańsk
+#DESCRIPTION Radio Pogoda - Gdańsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-katowice:Radio Pogoda - Katowice
+#DESCRIPTION Radio Pogoda - Katowice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-krakw:Radio Pogoda - Kraków
+#DESCRIPTION Radio Pogoda - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-opole:Radio Pogoda - Opole
+#DESCRIPTION Radio Pogoda - Opole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-pozna:Radio Pogoda - Poznań
+#DESCRIPTION Radio Pogoda - Poznań
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda:Radio Pogoda - Warszawa
+#DESCRIPTION Radio Pogoda - Warszawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-wrocaw:Radio Pogoda - Wrocław
+#DESCRIPTION Radio Pogoda - Wrocław
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.27.127.246/proxy/live?mp=/1:Radio Polski.FM Chicago - Live
 #DESCRIPTION Radio Polski.FM Chicago - Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/43sksm6hrc9uv:Radio Polski.FM Chicago - Live 2
@@ -1273,14 +1269,14 @@
 #DESCRIPTION Radio Polski.FM Chicago - Zabawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio:Rock Radio
 #DESCRIPTION Rock Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio-krakw:Rock Radio Kraków
-#DESCRIPTION Rock Radio Kraków
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream10.radioagora.pl/rr_opo_128.mp3:Rock Radio Opole
-#DESCRIPTION Rock Radio Opole
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio-pozna:Rock Radio Poznań
-#DESCRIPTION Rock Radio Poznań
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio-warszawa:Rock Radio Warszawa
-#DESCRIPTION Rock Radio Warszawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio-krakw:Rock Radio - Kraków
+#DESCRIPTION Rock Radio - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream10.radioagora.pl/rr_opo_128.mp3:Rock Radio - Opole
+#DESCRIPTION Rock Radio - Opole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio-pozna:Rock Radio - Poznań
+#DESCRIPTION Rock Radio - Poznań
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio-warszawa:Rock Radio - Warszawa
+#DESCRIPTION Rock Radio - Warszawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s01.toksyna.fm%3a8000:Radio Toksyna FM
 #DESCRIPTION Radio Toksyna FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s01.toksyna.fm%3a8050:Radio Toksyna FM - Chillout & More
@@ -1299,70 +1295,74 @@
 #DESCRIPTION Radio Toksyna FM - Punk Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl2-play.adtonos.com/zote-przeboje:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8900-1.mp3:Radio Złote Przeboje Białystok
-#DESCRIPTION Radio Złote Przeboje Białystok
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8946-1.mp3:Radio Złote Przeboje Bieszczady
-#DESCRIPTION Radio Złote Przeboje Bieszczady
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8902-1.mp3:Radio Złote Przeboje Bydgoszcz
-#DESCRIPTION Radio Złote Przeboje Bydgoszcz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8904-1.mp3:Radio Złote Przeboje Częstochowa
-#DESCRIPTION Radio Złote Przeboje Częstochowa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8906-1.mp3:Radio Złote Przeboje Gdańsk
-#DESCRIPTION Radio Złote Przeboje Gdańsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8908-1.mp3:Radio Złote Przeboje Jelenia Góra
-#DESCRIPTION Radio Złote Przeboje Jelenia Góra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8910-1.mp3:Radio Złote Przeboje Katowice
-#DESCRIPTION Radio Złote Przeboje Katowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8912-1.mp3:Radio Złote Przeboje Kielce
-#DESCRIPTION Radio Złote Przeboje Kielce
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8914-1.mp3:Radio Złote Przeboje Kraków
-#DESCRIPTION Radio Złote Przeboje Kraków
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8916-1.mp3:Radio Złote Przeboje Legnica
-#DESCRIPTION Radio Złote Przeboje Legnica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8920-1.mp3:Radio Złote Przeboje Lublin
-#DESCRIPTION Radio Złote Przeboje Lublin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8918-1.mp3:Radio Złote Przeboje Łódź
-#DESCRIPTION Radio Złote Przeboje Łódź
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8924-1.mp3:Radio Złote Przeboje Opole
-#DESCRIPTION Radio Złote Przeboje Opole
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8922-1.mp3:Radio Złote Przeboje Podhale
-#DESCRIPTION Radio Złote Przeboje Podhale
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8926-1.mp3:Radio Złote Przeboje Poznań
-#DESCRIPTION Radio Złote Przeboje Poznań
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8928-1.mp3:Radio Złote Przeboje Rzeszów
-#DESCRIPTION Radio Złote Przeboje Rzeszów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8930-1.mp3:Radio Złote Przeboje Szczecin
-#DESCRIPTION Radio Złote Przeboje Szczecin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8932-1.mp3:Radio Złote Przeboje Tarnów
-#DESCRIPTION Radio Złote Przeboje Tarnów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8934-1.mp3:Radio Złote Przeboje Wałbrzych
-#DESCRIPTION Radio Złote Przeboje Wałbrzych
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8936-1.mp3:Radio Złote Przeboje Warszawa
-#DESCRIPTION Radio Złote Przeboje Warszawa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8938-1.mp3:Radio Złote Przeboje Wolin
-#DESCRIPTION Radio Złote Przeboje Wolin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8940-1.mp3:Radio Złote Przeboje Wrocław
-#DESCRIPTION Radio Złote Przeboje Wrocław
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8942-1.mp3:Radio Złote Przeboje Zamość
-#DESCRIPTION Radio Złote Przeboje Zamość
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8944-1.mp3:Radio Złote Przeboje Zielona Góra
-#DESCRIPTION Radio Złote Przeboje Zielona Góra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8900-1.mp3:Radio Złote Przeboje - Białystok
+#DESCRIPTION Radio Złote Przeboje - Białystok
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8946-1.mp3:Radio Złote Przeboje - Bieszczady
+#DESCRIPTION Radio Złote Przeboje - Bieszczady
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8902-1.mp3:Radio Złote Przeboje - Bydgoszcz
+#DESCRIPTION Radio Złote Przeboje - Bydgoszcz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8904-1.mp3:Radio Złote Przeboje - Częstochowa
+#DESCRIPTION Radio Złote Przeboje - Częstochowa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8906-1.mp3:Radio Złote Przeboje - Gdańsk
+#DESCRIPTION Radio Złote Przeboje - Gdańsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8908-1.mp3:Radio Złote Przeboje - Jelenia Góra
+#DESCRIPTION Radio Złote Przeboje - Jelenia Góra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8910-1.mp3:Radio Złote Przeboje - Katowice
+#DESCRIPTION Radio Złote Przeboje - Katowice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8912-1.mp3:Radio Złote Przeboje - Kielce
+#DESCRIPTION Radio Złote Przeboje - Kielce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8914-1.mp3:Radio Złote Przeboje - Kraków
+#DESCRIPTION Radio Złote Przeboje - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8916-1.mp3:Radio Złote Przeboje - Legnica
+#DESCRIPTION Radio Złote Przeboje - Legnica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8920-1.mp3:Radio Złote Przeboje - Lublin
+#DESCRIPTION Radio Złote Przeboje - Lublin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8918-1.mp3:Radio Złote Przeboje - Łódź
+#DESCRIPTION Radio Złote Przeboje - Łódź
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8924-1.mp3:Radio Złote Przeboje - Opole
+#DESCRIPTION Radio Złote Przeboje - Opole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8922-1.mp3:Radio Złote Przeboje - Podhale
+#DESCRIPTION Radio Złote Przeboje - Podhale
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8926-1.mp3:Radio Złote Przeboje - Poznań
+#DESCRIPTION Radio Złote Przeboje - Poznań
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8928-1.mp3:Radio Złote Przeboje - Rzeszów
+#DESCRIPTION Radio Złote Przeboje - Rzeszów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8930-1.mp3:Radio Złote Przeboje - Szczecin
+#DESCRIPTION Radio Złote Przeboje - Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8932-1.mp3:Radio Złote Przeboje - Tarnów
+#DESCRIPTION Radio Złote Przeboje - Tarnów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8934-1.mp3:Radio Złote Przeboje - Wałbrzych
+#DESCRIPTION Radio Złote Przeboje - Wałbrzych
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8936-1.mp3:Radio Złote Przeboje - Warszawa
+#DESCRIPTION Radio Złote Przeboje - Warszawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8938-1.mp3:Radio Złote Przeboje - Wolin
+#DESCRIPTION Radio Złote Przeboje - Wolin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8940-1.mp3:Radio Złote Przeboje - Wrocław
+#DESCRIPTION Radio Złote Przeboje - Wrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8942-1.mp3:Radio Złote Przeboje - Zamość
+#DESCRIPTION Radio Złote Przeboje - Zamość
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8944-1.mp3:Radio Złote Przeboje - Zielona Góra
+#DESCRIPTION Radio Złote Przeboje - Zielona Góra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a15476/radiobialystok:Radio Białystok
 #DESCRIPTION Radio Białystok
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/062uq3z3kwzuv:Radio Bielsko
 #DESCRIPTION Radio Bielsko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a11140/rdc:Radio Dla Ciebie
 #DESCRIPTION Radio Dla Ciebie
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8200/szczecinfm:Radio Extra Szczecin
-#DESCRIPTION Radio Extra Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a14006/plock:Radio Dla Ciebie - Płock
+#DESCRIPTION Radio Dla Ciebie - Płock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a14001/radom:Radio Dla Ciebie - Radom
+#DESCRIPTION Radio Dla Ciebie - Radom
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a14005/siedlce:Radio Dla Ciebie - Siedlce
+#DESCRIPTION Radio Dla Ciebie - Siedlce
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.lublin.pl%3a8843/radiofreee:Radio Freee
 #DESCRIPTION Radio Freee
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg1:Radio Gdańsk
 #DESCRIPTION Radio Gdańsk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg4:Radio Gdańsk DAB2
 #DESCRIPTION Radio Gdańsk DAB2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg3:Radio Gdańsk Słupsk
-#DESCRIPTION Radio Gdańsk Słupsk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg3:Radio Gdańsk - Słupsk
+#DESCRIPTION Radio Gdańsk - Słupsk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream02.radiogorzow.pl%3a10115:Radio Gorzów
 #DESCRIPTION Radio Gorzów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a9213/radiokatowice:Radio Katowice
@@ -1393,8 +1393,12 @@
 #DESCRIPTION Radio OFF Kraków
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.lublin.pl%3a8843/128k:Radio Lublin
 #DESCRIPTION Radio Lublin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.113.224.171/RadioLodz-1-HQ-6361726179-web.aac:Radio Łódź
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.113.224.171%3a80/RadioLodz-1-HQ.aac:Radio Łódź
 #DESCRIPTION Radio Łódź
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.113.224.171%3a80/RadioLodz-2-HQ.aac:Radio Łódź - Extra
+#DESCRIPTION Radio Łódź - Extra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.113.224.171%3a80/RadioLodz-NW-HQ.aac:Radio Łódź - Nad Wartą
+#DESCRIPTION Radio Łódź - Nad Wartą
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a8624/mcradio:Radio MC
 #DESCRIPTION Radio MC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//193.47.151.4%3a9000/ro1mp3:Radio Opole
@@ -1417,8 +1421,10 @@
 #DESCRIPTION Radio Rzeszów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a8240/stream:Radio Słupsk
 #DESCRIPTION Radio Słupsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a11986/prs:Radio Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a11987/prs:Radio Szczecin
 #DESCRIPTION Radio Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream3.nadaje.com%3a8201/szczecinextra:Radio Szczecin Extra
+#DESCRIPTION Radio Szczecin Extra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a9240/prw:Radio Wrocław
 #DESCRIPTION Radio Wrocław
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a9230/rwkultura:Radio Wrocław Kultura
@@ -1861,6 +1867,8 @@
 #DESCRIPTION Radio HTM Eco Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.130.209.64%3a8000:Radio I
 #DESCRIPTION Radio I
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/sd1bcd1376/listen:Radio Ibiza
+#DESCRIPTION Radio Ibiza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7438/stream:Radio Ilona
 #DESCRIPTION Radio Ilona
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioimperium.pl%3a8443/stream:Radio Imperium
@@ -2151,6 +2159,8 @@
 #DESCRIPTION Radio Rozgłośnia Błyskawica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8054:Radio RSC
 #DESCRIPTION Radio RSC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7056:Radio RTO Trance
+#DESCRIPTION Radio RTO Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc1.readycast.org%3a8546:Radio Rumcajs
 #DESCRIPTION Radio Rumcajs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7626/stream:Radio SantoriRPG
