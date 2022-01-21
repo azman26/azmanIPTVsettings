@@ -1,9 +1,9 @@
 #NAME IPTV TVP azman
-#SERVICE 1:64:A:0:0:0:0:0:0:0::--- TVP Stream ---
+#SERVICE 1:64:9:0:0:0:0:0:0:0::--- TVP Stream ---
 #DESCRIPTION --- TVP Stream ---
-#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1455:TVP Info
+#SERVICE 4097:0:1:1139:2af8:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1455:TVP Info
 #DESCRIPTION TVP Info
-#SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=34776037:TVP Polonia
+#SERVICE 4097:0:1:e83:3200:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=34776037:TVP Polonia
 #DESCRIPTION TVP Polonia
 #SERVICE 4097:0:1:3:0:48:0:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
 #DESCRIPTION Belsat Tv
@@ -19,16 +19,10 @@
 #DESCRIPTION TVP eSzkoła (Pn-Pt 9:00-17:00)
 #SERVICE 5002:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51590674:TVP World
 #DESCRIPTION TVP World
-#SERVICE 4097:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCBjUPsHj7bXt24SUWNoZ0zA/live:TVP World  (YT)
-#DESCRIPTION TVP World  (YT)
 #SERVICE 4097:0:1:6:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1729:Wiadomości TVP (8%3a00, 12%3a00, 15%3a00, 19%3a30)
 #DESCRIPTION Wiadomości TVP (8:00, 12:00, 15:00, 19:30)
 #SERVICE 4097:0:1:27:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1751:PNŚ (7%3a55-11%3a30) Panorama TVP (18%3a00-18%3a20)
 #DESCRIPTION PNŚ (7:55-11:30) Panorama TVP (18:00-18:20)
-#SERVICE 4097:0:1:29:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=36588687:Teatr TVP (Pn 21%3a00)
-#DESCRIPTION Teatr TVP (Pn 21:00)
-#SERVICE 4097:0:1:30:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=36588705:TVP Sport (okazjonalnie)
-#DESCRIPTION TVP Sport (okazjonalnie)
 #SERVICE 4097:0:1:7:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14812658:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
 #SERVICE 4097:0:1:8:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813071:TVP3 Bydgoszcz
@@ -69,7 +63,7 @@
 #DESCRIPTION TVP Parlament 1
 #SERVICE 4097:0:1:26:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=16756568:TVP Parlament 2
 #DESCRIPTION TVP Parlament 2
-#SERVICE 1:64:B:0:0:0:0:0:0:0::--- HbbTV ---
+#SERVICE 1:64:A:0:0:0:0:0:0:0::--- HbbTV ---
 #DESCRIPTION --- HbbTV ---
 #SERVICE 4097:0:19:1139:2af8:13e:820000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo:TVP Info
 #DESCRIPTION TVP Info
