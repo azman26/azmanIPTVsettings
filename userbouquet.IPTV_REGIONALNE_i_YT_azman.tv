@@ -11,10 +11,16 @@
 #DESCRIPTION Dla ciebie.tv
 #SERVICE 4097:0:1:15:1:48:0:0:0:0:http%3a//217.173.176.107%3a1935/live/tvk.stream/playlist.m3u8:TV Toruń
 #DESCRIPTION TV Toruń
+#SERVICE 4097:0:1:40:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
+#DESCRIPTION WebCamera.pl
+#SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl Plaże
+#DESCRIPTION WebCamera.pl Plaże
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCU7uwCYami150L_lydp2OHQ/live:LTVM  (YT)
 #DESCRIPTION LTVM  (YT)
 #SERVICE 4097:0:1:43:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
 #DESCRIPTION info PŁOCK  (YT)
+#SERVICE 4097:0:1:44:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCEQZDk3FFLNM67Hx4jQaXVw/live:Świebodzin TV  (YT)
+#DESCRIPTION Świebodzin TV  (YT)
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCpUZqLZNnVwlBIeOZYslMDw/live:TV Słowianin  (YT)
 #DESCRIPTION TV Słowianin  (YT)
 #SERVICE 4097:0:1:50:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCt5sVDyzu0NhrjR-d_b-lhg/live:TV Gorzów  (YT)
@@ -45,6 +51,8 @@
 #DESCRIPTION Dobre Media  (YT)
 #SERVICE 4097:0:1:82:1:48:0:0:0:0:https%3a//stream.hopechannel.pl/livetv/colombo/hope.m3u8:Hope Channel Polska
 #DESCRIPTION Hope Channel Polska
+#SERVICE 4097:0:1:70:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCEZ4rFLmTDVCTSJ8gDqOMzQ/live:EWTN Polska  (YT)
+#DESCRIPTION EWTN Polska  (YT)
 #SERVICE 4097:0:1:83:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCENo4wEDe_59Bb8rGGMZl_w/live:HTS Słubice  (YT)
 #DESCRIPTION HTS Słubice  (YT)
 #SERVICE 4097:0:1:84:1:48:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
@@ -67,6 +75,8 @@
 #DESCRIPTION TVT Rybnik
 #SERVICE 4097:0:1:96:1:48:0:0:0:0:https%3a//cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8:TV JASŁO
 #DESCRIPTION TV JASŁO
+#SERVICE 4097:0:1:9908:338A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=xN3JSPD1y8M:Lokalna TV  (YT)
+#DESCRIPTION Lokalna TV  (YT)
 #SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCciOOtgCargNFJw2BzR12Qw/live:Arche TV  (YT)
 #DESCRIPTION Arche TV  (YT)
 #SERVICE 4097:0:1:100:0:48:0:0:0:0:http%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/chunklist_w1946682274.m3u8:Czwórka PR (Visual Radio)
@@ -93,8 +103,8 @@
 #DESCRIPTION TV Republika
 #SERVICE 4097:0:19:4279:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live:wPolsce.pl  (YT)
 #DESCRIPTION wPolsce.pl  (YT)
-#SERVICE 1:64:9:0:0:0:0:0:0:0::--- RADIO  PL  SAT i IP ---
-#DESCRIPTION --- RADIO  PL  SAT i IP ---
+#SERVICE 1:64:5:0:0:0:0:0:0:0::--- RADIO  PL ---
+#DESCRIPTION --- RADIO  PL ---
 #SERVICE 1:0:2:1091:3EE:1:C00000:0:0:0:
 #SERVICE 4097:0:2:1C9B:1CE8:71:820000:0:0:0:https%3a//stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8:Jedynka - PR
 #DESCRIPTION Jedynka - PR
@@ -185,23 +195,5 @@
 #DESCRIPTION SMOOTHJAZZ Radio
 #SERVICE 4097:0:2:0:187:0:0:0:0:0:https%3a//play.radioftb.net%3a2020/stream/DiscoPolo:Radio FTB
 #DESCRIPTION Radio FTB
-#SERVICE 1:64:2:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
-#DESCRIPTION --- CHWILOWO OFFLINE ---
-#SERVICE 4097:0:1:44:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCEQZDk3FFLNM67Hx4jQaXVw/live:Świebodzin TV  (YT)
-#DESCRIPTION Świebodzin TV  (YT)
-#SERVICE 4097:0:1:70:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=tiRxw4Ufx2k:EWTN Polska  (YT)
-#DESCRIPTION EWTN Polska  (YT)
-#SERVICE 4097:0:1:61:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCpchzx2u5Ab8YASeJsR1WIw/live:Rzeczpospolita TV  (YT)
-#DESCRIPTION Rzeczpospolita TV  (YT)
-#SERVICE 4097:0:1:C20B:406A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ck4X1Vk6ZwY:Truso TV  (YT)
-#DESCRIPTION Truso TV  (YT)
-#SERVICE 4097:0:1:59:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCYxbE-WoPqKq26sSeQ6eD1w/live:Lubelska TV  (YT)
-#DESCRIPTION Lubelska TV  (YT)
-#SERVICE 4097:0:1:48:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCYG4JRAdsBM6BiuF5-UL9DQ/live:UAM.TV  (YT)
-#DESCRIPTION UAM.TV  (YT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=VTaDtlrcyjA:Lokalna TV  (YT)
-#DESCRIPTION Lokalna TV  (YT)
-#SERVICE 4097:0:1:94:1:48:0:0:0:0:http%3a//91.231.169.250%3a19380/media_server/tvl_low/index.m3u8:TVL Tarnobrzeg
-#DESCRIPTION TVL Tarnobrzeg
-#SERVICE 4097:0:1:42:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/--tvksm-email='azman@wp.pl' --tvksm-password='Azman@0218' https%3a//tvsm.pl/live/hls/6DYnDE4lYdeAq8qqrXyMAA/1635107605/video.m3u8:TVK SM Grudziądz
-#DESCRIPTION TVK SM Grudziądz
+#SERVICE 4097:0:2:334E:45B:1:C00000:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
+#DESCRIPTION Planeta FM
