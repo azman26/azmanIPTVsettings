@@ -233,8 +233,6 @@
 #DESCRIPTION ZET Kolędy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETLTN.mp3:ZET Latino
 #DESCRIPTION ZET Latino
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETLAT.mp3:ZET Lato
-#DESCRIPTION ZET Lato
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETLOV.mp3:ZET Love
 #DESCRIPTION ZET Love
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETDAN.mp3:ZET Na Rower
@@ -545,16 +543,6 @@
 #DESCRIPTION OPEN FM Muzyka Klasyczna
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/143:OPEN FM Muzyka Motywacyjna
 #DESCRIPTION OPEN FM Muzyka Motywacyjna
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/87:OPEN FM Na Gwiazdkę
-#DESCRIPTION OPEN FM Na Gwiazdkę
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/88:OPEN FM Na Gwiazdkę Jazz & Classic
-#DESCRIPTION OPEN FM Na Gwiazdkę Jazz & Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/90:OPEN FM Na Gwiazdkę Hity
-#DESCRIPTION OPEN FM Na Gwiazdkę Hity
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/56:OPEN FM Na Gwiazdkę PL
-#DESCRIPTION OPEN FM Na Gwiazdkę PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/91:OPEN FM Na Gwiazdkę Rock
-#DESCRIPTION OPEN FM Na Gwiazdkę Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/163:OPEN FM Największe Przeboje XX w.
 #DESCRIPTION OPEN FM Największe Przeboje XX w.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/117:OPEN FM Nauka
@@ -1653,6 +1641,8 @@
 #DESCRIPTION Radio AOi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7512:Radio Apogeum
 #DESCRIPTION Radio Apogeum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7450:Radio Arkadia
+#DESCRIPTION Radio Arkadia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a7096/stream:Radio Art Bogatynia
 #DESCRIPTION Radio Art Bogatynia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7120:Radio Autsajder
@@ -1685,6 +1675,8 @@
 #DESCRIPTION Radio BIGbbs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9709:Radio Blender.pl
 #DESCRIPTION Radio Blender.pl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7014:Radio Blue Moon
+#DESCRIPTION Radio Blue Moon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6.radiohost.pl%3a8888:Radio Bogoria
 #DESCRIPTION Radio Bogoria
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.inten.pl%3a8020/bonton.mp3:Radio Bon Ton
@@ -1753,10 +1745,8 @@
 #DESCRIPTION Radio Dimash
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/cvswvmyewzzuv:Radio Disco
 #DESCRIPTION Radio Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiodd.cloud%3a8000:Radio Disco-dance
-#DESCRIPTION Radio Disco-dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a7034:Radio Disco-dance - Dance
-#DESCRIPTION Radio Disco-dance - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiodd.cloud%3a8000:Radio Disco-Mix
+#DESCRIPTION Radio Disco-Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7354/stream:Radio DiscoParty.pl - Club Mix
 #DESCRIPTION Radio DiscoParty.pl - Club Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7432/stream:Radio DiscoParty.pl - Disco
@@ -1837,7 +1827,7 @@
 #DESCRIPTION Radio Gold Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18224:Radio Gold Mix
 #DESCRIPTION Radio Gold Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.admin-marcin.pl%3a7154:Radio Gold Song FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7562:Radio Gold Song FM
 #DESCRIPTION Radio Gold Song FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7326:Radio Gold Stacja
 #DESCRIPTION Radio Gold Stacja
@@ -1903,8 +1893,6 @@
 #DESCRIPTION Radio Kapitał
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8048:Radio Kaszebe
 #DESCRIPTION Radio Kaszebe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//144.76.84.153%3a21808:Radio Katarynka
-#DESCRIPTION Radio Katarynka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc1.readycast.org%3a8516:Radio Kącik Rodzinny
 #DESCRIPTION Radio Kącik Rodzinny
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7016:Radio Kechnowogard
@@ -2009,12 +1997,10 @@
 #DESCRIPTION Radio Muzyczne Uniesienia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7336/stream:Radio Muzyczny Zakątek
 #DESCRIPTION Radio Muzyczny Zakątek
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.admin-marcin.pl%3a7718:Radio Muzyka 24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.admin-marcin.pl%3a7718:Radio Muzyka 24
 #DESCRIPTION Radio Muzyka 24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18284:Radio Muzykomaniacy
 #DESCRIPTION Radio Muzykomaniacy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7004/stream:Radio My i Muzyka
-#DESCRIPTION Radio My i Muzyka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.slotex.pl/shoutcast/10000/stream:Radio Na Maxa
 #DESCRIPTION Radio Na Maxa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.nadaje.com%3a9004:Radio Nadaje - Chillout
@@ -2045,6 +2031,10 @@
 #DESCRIPTION Radio Norda FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7264:Radio Not For All
 #DESCRIPTION Radio Not For All
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5.citrus3.com%3a8028/stream:Radio NOTE.radio
+#DESCRIPTION Radio NOTE.radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.profeto.pl/noweradio.mp3:Radio Nowe Radio
+#DESCRIPTION Radio Nowe Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nowinki.pk.edu.pl%3a8000/nowinki:Radio Nowinki
 #DESCRIPTION Radio Nowinki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/ypqt40u0x1zuv:Radio Nowy Świat
@@ -2053,6 +2043,8 @@
 #DESCRIPTION Radio Nuta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8066:Radio Nysa
 #DESCRIPTION Radio Nysa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream3.nadaje.com%3a8015/test:Radio Oborniki
+#DESCRIPTION Radio Oborniki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c13.radioboss.fm%3a18296/stream:Radio Odwyk
 #DESCRIPTION Radio Odwyk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8094:Radio OKO
@@ -2101,8 +2093,8 @@
 #DESCRIPTION Radio Polo.net
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiopolo.net%3a9000:Radio Polo.net Muzyka Hity
 #DESCRIPTION Radio Polo.net Muzyka Hity
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radia2.inten.pl%3a8006:Radio Polska Live
-#DESCRIPTION Radio Polska Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitnet.live/radio/8000/radio.mp3:Radio PoloRadio
+#DESCRIPTION Radio PoloRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9209:Radio Pomost
 #DESCRIPTION Radio Pomost
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.popradio.pl%3a9000:Radio POPradio
@@ -2165,16 +2157,18 @@
 #DESCRIPTION Radio Rumcajs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7626/stream:Radio SantoriRPG
 #DESCRIPTION Radio SantoriRPG
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18816:Radio Sarenka FM
-#DESCRIPTION Radio Sarenka FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7434:Radio Savana
 #DESCRIPTION Radio Savana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7188/stream:Radio Scream Fm
 #DESCRIPTION Radio Scream Fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18226:Radio SDM
 #DESCRIPTION Radio SDM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18454:Radio Serce
+#DESCRIPTION Radio Serce
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7556:Radio Sekret
 #DESCRIPTION Radio Sekret
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.play.radiosigma.eu%3a8000/sigma_128_kbps:Radio Sigma Fm
+#DESCRIPTION Radio Sigma Fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7488:Radio Składankowe Radio
 #DESCRIPTION Radio Składankowe Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7854/stream:Radio Sky Radio Polska
@@ -2207,8 +2201,6 @@
 #DESCRIPTION Radio Stacja Mikrofonia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/5wegfyrra2zuv:Radio Starogard
 #DESCRIPTION Radio Starogard
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a7034:Radio StarsFM
-#DESCRIPTION Radio StarsFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.slotex.pl%3a10116:Radio Start
 #DESCRIPTION Radio Start
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.77.58.124%3a8000:Radio Strefa FM
@@ -2235,8 +2227,6 @@
 #DESCRIPTION Radio Światowid
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.243.52.116%3a8010:Radio Świnoujście
 #DESCRIPTION Radio Świnoujście
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7604/stream:Radio Świrek
-#DESCRIPTION Radio Świrek
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.191.180.5%3a8000/live:Radio Tczew
 #DESCRIPTION Radio Tczew
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7822/stream:Radio TobiFM
@@ -2293,12 +2283,14 @@
 #DESCRIPTION Radio UWM FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7106:Radio Vegas
 #DESCRIPTION Radio Vegas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7092/stream:Radio Vipek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7728/stream:Radio Vipek
 #DESCRIPTION Radio Vipek
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18484:Radio VirtualMix
 #DESCRIPTION Radio VirtualMix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18480:Radio Virgo
 #DESCRIPTION Radio Virgo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a8810/stream:Radio W Nienagannym Stylu
+#DESCRIPTION Radio W Nienagannym Stylu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sluchaj.link%3a5443/wasze:Radio Wasze Radio FM
 #DESCRIPTION Radio Wasze Radio FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.weekendfm.pl%3a8000/weekendfm_najlepsza.mp3:Radio Weekend
@@ -2317,15 +2309,19 @@
 #DESCRIPTION Radio Wolna Strefa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//gra.radiowom.pl%3a9120:Radio WoM
 #DESCRIPTION Radio WoM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//107.182.231.73%3a7078/stream:Radio WPNA Chicago
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.yesstreaming.net%3a17078/stream:Radio WPNA Chicago
 #DESCRIPTION Radio WPNA Chicago
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7446:Radio Września FM
 #DESCRIPTION Radio Września FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7316/stream:Radio Wyczes
 #DESCRIPTION Radio Wyczes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7010/stream:Radio Xmusic
+#DESCRIPTION Radio Xmusic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiozqlturapl.radioca.st/stream:Radio Z Qlturą
 #DESCRIPTION Radio Z Qlturą
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a9078/stream:Radio Zawiercie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s65cef3a93/listen:Radio Zamek Nadaje
+#DESCRIPTION Radio Zamek Nadaje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7654/stream:Radio Zawiercie
 #DESCRIPTION Radio Zawiercie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8022:Radio Ziemi Wieluńskiej
 #DESCRIPTION Radio Ziemi Wieluńskiej
