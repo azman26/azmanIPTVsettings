@@ -1,7 +1,33 @@
 #NAME IPTV TVP azman
-#SERVICE 1:64:9:0:0:0:0:0:0:0::--- TVP Stream ---
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- TVP GO ---
+#DESCRIPTION --- TVP GO ---
+#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51689486:TVP 1 HD
+#DESCRIPTION TVP 1 HD
+#SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696811:TVP 2 HD
+#DESCRIPTION TVP 2 HD
+#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696820:TVP Info HD
+#DESCRIPTION TVP Info HD
+#SERVICE 4097:0:1:DB1:2D50:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696827:TVP Sport HD
+#DESCRIPTION TVP Sport HD
+#SERVICE 4097:0:1:5EC9:13FB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53795158:TVP Kobieta
+#DESCRIPTION TVP Kobieta
+#SERVICE 4097:0:1:3A9D:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53795159:TVP Dokument HD
+#DESCRIPTION TVP Dokument HD
+#SERVICE 4097:0:1:4288:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696825:TVP Rozrywka
+#DESCRIPTION TVP Rozrywka
+#SERVICE 4097:0:1:3D5F:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696812:TVP ABC
+#DESCRIPTION TVP ABC
+#SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696824:TVP Polonia
+#DESCRIPTION TVP Polonia
+#SERVICE 4097:0:1:5:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=47094327:TVP Kultura 2
+#DESCRIPTION TVP Kultura 2
+#SERVICE 4097:0:1:31:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=52491596:TVP Historia 2
+#DESCRIPTION TVP Historia 2
+#SERVICE 4097:0:1:1:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53933471:TVP Wilno
+#DESCRIPTION TVP Wilno
+#SERVICE 1:64:8:0:0:0:0:0:0:0::--- TVP Stream ---
 #DESCRIPTION --- TVP Stream ---
-#SERVICE 4097:0:1:1139:2af8:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1455:TVP Info
+#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1455:TVP Info
 #DESCRIPTION TVP Info
 #SERVICE 4097:0:1:e83:3200:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=34776037:TVP Polonia
 #DESCRIPTION TVP Polonia
@@ -63,7 +89,7 @@
 #DESCRIPTION TVP Parlament 1
 #SERVICE 4097:0:1:26:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=16756568:TVP Parlament 2
 #DESCRIPTION TVP Parlament 2
-#SERVICE 1:64:A:0:0:0:0:0:0:0::--- HbbTV ---
+#SERVICE 1:64:9:0:0:0:0:0:0:0::--- HbbTV ---
 #DESCRIPTION --- HbbTV ---
 #SERVICE 4097:0:19:1139:2af8:13e:820000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo:TVP Info
 #DESCRIPTION TVP Info
