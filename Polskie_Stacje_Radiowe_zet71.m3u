@@ -517,8 +517,6 @@ http://stream.open.fm/71
 http://stream.open.fm/16
 #EXTINF:0 radio=true,OPEN FM Klub 90
 http://stream.open.fm/8
-#EXTINF:0 radio=true,OPEN FM Kolędy
-http://stream.open.fm/89
 #EXTINF:0 radio=true,OPEN FM Kołysanki
 http://stream.open.fm/142
 #EXTINF:0 radio=true,OPEN FM Koncentracja
@@ -661,6 +659,8 @@ http://stream.open.fm/191
 http://stream.open.fm/365
 #EXTINF:0 radio=true,OPEN FM W Podróży
 http://stream.open.fm/381
+#EXTINF:0 radio=true,OPEN FM Walentynki
+http://stream.open.fm/330
 #EXTINF:0 radio=true,OPEN FM We Dwoje
 http://stream.open.fm/4
 #EXTINF:0 radio=true,OPEN FM Weekend Chill
@@ -1131,8 +1131,12 @@ http://178.32.62.172:8761/1
 http://91.232.4.33:9011/stream
 #EXTINF:0 radio=true,Radio One Live 80s & 90s
 http://91.232.4.33:8198/stream
+#EXTINF:0 radio=true,Radio Surprise
+http://sc.noviktech.pl:8000
 #EXTINF:0 radio=true,Radio Top 80
 http://radio.top80.pl:9940
+#EXTINF:0 radio=true,Radio Top 80s
+http://sc.noviktech.pl:8300
 #EXTINF:0 radio=true,Radio Mirage - Italo Dance
 https://ssl-1.radiohost.pl:9569
 #EXTINF:0 radio=true,Radio Mirage - Prywatka
@@ -2103,6 +2107,8 @@ http://stream1.popradio.pl:9000
 http://91.232.4.33:9341/stream
 #EXTINF:0 radio=true,Radio Praga.pl
 http://4stream.pl:18060
+#EXTINF:0 radio=true,Radio PRL24
+https://stream.rcs.revma.com/prfmwmwy768uv
 #EXTINF:0 radio=true,Radio Pro-Radio Zgierz
 http://radiointernetowe.net:7802
 #EXTINF:0 radio=true,Radio Project FM
@@ -2155,6 +2161,8 @@ http://stream3.nadaje.com:8054
 http://s3.slotex.pl:7056
 #EXTINF:0 radio=true,Radio Rumcajs
 http://sc1.readycast.org:8546
+#EXTINF:0 radio=true,Radio Sami Swoi
+https://s2.radio.co/s0dc6b5c9b/listen
 #EXTINF:0 radio=true,Radio SantoriRPG
 https://s3.slotex.pl/shoutcast/7626/stream
 #EXTINF:0 radio=true,Radio Savana
@@ -2207,6 +2215,8 @@ http://s2.slotex.pl:10116
 http://51.77.58.124:8000
 #EXTINF:0 radio=true,Radio Sud
 http://stream2.nadaje.com:8012
+#EXTINF:0 radio=true,Radio Sudety 24
+https://stream4.nadaje.com:15007/sudety24
 #EXTINF:0 radio=true,Radio SuDi Planet FM
 http://4stream.pl:18320
 #EXTINF:0 radio=true,Radio Super FM
