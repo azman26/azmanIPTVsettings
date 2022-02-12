@@ -1,6 +1,48 @@
-#NAME TVP VOD
-#SERVICE 5002:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=39091614&prefertype=mpd:Akwarium
+#NAME TVP VOD  [azman]
+#SERVICE 1:64:A:0:0:0:0:0:0:0::--- Klasyka ---
+#DESCRIPTION --- Klasyka ---
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=39091614:Akwarium
 #DESCRIPTION Akwarium
+#SERVICE 4097:0:1:9AC3:464E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=57974686:Marusarz - Tatrzański orzeł
+#DESCRIPTION Marusarz - Tatrzański orzeł
+#SERVICE 4097:0:1:AAC9:4BB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=43821203:Ucieczka z kina "Wolność"
+#DESCRIPTION Ucieczka z kina "Wolność"
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51283291:Autoportret z kochanką
+#DESCRIPTION Autoportret z kochanką
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=54137757:Pan Wołodyjowski cz. I
+#DESCRIPTION Pan Wołodyjowski cz. I
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=54137875:Pan Wołodyjowski cz. II
+#DESCRIPTION Pan Wołodyjowski cz. II
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=43514878:300 mil do nieba
+#DESCRIPTION 300 mil do nieba
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=43920177:Któtki dzień pracy
+#DESCRIPTION Któtki dzień pracy
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51291154:Jańcio wodnik
+#DESCRIPTION Jańcio wodnik
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51285850:Spis cudzołożnic
+#DESCRIPTION Spis cudzołożnic
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=45545199:Przyjęcie na dziesięć osób plus trzy
+#DESCRIPTION Przyjęcie na dziesięć osób plus trzy
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=49058051:Wniebowzięci
+#DESCRIPTION Wniebowzięci
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51674540:Straszny sen Dzidziusia Górkiewicza
+#DESCRIPTION Straszny sen Dzidziusia Górkiewicza
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53029988:Ballada o ścinaniu drzewa
+#DESCRIPTION Ballada o ścinaniu drzewa
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=45689409:Big Bang
+#DESCRIPTION Big Bang
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=54060568:Złote runo
+#DESCRIPTION Złote runo
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=42035371:Fik-mik
+#DESCRIPTION Fik-mik
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53563795:Ostatnie takie trio
+#DESCRIPTION Ostatnie takie trio
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=45300488:Fortuna
+#DESCRIPTION Fortuna
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=43358278:Diabeł
+#DESCRIPTION Diabeł
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=35318232:Goryl czyli ostatnie zadanie
+#DESCRIPTION Goryl czyli ostatnie zadanie
 #SERVICE 1:64:A:0:0:0:0:0:0:0::--- Czarne chmury ---
 #DESCRIPTION --- Czarne chmury ---
 #SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=35228716&prefertype=mpd:1/10 Szafot
@@ -39,6 +81,26 @@
 #DESCRIPTION 6/7 Egzamin
 #SERVICE 5002:0:1:15bc:68e2:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=38194439&prefertype=mpd:7/7 We dwoje
 #DESCRIPTION 7/7 We dwoje
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- Doktor Ewa ---
+#DESCRIPTION --- Doktor Ewa ---
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40024181&prefertype=mpd:1/9 Trudny wybór
+#DESCRIPTION 1/9 Trudny wybór
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40024252&prefertype=mpd:2/9 Cena lekcji
+#DESCRIPTION 2/9 Cena lekcji
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=45053351&prefertype=mpd:3/9 Prawo do życia
+#DESCRIPTION 3/9 Prawo do życia
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40024331&prefertype=mpd:4/9 Obowiązek lekarza
+#DESCRIPTION 4/9 Obowiązek lekarza
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40024369&prefertype=mpd:5/9 Przeoczenie
+#DESCRIPTION 5/9 Przeoczenie
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40024386&prefertype=mpd:6/9 Dwie prawdy
+#DESCRIPTION 6/9 Dwie prawdy
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40024395&prefertype=mpd:7/9 Stawka o życie
+#DESCRIPTION 7/9 Stawka o życie
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40024423&prefertype=mpd:8/9 Porwanie
+#DESCRIPTION 8/9 Porwanie
+#SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40024437&prefertype=mpd:9/9 Pożegnania
+#DESCRIPTION 9/9 Pożegnania
 #SERVICE 1:64:C:0:0:0:0:0:0:0::--- Kapitan Sowa na tropie ---
 #DESCRIPTION --- Kapitan Sowa na tropie ---
 #SERVICE 5002:0:1:0:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=40023670&prefertype=mpd:1/8 Gipsowa figurka
