@@ -1,4 +1,4 @@
-#NAME IPTV TVP azman
+#NAME IPTV TVP  [azman]
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- TVP GO ---
 #DESCRIPTION --- TVP GO ---
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51689486:TVP 1 HD
@@ -23,7 +23,7 @@
 #DESCRIPTION TVP Kultura 2
 #SERVICE 4097:0:1:31:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=52491596:TVP Historia 2
 #DESCRIPTION TVP Historia 2
-#SERVICE 4097:0:1:1:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53933471:TVP Wilno
+#SERVICE 4097:0:1:1:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=45417289:TVP Wilno
 #DESCRIPTION TVP Wilno
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- TVP Stream ---
 #DESCRIPTION --- TVP Stream ---
