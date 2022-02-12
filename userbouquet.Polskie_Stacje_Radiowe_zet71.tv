@@ -465,7 +465,7 @@
 #DESCRIPTION OPEN FM EDM Anthems
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness
 #DESCRIPTION OPEN FM Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Zima
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz%3a Zima
 #DESCRIPTION OPEN FM Freszzz: Zima
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118:OPEN FM Giganci Rocka
 #DESCRIPTION OPEN FM Giganci Rocka
@@ -517,8 +517,6 @@
 #DESCRIPTION OPEN FM Kids - Muzyka & Ciekawostki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/8:OPEN FM Klub 90
 #DESCRIPTION OPEN FM Klub 90
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/89:OPEN FM Kolędy
-#DESCRIPTION OPEN FM Kolędy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/142:OPEN FM Kołysanki
 #DESCRIPTION OPEN FM Kołysanki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/161:OPEN FM Koncentracja
@@ -601,7 +599,7 @@
 #DESCRIPTION OPEN FM Sad
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/410:OPEN FM Schodki
 #DESCRIPTION OPEN FM Schodki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy: Soul & R'n'B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy%3a Soul & R'n'B
 #DESCRIPTION OPEN FM Sexy: Soul & R'n'B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/169:OPEN FM Shanson
 #DESCRIPTION OPEN FM Shanson
@@ -661,6 +659,8 @@
 #DESCRIPTION OPEN FM W Domu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/381:OPEN FM W Podróży
 #DESCRIPTION OPEN FM W Podróży
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/330:OPEN FM Walentynki
+#DESCRIPTION OPEN FM Walentynki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/4:OPEN FM We Dwoje
 #DESCRIPTION OPEN FM We Dwoje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/126:OPEN FM Weekend Chill
@@ -707,7 +707,7 @@
 #DESCRIPTION Tok FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/363:WP Klub
 #DESCRIPTION WP Klub
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio: muzyka i informacje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio%3a muzyka i informacje
 #DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/201:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
@@ -1131,8 +1131,12 @@
 #DESCRIPTION Radio Muza 80
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a8198/stream:Radio One Live 80s & 90s
 #DESCRIPTION Radio One Live 80s & 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc.noviktech.pl%3a8000:Radio Surprise
+#DESCRIPTION Radio Surprise
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.top80.pl%3a9940:Radio Top 80
 #DESCRIPTION Radio Top 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc.noviktech.pl%3a8300:Radio Top 80s
+#DESCRIPTION Radio Top 80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9569:Radio Mirage - Italo Dance
 #DESCRIPTION Radio Mirage - Italo Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a7214:Radio Mirage - Prywatka
@@ -1453,8 +1457,8 @@
 #DESCRIPTION Radio Krysjan /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7028:Radio Lenka /śląskie/
 #DESCRIPTION Radio Lenka /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo: Radio Larmo /śląskie/
-#DESCRIPTION  Radio Larmo /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo:Radio Larmo /śląskie/
+#DESCRIPTION Radio Larmo /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomazurek.com.pl%3a8000:Radio Mazurek /śląskie/
 #DESCRIPTION Radio Mazurek /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.slotex.pl%3a10102:Radio MoniRaj /śląskie/
@@ -2103,6 +2107,8 @@
 #DESCRIPTION Radio Pozytywne FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18060:Radio Praga.pl
 #DESCRIPTION Radio Praga.pl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/prfmwmwy768uv:Radio PRL24
+#DESCRIPTION Radio PRL24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiointernetowe.net%3a7802:Radio Pro-Radio Zgierz
 #DESCRIPTION Radio Pro-Radio Zgierz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.projectrpg.pl%3a8000:Radio Project FM
@@ -2155,6 +2161,8 @@
 #DESCRIPTION Radio RTO Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc1.readycast.org%3a8546:Radio Rumcajs
 #DESCRIPTION Radio Rumcajs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.radio.co/s0dc6b5c9b/listen:Radio Sami Swoi
+#DESCRIPTION Radio Sami Swoi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7626/stream:Radio SantoriRPG
 #DESCRIPTION Radio SantoriRPG
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7434:Radio Savana
@@ -2207,6 +2215,8 @@
 #DESCRIPTION Radio Strefa FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8012:Radio Sud
 #DESCRIPTION Radio Sud
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a15007/sudety24:Radio Sudety 24
+#DESCRIPTION Radio Sudety 24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18320:Radio SuDi Planet FM
 #DESCRIPTION Radio SuDi Planet FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.super.fm%3a8443/superfm.mp3:Radio Super FM
