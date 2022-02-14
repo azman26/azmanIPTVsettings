@@ -77,7 +77,7 @@
 #DESCRIPTION Arche TV  (YT)
 #SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/hls/live.stream.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
-#SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//api.new.livestream.com/accounts/30886593/events/9905467/broadcasts/229284435.m3u8:Polonico TV
+#SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/polonico/events/9905467:Polonico TV
 #DESCRIPTION Polonico TV
 #SERVICE 4097:0:1:70EF:2C33:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/event/1230897/embed:Index TV
 #DESCRIPTION Index TV
@@ -207,5 +207,7 @@
 #DESCRIPTION SMOOTHJAZZ Radio
 #SERVICE 4097:0:2:0:187:0:0:0:0:0:https%3a//play.radioftb.net%3a2020/stream/DiscoPolo:Radio FTB
 #DESCRIPTION Radio FTB
+#SERVICE 4097:0:2:0:188:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7600/stream:Radio HEAVEN
+#DESCRIPTION Radio HEAVEN
 #SERVICE 4097:0:2:334E:45B:1:C00000:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
