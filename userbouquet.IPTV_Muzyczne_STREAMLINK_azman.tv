@@ -1,0 +1,101 @@
+#NAME IPTV Muzyczne (STREAMLINK) [azman]
+#SERVICE 5002:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.mjunoon.tv/8xm-live:8XM
+#DESCRIPTION 8XM
+#SERVICE 4097:0:1:ce0b:a80f:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/asot:A State of Trance
+#DESCRIPTION A State of Trance
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/1041687977527:AIVA TV
+#DESCRIPTION AIVA TV
+#SERVICE 4097:0:1:1c28:83b:2:11a0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/the-box:Box
+#DESCRIPTION Box
+#SERVICE 4097:0:1:1c29:83b:2:11a0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/box-hits:Box Hits
+#DESCRIPTION Box Hits
+#SERVICE 4097:0:1:a39:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/bridgetv:BRIDGE TV
+#DESCRIPTION BRIDGE TV
+#SERVICE 4097:0:1:b206:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/br.classic:BRIDGE TV CLASSIC
+#DESCRIPTION BRIDGE TV CLASSIC
+#SERVICE 4097:0:1:a101:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/br.dance:BRIDGE TV HITS
+#DESCRIPTION BRIDGE TV HITS
+#SERVICE 4097:0:1:a13:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/br.rushit:BRIDGE TV РУССКИЙ ХИТ
+#DESCRIPTION BRIDGE TV РУССКИЙ ХИТ
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8:City TV
+#DESCRIPTION City TV
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7zw8q9:D5 Music TV
+#DESCRIPTION D5 Music TV
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x5qokx5:DBM TV
+#DESCRIPTION DBM TV
+#SERVICE 4097:0:1:57:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/evropaplus:Europa Plus TV
+#DESCRIPTION Europa Plus TV
+#SERVICE 4097:0:1:49c2:10fb:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/folk_music:Folk Music
+#DESCRIPTION Folk Music
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/363045854829:HI TV
+#DESCRIPTION HI TV
+#SERVICE 4097:0:1:6cb:8afe:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=gnyW6uaUgk4:Hits Radio 1 (Visual Radio)
+#DESCRIPTION Hits Radio 1 (Visual Radio)
+#SERVICE 5002:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.mjunoon.tv/jalwa-tv-live:Jalwa TV
+#DESCRIPTION Jalwa TV
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.dailymotion.com/video/x4kzk1v:KPOP IDOL Channel
+#DESCRIPTION KPOP IDOL Channel
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.youtube.com/watch?v=dEHMR7Qpthw:KRAL POP HD
+#DESCRIPTION KRAL POP HD
+#SERVICE 5002:0:1:eac7:b8a9:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.youtube.com/watch?v=o5WVg8lC7ig:KRAL POP RADYO (Visual radio)
+#DESCRIPTION KRAL POP RADYO (Visual radio)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCs3cho4vcDuCze0tk3W9iVQ/live:MAD TV (YT)
+#DESCRIPTION MAD TV (YT)
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3099174903444:MF Music TV
+#DESCRIPTION MF Music TV
+#SERVICE 4097:0:1:9941:c4ac:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/1077196103291:MIXM TV HD
+#DESCRIPTION MIXM TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/muz.play:MIXM TV HD
+#DESCRIPTION MIXM TV HD
+#SERVICE 4097:0:1:149:1:1c:1860000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8;SLARGS;-http-header=Referer=https%3a//mooz.tv/live/:MoozDance
+#DESCRIPTION MoozDance
+#SERVICE 4097:0:1:148:1:1c:1860000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8;SLARGS;-http-header=Referer=https%3a//mooz.tv/live/:MoozHits
+#DESCRIPTION MoozHits
+#SERVICE 4097:0:1:129:12:1c:1860000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rtmp.digitalbroadcast.ro/moozro/moozro.m3u8;SLARGS;-http-header=Referer=https%3a//mooz.tv/live/:MoozRo
+#DESCRIPTION MoozRo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/mtvmix:MTVmix (УФА)
+#DESCRIPTION MTVmix (УФА)
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/188:Music Box Polska TV
+#DESCRIPTION Music Box Polska TV
+#SERVICE 4097:0:1:f413:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/musicbox:Music Box Russia
+#DESCRIPTION Music Box Russia
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/group/60468143915175:Music History TV
+#DESCRIPTION Music History TV
+#SERVICE 4097:0:1:a14:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/muztv:Muz TV
+#DESCRIPTION Muz TV
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/2500581596714:MUZ TV
+#DESCRIPTION MUZ TV
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.dailymotion.com/video/x67ch24:NR1 ASK
+#DESCRIPTION NR1 ASK
+#SERVICE 4097:0:1:b312:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/o2tv:O!2 TV
+#DESCRIPTION O!2 TV
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-57318109_456240298:O!2 TV
+#DESCRIPTION O!2 TV
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8:POWERTÜRK HD
+#DESCRIPTION POWERTÜRK HD
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/vintageradiotv:Radio Vintage TV
+#DESCRIPTION Radio Vintage TV
+#SERVICE 4097:0:1:dad1:1c81:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//youtu.be/C6_ql03n-vQ:Raz Nitzan Music (YT)
+#DESCRIPTION Raz Nitzan Music (YT)
+#SERVICE 4097:0:1:5ea0:ef51:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/ritsatv:Ritsa TV
+#DESCRIPTION Ritsa TV
+#SERVICE 4097:0:1:b158:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/rutv:RU TV
+#DESCRIPTION RU TV
+#SERVICE 4097:0:1:50:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/shanson:Shanson TV
+#DESCRIPTION Shanson TV
+#SERVICE 4097:0:1:f240:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/songtvru:SONG TV HD (RUSSIA)
+#DESCRIPTION SONG TV HD (RUSSIA)
+#SERVICE 4097:0:1:a18e:777e:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/songtvam:SONG TV HD Armenia
+#DESCRIPTION SONG TV HD Armenia
+#SERVICE 4097:0:1:f308:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/stranafm:Strana FM (RU)
+#DESCRIPTION Strana FM (RU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=36YnV9STBqc:The Good Life Radio
+#DESCRIPTION The Good Life Radio
+#SERVICE 4097:0:1:e50:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/tntmusic:TNT MUSIC HD
+#DESCRIPTION TNT MUSIC HD
+#SERVICE 4097:0:1:f178:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/tmb:Vostok
+#DESCRIPTION Vostok
+#SERVICE 4097:0:1:a11:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/myhouse:ЖАРА TV
+#DESCRIPTION ЖАРА TV
+#SERVICE 4097:0:1:d226:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/muzsouz:МУЗ СОЮЗ
+#DESCRIPTION МУЗ СОЮЗ
