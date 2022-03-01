@@ -103,10 +103,6 @@ http://195.150.20.7/rmf_lady_pank
 http://195.150.20.7/rmf_latino
 #EXTINF:0 radio=true,RMF Love
 http://195.150.20.7/rmf_love
-#EXTINF:0 radio=true,RMF Maxxx
-http://195.150.20.7/rmf_maxxx
-#EXTINF:0 radio=true,RMF Maxxx Hop-Bęc
-http://195.150.20.7/rmf_hop_bec
 #EXTINF:0 radio=true,RMF Michael Jackson
 http://195.150.20.7/rmf_Michael_Jackson
 #EXTINF:0 radio=true,RMF Muzyka Filmowa
@@ -185,6 +181,54 @@ http://195.150.20.7/rmf_trend_sounds
 http://195.150.20.7/rmf_w_pracy
 #EXTINF:0 radio=true,RMF Wakacyjne Top 100
 http://195.150.20.7/rmf_top4
+#EXTINF:0 radio=true,RMF MAXXX
+http://195.150.20.7/rmf_maxxx
+#EXTINF:0 radio=true,RMF MAXXX Hop-Bęc
+http://195.150.20.7/rmf_hop_bec
+#EXTINF:0 radio=true,RMF MAXXX - Bydgoszcz
+http://195.150.20.7/rmf_maxxx_byd
+#EXTINF:0 radio=true,RMF MAXXX - Częstochowa
+http://195.150.20.7/rmf_maxxx_cze
+#EXTINF:0 radio=true,RMF MAXXX - Dolny Śląsk
+http://195.150.20.7/rmf_maxxx_wal
+#EXTINF:0 radio=true,RMF MAXXX - Inowrocław
+http://195.150.20.7/rmf_maxxx_ino
+#EXTINF:0 radio=true,RMF MAXXX - Konin
+http://195.150.20.7/rmf_maxxx_knn
+#EXTINF:0 radio=true,RMF MAXXX - Kraków
+http://195.150.20.7/rmf_maxxx_kra
+#EXTINF:0 radio=true,RMF MAXXX - Krosno
+http://195.150.20.7/rmf_maxxx_ksn
+#EXTINF:0 radio=true,RMF MAXXX - Lubuskie
+http://195.150.20.7/rmf_maxxx_zgr
+#EXTINF:0 radio=true,RMF MAXXX - Mazowsze
+http://195.150.20.7/rmf_maxxx_cie
+#EXTINF:0 radio=true,RMF MAXXX - Nowy Sącz
+http://195.150.20.7/rmf_maxxx_nsa
+#EXTINF:0 radio=true,RMF MAXXX - Oleśnica
+http://195.150.20.7/rmf_maxxx_ole
+#EXTINF:0 radio=true,RMF MAXXX - Opole
+http://195.150.20.7/rmf_maxxx_opo
+#EXTINF:0 radio=true,RMF MAXXX - Piła
+http://195.150.20.7/rmf_maxxx_pil
+#EXTINF:0 radio=true,RMF MAXXX - Podlasie
+http://195.150.20.7/rmf_maxxx_lom
+#EXTINF:0 radio=true,RMF MAXXX - Pomorze
+http://195.150.20.7/rmf_maxxx_slu
+#EXTINF:0 radio=true,RMF MAXXX - Poznań
+http://195.150.20.7/rmf_maxxx_poz
+#EXTINF:0 radio=true,RMF MAXXX - Szczecin
+http://195.150.20.7/rmf_maxxx_szc
+#EXTINF:0 radio=true,RMF MAXXX - Śląsk
+http://195.150.20.7/rmf_maxxx_slk
+#EXTINF:0 radio=true,RMF MAXXX - Świętokrzyskie
+http://195.150.20.7/rmf_maxxx_kie
+#EXTINF:0 radio=true,RMF MAXXX - Trójmiasto
+http://195.150.20.7/rmf_maxxx_gda
+#EXTINF:0 radio=true,RMF MAXXX - Warszawa
+http://195.150.20.7/rmf_maxxx_waw
+#EXTINF:0 radio=true,RMF MAXXX - Włocławek
+http://195.150.20.7/rmf_maxxx_wlc
 #EXTINF:0 radio=true,Radiofonia
 http://195.150.20.7/radiofonia
 #EXTINF:0 radio=true,Radio Gra - Toruń
@@ -367,6 +411,8 @@ https://al.cdn.eurozet.pl/ALLRNB.mp3
 https://al.cdn.eurozet.pl/ALLAUT.mp3
 #EXTINF:0 radio=true,Retrostacja by Radiostacja
 https://pl02.cdn.eurozet.pl/PLAOLD.mp3
+#EXTINF:0 radio=true,OPEN FM DAB+
+http://stream.open.fm/420
 #EXTINF:0 radio=true,OPEN FM #popularne
 http://stream.open.fm/10
 #EXTINF:0 radio=true,OPEN FM 00s Hits
@@ -581,8 +627,6 @@ http://stream.open.fm/104
 http://stream.open.fm/78
 #EXTINF:0 radio=true,OPEN FM Radio Rak'n'Roll
 http://stream.open.fm/168
-#EXTINF:0 radio=true,OPEN FM Rap Sylwester
-http://stream.open.fm/356
 #EXTINF:0 radio=true,OPEN FM Reklama
 http://stream.open.fm/380
 #EXTINF:0 radio=true,OPEN FM Relaks
@@ -601,8 +645,6 @@ http://stream.open.fm/103
 http://stream.open.fm/410
 #EXTINF:0 radio=true,OPEN FM Sexy: Soul & R'n'B
 http://stream.open.fm/18
-#EXTINF:0 radio=true,OPEN FM Shanson
-http://stream.open.fm/169
 #EXTINF:0 radio=true,OPEN FM Smooth Jazz
 http://stream.open.fm/60
 #EXTINF:0 radio=true,OPEN FM Spacer
@@ -659,8 +701,6 @@ http://stream.open.fm/191
 http://stream.open.fm/365
 #EXTINF:0 radio=true,OPEN FM W Podróży
 http://stream.open.fm/381
-#EXTINF:0 radio=true,OPEN FM Walentynki
-http://stream.open.fm/330
 #EXTINF:0 radio=true,OPEN FM We Dwoje
 http://stream.open.fm/4
 #EXTINF:0 radio=true,OPEN FM Weekend Chill
@@ -689,6 +729,8 @@ http://stream.open.fm/337
 http://stream.open.fm/331
 #EXTINF:0 radio=true,Radio Luz
 http://stream.open.fm/334
+#EXTINF:0 radio=true,Radio LUX FM Lviv
+http://stream.open.fm/421
 #EXTINF:0 radio=true,Radio Newonce.radio
 http://stream.open.fm/374
 #EXTINF:0 radio=true,Radio Nowy Świat
@@ -991,8 +1033,6 @@ http://stream3.polskieradio.pl:8518
 http://stream3.polskieradio.pl:8546
 #EXTINF:0 radio=true,Moje Polskie Radio - Pink Floyd
 http://stream3.polskieradio.pl:8470
-#EXTINF:0 radio=true,Moje Polskie Radio - Piosenki Krzysztofa Krawczyka
-http://stream3.polskieradio.pl:8534
 #EXTINF:0 radio=true,Moje Polskie Radio - Piosenki Niezależnych
 http://stream3.polskieradio.pl:8578
 #EXTINF:0 radio=true,Moje Polskie Radio - Prog Rock
@@ -1123,8 +1163,6 @@ http://s0.radiohost.pl:8018/stream
 http://radio.italodance.pl:7694
 #EXTINF:0 radio=true,Radio Italodance - Neo80s
 http://neo80s.italodance.pl:7750
-#EXTINF:0 radio=true,Radio Italo New Generation
-https://s1.slotex.pl/shoutcast/7468/stream
 #EXTINF:0 radio=true,Radio Forever 80s
 http://178.32.62.172:8761/1
 #EXTINF:0 radio=true,Radio Muza 80
@@ -1241,8 +1279,6 @@ http://198.27.127.246:5663
 http://198.27.127.246:6082
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Muzyczne Klimaty Termanowskiego
 http://198.27.127.246:5441
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Muzyka Którą Kochacie '80
-http://198.27.127.246:5473
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Muzyka Którą Pamiętacie '90
 http://198.27.127.246:5424
 #EXTINF:0 radio=true,Radio Polski.FM Chicago - Muzyka Z Oklaskami
@@ -1379,8 +1415,10 @@ http://stream3.nadaje.com:9116/radiokrakow
 http://stream3.nadaje.com:9120/radiokrakow
 #EXTINF:0 radio=true,Radio Kraków - Tarnów
 http://stream3.nadaje.com:9118/radiokrakow
-#EXTINF:0 radio=true,Radio Kraków - Sportowy
+#EXTINF:0 radio=true,Radio Kraków - Transmisje
 http://stream3.nadaje.com:9128/radiokrakow
+#EXTINF:0 radio=true,Radio Kraków Kultura
+https://stream4.nadaje.com:9777/RKKultura
 #EXTINF:0 radio=true,Radio OFF Kraków
 http://stream2.nadaje.com:13332/offradiokrakow
 #EXTINF:0 radio=true,Radio Lublin
@@ -1402,13 +1440,13 @@ http://193.47.151.4:9000/ro3mp3
 #EXTINF:0 radio=true,Radio Opole 4 Historia
 http://193.47.151.4:9000/ro4mp3
 #EXTINF:0 radio=true,Radio Olsztyn
-http://213.73.25.178:7055
+https://rostr1.radioolsztyn.pl:8443/RO
 #EXTINF:0 radio=true,Radio PiK
 http://stream1.radiopik.pl:9004
 #EXTINF:0 radio=true,Radio Poznań
 http://stream4.nadaje.com:8578/poznan
 #EXTINF:0 radio=true,Radio RAM
-http://stream4.nadaje.com:9220/ram
+https://stream2.prw.pl:8001/radioram
 #EXTINF:0 radio=true,Radio Rzeszów
 https://streaming.g-news.pl:8040/rzeszow
 #EXTINF:0 radio=true,Radio Słupsk
@@ -1417,6 +1455,8 @@ http://91.232.4.33:8240/stream
 https://stream4.nadaje.com:11987/prs
 #EXTINF:0 radio=true,Radio Szczecin Extra
 https://stream3.nadaje.com:8201/szczecinextra
+#EXTINF:0 radio=true,Radio Warmii i Mazur
+https://rostr1.radioolsztyn.pl:8743/RWiM
 #EXTINF:0 radio=true,Radio Wrocław
 http://stream4.nadaje.com:9240/prw
 #EXTINF:0 radio=true,Radio Wrocław Kultura
@@ -1551,8 +1591,6 @@ http://s1.slotex.pl:7754
 http://88.156.75.206:8000/rypin
 #EXTINF:0 radio=true,Radio KDRP Sanktuarium /katolickie/
 http://s1.slotex.pl:7668
-#EXTINF:0 radio=true,Radio KDRP Tr. okazjonalna /katolickie/
-http://185.149.2.217:8030
 #EXTINF:0 radio=true,Radio KRP /katolickie/
 http://88.199.169.10:8000
 #EXTINF:0 radio=true,Radio Maryja /katolickie/
@@ -1688,7 +1726,7 @@ https://streaming.inten.pl:8020/bonton.mp3
 #EXTINF:0 radio=true,Radio Brylant
 http://s1.slotex.pl:7212
 #EXTINF:0 radio=true,Radio Bunt
-https://listen.web-radio.co.uk/proxy/radiobunt/stream
+https://boont.radioca.st/stream
 #EXTINF:0 radio=true,Radio Bursztynek
 http://s2.panelradiowy.pl:10036
 #EXTINF:0 radio=true,Radio Bzium
@@ -1722,9 +1760,9 @@ http://s1.slotex.pl:7346
 #EXTINF:0 radio=true,Radio Costarosa
 http://s1.slotex.pl:8058
 #EXTINF:0 radio=true,Radio Crazy Beat FM
-http://145.239.26.150:7666
+http://s3.slotex.pl:7698
 #EXTINF:0 radio=true,Radio Crazy Beat FM - House
-http://145.239.26.150:7784
+http://s3.slotex.pl:7696
 #EXTINF:0 radio=true,Radio Crazy Hits
 http://s2.slotex.pl:10150
 #EXTINF:0 radio=true,Radio Cyberstacja.fm
@@ -1872,7 +1910,7 @@ http://93.175.164.60:48000/stream
 #EXTINF:0 radio=true,Radio Index
 https://stream.wzielonej.pl/radio/8000/1
 #EXTINF:0 radio=true,Radio Inne
-http://stream4.nadaje.com:8386/test
+https://c34.radioboss.fm:18098/stream
 #EXTINF:0 radio=true,Radio Istebna
 http://s1.slotex.pl:7870
 #EXTINF:0 radio=true,Radio Jard
@@ -1889,8 +1927,6 @@ http://www.junctionpoland.com:8000/aac-320
 http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
 #EXTINF:0 radio=true,Radio Jutrzenka
 http://sluchaj.radiojutrzenka.waw.pl:12854/test
-#EXTINF:0 radio=true,Radio Kalejdoskop
-https://s3.slotex.pl/shoutcast/7114/stream
 #EXTINF:0 radio=true,Radio Kampus
 http://193.0.98.66:8002
 #EXTINF:0 radio=true,Radio Kapitał
@@ -1901,8 +1937,6 @@ http://stream3.nadaje.com:8048
 http://sc1.readycast.org:8516
 #EXTINF:0 radio=true,Radio Kechnowogard
 http://s3.slotex.pl:7016
-#EXTINF:0 radio=true,Radio Kiss Fm
-http://88.198.33.133:18318
 #EXTINF:0 radio=true,Radio KMY.pl
 http://protostar.shoutca.st:8102/stream
 #EXTINF:0 radio=true,Radio Kolor
@@ -1979,6 +2013,8 @@ https://stream11.hosterion.pl/8024/stream
 http://s1.slotex.pl:7592
 #EXTINF:0 radio=true,Radio Mixx.pl
 http://91.232.4.33:10600
+#EXTINF:0 radio=true,Radio Moc
+http://109.169.23.123:8592
 #EXTINF:0 radio=true,Radio ModFM
 http://radio.modules.pl:8500
 #EXTINF:0 radio=true,Radio Moje Marzenia
@@ -2137,8 +2173,6 @@ https://stream1.dabcom.pl/rdn_mpl
 https://stream1.dabcom.pl/rdn_ns
 #EXTINF:0 radio=true,Radio Rebel.fm
 https://s3.slotex.pl/shoutcast/7874/stream
-#EXTINF:0 radio=true,Radio Remi Rzeszów
-http://109.169.23.123:8592
 #EXTINF:0 radio=true,Radio Red7
 http://s1.cmp3.eu:8010/stream
 #EXTINF:0 radio=true,Radio Rekord
@@ -2155,6 +2189,8 @@ http://51.255.8.139:9048/stream
 http://s1.slotex.pl:7392
 #EXTINF:0 radio=true,Radio Rozgłośnia Błyskawica
 http://s1.slotex.pl:7266
+#EXTINF:0 radio=true,Radio Róża Miłości
+https://s3.slotex.pl/shoutcast/7338/stream
 #EXTINF:0 radio=true,Radio RSC
 http://stream3.nadaje.com:8054
 #EXTINF:0 radio=true,Radio RTO Trance
@@ -2324,7 +2360,7 @@ https://s4.yesstreaming.net:17078/stream
 #EXTINF:0 radio=true,Radio Września FM
 http://s1.slotex.pl:7446
 #EXTINF:0 radio=true,Radio Wyczes
-https://s3.slotex.pl/shoutcast/7316/stream
+https://radiowyczes.pl:8081/radio/8000/stream
 #EXTINF:0 radio=true,Radio Xmusic
 https://s3.slotex.pl/shoutcast/7010/stream
 #EXTINF:0 radio=true,Radio Z Qlturą
