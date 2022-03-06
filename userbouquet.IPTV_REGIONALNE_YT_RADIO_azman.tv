@@ -77,6 +77,8 @@
 #DESCRIPTION Polonico TV
 #SERVICE 4097:0:1:70ef:2c33:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/event/1230897/embed:Index TV
 #DESCRIPTION Index TV
+#SERVICE 4097:0:1:A648:C711:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UC2XrUJZZvY9DRoxGWVvOZSA/live:TVi Roland  (YT)
+#DESCRIPTION TVi Roland  (YT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCzk5x_PbhFKUoJx_HNTefDQ/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 4097:0:1:40:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
@@ -111,13 +113,15 @@
 #DESCRIPTION Kanał Sportowy  (YT)
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
 #DESCRIPTION --- RADIO  PL  IP ---
-#SERVICE 4097:0:2:1091:3ee:1:c00000:0:0:0:https%3a//radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1:Radio Maryja
+#SERVICE 4097:0:2:1091:3EE:1:C00000:0:0:0:https%3a//radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1:Radio Maryja
 #DESCRIPTION Radio Maryja
-#SERVICE 4097:0:2:1c9b:1ce8:71:820000:0:0:0:https%3a//stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8:Jedynka - PR
+#SERVICE 4097:0:2:1419:5DC:13E:820000:0:0:0:https%3a//online.radiojasnagora.pl%3a9000/rjg:Radio JASNA GÓRA
+#DESCRIPTION Radio JASNA GÓRA
+#SERVICE 4097:0:2:1C9B:1CE8:71:820000:0:0:0:https%3a//stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8:Jedynka - PR
 #DESCRIPTION Jedynka - PR
 #SERVICE 4097:0:2:0:151:48:0:0:0:0:http%3a//stream12.polskieradio.pl/pr2/pr2.sdp/chunklist_w414993639.m3u8:Dwójka - PR
 #DESCRIPTION Dwójka - PR
-#SERVICE 4097:0:2:1c9c:1ce8:71:820000:0:0:0:https%3a//stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8:Trójka - PR
+#SERVICE 4097:0:2:1C9C:1CE8:71:820000:0:0:0:https%3a//stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8:Trójka - PR
 #DESCRIPTION Trójka - PR
 #SERVICE 4097:0:1:100:0:48:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4/pr4.sdp/chunklist_w1225701260.m3u8:Czwórka - PR
 #DESCRIPTION Czwórka - PR
@@ -131,19 +135,21 @@
 #DESCRIPTION Polskie Radio 24
 #SERVICE 4097:0:2:0:155:0:0:0:0:0:http%3a//stream85.polskieradio.pl/pr5/pr5.sdp/chunklist_w1914007679.m3u8:Radio Poland
 #DESCRIPTION Radio Poland
-#SERVICE 4097:0:2:0:156:0:0:0:0:0:https%3a//stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8:Polskie Radio dla Zagranicy
-#DESCRIPTION Polskie Radio dla Zagranicy
-#SERVICE 4097:0:2:1c98:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
+#SERVICE 4097:0:2:0:150:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8962:Radio Poland DAB+
+#DESCRIPTION Radio Poland DAB+
+#SERVICE 4097:0:2:0:156:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8964:Radio Poland East
+#DESCRIPTION Radio Poland East
+#SERVICE 4097:0:2:1C98:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
 #DESCRIPTION RMF FM
-#SERVICE 4097:0:2:1c9e:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxxx
+#SERVICE 4097:0:2:1C9E:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxxx
 #DESCRIPTION RMF Maxxx
-#SERVICE 4097:0:2:1c9a:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
+#SERVICE 4097:0:2:1C9A:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
 #DESCRIPTION RMF Classic
-#SERVICE 4097:0:2:1410:5dc:13e:820000:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-net.mp3:Radio ZET
+#SERVICE 4097:0:2:1410:5DC:13E:820000:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-net.mp3:Radio ZET
 #DESCRIPTION Radio ZET
-#SERVICE 4097:0:2:142a:5dc:13e:820000:0:0:0:http%3a//stream.open.fm/200:Tok FM
+#SERVICE 4097:0:2:142A:5DC:13E:820000:0:0:0:http%3a//stream.open.fm/200:Tok FM
 #DESCRIPTION Tok FM
-#SERVICE 4097:0:2:1ca0:1ce8:71:820000:0:0:0:https%3a//pl2-play.adtonos.com/zote-przeboje:Radio Złote Przeboje
+#SERVICE 4097:0:2:1CA0:1CE8:71:820000:0:0:0:https%3a//pl2-play.adtonos.com/zote-przeboje:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
 #SERVICE 4097:0:2:0:157:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3990-1.mp3:VOX FM
 #DESCRIPTION VOX FM
@@ -209,5 +215,9 @@
 #DESCRIPTION Radio FTB
 #SERVICE 4097:0:2:0:188:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7600/stream:Radio HEAVEN
 #DESCRIPTION Radio HEAVEN
-#SERVICE 4097:0:2:334e:45b:1:c00000:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
+#SERVICE 4097:0:2:0:189:0:0:0:0:0:https%3a//n05a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABf192TAYAZaZvi_pL0_lB3w:Radio EXPRESS
+#DESCRIPTION Radio EXPRESS
+#SERVICE 4097:0:2:0:190:0:0:0:0:0:https%3a//stream1.dabcom.pl/rdn_mpl:RDN MAŁOPOLSKA
+#DESCRIPTION RDN MAŁOPOLSKA
+#SERVICE 4097:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
