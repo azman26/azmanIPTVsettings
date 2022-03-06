@@ -1,0 +1,71 @@
+#NAME RELAX TV  [azman]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8:Nature Live - Beaches Live
+#DESCRIPTION Nature Live - Beaches Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8:Nature Live - Tropics Live
+#DESCRIPTION Nature Live - Tropics Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8:Nature Live - Sunset Live
+#DESCRIPTION Nature Live - Sunset Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8:Nature Live - Rivers Live
+#DESCRIPTION Nature Live - Rivers Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8:Nature Live - Mountain Live
+#DESCRIPTION Nature Live - Mountain Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8:Nature Live - Lake Live
+#DESCRIPTION Nature Live - Lake Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8:Nature Live - Forest Live
+#DESCRIPTION Nature Live - Forest Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8:Nature Live - Aurora Live
+#DESCRIPTION Nature Live - Aurora Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8:Nature Live - Animal Live
+#DESCRIPTION Nature Live - Animal Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8:Nature Live - Waterfalls Live
+#DESCRIPTION Nature Live - Waterfalls Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8:Relax
+#DESCRIPTION Relax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8:Fireside
+#DESCRIPTION Fireside
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8:Loupe TV
+#DESCRIPTION Loupe TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8:Screen Dreams
+#DESCRIPTION Screen Dreams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8:Waterfalls Live
+#DESCRIPTION Waterfalls Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601506.us.archive.org/23/items/beach_202002/Beach.mp4:BeachRelax
+#DESCRIPTION BeachRelax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601509.us.archive.org/33/items/birds_20200214/Birds.mp4:BirdsRelax
+#DESCRIPTION BirdsRelax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia803101.us.archive.org/31/items/youtube-yFQ5T69afM4/A_Day_in_the_Caribbean_4K_3.5_HR_Nature_Relaxation_Ambient_Film_+_Calming_Music-yFQ5T69afM4.mp4:Caribbean
+#DESCRIPTION Caribbean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601407.us.archive.org/22/items/calmingsea/CalmingSea.mp4:CalmingSea
+#DESCRIPTION CalmingSea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia802706.us.archive.org/35/items/FireplaceForChristmas1HourAmbientalFireplaceFULLHD/Fireplace for Christmas - 1 hour Ambiental fireplace FULL HD.mp4:ChristmasFire3h
+#DESCRIPTION ChristmasFire3h
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601403.us.archive.org/1/items/fireplace2h/Fireplace2h.mp4:Fire2h
+#DESCRIPTION Fire2h
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia600200.us.archive.org/22/items/MassageASMR-434_20130605/Rainforest Relaxation Video 3 Hours in HD-WxPgv7oUNwM.mp4:RainforestRelax3H
+#DESCRIPTION RainforestRelax3H
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601509.us.archive.org/12/items/planetrelax632574/PlanetRelax.mp4:PlanetRelax
+#DESCRIPTION PlanetRelax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601507.us.archive.org/2/items/PARADISES/PARADISES.mp4:Paradies
+#DESCRIPTION Paradies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601406.us.archive.org/26/items/3hamazingnature/3H-AMAZING NATURE.mp4:AmazingNature3h
+#DESCRIPTION AmazingNature3h
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8:Fireplace Lounge
+#DESCRIPTION Fireplace Lounge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8:Fish Tank
+#DESCRIPTION Fish Tank
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8:Island Escape
+#DESCRIPTION Island Escape
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.57.68.33%3a8091/232/tracks-v1a1/index.m3u8:WORLD HD
+#DESCRIPTION WORLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thumbs.gfycat.com/BrilliantGreenEastrussiancoursinghounds-mobile.mp4:vk.com/public206703625
+#DESCRIPTION vk.com/public206703625
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.prosto.tv%3a7000/ch312/video.m3u8?secret=191yc7ul:Катастрофа ONLINE
+#DESCRIPTION Катастрофа ONLINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.prosto.tv%3a7000/ch316/video.m3u8?secret=191yc7ul:ЕкоСистема
+#DESCRIPTION ЕкоСистема
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.prosto.tv%3a7000/ch321/video.m3u8?secret=191yc7ul:Stream CITY
+#DESCRIPTION Stream CITY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.prosto.tv%3a7000/ch325/video.m3u8?secret=191yc7ul:Akwarium
+#DESCRIPTION Akwarium
+#SERVICE 4097:0:1:ca6b:19af:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=kOnIAoqQkd4&ab_channel=CatTrumpet:Kominek
+#DESCRIPTION Kominek
