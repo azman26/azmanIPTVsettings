@@ -1,4 +1,4 @@
-# Enigma2 Bouquets - Listy z linkami do przekazów polskich lokalnych stacji TV, kanałów na YouTube oraz przekazów z TVP Stream i HbbTV
+# Enigma2 Bouquets - Listy z linkami do przekazów polskich lokalnych stacji TV, kanałów na YouTube oraz przekazów z TVP GO, TVP Stream i HbbTV
 
 Do prawidłowego działania niektórych kanałów w listach wymagany jest dodatek STREAMLINK 
 (Wymagane wtyczki: limetv, pilotwppl, tvp, tvpstream, tvregionalna, akamaihd, filmon, okru, pluto, twitch, vk, youtube, facebook)
