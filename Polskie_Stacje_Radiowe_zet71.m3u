@@ -177,6 +177,8 @@ http://195.150.20.7/rmf_top_30_swieta
 http://195.150.20.7/rmf_top2
 #EXTINF:0 radio=true,RMF Trend Sounds
 http://195.150.20.7/rmf_trend_sounds
+#EXTINF:0 radio=true,RMF Ukraina
+http://195.150.20.7/rmf_ukraina
 #EXTINF:0 radio=true,RMF W Pracy
 http://195.150.20.7/rmf_w_pracy
 #EXTINF:0 radio=true,RMF Wakacyjne Top 100
@@ -1079,6 +1081,10 @@ http://stream3.polskieradio.pl:8492
 http://stream3.polskieradio.pl:8400
 #EXTINF:0 radio=true,Moje Polskie Radio - Zapiski ze współczesności
 http://stream3.polskieradio.pl:8406
+#EXTINF:0 radio=true,Moje Polskie Radio - Radio Ukraina
+https://stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8
+#EXTINF:0 radio=true,Moje Polskie Radio - Serwis Ukraiński
+https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
 #EXTINF:0 radio=true,Antyradio
 https://an.cdn.eurozet.pl/ant-waw.mp3
 #EXTINF:0 radio=true,Antyradio Katowice
