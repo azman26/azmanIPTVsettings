@@ -1,0 +1,71 @@
+#NAME UKRAINA
+#SERVICE 4097:0:1:B67C:5A42:EC:0:0:0:0:http%3a//stream.atr.ua/atr/live/index.m3u8:ATR
+#DESCRIPTION ATR
+#SERVICE 4097:0:1:fc42:9abf:ec:0:0:0:0:http%3a//91.238.194.116%3a8030/oneplusone:1+1
+#DESCRIPTION 1+1
+#SERVICE 4097:0:1:C8B2:3C16:EC:0:0:0:0:https%3a//edge2.iptv.macc.com.ua/img/inter_2/index.m3u8:Интер
+#DESCRIPTION Интер
+#SERVICE 4097:0:1:5e50:f874:ec:0:0:0:0:https%3a//edge2.iptv.macc.com.ua/img/ntn_2/index.m3u8:НТН
+#DESCRIPTION НТН
+#SERVICE 4097:0:1:1e14:ddb7:ec:0:0:0:0:https%3a//edge2.iptv.macc.com.ua/life/k1_2/index.m3u8:K1
+#DESCRIPTION K1
+#SERVICE 4097:0:1:F06E:B7F3:EC:0:0:0:0:http%3a//109.68.40.67/life/k1_3/index.m3u8:K1
+#DESCRIPTION K1
+#SERVICE 4097:0:1:4312:B4C8:EC:0:0:0:0:http%3a//95.67.106.10/hls/nta_ua_hi/index.m3u8:4 КАНАЛ
+#DESCRIPTION 4 КАНАЛ
+#SERVICE 4097:0:1:1513:4271:EC:0:0:0:0:http%3a//hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4%3atv5/chunklist_w1690375115.m3u8:TV5 ЗАПОРОЖЬЕ
+#DESCRIPTION TV5 ЗАПОРОЖЬЕ
+#SERVICE 4097:0:1:AF7A:EFBB:EC:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8:7 КАНАЛ (ОДЕССА)
+#DESCRIPTION 7 КАНАЛ (ОДЕССА)
+#SERVICE 4097:0:1:DA89:5DD7:EC:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/3tvod/3tvod-abr/3tvod/3tvod/chunks.m3u8:ТРЕТИЙ ЦИФРОВОЙ
+#DESCRIPTION ТРЕТИЙ ЦИФРОВОЙ
+#SERVICE 4097:0:1:2CA9:7F98:EC:0:0:0:0:http%3a//91.194.79.46%3a8081/stream1/channel1/chunks.m3u8:ПЕРВЫЙ ГОРОДСКОЙ (ОДЕССА)
+#DESCRIPTION ПЕРВЫЙ ГОРОДСКОЙ (ОДЕССА)
+#SERVICE 4097:0:1:7684:7D7:EC:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/chunks.m3u8:ПЕРВЫЙ ГОРОДСКОЙ (КРИВОЙ РОГ)
+#DESCRIPTION ПЕРВЫЙ ГОРОДСКОЙ (КРИВОЙ РОГ)
+#SERVICE 4097:0:1:97BC:7FD:EC:0:0:0:0:http%3a//hls.cdn.ua/1zahid.com_live/_definst_/livestream/chunklist_w1303918734.m3u8:ПЕРШИЙ ЗАХІДНИЙ (ЛЬВОВ)
+#DESCRIPTION ПЕРШИЙ ЗАХІДНИЙ (ЛЬВОВ)
+#SERVICE 4097:0:1:886C:2D09:EC:0:0:0:0:http%3a//prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8:ПРЯМИЙ
+#DESCRIPTION ПРЯМИЙ
+#SERVICE 4097:0:1:DE2C:42A7:EC:0:0:0:0:http%3a//ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8:UATV
+#DESCRIPTION UATV
+#SERVICE 4097:0:1:228B:3D56:EC:0:0:0:0:http%3a//streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8:34 КАНАЛ
+#DESCRIPTION 34 КАНАЛ
+#SERVICE 4097:0:1:3632:3864:EC:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/a1od/gtvod-abr/a1od/gtvod-480p/chunks.m3u8:GTV
+#DESCRIPTION GTV
+#SERVICE 4097:0:1:B65D:A8FE:EC:0:0:0:0:http%3a//stream.atr.ua/lale//live/index.m3u8:LALE
+#DESCRIPTION LALE
+#SERVICE 4097:0:1:9C2E:612C:EC:0:0:0:0:http%3a//hls.simon.ua/live-HD/live/chunks.m3u8:SIMON
+#DESCRIPTION SIMON
+#SERVICE 4097:0:1:A652:B7DF:EC:0:0:0:0:https%3a//cdn1.live-tv.od.ua%3a8083/ktkod/ktkod-abr-lq/ktkod/ktkod-sub/chunks.m3u8:Інший
+#DESCRIPTION Інший
+#SERVICE 4097:0:1:7330:287:EC:0:0:0:0:http%3a//stream1.luxnet.ua/luxstudio/smil%3aluxstudio.stream.smil/chunklist_b96000_ao_slukr.m3u8:РАДИО ЛЮКС
+#DESCRIPTION РАДИО ЛЮКС
+#SERVICE 4097:0:1:539F:D5C4:EC:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/riood/tisod-abr-lq/riood/tisod504/chunks.m3u8:ТIС (ОДЕССА)
+#DESCRIPTION ТIС (ОДЕССА)
+#SERVICE 4097:0:1:8BCB:3F8:EC:0:0:0:0:http%3a//hls.cdn.ua/tva.ua_live/livestream/chunklist_w1385867959.m3u8:ТВА (ЧЕРНIВЦI)
+#DESCRIPTION ТВА (ЧЕРНIВЦI)
+#SERVICE 4097:0:1:775E:2DB2:EC:0:0:0:0:http%3a//pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8:ПРАВДАТУТ
+#DESCRIPTION ПРАВДАТУТ
+#SERVICE 4097:0:1:3738:21BA:EC:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/31chod/31chod-abr/31chod/31chod-sub2/chunks.m3u8:РЕПОРТЕР
+#DESCRIPTION РЕПОРТЕР
+#SERVICE 4097:0:1:D99A:C139:EC:0:0:0:0:http%3a//langate.tv/promin/live_720/tracks-v1a1/mono.m3u8:ЧЕРНІВЕЦЬКИЙ ПРОМІНЬ
+#DESCRIPTION ЧЕРНІВЕЦЬКИЙ ПРОМІНЬ
+#SERVICE 4097:0:1:F05:1911:EC:0:0:0:0:http%3a//stream.ntktv.ua/s/ntk/ntk.m3u8:НТК
+#DESCRIPTION НТК
+#SERVICE 4097:0:1:6FD8:63BB:EC:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/wave/wave-abr/wave/wave-720/chunks.m3u8:ЮЖНАЯ ВОЛНА
+#DESCRIPTION ЮЖНАЯ ВОЛНА
+#SERVICE 4097:0:1:184E:A8E3:EC:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/bbb/bbbtv-abr/bbb/bbbtv-720p/chunks.m3u8:BAMBARBIA TV
+#DESCRIPTION BAMBARBIA TV
+#SERVICE 4097:0:1:3C18:896:EC:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/zdorovood/zdorovo/chunks.m3u8:ЗДОРОВЬЕ (ОДЕССА)
+#DESCRIPTION ЗДОРОВЬЕ (ОДЕССА)
+#SERVICE 4097:0:1:34A:E018:EC:0:0:0:0:http%3a//arhat.tv/public/720p/index.m3u8:АРХАТ ТВ
+#DESCRIPTION АРХАТ ТВ
+#SERVICE 4097:0:1:ff7a:26dc:ec:0:0:0:0:http%3a//50.7.231.221%3a8081/116/index.m3u8?wmsAuthSign=1645979338p85i29i222i58S47f7ece61fee1e0ef0870058bef7c2fc:T 24
+#DESCRIPTION T 24
+#SERVICE 4097:0:1:FA88:98CC:EC:0:0:0:0:http%3a//80.91.177.102%3a1935/live/live1/chunklist_w1781307087.m3u8:СВАРОЖИЧИ
+#DESCRIPTION СВАРОЖИЧИ
+#SERVICE 4097:0:1:D9BB:9EA6:EC:0:0:0:0:http%3a//live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8:CNL (ЕВРОПА)
+#DESCRIPTION CNL (ЕВРОПА)
+#SERVICE 4097:0:1:842F:CEC1:EC:0:0:0:0:http%3a//mr2live.1tvcrimea.ru%3a8080/24tvcrimea.m3u8:КРЫМ 24
+#DESCRIPTION КРЫМ 24
