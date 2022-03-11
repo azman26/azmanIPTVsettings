@@ -45,7 +45,7 @@
 #DESCRIPTION KANAŁ 10
 #SERVICE 4097:0:1:80:1:48:0:0:0:0:http%3a//live.ezotv.pl%3a1935/live/EZOTV/chunklist.m3u8:Ezo Tv
 #DESCRIPTION Ezo Tv
-#SERVICE 4097:0:1:1090:3ee:1:c00000:0:0:0:https%3a//trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8?m=1577689011:TV Trwam
+#SERVICE 4097:0:1:1090:3EE:1:C00000:0:0:0:https%3a//trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8?m=1577689011:TV Trwam
 #DESCRIPTION TV Trwam
 #SERVICE 4097:0:1:81:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCOZvcN7zQbf5kpi321dVcZQ/live:Dobre Media  (YT)
 #DESCRIPTION Dobre Media  (YT)
@@ -69,13 +69,13 @@
 #DESCRIPTION Truso TV
 #SERVICE 4097:0:1:96:1:48:0:0:0:0:https%3a//cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8:TV JASŁO
 #DESCRIPTION TV JASŁO
-#SERVICE 4097:0:1:2d3:7ed6:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCciOOtgCargNFJw2BzR12Qw/live:Arche TV  (YT)
+#SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCciOOtgCargNFJw2BzR12Qw/live:Arche TV  (YT)
 #DESCRIPTION Arche TV  (YT)
-#SERVICE 4097:0:1:bd0:d855:ec:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/hls/live.stream.m3u8:TVK Nowy Tomyśl
+#SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/hls/live.stream.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
-#SERVICE 4097:0:1:c163:ab6d:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/polonico/events/9905467:Polonico TV
+#SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/polonico/events/9905467:Polonico TV
 #DESCRIPTION Polonico TV
-#SERVICE 4097:0:1:70ef:2c33:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/event/1230897/embed:Index TV
+#SERVICE 4097:0:1:70EF:2C33:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/event/1230897/embed:Index TV
 #DESCRIPTION Index TV
 #SERVICE 4097:0:1:A648:C711:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UC2XrUJZZvY9DRoxGWVvOZSA/live:TVi Roland  (YT)
 #DESCRIPTION TVi Roland  (YT)
@@ -83,7 +83,7 @@
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 4097:0:1:40:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
 #DESCRIPTION WebCamera.pl
-#SERVICE 4097:0:0:f5c:73b7:ec:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl Plaże
+#SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl Plaże
 #DESCRIPTION WebCamera.pl Plaże
 #SERVICE 4097:0:1:100:0:48:0:0:0:0:http%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/chunklist_w1946682274.m3u8:Czwórka PR (Visual Radio)
 #DESCRIPTION Czwórka PR (Visual Radio)
@@ -93,35 +93,47 @@
 #DESCRIPTION Radio Kraków (Visual Radio)
 #SERVICE 4097:0:1:103:0:48:0:0:0:0:https%3a//1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8:Radio Wrocław (Visual Radio)
 #DESCRIPTION Radio Wrocław (Visual Radio)
-#SERVICE 4097:0:1:3204:b5d9:ec:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Radio Wrocław Kultura (Visual Radio)
+#SERVICE 4097:0:1:3204:B5D9:EC:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Radio Wrocław Kultura (Visual Radio)
 #DESCRIPTION Radio Wrocław Kultura (Visual Radio)
-#SERVICE 4097:0:1:ac96:c97c:ec:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
+#SERVICE 4097:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
+#SERVICE 4097:0:1:205:D9A5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//kl6.tech5.pl%3a8009/hls/live.stream.m3u8%2520--http-add-audio=https%3a//stream6.nadaje.com%3a15293/radioradompl:Radio Radom (Visual Radio)
+#DESCRIPTION Radio Radom (Visual Radio)
+#SERVICE 4097:0:1:6DAF:AEF9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//video.raciborz24.pl/hls/vanessa_high/index.m3u8%2520--http-add-audio=http%3a//s1.slotex.pl%3a7358/stream/1/:Vanessa FM (Visual Radio)
+#DESCRIPTION Vanessa FM (Visual Radio)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//informacje.kolobrzeg.pl/video/wydarzenia.mp4:TV Kablowa Kołobrzeg (Serwis Inf)
 #DESCRIPTION TV Kablowa Kołobrzeg (Serwis Inf)
 #SERVICE 4097:0:1:85:1:48:0:0:0:0:http%3a//www.tvkstella.pl/media/flash_programu.f4v:TVK Stella (Serwis Inf.)
 #DESCRIPTION TVK Stella (Serwis Inf.)
-#SERVICE 4097:0:1:4289:2bc0:13e:820000:0:0:0:https%3a//ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8:TV Republika
+#SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8:TV Republika
 #DESCRIPTION TV Republika
-#SERVICE 4097:0:19:4279:2bc0:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live:wPolsce.pl  (YT)
+#SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live:wPolsce.pl  (YT)
 #DESCRIPTION wPolsce.pl  (YT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCjkNubkfecaFLZbHnnsz6pw/live:Onet Rano  (YT) (7%3a55-9%3a30)
 #DESCRIPTION Onet Rano  (YT) (7:55-9:30)
-#SERVICE 4097:0:1:374:f6ed:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCJ33TxiuEEYWLZ4ahILb0zQ/live:Super Express  (YT) (8%3a45-10%3a00)
+#SERVICE 4097:0:1:374:F6ED:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCJ33TxiuEEYWLZ4ahILb0zQ/live:Super Express  (YT) (8%3a45-10%3a00)
 #DESCRIPTION Super Express  (YT) (8:45-10:00)
-#SERVICE 4097:0:1:2775:e944:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCIfI7Yo22SMKp5PraztHM6w/live:Kanał Sportowy  (YT)
+#SERVICE 4097:0:1:C83B:CBCC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UC-wh71MEZ4KAx94aZyoG_qg/live:Wirtualna Polska News  (YT) (7%3a30-9%3a00)
+#DESCRIPTION Wirtualna Polska News  (YT) (7:30-9:00)
+#SERVICE 4097:0:1:2D12:2A97:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCkC9YgH_FlqOhOIoTDFt4CA/live:RMF24 - Poranne rozmowy   (YT)  (8%3a00-8%3a30)
+#DESCRIPTION RMF24 - Poranne rozmowy   (YT)  (8:00-8:30)
+#SERVICE 4097:0:1:CDB8:9F6B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=oKMyDpKk0SQ/live:Gość Radia ZET  (YT) (8%3a00-8%3a30)
+#DESCRIPTION Gość Radia ZET  (YT) (8:00-8:30)
+#SERVICE 4097:0:1:F106:277:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCMA-v2JV_9ZYNoY4uY4mRWA/live:Radio WNET  (YT)
+#DESCRIPTION Radio WNET  (YT)
+#SERVICE 4097:0:1:2775:E944:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCIfI7Yo22SMKp5PraztHM6w/live:Kanał Sportowy  (YT)
 #DESCRIPTION Kanał Sportowy  (YT)
-#SERVICE 1:64:8:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
+#SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
 #DESCRIPTION --- RADIO  PL  IP ---
-#SERVICE 4097:0:2:1091:3EE:1:C00000:0:0:0:https%3a//radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1:Radio Maryja
+#SERVICE 4097:0:2:1091:3ee:1:c00000:0:0:0:https%3a//radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1:Radio Maryja
 #DESCRIPTION Radio Maryja
-#SERVICE 4097:0:2:1419:5DC:13E:820000:0:0:0:https%3a//online.radiojasnagora.pl%3a9000/rjg:Radio JASNA GÓRA
+#SERVICE 4097:0:2:1419:5dc:13e:820000:0:0:0:https%3a//online.radiojasnagora.pl%3a9000/rjg:Radio JASNA GÓRA
 #DESCRIPTION Radio JASNA GÓRA
-#SERVICE 4097:0:2:1C9B:1CE8:71:820000:0:0:0:https%3a//stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8:Jedynka - PR
+#SERVICE 4097:0:2:1c9b:1ce8:71:820000:0:0:0:https%3a//stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8:Jedynka - PR
 #DESCRIPTION Jedynka - PR
 #SERVICE 4097:0:2:0:151:48:0:0:0:0:http%3a//stream12.polskieradio.pl/pr2/pr2.sdp/chunklist_w414993639.m3u8:Dwójka - PR
 #DESCRIPTION Dwójka - PR
-#SERVICE 4097:0:2:1C9C:1CE8:71:820000:0:0:0:https%3a//stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8:Trójka - PR
+#SERVICE 4097:0:2:1c9c:1ce8:71:820000:0:0:0:https%3a//stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8:Trójka - PR
 #DESCRIPTION Trójka - PR
 #SERVICE 4097:0:1:100:0:48:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4/pr4.sdp/chunklist_w1225701260.m3u8:Czwórka - PR
 #DESCRIPTION Czwórka - PR
@@ -139,17 +151,17 @@
 #DESCRIPTION Radio Poland DAB+
 #SERVICE 4097:0:2:0:156:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8964:Radio Poland East
 #DESCRIPTION Radio Poland East
-#SERVICE 4097:0:2:1C98:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
+#SERVICE 4097:0:2:1c98:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
 #DESCRIPTION RMF FM
-#SERVICE 4097:0:2:1C9E:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxxx
+#SERVICE 4097:0:2:1c9e:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxxx
 #DESCRIPTION RMF Maxxx
-#SERVICE 4097:0:2:1C9A:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
+#SERVICE 4097:0:2:1c9a:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
 #DESCRIPTION RMF Classic
-#SERVICE 4097:0:2:1410:5DC:13E:820000:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-net.mp3:Radio ZET
+#SERVICE 4097:0:2:1410:5dc:13e:820000:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-net.mp3:Radio ZET
 #DESCRIPTION Radio ZET
-#SERVICE 4097:0:2:142A:5DC:13E:820000:0:0:0:http%3a//stream.open.fm/200:Tok FM
+#SERVICE 4097:0:2:142a:5dc:13e:820000:0:0:0:http%3a//stream.open.fm/200:Tok FM
 #DESCRIPTION Tok FM
-#SERVICE 4097:0:2:1CA0:1CE8:71:820000:0:0:0:https%3a//pl2-play.adtonos.com/zote-przeboje:Radio Złote Przeboje
+#SERVICE 4097:0:2:1ca0:1ce8:71:820000:0:0:0:https%3a//pl2-play.adtonos.com/zote-przeboje:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
 #SERVICE 4097:0:2:0:157:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3990-1.mp3:VOX FM
 #DESCRIPTION VOX FM
@@ -219,5 +231,5 @@
 #DESCRIPTION Radio EXPRESS
 #SERVICE 4097:0:2:0:190:0:0:0:0:0:https%3a//stream1.dabcom.pl/rdn_mpl:RDN MAŁOPOLSKA
 #DESCRIPTION RDN MAŁOPOLSKA
-#SERVICE 4097:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
+#SERVICE 4097:0:2:c1c:ddb:ec:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
