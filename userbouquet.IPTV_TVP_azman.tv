@@ -43,6 +43,8 @@
 #DESCRIPTION TVP Historia 2
 #SERVICE 4097:0:1:1:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=44418549:TVP Wilno
 #DESCRIPTION TVP Wilno
+#SERVICE 5002:0:1:FB68:E26:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=53415886:TVP Msze
+#DESCRIPTION TVP Msze
 #SERVICE 4097:0:1:6:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1729:Wiadomości TVP (8%3a00, 12%3a00, 15%3a00, 19%3a30)
 #DESCRIPTION Wiadomości TVP (8:00, 12:00, 15:00, 19:30)
 #SERVICE 4097:0:1:27:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1751:PNŚ (7%3a55-11%3a30) Panorama TVP (18%3a00-18%3a20)
