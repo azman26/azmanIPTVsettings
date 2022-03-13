@@ -412,7 +412,7 @@ https://al.cdn.eurozet.pl/ALLRNB.mp3
 #EXTINF:0 radio=true,Radiostacja Wieczorny Chill
 https://al.cdn.eurozet.pl/ALLAUT.mp3
 #EXTINF:0 radio=true,Retrostacja by Radiostacja
-https://pl02.cdn.eurozet.pl/PLAOLD.mp3
+https://pl.cdn.eurozet.pl/PLAOLD.mp3
 #EXTINF:0 radio=true,OPEN FM DAB+
 http://stream.open.fm/420
 #EXTINF:0 radio=true,OPEN FM #popularne
@@ -513,7 +513,7 @@ http://stream.open.fm/69
 http://stream.open.fm/361
 #EXTINF:0 radio=true,OPEN FM Fitness
 http://stream.open.fm/65
-#EXTINF:0 radio=true,OPEN FM Freszzz: Zima
+#EXTINF:0 radio=true,OPEN FM Freszzz: Wiosna 2022
 http://stream.open.fm/39
 #EXTINF:0 radio=true,OPEN FM Giganci Rocka
 http://stream.open.fm/118
@@ -555,12 +555,6 @@ http://stream.open.fm/166
 http://stream.open.fm/362
 #EXTINF:0 radio=true,OPEN FM K-pop
 http://stream.open.fm/147
-#EXTINF:0 radio=true,OPEN FM Karnawał 70 80 90
-http://stream.open.fm/133
-#EXTINF:0 radio=true,OPEN FM Karnawał z Disco Polo
-http://stream.open.fm/132
-#EXTINF:0 radio=true,OPEN FM Karnawałowe Hity
-http://stream.open.fm/71
 #EXTINF:0 radio=true,OPEN FM Kids - Muzyka & Ciekawostki
 http://stream.open.fm/16
 #EXTINF:0 radio=true,OPEN FM Klub 90
@@ -907,18 +901,20 @@ http://ext03.ic.smcdn.pl/6100-1.mp3
 http://ext03.ic.smcdn.pl/6170-1.mp3
 #EXTINF:0 radio=true,VOX Disco Party
 http://ext03.ic.smcdn.pl/6180-1.mp3
+#EXTINF:0 radio=true,VOX Wesele Marzeń
+http://ext03.ic.smcdn.pl/6020-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Polska
 http://ext03.ic.smcdn.pl/4000-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Bydgoszcz
-https://pl02.cdn.eurozet.pl/plu-bdg.mp3
+https://pl.cdn.eurozet.pl/plu-bdg.mp3
 #EXTINF:0 radio=true,Radio Plus - Gdańsk
-https://pl02.cdn.eurozet.pl/plu-gdn.mp3
+https://pl.cdn.eurozet.pl/plu-gdn.mp3
 #EXTINF:0 radio=true,Radio Plus - Głogów
-https://pl02.cdn.eurozet.pl/plu-glg.mp3
+https://pl.cdn.eurozet.pl/plu-glg.mp3
 #EXTINF:0 radio=true,Radio Plus - Gniezno
-https://pl02.cdn.eurozet.pl/plu-gnz.mp3
+https://pl.cdn.eurozet.pl/plu-gnz.mp3
 #EXTINF:0 radio=true,Radio Plus - Gorzów
-https://pl02.cdn.eurozet.pl/plu-grz.mp3
+https://pl.cdn.eurozet.pl/plu-grz.mp3
 #EXTINF:0 radio=true,Radio Plus - Koszalin
 http://ext03.ic.smcdn.pl/4270-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Kraków
@@ -934,35 +930,35 @@ http://ext03.ic.smcdn.pl/4110-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Podhale
 http://ext03.ic.smcdn.pl/4340-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Radom
-https://pl02.cdn.eurozet.pl/plu-rdo.mp3
+https://pl.cdn.eurozet.pl/plu-rdo.mp3
 #EXTINF:0 radio=true,Radio Plus - Szczecin
 http://ext03.ic.smcdn.pl/4260-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Warszawa
-https://pl02.cdn.eurozet.pl/plu-waw.mp3
+https://pl.cdn.eurozet.pl/plu-waw.mp3
 #EXTINF:0 radio=true,Radio Plus - Zielona Góra
-https://pl02.cdn.eurozet.pl/plu-zgr.mp3
+https://pl.cdn.eurozet.pl/plu-zgr.mp3
 #EXTINF:0 radio=true,Planeta FM
-https://pl02.cdn.eurozet.pl/pla-net.mp3
+https://pl.cdn.eurozet.pl/pla-net.mp3
 #EXTINF:0 radio=true,Planeta FM - Clubbing
-https://pl02.cdn.eurozet.pl/PLACLU.mp3
+https://pl.cdn.eurozet.pl/PLACLU.mp3
 #EXTINF:0 radio=true,Planeta FM - Dope Hits
-https://pl02.cdn.eurozet.pl/PLAHOU.mp3
+https://pl.cdn.eurozet.pl/PLAHOU.mp3
 #EXTINF:0 radio=true,Planeta FM - Electronic Wave
-https://pl02.cdn.eurozet.pl/PLAEDM.mp3
+https://pl.cdn.eurozet.pl/PLAEDM.mp3
 #EXTINF:0 radio=true,Planeta FM - Good Vibes
-https://pl02.cdn.eurozet.pl/PLACHI.mp3
+https://pl.cdn.eurozet.pl/PLACHI.mp3
 #EXTINF:0 radio=true,Planeta FM - Hip Hop Stacja
-https://pl02.cdn.eurozet.pl/PLAMAD.mp3
+https://pl.cdn.eurozet.pl/PLAMAD.mp3
 #EXTINF:0 radio=true,Planeta FM - Indie Day Mood
-https://pl02.cdn.eurozet.pl/PLAIDM.mp3
+https://pl.cdn.eurozet.pl/PLAIDM.mp3
 #EXTINF:0 radio=true,Planeta FM - Love
-https://pl02.cdn.eurozet.pl/PLAGOU.mp3
+https://pl.cdn.eurozet.pl/PLAGOU.mp3
 #EXTINF:0 radio=true,Planeta FM - Make It POP
-https://pl02.cdn.eurozet.pl/PLARNB.mp3
+https://pl.cdn.eurozet.pl/PLARNB.mp3
 #EXTINF:0 radio=true,Planeta FM - Oldschool Hip Hop
-https://pl02.cdn.eurozet.pl/ALLSWA.mp3
+https://pl.cdn.eurozet.pl/ALLSWA.mp3
 #EXTINF:0 radio=true,Planeta FM - Trance Vibes
-https://pl02.cdn.eurozet.pl/PLATRA.mp3
+https://pl.cdn.eurozet.pl/PLATRA.mp3
 #EXTINF:0 radio=true,Moje Polskie Radio - Jedynka
 http://stream3.polskieradio.pl:8950
 #EXTINF:0 radio=true,Moje Polskie Radio - Dwójka
@@ -1051,6 +1047,8 @@ http://stream3.polskieradio.pl:8556
 http://stream3.polskieradio.pl:8404
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Klenczon
 http://stream3.polskieradio.pl:8566
+#EXTINF:0 radio=true,Moje Polskie Radio - Radio Młynarski
+http://stream3.polskieradio.pl:8534
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Norwid
 http://stream3.polskieradio.pl:8416
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Osiecka
@@ -1183,7 +1181,7 @@ http://radio.top80.pl:9940
 http://sc.noviktech.pl:8300
 #EXTINF:0 radio=true,Radio Mirage - Italo Dance
 https://ssl-1.radiohost.pl:9569
-#EXTINF:0 radio=true,Radio Mirage - Prywatka
+#EXTINF:0 radio=true,Radio Mirage - Prywatka 90's
 https://ssl-1.radiohost.pl:7214
 #EXTINF:0 radio=true,Radio Mirage - Space
 https://ssl-1.radiohost.pl:9563
@@ -1829,6 +1827,8 @@ http://live.elka.pl:8000/elka
 http://91.232.4.33:9545
 #EXTINF:0 radio=true,Radio Eurostacja
 https://stream11.hosterion.pl/8004/stream.mp3
+#EXTINF:0 radio=true,Radio EuroStacja.pl
+https://s3.slotex.pl/shoutcast/7506/stream
 #EXTINF:0 radio=true,Radio Express FM
 https://stream.rcs.revma.com/yx6cub73kwzuv
 #EXTINF:0 radio=true,Radio Extra Szczecin
@@ -1863,8 +1863,6 @@ http://s4.radiohost.pl:7088
 https://s3.slotex.pl/shoutcast/7400/stream
 #EXTINF:0 radio=true,Radio Full.FM
 http://s2.radio.co:80/s482ce1755/listen
-#EXTINF:0 radio=true,Radio Fuzja
-https://s3.slotex.pl/shoutcast/7840/stream
 #EXTINF:0 radio=true,Radio Galaktyka
 http://sc1.readycast.org:8060
 #EXTINF:0 radio=true,Radio Gdynia
@@ -1924,7 +1922,7 @@ http://online.jard.pl:8744/jard1
 #EXTINF:0 radio=true,Radio Jazz FM
 https://radiojazz.out.airtime.pro/radiojazz_a
 #EXTINF:0 radio=true,Radio JazzKultura
-https://stream3.nadaje.com:8047/jazzkultura
+https://stream.radio.co/s1136b59f3/listen
 #EXTINF:0 radio=true,Radio Jolanda
 http://s1.slotex.pl:7962
 #EXTINF:0 radio=true,Radio Junction Poland
@@ -2003,8 +2001,6 @@ https://stream.rcs.revma.com/q18ty3qhwzzuv
 https://s3.slotex.pl/shoutcast/7420/stream
 #EXTINF:0 radio=true,Radio Metal Live Radio
 http://51.255.8.139:8738/stream
-#EXTINF:0 radio=true,Radio Metro
-http://s1.slotex.pl:7422
 #EXTINF:0 radio=true,Radio Miasto Muzyki
 http://s1.slotex.pl:7120
 #EXTINF:0 radio=true,Radio Michałowo FM
@@ -2029,8 +2025,6 @@ http://s2.panelradiowy.pl:10014
 http://streaming.task.gda.pl:8000/mors
 #EXTINF:0 radio=true,Radio MRS
 http://play.radiomrs.com:7494
-#EXTINF:0 radio=true,Radio MTL
-http://s1.slotex.pl:7108
 #EXTINF:0 radio=true,Radio Musicmania
 https://s3.slotex.pl/shoutcast/7774/stream
 #EXTINF:0 radio=true,Radio MusixMax
@@ -2243,8 +2237,6 @@ https://s4.radio.co/s8c7d5e4e1/listen
 http://79.137.68.157:8100
 #EXTINF:0 radio=true,Radio Spioch
 http://s1.slotex.pl:7138/stream/1/
-#EXTINF:0 radio=true,Radio Spiritual
-https://mpc.mediacp.eu/stream/9322
 #EXTINF:0 radio=true,Radio Stacja Impreza PL
 http://185.24.219.206:9090/live
 #EXTINF:0 radio=true,Radio Stacja Mikrofonia
@@ -2319,8 +2311,6 @@ https://www.4stream.pl/stream/18310
 http://4stream.pl:18124
 #EXTINF:0 radio=true,Radio U Margaretki
 https://s3.slotex.pl/shoutcast/7636/stream
-#EXTINF:0 radio=true,Radio U Rudej
-https://s3.slotex.pl/shoutcast/7054/stream
 #EXTINF:0 radio=true,Radio Ujot FM
 http://radio.wzks.uj.edu.pl:8000/ujotfm128
 #EXTINF:0 radio=true,Radio UK FM
@@ -2347,8 +2337,6 @@ http://51.255.8.139:8810/stream
 https://sluchaj.link:5443/wasze
 #EXTINF:0 radio=true,Radio Weekend
 http://stream.weekendfm.pl:8000/weekendfm_najlepsza.mp3
-#EXTINF:0 radio=true,Radio Weszło FM
-http://streams.radio.co:80/s7d70a7895/listen
 #EXTINF:0 radio=true,Radio Wicher
 http://s3.slotex.pl:7810
 #EXTINF:0 radio=true,Radio Widzew
