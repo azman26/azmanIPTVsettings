@@ -99,5 +99,5 @@
 #DESCRIPTION ЖАРА TV
 #SERVICE 4097:0:1:d226:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//limehd.tv/muzsouz:МУЗ СОЮЗ
 #DESCRIPTION МУЗ СОЮЗ
-#SERVICE 4097:0:1:B3D9:E67:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/musichistorytv:Music History Tv
+#SERVICE 4097:0:1:b3d9:e67:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/musichistorytv:Music History Tv
 #DESCRIPTION Music History Tv
