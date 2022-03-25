@@ -1,5 +1,5 @@
 #NAME LIMEHD_OK.RU  [azman]
-#SERVICE 1:64:19:0:0:0:0:0:0:0::--- LimeHD TV Music ---
+#SERVICE 1:64:18:0:0:0:0:0:0:0::--- LimeHD TV Music ---
 #DESCRIPTION --- LimeHD TV Music ---
 #SERVICE 4097:0:1:a14:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/muztv:MUZ TV
 #DESCRIPTION MUZ TV
@@ -45,7 +45,7 @@
 #DESCRIPTION МUZ SOUZ
 #SERVICE 4097:0:1:ea15:c53d:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/folk_music:FOLK MUSIC TV
 #DESCRIPTION FOLK MUSIC TV
-#SERVICE 1:64:1A:0:0:0:0:0:0:0::--- OK.RU Music ---
+#SERVICE 1:64:19:0:0:0:0:0:0:0::--- OK.RU Music ---
 #DESCRIPTION --- OK.RU Music ---
 #SERVICE 4097:0:1:5c7f:f799:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/3099174903444:Mafi2a TV
 #DESCRIPTION Mafi2a TV
@@ -77,7 +77,7 @@
 #DESCRIPTION STRANA FM
 #SERVICE 4097:0:1:50:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/924131000:SHANSON TV
 #DESCRIPTION SHANSON TV
-#SERVICE 1:64:1B:0:0:0:0:0:0:0::--- LimeHD TV ---
+#SERVICE 1:64:1A:0:0:0:0:0:0:0::--- LimeHD TV ---
 #DESCRIPTION --- LimeHD TV ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/otr:ОТР
 #DESCRIPTION ОТР
