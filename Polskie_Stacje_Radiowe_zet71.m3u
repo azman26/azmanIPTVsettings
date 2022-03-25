@@ -237,12 +237,6 @@ http://195.150.20.7/radiofonia
 http://195.150.20.7/radio_gra
 #EXTINF:0 radio=true,Radio Gra - Wrocław
 http://195.150.20.7/radio_gra_wroc
-#EXTINF:0 radio=true,Sexify x Netflix Chill
-http://195.150.20.7/sexify_chill
-#EXTINF:0 radio=true,Sexify x Netflix Power
-http://195.150.20.7/sexify_power
-#EXTINF:0 radio=true,Sexify x Netflix Vibes
-http://195.150.20.7/sexify_vibes
 #EXTINF:0 radio=true,Sizeer FM
 http://195.150.20.7/sizeer_fm
 #EXTINF:0 radio=true,ZET Radio
@@ -427,8 +421,6 @@ http://stream.open.fm/3
 http://stream.open.fm/14
 #EXTINF:0 radio=true,OPEN FM 100% Hits
 http://stream.open.fm/64
-#EXTINF:0 radio=true,OPEN FM 100% Ukraina
-http://stream.open.fm/167
 #EXTINF:0 radio=true,OPEN FM 500 Alternative Hits
 http://stream.open.fm/55
 #EXTINF:0 radio=true,OPEN FM 500 Electronic Hits
@@ -631,8 +623,6 @@ http://stream.open.fm/112
 http://stream.open.fm/25
 #EXTINF:0 radio=true,OPEN FM Rock Ballady
 http://stream.open.fm/61
-#EXTINF:0 radio=true,OPEN FM Rock UA
-http://stream.open.fm/172
 #EXTINF:0 radio=true,OPEN FM Rocks
 http://stream.open.fm/77
 #EXTINF:0 radio=true,OPEN FM Sad
@@ -691,8 +681,6 @@ http://stream.open.fm/354
 http://stream.open.fm/101
 #EXTINF:0 radio=true,OPEN FM Tylko Polskie Przeboje
 http://stream.open.fm/111
-#EXTINF:0 radio=true,OPEN FM Ukraina Top 20
-http://stream.open.fm/191
 #EXTINF:0 radio=true,OPEN FM W Domu
 http://stream.open.fm/365
 #EXTINF:0 radio=true,OPEN FM W Podróży
@@ -725,8 +713,6 @@ http://stream.open.fm/337
 http://stream.open.fm/331
 #EXTINF:0 radio=true,Radio Luz
 http://stream.open.fm/334
-#EXTINF:0 radio=true,Radio LUX FM Lviv
-http://stream.open.fm/421
 #EXTINF:0 radio=true,Radio Newonce.radio
 http://stream.open.fm/374
 #EXTINF:0 radio=true,Radio Nowy Świat
@@ -735,12 +721,12 @@ http://stream.open.fm/368
 http://stream.open.fm/203
 #EXTINF:0 radio=true,Radio PRL
 http://stream.open.fm/373
+#EXTINF:0 radio=true,Rock Radio
+http://stream.open.fm/202
 #EXTINF:0 radio=true,Radio Rockserwis.fm
 http://stream.open.fm/379
 #EXTINF:0 radio=true,Radio Spacja
 http://stream.open.fm/375
-#EXTINF:0 radio=true,Rock Radio
-http://stream.open.fm/202
 #EXTINF:0 radio=true,Tok FM
 http://stream.open.fm/200
 #EXTINF:0 radio=true,WP Klub
@@ -749,6 +735,16 @@ http://stream.open.fm/363
 http://stream.open.fm/367
 #EXTINF:0 radio=true,Radio Złote Przeboje
 http://stream.open.fm/201
+#EXTINF:0 radio=true,OPEN FM 100% Ukrayina
+http://stream.open.fm/167
+#EXTINF:0 radio=true,Radio Krayina FM
+http://stream.open.fm/422
+#EXTINF:0 radio=true,Radio Lyuks FM Leviv
+http://stream.open.fm/421
+#EXTINF:0 radio=true,Radio NRJ Ukrayina
+http://stream.open.fm/423
+#EXTINF:0 radio=true,Radio Pyatnica
+http://stream.open.fm/424
 #EXTINF:0 radio=true,ESKA - Bełchatów
 http://ext03.ic.smcdn.pl/2010-1.mp3
 #EXTINF:0 radio=true,ESKA - Beskidy
@@ -1813,6 +1809,10 @@ http://s1.slotex.pl:7174
 http://198.27.127.246:5248
 #EXTINF:0 radio=true,Radio Eden Fm
 http://s1.slotex.pl:7402
+#EXTINF:0 radio=true,Radio eF - Best of 90's
+http://radioef.pl:8000/stream01.mp3
+#EXTINF:0 radio=true,Radio eF - Hits from the Heart
+http://radioef.pl:8000/stream02.mp3
 #EXTINF:0 radio=true,Radio Egida
 http://radiointernetowe.net:9950
 #EXTINF:0 radio=true,Radio EL-Stacja
@@ -1825,6 +1825,8 @@ http://live.elka.pl:8000/miedziowe.pl
 http://live.elka.pl:8000/elka
 #EXTINF:0 radio=true,Radio Emi
 http://91.232.4.33:9545
+#EXTINF:0 radio=true,Radio Euroradio FM
+http://stream.euroradio.fm:8000/euroradio1
 #EXTINF:0 radio=true,Radio Eurostacja
 https://stream11.hosterion.pl/8004/stream.mp3
 #EXTINF:0 radio=true,Radio EuroStacja.pl
@@ -1887,6 +1889,8 @@ https://s3.slotex.pl/shoutcast/7398/stream
 http://s1.slotex.pl:7508
 #EXTINF:0 radio=true,Radio Halo.Radio
 https://s3.radio.co/s6b9e36d1c/listen
+#EXTINF:0 radio=true,Radio Hard Blues
+http://stream.zenolive.com/qd8hws5efseuv
 #EXTINF:0 radio=true,Radio Heaven
 https://s3.slotex.pl/shoutcast/7600/stream
 #EXTINF:0 radio=true,Radio HellsFM
@@ -1925,6 +1929,8 @@ https://radiojazz.out.airtime.pro/radiojazz_a
 https://stream.radio.co/s1136b59f3/listen
 #EXTINF:0 radio=true,Radio Jolanda
 http://s1.slotex.pl:7962
+#EXTINF:0 radio=true,Radio Jump
+http://radioo.eu:9900
 #EXTINF:0 radio=true,Radio Junction Poland
 http://www.junctionpoland.com:8000/aac-320
 #EXTINF:0 radio=true,Radio Jura
@@ -1967,6 +1973,8 @@ https://streaming.g-news.pl/radio/8050/leliwa
 http://switch-pl1.radiokitstream.org:8100/lemfm-current.mp3
 #EXTINF:0 radio=true,Radio Lemko
 http://shoutcast.com.pl:7990
+#EXTINF:0 radio=true,Radio Licznik FM
+http://stream.zeno.fm/cdmhcpwy1f9uv
 #EXTINF:0 radio=true,Radio Lipsko
 http://s1.slotex.pl:7298
 #EXTINF:0 radio=true,Radio Listek FM
@@ -2023,6 +2031,8 @@ http://radio.modules.pl:8500
 http://s2.panelradiowy.pl:10014
 #EXTINF:0 radio=true,Radio Mors
 http://streaming.task.gda.pl:8000/mors
+#EXTINF:0 radio=true,Radio Motyw
+https://play.radio-motyw.eu/live
 #EXTINF:0 radio=true,Radio MRS
 http://play.radiomrs.com:7494
 #EXTINF:0 radio=true,Radio Musicmania
