@@ -237,12 +237,6 @@
 #DESCRIPTION Radio Gra - Toruń
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra_wroc:Radio Gra - Wrocław
 #DESCRIPTION Radio Gra - Wrocław
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/sexify_chill:Sexify x Netflix Chill
-#DESCRIPTION Sexify x Netflix Chill
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/sexify_power:Sexify x Netflix Power
-#DESCRIPTION Sexify x Netflix Power
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/sexify_vibes:Sexify x Netflix Vibes
-#DESCRIPTION Sexify x Netflix Vibes
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/sizeer_fm:Sizeer FM
 #DESCRIPTION Sizeer FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-net.mp3:ZET Radio
@@ -427,8 +421,6 @@
 #DESCRIPTION OPEN FM 90s Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/64:OPEN FM 100% Hits
 #DESCRIPTION OPEN FM 100% Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/167:OPEN FM 100% Ukraina
-#DESCRIPTION OPEN FM 100% Ukraina
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/55:OPEN FM 500 Alternative Hits
 #DESCRIPTION OPEN FM 500 Alternative Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/94:OPEN FM 500 Electronic Hits
@@ -513,7 +505,7 @@
 #DESCRIPTION OPEN FM EDM Anthems
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness
 #DESCRIPTION OPEN FM Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz%3a Wiosna 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Wiosna 2022
 #DESCRIPTION OPEN FM Freszzz: Wiosna 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118:OPEN FM Giganci Rocka
 #DESCRIPTION OPEN FM Giganci Rocka
@@ -631,15 +623,13 @@
 #DESCRIPTION OPEN FM Retro Cafe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/61:OPEN FM Rock Ballady
 #DESCRIPTION OPEN FM Rock Ballady
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/172:OPEN FM Rock UA
-#DESCRIPTION OPEN FM Rock UA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/77:OPEN FM Rocks
 #DESCRIPTION OPEN FM Rocks
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/103:OPEN FM Sad
 #DESCRIPTION OPEN FM Sad
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/410:OPEN FM Schodki
 #DESCRIPTION OPEN FM Schodki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy%3a Soul & R'n'B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy: Soul & R'n'B
 #DESCRIPTION OPEN FM Sexy: Soul & R'n'B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/60:OPEN FM Smooth Jazz
 #DESCRIPTION OPEN FM Smooth Jazz
@@ -691,8 +681,6 @@
 #DESCRIPTION OPEN FM Trening
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/111:OPEN FM Tylko Polskie Przeboje
 #DESCRIPTION OPEN FM Tylko Polskie Przeboje
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/191:OPEN FM Ukraina Top 20
-#DESCRIPTION OPEN FM Ukraina Top 20
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/365:OPEN FM W Domu
 #DESCRIPTION OPEN FM W Domu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/381:OPEN FM W Podróży
@@ -725,8 +713,6 @@
 #DESCRIPTION Radio Kolor
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/334:Radio Luz
 #DESCRIPTION Radio Luz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/421:Radio LUX FM Lviv
-#DESCRIPTION Radio LUX FM Lviv
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/374:Radio Newonce.radio
 #DESCRIPTION Radio Newonce.radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/368:Radio Nowy Świat
@@ -735,20 +721,30 @@
 #DESCRIPTION Radio Pogoda
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/373:Radio PRL
 #DESCRIPTION Radio PRL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/202:Rock Radio
+#DESCRIPTION Rock Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/379:Radio Rockserwis.fm
 #DESCRIPTION Radio Rockserwis.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/375:Radio Spacja
 #DESCRIPTION Radio Spacja
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/202:Rock Radio
-#DESCRIPTION Rock Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/200:Tok FM
 #DESCRIPTION Tok FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/363:WP Klub
 #DESCRIPTION WP Klub
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio%3a muzyka i informacje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio: muzyka i informacje
 #DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/201:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/167:OPEN FM 100% Ukrayina
+#DESCRIPTION OPEN FM 100% Ukrayina
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/422:Radio Krayina FM
+#DESCRIPTION Radio Krayina FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/421:Radio Lyuks FM Leviv
+#DESCRIPTION Radio Lyuks FM Leviv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/423:Radio NRJ Ukrayina
+#DESCRIPTION Radio NRJ Ukrayina
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/424:Radio Pyatnica
+#DESCRIPTION Radio Pyatnica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2010-1.mp3:ESKA - Bełchatów
 #DESCRIPTION ESKA - Bełchatów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2300-1.mp3:ESKA - Beskidy
@@ -1501,8 +1497,8 @@
 #DESCRIPTION Radio Krysjan /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7028:Radio Lenka /śląskie/
 #DESCRIPTION Radio Lenka /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo:Radio Larmo /śląskie/
-#DESCRIPTION Radio Larmo /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo: Radio Larmo /śląskie/
+#DESCRIPTION  Radio Larmo /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomazurek.com.pl%3a8000:Radio Mazurek /śląskie/
 #DESCRIPTION Radio Mazurek /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.slotex.pl%3a10102:Radio MoniRaj /śląskie/
@@ -1813,6 +1809,10 @@
 #DESCRIPTION Radio Echo Chicago
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7402:Radio Eden Fm
 #DESCRIPTION Radio Eden Fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioef.pl%3a8000/stream01.mp3:Radio eF - Best of 90's
+#DESCRIPTION Radio eF - Best of 90's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioef.pl%3a8000/stream02.mp3:Radio eF - Hits from the Heart
+#DESCRIPTION Radio eF - Hits from the Heart
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiointernetowe.net%3a9950:Radio Egida
 #DESCRIPTION Radio Egida
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.el-stacja.pl%3a8000/elstacjamp3:Radio EL-Stacja
@@ -1825,6 +1825,8 @@
 #DESCRIPTION Radio Elka Leszno
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9545:Radio Emi
 #DESCRIPTION Radio Emi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.euroradio.fm%3a8000/euroradio1:Radio Euroradio FM
+#DESCRIPTION Radio Euroradio FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream11.hosterion.pl/8004/stream.mp3:Radio Eurostacja
 #DESCRIPTION Radio Eurostacja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7506/stream:Radio EuroStacja.pl
@@ -1887,6 +1889,8 @@
 #DESCRIPTION Radio Guardian
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.radio.co/s6b9e36d1c/listen:Radio Halo.Radio
 #DESCRIPTION Radio Halo.Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zenolive.com/qd8hws5efseuv:Radio Hard Blues
+#DESCRIPTION Radio Hard Blues
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7600/stream:Radio Heaven
 #DESCRIPTION Radio Heaven
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7426/stream:Radio HellsFM
@@ -1925,6 +1929,8 @@
 #DESCRIPTION Radio JazzKultura
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7962:Radio Jolanda
 #DESCRIPTION Radio Jolanda
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioo.eu%3a9900:Radio Jump
+#DESCRIPTION Radio Jump
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.junctionpoland.com%3a8000/aac-320:Radio Junction Poland
 #DESCRIPTION Radio Junction Poland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiojura.com.pl%3a8000/jura_128kbps_stereo.mp3:Radio Jura
@@ -1967,6 +1973,8 @@
 #DESCRIPTION Radio Lem FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.com.pl%3a7990:Radio Lemko
 #DESCRIPTION Radio Lemko
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/cdmhcpwy1f9uv:Radio Licznik FM
+#DESCRIPTION Radio Licznik FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7298:Radio Lipsko
 #DESCRIPTION Radio Lipsko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream10.hosterion.pl%3a8004/stream:Radio Listek FM
@@ -2023,6 +2031,8 @@
 #DESCRIPTION Radio Moje Marzenia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.task.gda.pl%3a8000/mors:Radio Mors
 #DESCRIPTION Radio Mors
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.radio-motyw.eu/live:Radio Motyw
+#DESCRIPTION Radio Motyw
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.radiomrs.com%3a7494:Radio MRS
 #DESCRIPTION Radio MRS
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7774/stream:Radio Musicmania
