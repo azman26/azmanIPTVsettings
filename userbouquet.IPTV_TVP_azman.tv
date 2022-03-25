@@ -11,9 +11,9 @@
 #DESCRIPTION TVP ABC
 #SERVICE 4097:0:1:28:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=47094324:TVP ABC 2
 #DESCRIPTION TVP ABC 2
-#SERVICE 4097:0:1:4288:2bc0:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696825:TVP Rozrywka
+#SERVICE 4097:0:1:4288:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696825:TVP Rozrywka
 #DESCRIPTION TVP Rozrywka
-#SERVICE 4097:0:1:5ec9:13fb:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53795158:TVP Kobieta
+#SERVICE 4097:0:1:5EC9:13FB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53795158:TVP Kobieta
 #DESCRIPTION TVP Kobieta
 #SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696824:TVP Polonia
 #DESCRIPTION TVP Polonia
@@ -29,7 +29,7 @@
 #DESCRIPTION UA:Perszyj
 #SERVICE 1:64:9:0:0:0:0:0:0:0::--- TVP Stream ---
 #DESCRIPTION --- TVP Stream ---
-#SERVICE 4097:0:1:1139:2af8:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1455:TVP Info
+#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvpstream.vod.tvp.pl/?channel_id=1455:TVP Info
 #DESCRIPTION TVP Info
 #SERVICE 5002:0:1:4:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51590674:TVP World
 #DESCRIPTION TVP World
