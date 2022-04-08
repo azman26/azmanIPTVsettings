@@ -1,0 +1,513 @@
+#NAME *IPTV Rakuten TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8:CNN International (EU)
+#DESCRIPTION CNN International (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8:EuroNews 1 (EU)
+#DESCRIPTION EuroNews 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-8-eu.rakuten.wurl.tv/playlist.m3u8:EuroNews 8 (EU)
+#DESCRIPTION EuroNews 8 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-10-eu.rakuten.wurl.tv/playlist.m3u8:EuroNews 10 (EU)
+#DESCRIPTION EuroNews 10 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-11-eu.rakuten.wurl.tv/playlist.m3u8:EuroNews 11 (EU)
+#DESCRIPTION EuroNews 11 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8:EuroNews 12 (EU)
+#DESCRIPTION EuroNews 12 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-13-eu.rakuten.wurl.tv/playlist.m3u8%09:EuroNews 13 (EU)
+#DESCRIPTION EuroNews 13 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-guardian-1-eu.rakuten.wurl.tv/playlist.m3u8:Guardian (EU)
+#DESCRIPTION Guardian (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hollywire-samsung-eu.rakuten.wurl.com/manifest/playlist.m3u8:Hollywire (EU)
+#DESCRIPTION Hollywire (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//groupnine-popsugar-rakuten.amagi.tv/playlist.m3u8%09:Popsugar
+#DESCRIPTION Popsugar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8:AfricaNews (EU)
+#DESCRIPTION AfricaNews (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Reuters (EU)
+#DESCRIPTION Reuters (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod365-planet-knowledge-1-eu.rakuten.wurl.tv/playlist.m3u8:Planet Knowledge (EU)
+#DESCRIPTION Planet Knowledge (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-2-eu.rakuten.wurl.com/manifest/playlist.m3u8:People are awesome (EU)
+#DESCRIPTION People are awesome (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8:Fashion TV (EU)
+#DESCRIPTION Fashion TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-10-eu.rakuten.wurl.tv/playlist.m3u8:Fuel TV (EU)
+#DESCRIPTION Fuel TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Travel XP (EU)
+#DESCRIPTION Travel XP (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//futuretoday-afv-family-2-eu.rakuten.wurl.tv/playlist.m3u8:AFV Family (EU)
+#DESCRIPTION AFV Family (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8:Motor1 TV (EU)
+#DESCRIPTION Motor1 TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist.m3u8:Surf Channel (EU)
+#DESCRIPTION Surf Channel (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ftf-forthefans-3-eu.rakuten.wurl.tv/playlist.m3u8:FTF (EU)
+#DESCRIPTION FTF (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:MavTV (EU)
+#DESCRIPTION MavTV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playworksdigital-tankee-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Tankee (EU)
+#DESCRIPTION Tankee (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playworksdigital-playworks-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:PlayWorks (EU)
+#DESCRIPTION PlayWorks (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//makingitmedia-destinationtv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Destination TV (EU)
+#DESCRIPTION Destination TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thedesignnetwork-tdn-6-eu.rakuten.wurl.com/manifest/playlist.m3u8:The Design Network (EU)
+#DESCRIPTION The Design Network (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bonappetit-rakuten.amagi.tv/playlist.m3u8:Bonappetit
+#DESCRIPTION Bonappetit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//futuretoday-ifoodtv-1-eu.rakuten.wurl.tv/playlist.m3u8:Ifood.tv (EU)
+#DESCRIPTION Ifood.tv (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//parademedia-bite-rakuten.amagi.tv/playlist.m3u8:BITE
+#DESCRIPTION BITE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tastemade-tdint-rakuten.amagi.tv/playlist.m3u8%09:Tastemade (International)
+#DESCRIPTION Tastemade (International)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tastemade-es8tm-rakuten.amagi.tv/playlist.m3u8:Tastemade (ES)
+#DESCRIPTION Tastemade (ES)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tastemade-tdgmn-rakuten.amagi.tv/playlist.m3u8:Tastemade TDGM
+#DESCRIPTION Tastemade TDGM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8:BBC Travel (EU)
+#DESCRIPTION BBC Travel (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-bbchistory-1-eu.rakuten.wurl.tv/playlist.m3u8:BBC History (EU)
+#DESCRIPTION BBC History (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8:BBC Food (EU)
+#DESCRIPTION BBC Food (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-bbctravel-1-de.samsung.wurl.tv/playlist.m3u8:BBC Travel (DE)
+#DESCRIPTION BBC Travel (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-food-1-de.samsung.wurl.tv/playlist.m3u8:BBC Food (DE)
+#DESCRIPTION BBC Food (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8%09:BBC Drama (FR)
+#DESCRIPTION BBC Drama (FR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8:BBC Doctor Who (FR)
+#DESCRIPTION BBC Doctor Who (FR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8%09:BBC Drama (IT)
+#DESCRIPTION BBC Drama (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8:BBC Doctor Who (IT)
+#DESCRIPTION BBC Doctor Who (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-doctorwho-2-es.rakuten.wurl.tv/playlist.m3u8:BBC Doctor Who (ES)
+#DESCRIPTION BBC Doctor Who (ES)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8:BBC Drama (ES)
+#DESCRIPTION BBC Drama (ES)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//beanostudios-beanotv-1-eu.rakuten.wurl.tv/playlist.m3u8:Beano TV (EU)
+#DESCRIPTION Beano TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//quintus-radicaldocs-1-eu.rakuten.wurl.tv/playlist.m3u8:Radical Docs (EU)
+#DESCRIPTION Radical Docs (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//targetvideo-parenting-media-halloeltern-1-eu.rakuten.wurl.tv/playlist.m3u8:Halloelterrn (EU)
+#DESCRIPTION Halloelterrn (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hncfree-rakutenuk.amagi.tv/playlist.m3u8:Horse and Country free (UK)
+#DESCRIPTION Horse and Country free (UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8:WeatherSpy (EU)
+#DESCRIPTION WeatherSpy (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//failarmy-international-eu.rakuten.wurl.com/manifest/playlist.m3u8:FailArmy International (EU)
+#DESCRIPTION FailArmy International (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Vitor The Boatshow (EU)
+#DESCRIPTION Vitor The Boatshow (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Zoo Moo (EU)
+#DESCRIPTION Zoo Moo (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy Movies 1 (EU)
+#DESCRIPTION Rakuten Comedy Movies 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy Movies 2 (EU)
+#DESCRIPTION Rakuten Comedy Movies 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy Movies 3 (EU)
+#DESCRIPTION Rakuten Comedy Movies 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action Movies 5 (EU)
+#DESCRIPTION Rakuten Action Movies 5 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy Movies 6 (EU)
+#DESCRIPTION Rakuten Comedy Movies 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy Movies 7 (EU)
+#DESCRIPTION Rakuten Comedy Movies 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action Movies 1 (EU)
+#DESCRIPTION Rakuten Action Movies 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action Movies 2 (EU)
+#DESCRIPTION Rakuten Action Movies 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action Movies 3 (EU)
+#DESCRIPTION Rakuten Action Movies 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action Movies 5 (EU)
+#DESCRIPTION Rakuten Action Movies 5 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action Movies 6 (EU)
+#DESCRIPTION Rakuten Action Movies 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action Movies 7 (EU)
+#DESCRIPTION Rakuten Action Movies 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 1 (EU)
+#DESCRIPTION Rakuten Spotlight 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 2 (EU)
+#DESCRIPTION Rakuten Spotlight 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 3 (EU)
+#DESCRIPTION Rakuten Spotlight 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-4-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 4 (EU)
+#DESCRIPTION Rakuten Spotlight 4 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 5 (EU)
+#DESCRIPTION Rakuten Spotlight 5 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 6 (EU)
+#DESCRIPTION Rakuten Spotlight 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 7 (EU)
+#DESCRIPTION Rakuten Spotlight 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 8 (EU)
+#DESCRIPTION Rakuten Spotlight 8 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 9 (EU)
+#DESCRIPTION Rakuten Spotlight 9 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-10-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 10 (EU)
+#DESCRIPTION Rakuten Spotlight 10 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-11-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 11 (EU)
+#DESCRIPTION Rakuten Spotlight 11 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-11-no.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 11 (NO)
+#DESCRIPTION Rakuten Spotlight 11 (NO)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 12 (EU)
+#DESCRIPTION Rakuten Spotlight 12 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-12-fi.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 12 (FI)
+#DESCRIPTION Rakuten Spotlight 12 (FI)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-13-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Spotlight 13 (EU)
+#DESCRIPTION Rakuten Spotlight 13 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-drama-8-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Drama 8 (EU)
+#DESCRIPTION Rakuten Drama 8 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-drama-9-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Drama 9 (EU)
+#DESCRIPTION Rakuten Drama 9 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-drama-10-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Drama 10 (EU)
+#DESCRIPTION Rakuten Drama 10 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-drama-11-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Drama 11 (EU)
+#DESCRIPTION Rakuten Drama 11 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Drama 12 (EU)
+#DESCRIPTION Rakuten Drama 12 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-drama-13-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Drama 13 (EU)
+#DESCRIPTION Rakuten Drama 13 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten TV Shows 1 (EU)
+#DESCRIPTION Rakuten TV Shows 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten TV Shows 2 (EU)
+#DESCRIPTION Rakuten TV Shows 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten TV Shows 3 (EU)
+#DESCRIPTION Rakuten TV Shows 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten TV Shows 4 (EU)
+#DESCRIPTION Rakuten TV Shows 4 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten TV Shows 5 (EU)
+#DESCRIPTION Rakuten TV Shows 5 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten TV Shows 6 (EU)
+#DESCRIPTION Rakuten TV Shows 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten TV Shows 7 (EU)
+#DESCRIPTION Rakuten TV Shows 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Top Free 1 (EU)
+#DESCRIPTION Rakuten Top Free 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Top Free 2 (EU)
+#DESCRIPTION Rakuten Top Free 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Top Free 3 (EU)
+#DESCRIPTION Rakuten Top Free 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Top Free 6 (EU)
+#DESCRIPTION Rakuten Top Free 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Top Free 7 (EU)
+#DESCRIPTION Rakuten Top Free 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 1 (EU)
+#DESCRIPTION Rakuten Family 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 2 (EU)
+#DESCRIPTION Rakuten Family 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 3 (EU)
+#DESCRIPTION Rakuten Family 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 4 (EU)
+#DESCRIPTION Rakuten Family 4 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 5 (EU)
+#DESCRIPTION Rakuten Family 5 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 6 (EU)
+#DESCRIPTION Rakuten Family 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 7 (EU)
+#DESCRIPTION Rakuten Family 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 8 (EU)
+#DESCRIPTION Rakuten Family 8 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 9 (EU)
+#DESCRIPTION Rakuten Family 9 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 10 (EU)
+#DESCRIPTION Rakuten Family 10 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 11 (EU)
+#DESCRIPTION Rakuten Family 11 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-11-no.samsung.wurl.tv/playlist.m3u8:Rakuten Family 11 (NO)
+#DESCRIPTION Rakuten Family 11 (NO)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 12 (EU)
+#DESCRIPTION Rakuten Family 12 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8:Rakuten Family 12 (FI)
+#DESCRIPTION Rakuten Family 12 (FI)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 13 (EU)
+#DESCRIPTION Rakuten Family 13 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Family 16 (EU)
+#DESCRIPTION Rakuten Family 16 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Romance 1 (EU)
+#DESCRIPTION Rakuten Romance 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Romance 2 (EU)
+#DESCRIPTION Rakuten Romance 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-3-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Romance 3 (EU)
+#DESCRIPTION Rakuten Romance 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Romance 6 (EU)
+#DESCRIPTION Rakuten Romance 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Romance 7 (EU)
+#DESCRIPTION Rakuten Romance 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Thriller 1 (EU)
+#DESCRIPTION Rakuten Thriller 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Thriller 2 (EU)
+#DESCRIPTION Rakuten Thriller 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-3-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Thriller 3 (EU)
+#DESCRIPTION Rakuten Thriller 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Thriller 6 (EU)
+#DESCRIPTION Rakuten Thriller 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Thriller 7 (EU)
+#DESCRIPTION Rakuten Thriller 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-8-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action 8 (EU)
+#DESCRIPTION Rakuten Action 8 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-9-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action 9 (EU)
+#DESCRIPTION Rakuten Action 9 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-10-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action 10 (EU)
+#DESCRIPTION Rakuten Action 10 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-11-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action 11 (EU)
+#DESCRIPTION Rakuten Action 11 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action 12 (EU)
+#DESCRIPTION Rakuten Action 12 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-13-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Action 13 (EU)
+#DESCRIPTION Rakuten Action 13 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-8-eu.rakuten.wurl.tv/playlist.m3u8%09:Rakuten Comedy 8 (EU)
+#DESCRIPTION Rakuten Comedy 8 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-9-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy 9 (EU) Danish Subs
+#DESCRIPTION Rakuten Comedy 9 (EU) Danish Subs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-10-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy 10 (EU) Danish Subs
+#DESCRIPTION Rakuten Comedy 10 (EU) Danish Subs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-11-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy 11 (EU) Danish Subs
+#DESCRIPTION Rakuten Comedy 11 (EU) Danish Subs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy 12 (EU)
+#DESCRIPTION Rakuten Comedy 12 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-13-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy 13 (EU)
+#DESCRIPTION Rakuten Comedy 13 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-4-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 4 (EU) German subs
+#DESCRIPTION Rakuten Documentaries 4 (EU) German subs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-5-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 5 (EU)
+#DESCRIPTION Rakuten Documentaries 5 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 6 (EU)
+#DESCRIPTION Rakuten Documentaries 6 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 7 (EU)
+#DESCRIPTION Rakuten Documentaries 7 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-8-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 8 (EU)
+#DESCRIPTION Rakuten Documentaries 8 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-9-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 9 (EU)
+#DESCRIPTION Rakuten Documentaries 9 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-10-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 10 (EU)
+#DESCRIPTION Rakuten Documentaries 10 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-11-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 11 (EU)
+#DESCRIPTION Rakuten Documentaries 11 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-12-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 12 (EU)
+#DESCRIPTION Rakuten Documentaries 12 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-13-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 13 (EU)
+#DESCRIPTION Rakuten Documentaries 13 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-16-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 16 (EU)
+#DESCRIPTION Rakuten Documentaries 16 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8:Filmzie (EU)
+#DESCRIPTION Filmzie (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8:Filmstream (EU)
+#DESCRIPTION Filmstream (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-gratis-topfilm-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Top Film (EU)
+#DESCRIPTION Rakuten Top Film (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8:The Pet Collective International (EU)
+#DESCRIPTION The Pet Collective International (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//outtv-froottv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Froo TV (EU)
+#DESCRIPTION Froo TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Bloomberg (EU)
+#DESCRIPTION Bloomberg (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-2-eu.rakuten.wurl.com/manifest/playlist.m3u8:Bloomberg Quicktake (EU)
+#DESCRIPTION Bloomberg Quicktake (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfc-forbes-1-eu.rakuten.wurl.tv/playlist.m3u8%09:Forbes (EU)
+#DESCRIPTION Forbes (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//drybar-drybarcomedy-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Dry Bar Comedy (EU)
+#DESCRIPTION Dry Bar Comedy (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edgesports-row-rakuten.amagi.tv/playlist.m3u8:Edgesports rest of the world
+#DESCRIPTION Edgesports rest of the world
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//revry-revrynews-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Revry News (EU)
+#DESCRIPTION Revry News (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//revry-revry-2-eu.rakuten.wurl.com/manifest/playlist.m3u8:Revry 2 (EU)
+#DESCRIPTION Revry 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//revry-revry-3-eu.rakuten.wurl.com/manifest/playlist.m3u8:Revry 3 (EU)
+#DESCRIPTION Revry 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.tv/playlist.m3u8:Lacrosse Sport Network (EU)
+#DESCRIPTION Lacrosse Sport Network (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-eu.rakuten.wurl.tv/playlist.m3u8%09:Billiards TV (EU)
+#DESCRIPTION Billiards TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arcade-cloud-eu.rakuten.wurl.tv/playlist.m3u8:Boo Gaming (EU)
+#DESCRIPTION Boo Gaming (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//venntv-rakuteneu.amagi.tv/playlist.m3u8:VennTV (EU)
+#DESCRIPTION VennTV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gghubsrl-gotgame-1-eu.rakuten.wurl.tv/playlist.m3u8:Got Game (EU)
+#DESCRIPTION Got Game (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8:Duck TV (EU)
+#DESCRIPTION Duck TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Happy Kids -1 (EU)
+#DESCRIPTION Happy Kids -1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//futuretoday-happykids-1-eu.rakuten.wurl.tv/playlist.m3u8:Happy Kids -2 (EU)
+#DESCRIPTION Happy Kids -2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//futuretoday-thelegochannel-1-eu.rakuten.wurl.tv/playlist.m3u8:The Lego Channel (EU)
+#DESCRIPTION The Lego Channel (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dhx-teletubbies-1-eu.rakuten.wurl.tv/playlist.m3u8:Teletubbies 1 (EU)
+#DESCRIPTION Teletubbies 1 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dhx-teletubbies-2-eu.rakuten.wurl.tv/playlist.m3u8:Teletubbies 2 (EU)
+#DESCRIPTION Teletubbies 2 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dhx-teletubbies-3-eu.rakuten.wurl.tv/playlist.m3u8:Teletubbies 3 (EU)
+#DESCRIPTION Teletubbies 3 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dhx-caillou-2-eu.rakuten.wurl.tv/playlist.m3u8:Caillou (EU)
+#DESCRIPTION Caillou (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8:Baby Shark TV (EU)
+#DESCRIPTION Baby Shark TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8:Travel XP (EU)
+#DESCRIPTION Travel XP (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8:Viki (EU)
+#DESCRIPTION Viki (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofytv-rakuten.amagi.tv/playlist.m3u8:Sofy TV
+#DESCRIPTION Sofy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lonestar-rakuten.amagi.tv/playlist.m3u8:Lonestar
+#DESCRIPTION Lonestar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8:Luxe TV (UK)
+#DESCRIPTION Luxe TV (UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8:Luxe TV (Fr)
+#DESCRIPTION Luxe TV (Fr)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-humanity-documentaries-uk-rakuten.amagi.tv/playlist.m3u8:Humanity Documentaries (UK)
+#DESCRIPTION Humanity Documentaries (UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8:Humanity Documentaries (Fr)
+#DESCRIPTION Humanity Documentaries (Fr)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-humanity-documentaries-it-rakuten.amagi.tv/playlist.m3u8:Humanity Documentaries (It)
+#DESCRIPTION Humanity Documentaries (It)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-mmatv-rakuten.amagi.tv/playlist.m3u8:MMA TV
+#DESCRIPTION MMA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brat-rakuten.amagi.tv/playlist.m3u8:Brat TV
+#DESCRIPTION Brat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-eng-rakuten.amagi.tv/playlist.m3u8:Insight TV (English)
+#DESCRIPTION Insight TV (English)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inwonder-eng-rakuten.amagi.tv/playlist.m3u8:Inwonder (English)
+#DESCRIPTION Inwonder (English)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-ger-rakuten.amagi.tv/playlist.m3u8:Insight TV (German)
+#DESCRIPTION Insight TV (German)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inwonder-ger-rakuten.amagi.tv/playlist.m3u8:Inwonder (German)
+#DESCRIPTION Inwonder (German)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//introuble-rakuten.amagi.tv/playlist.m3u8:InTrouble
+#DESCRIPTION InTrouble
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qwestjazz-rakuten.amagi.tv/playlist.m3u8:Qwest jazz
+#DESCRIPTION Qwest jazz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qwestclassic-rakuten.amagi.tv/playlist.m3u8:Qwest Classic
+#DESCRIPTION Qwest Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qwestmix-rakuten.amagi.tv/playlist.m3u8:Qwest Mix
+#DESCRIPTION Qwest Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//younghollywood-rakuten.amagi.tv/playlist.m3u8:Young Hollywood
+#DESCRIPTION Young Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//clubbingtv-rakuten.amagi.tv/playlist.m3u8:Clubbing TV
+#DESCRIPTION Clubbing TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moviesphereuk-rakuten.amagi.tv/playlist.m3u8:Moviesphere UK
+#DESCRIPTION Moviesphere UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rushstreet-rakuten.amagi.tv/playlist.m3u8:Rush Street
+#DESCRIPTION Rush Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comedydynamics-rakuten.amagi.tv/playlist.m3u8:Comedy Dynamics
+#DESCRIPTION Comedy Dynamics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//estv-rakuten.amagi.tv/playlist.m3u8:ESTV
+#DESCRIPTION ESTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8:EuroNews (Spain)
+#DESCRIPTION EuroNews (Spain)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8:Mytime (Spain)
+#DESCRIPTION Mytime (Spain)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-spa-rakuten.amagi.tv/playlist.m3u8:InsightTV (Spain)
+#DESCRIPTION InsightTV (Spain)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//runtime-espana-rakuten.amagi.tv/playlist.m3u8:Runtime (Spain)
+#DESCRIPTION Runtime (Spain)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8:Cine (EU) (Spanish)
+#DESCRIPTION Cine (EU) (Spanish)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8:Darkmatter (Spanish)
+#DESCRIPTION Darkmatter (Spanish)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8:Kino (German)
+#DESCRIPTION Kino (German)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-cinemasegreto-1-eu.rakuten.wurl.tv/playlist.m3u8:Cinema Segretto (EU) (Italy)
+#DESCRIPTION Cinema Segretto (EU) (Italy)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8:Bizzaro Movies (EU) (Italy)
+#DESCRIPTION Bizzaro Movies (EU) (Italy)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8:Classico (EU) (Italy)
+#DESCRIPTION Classico (EU) (Italy)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-krime-rakuten.amagi.tv/playlist.m3u8:Krime (French subs)
+#DESCRIPTION Krime (French subs)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-hola-2-eu.rakuten.wurl.tv/playlist.m3u8:iHola Play (EU)
+#DESCRIPTION iHola Play (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-wonder-rakuten.amagi.tv/playlist.m3u8:Wonder
+#DESCRIPTION Wonder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-realcrime-rakuten.amagi.tv/playlist.m3u8:Real Crime
+#DESCRIPTION Real Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-realfamilies-rakuten.amagi.tv/playlist.m3u8:Real Families
+#DESCRIPTION Real Families
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-realwild-rakuten.amagi.tv/playlist.m3u8:Real Wild
+#DESCRIPTION Real Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-timeline-rakuten.amagi.tv/playlist.m3u8:Timeline
+#DESCRIPTION Timeline
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-donttellbride-rakuten.amagi.tv/playlist.m3u8:Don't Tell the Bride
+#DESCRIPTION Don't Tell the Bride
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Huippuelokuvat -Top Movies (EU)
+#DESCRIPTION Rakuten Huippuelokuvat -Top Movies (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-gratisfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8:Gratisfilmer (EU)
+#DESCRIPTION Gratisfilmer (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-toppfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8:Top Film (EU) (Denmark)
+#DESCRIPTION Top Film (EU) (Denmark)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wildearth-rakuten.amagi.tv/playlist.m3u8:WildEarth
+#DESCRIPTION WildEarth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8:TalkRadio TV
+#DESCRIPTION TalkRadio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-explorebytvplayer-uk-rakuten.amagi.tv/playlist.m3u8:Explore by TVPlayer (Uk)
+#DESCRIPTION Explore by TVPlayer (Uk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8:Explore by TVPlayer (ES)
+#DESCRIPTION Explore by TVPlayer (ES)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8:Explore by TVPlayer (Fr)
+#DESCRIPTION Explore by TVPlayer (Fr)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tennischanneldeu-rakuten.amagi.tv/playlist.m3u8:Tennis Channel (Deu) Geo
+#DESCRIPTION Tennis Channel (Deu) Geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tennischannelintl-rakuten.amagi.tv/playlist.m3u8:Tennis Channel International (Geo)
+#DESCRIPTION Tennis Channel International (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8:Cnn International (GB) LG
+#DESCRIPTION Cnn International (GB) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (GB Subs) LG
+#DESCRIPTION Rakuten Spotlight (GB Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Actionmovies (GB Subs) LG
+#DESCRIPTION Rakuten Actionmovies (GB Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (GB Subs) LG
+#DESCRIPTION Rakuten TV Shows (GB Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (GB Subs) LG
+#DESCRIPTION Rakuten Comedy Movies (GB Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-gb.lg.wurl.tv/playlist.m3u8:Viki (GB) LG
+#DESCRIPTION Viki (GB) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (ES Subs) LG
+#DESCRIPTION Rakuten Spotlight (ES Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Actionmovies (ES Subs) LG
+#DESCRIPTION Rakuten Actionmovies (ES Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (ES Subs) LG
+#DESCRIPTION Rakuten TV Shows (ES Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (ES Subs) LG
+#DESCRIPTION Rakuten Comedy Movies (ES Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-es.lg.wurl.tv/playlist.m3u8:Viki (ES) LG
+#DESCRIPTION Viki (ES) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-hola-2-es.lg.wurl.tv/playlist.m3u8:Hola 2 (ES subs) LG
+#DESCRIPTION Hola 2 (ES subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8:CNN International LG
+#DESCRIPTION CNN International LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (DE Subs) LG
+#DESCRIPTION Rakuten Spotlight (DE Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Actionmovies (DE Subs) LG
+#DESCRIPTION Rakuten Actionmovies (DE Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-3-de.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (DE Subs) LG
+#DESCRIPTION Rakuten TV Shows (DE Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (DE Subs) LG
+#DESCRIPTION Rakuten Comedy Movies (DE Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-de.lg.wurl.tv/playlist.m3u8:Viki (DE) LG
+#DESCRIPTION Viki (DE) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hncfree-rakutende.amagi.tv/playlist.m3u8:Horse and Country Free (DE)
+#DESCRIPTION Horse and Country Free (DE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-6-it.lg.wurl.tv/playlist.m3u8%09:Rakuten Spotlight (IT Subs) LG
+#DESCRIPTION Rakuten Spotlight (IT Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Actionmovies (IT Subs) LG
+#DESCRIPTION Rakuten Actionmovies (IT Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-6-it.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (IT Subs) LG
+#DESCRIPTION Rakuten TV Shows (IT Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (IT Subs) LG
+#DESCRIPTION Rakuten Comedy Movies (IT Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-1-it.lg.wurl.tv/playlist.m3u8:Viki (IT) LG
+#DESCRIPTION Viki (IT) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (FR Subs) LG
+#DESCRIPTION Rakuten Spotlight (FR Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Actionmovies (FR Subs) LG
+#DESCRIPTION Rakuten Actionmovies (FR Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (FR Subs) LG
+#DESCRIPTION Rakuten TV Shows (FR Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (FR Subs) LG
+#DESCRIPTION Rakuten Comedy Movies (FR Subs) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-1-fr.lg.wurl.tv/playlist.m3u8:Viki (FR) LG
+#DESCRIPTION Viki (FR) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8:Viki (US) LG
+#DESCRIPTION Viki (US) LG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8:Real Crime Beta
+#DESCRIPTION Real Crime Beta
