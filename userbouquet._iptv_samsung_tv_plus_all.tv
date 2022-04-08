@@ -1,4 +1,4 @@
-#NAME *IPTV Samsung Plus TV All Channels
+#NAME IPTV Samsung Plus TV All
 #SERVICE 1:64:50:0:0:0:0:0:0:0::USA
 #DESCRIPTION USA
 #SERVICE 5002:0:1:c33d:35e9:e9fe:1010101:0:0:0:https%3a//d2wkw6golvkrrh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3600003ic-prod/amgholidaymovie/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}#sapp_tvgid=USBB3600003IC:Holiday Movies
