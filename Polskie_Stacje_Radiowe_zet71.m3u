@@ -287,6 +287,8 @@ https://zt.cdn.eurozet.pl/ZETPL1.mp3
 https://zt.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:0 radio=true,ZET Soul
 https://zt.cdn.eurozet.pl/ZETSOU.mp3
+#EXTINF:0 radio=true,ZET Ukrayina
+https://zt.cdn.eurozet.pl/zet-ukr.mp3
 #EXTINF:0 radio=true,Chillizet
 https://ch.cdn.eurozet.pl/chi-net.mp3
 #EXTINF:0 radio=true,Chillizet Katowice
@@ -829,6 +831,8 @@ http://ext03.ic.smcdn.pl/2230-1.mp3
 http://ext03.ic.smcdn.pl/2190-1.mp3
 #EXTINF:0 radio=true,ESKA - Żary
 http://ext03.ic.smcdn.pl/2420-1.mp3
+#EXTINF:0 radio=true,ESKA - Z Wami FM
+http://ext03.ic.smcdn.pl/7990-1.mp3
 #EXTINF:0 radio=true,ESKA Do Pracy
 http://ext03.ic.smcdn.pl/6140-1.mp3
 #EXTINF:0 radio=true,ESKA Gorąca 20
@@ -877,6 +881,8 @@ http://ext03.ic.smcdn.pl/1180-1.mp3
 http://ext03.ic.smcdn.pl/1380-1.mp3
 #EXTINF:0 radio=true,SuperNova Classic
 http://ext03.ic.smcdn.pl/6040-1.mp3
+#EXTINF:0 radio=true,SuperNova Disco Polo
+http://ext03.ic.smcdn.pl/6110-1.mp3
 #EXTINF:0 radio=true,SuperNova Party
 http://ext03.ic.smcdn.pl/6160-1.mp3
 #EXTINF:0 radio=true,SuperNova Rock
@@ -1487,6 +1493,8 @@ http://s1.admin-marcin.pl:8020
 http://s3.slotex.pl:7648
 #EXTINF:0 radio=true,Radio Hit Mix /śląskie/
 http://s1.slotex.pl:7294
+#EXTINF:0 radio=true,Radio Kamraty /śląskie/
+https://s3.slotex.pl/shoutcast/7126/stream
 #EXTINF:0 radio=true,Radio Karolinka /śląskie/
 http://91.232.4.33:8358/stream
 #EXTINF:0 radio=true,Radio Katowice /śląskie/
@@ -1727,8 +1735,6 @@ https://streaming.inten.pl:8020/bonton.mp3
 http://s1.slotex.pl:7212
 #EXTINF:0 radio=true,Radio Bunt
 https://boont.radioca.st/stream
-#EXTINF:0 radio=true,Radio Bursztynek
-http://s2.panelradiowy.pl:10036
 #EXTINF:0 radio=true,Radio Bzium
 http://s1.slotex.pl:7124
 #EXTINF:0 radio=true,Radio CCM
@@ -1767,8 +1773,6 @@ http://s3.slotex.pl:7696
 http://s2.slotex.pl:10150
 #EXTINF:0 radio=true,Radio Cyberstacja.fm
 http://sc.cyberstacja.pl:8000/radio.mp3
-#EXTINF:0 radio=true,Radio Czarna Strefa
-https://s3.slotex.pl/shoutcast/7794/stream
 #EXTINF:0 radio=true,Radio Cztery Pory Roku
 http://4stream.pl:18304
 #EXTINF:0 radio=true,Radio Damismania Dj
@@ -1803,6 +1807,8 @@ http://s2.panelradiowy.pl:10090
 https://s3.slotex.pl/shoutcast/7100/stream
 #EXTINF:0 radio=true,Radio Dobre.Radio
 https://dobre.out.airtime.pro/dobre_a
+#EXTINF:0 radio=true,Radio DTR
+http://188.138.125.181:8006/stream
 #EXTINF:0 radio=true,Radio Duch
 http://s1.slotex.pl:7174
 #EXTINF:0 radio=true,Radio Echo Chicago
@@ -1827,9 +1833,7 @@ http://live.elka.pl:8000/elka
 http://91.232.4.33:9545
 #EXTINF:0 radio=true,Radio Euroradio FM
 http://stream.euroradio.fm:8000/euroradio1
-#EXTINF:0 radio=true,Radio Eurostacja
-https://stream11.hosterion.pl/8004/stream.mp3
-#EXTINF:0 radio=true,Radio EuroStacja.pl
+#EXTINF:0 radio=true,Radio EuroStacja
 https://s3.slotex.pl/shoutcast/7506/stream
 #EXTINF:0 radio=true,Radio Express FM
 https://stream.rcs.revma.com/yx6cub73kwzuv
@@ -1879,7 +1883,7 @@ http://4stream.pl:18224
 http://s3.slotex.pl:7562
 #EXTINF:0 radio=true,Radio Gold Stacja
 http://s1.slotex.pl:7326
-#EXTINF:0 radio=true,Radio Gold Star
+#EXTINF:0 radio=true,Radio Gold Stars
 http://s1.slotex.pl:7270
 #EXTINF:0 radio=true,Radio Gozdawa
 https://streams.radio.co/s1fe132ddb/listen
@@ -1947,8 +1951,6 @@ http://stream3.nadaje.com:8048
 http://sc1.readycast.org:8516
 #EXTINF:0 radio=true,Radio Kechnowogard
 http://s3.slotex.pl:7016
-#EXTINF:0 radio=true,Radio KMY.pl
-http://protostar.shoutca.st:8102/stream
 #EXTINF:0 radio=true,Radio Kolor
 http://stream.radiojar.com/xt0cf1v8938uv
 #EXTINF:0 radio=true,Radio Kołobrzeg
@@ -1970,7 +1972,7 @@ https://s3.slotex.pl/shoutcast/7152/stream
 #EXTINF:0 radio=true,Radio Leliwa
 https://streaming.g-news.pl/radio/8050/leliwa
 #EXTINF:0 radio=true,Radio Lem FM
-http://switch-pl1.radiokitstream.org:8100/lemfm-current.mp3
+https://stream.radiojar.com/2fa0gbhr9bhvv
 #EXTINF:0 radio=true,Radio Lemko
 http://shoutcast.com.pl:7990
 #EXTINF:0 radio=true,Radio Licznik FM
@@ -2012,7 +2014,7 @@ http://51.255.8.139:8738/stream
 #EXTINF:0 radio=true,Radio Miasto Muzyki
 http://s1.slotex.pl:7120
 #EXTINF:0 radio=true,Radio Michałowo FM
-https://s3.slotex.pl/shoutcast/7480/stream
+https://s3.slotex.pl/shoutcast/7048/stream
 #EXTINF:0 radio=true,Radio Miłosne Serca Dwa
 http://s1.slotex.pl:7350
 #EXTINF:0 radio=true,Radio Minimal Mix
@@ -2135,6 +2137,8 @@ http://s1.slotex.pl:7146
 https://stream.rcs.revma.com/6qvcy46wmc9uv
 #EXTINF:0 radio=true,Radio Płońsk
 http://stream.radioplonsk.pl:9360
+#EXTINF:0 radio=true,Radio PMC
+https://s3.slotex.pl/shoutcast/7448/stream
 #EXTINF:0 radio=true,Radio Podlasie 2
 https://s1.slotex.pl/shoutcast/7530/stream
 #EXTINF:0 radio=true,Radio Polczat.pl
@@ -2181,10 +2185,10 @@ http://s2.panelradiowy.pl:10002
 https://stream1.dabcom.pl/rdn_mpl
 #EXTINF:0 radio=true,Radio R.D.N. Nowy Sącz
 https://stream1.dabcom.pl/rdn_ns
-#EXTINF:0 radio=true,Radio Rebel.fm
-https://s3.slotex.pl/shoutcast/7874/stream
 #EXTINF:0 radio=true,Radio Red7
 http://s1.cmp3.eu:8010/stream
+#EXTINF:0 radio=true,Radio Region
+https://s3.slotex.pl/shoutcast/7464/stream
 #EXTINF:0 radio=true,Radio Rekord
 http://stream2.nadaje.com:8108
 #EXTINF:0 radio=true,Radio Relax
@@ -2237,10 +2241,6 @@ http://37.130.30.166:8000
 https://s3.slotex.pl/shoutcast/7230/stream
 #EXTINF:0 radio=true,Radio Solo
 http://s1.slotex.pl:7364
-#EXTINF:0 radio=true,Radio Sound Beach
-http://s1.slotex.pl:7346
-#EXTINF:0 radio=true,Radio Sound Moments
-https://s3.slotex.pl/shoutcast/7110/stream
 #EXTINF:0 radio=true,Radio Spacja
 https://s4.radio.co/s8c7d5e4e1/listen
 #EXTINF:0 radio=true,Radio Spin
@@ -2312,19 +2312,17 @@ http://s1.slotex.pl:7504
 #EXTINF:0 radio=true,Radio Ty i Ja
 http://91.232.4.33:8868/Stream1
 #EXTINF:0 radio=true,Radio Tyflo
-http://178.32.159.193:8000
+http://radio.tyflopodcast.net:8000
 #EXTINF:0 radio=true,Radio U Brunetki
 http://4stream.pl:18342
 #EXTINF:0 radio=true,Radio U Demonka
 https://www.4stream.pl/stream/18310
 #EXTINF:0 radio=true,Radio U Lusi
 http://4stream.pl:18124
-#EXTINF:0 radio=true,Radio U Margaretki
-https://s3.slotex.pl/shoutcast/7636/stream
 #EXTINF:0 radio=true,Radio Ujot FM
 http://radio.wzks.uj.edu.pl:8000/ujotfm128
 #EXTINF:0 radio=true,Radio UK FM
-http://51.255.8.139:9898/ukradio
+https://ssl-1.radiohost.pl:9898/stream
 #EXTINF:0 radio=true,Radio Ulotna Bajka
 https://s3.slotex.pl/shoutcast/7564/stream
 #EXTINF:0 radio=true,Radio Underground
@@ -2337,8 +2335,6 @@ http://213.184.18.156:8000
 http://s1.slotex.pl:7106
 #EXTINF:0 radio=true,Radio Vipek
 https://s3.slotex.pl/shoutcast/7728/stream
-#EXTINF:0 radio=true,Radio VirtualMix
-http://4stream.pl:18484
 #EXTINF:0 radio=true,Radio Virgo
 http://4stream.pl:18480
 #EXTINF:0 radio=true,Radio W Nienagannym Stylu
@@ -2372,7 +2368,7 @@ https://radiozqlturapl.radioca.st/stream
 #EXTINF:0 radio=true,Radio Zamek Nadaje
 https://streaming.radio.co/s65cef3a93/listen
 #EXTINF:0 radio=true,Radio Zawiercie
-https://s3.slotex.pl/shoutcast/7654/stream
+https://s3.slotex.pl/shoutcast/7656/stream
 #EXTINF:0 radio=true,Radio Ziemi Wieluńskiej
 http://stream2.nadaje.com:8022
 #EXTINF:0 radio=true,Radio Ziomki
