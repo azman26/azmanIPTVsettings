@@ -627,6 +627,8 @@
 #DESCRIPTION OPEN FM Rock Ballady
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/77:OPEN FM Rocks
 #DESCRIPTION OPEN FM Rocks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/425:OPEN FM Rotacja Open FM (muzyka z podcastu)
+#DESCRIPTION OPEN FM Rotacja Open FM (muzyka z podcastu)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/103:OPEN FM Sad
 #DESCRIPTION OPEN FM Sad
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/410:OPEN FM Schodki
@@ -843,6 +845,8 @@
 #DESCRIPTION ESKA Rap 20
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/5380-1.mp3:ESKA Rock
 #DESCRIPTION ESKA Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6060-1.mp3:ESKA Rock Dobrze Rockuje
+#DESCRIPTION ESKA Rock Dobrze Rockuje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6070-1.mp3:ESKA Rock - Klasyka Rocka
 #DESCRIPTION ESKA Rock - Klasyka Rocka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6010-1.mp3:ESKA Rock - Rock Ballads
@@ -887,6 +891,8 @@
 #DESCRIPTION SuperNova Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6090-1.mp3:SuperNova Rock
 #DESCRIPTION SuperNova Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6220-1.mp3:SuperNova Sanah
+#DESCRIPTION SuperNova Sanah
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/6230-1.mp3:SuperNova Super 13
 #DESCRIPTION SuperNova Super 13
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3990-1.mp3:VOX FM
@@ -2023,6 +2029,8 @@
 #DESCRIPTION Radio Ministerstwo Muzyki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7592:Radio Mittendrin
 #DESCRIPTION Radio Mittendrin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.63.53.48%3a31486/stream:Radio Mix Radio One
+#DESCRIPTION Radio Mix Radio One
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a10600:Radio Mixx.pl
 #DESCRIPTION Radio Mixx.pl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.169.23.123%3a8592:Radio Moc
