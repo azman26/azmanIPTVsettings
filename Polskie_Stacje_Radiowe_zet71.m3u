@@ -627,6 +627,8 @@ http://stream.open.fm/25
 http://stream.open.fm/61
 #EXTINF:0 radio=true,OPEN FM Rocks
 http://stream.open.fm/77
+#EXTINF:0 radio=true,OPEN FM Rotacja Open FM (muzyka z podcastu)
+http://stream.open.fm/425
 #EXTINF:0 radio=true,OPEN FM Sad
 http://stream.open.fm/103
 #EXTINF:0 radio=true,OPEN FM Schodki
@@ -843,6 +845,8 @@ http://ext03.ic.smcdn.pl/6030-1.mp3
 http://ext03.ic.smcdn.pl/6190-1.mp3
 #EXTINF:0 radio=true,ESKA Rock
 http://ext03.ic.smcdn.pl/5380-1.mp3
+#EXTINF:0 radio=true,ESKA Rock Dobrze Rockuje
+http://ext03.ic.smcdn.pl/6060-1.mp3
 #EXTINF:0 radio=true,ESKA Rock - Klasyka Rocka
 http://ext03.ic.smcdn.pl/6070-1.mp3
 #EXTINF:0 radio=true,ESKA Rock - Rock Ballads
@@ -887,6 +891,8 @@ http://ext03.ic.smcdn.pl/6110-1.mp3
 http://ext03.ic.smcdn.pl/6160-1.mp3
 #EXTINF:0 radio=true,SuperNova Rock
 http://ext03.ic.smcdn.pl/6090-1.mp3
+#EXTINF:0 radio=true,SuperNova Sanah
+http://ext03.ic.smcdn.pl/6220-1.mp3
 #EXTINF:0 radio=true,SuperNova Super 13
 http://ext03.ic.smcdn.pl/6230-1.mp3
 #EXTINF:0 radio=true,VOX FM
@@ -2023,6 +2029,8 @@ https://minimalmix.radioca.st/media
 https://stream11.hosterion.pl/8024/stream
 #EXTINF:0 radio=true,Radio Mittendrin
 http://s1.slotex.pl:7592
+#EXTINF:0 radio=true,Radio Mix Radio One
+http://178.63.53.48:31486/stream
 #EXTINF:0 radio=true,Radio Mixx.pl
 http://91.232.4.33:10600
 #EXTINF:0 radio=true,Radio Moc
