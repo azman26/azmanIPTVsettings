@@ -231,8 +231,6 @@
 #DESCRIPTION RMF MAXXX - Warszawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_wlc:RMF MAXXX - Włocławek
 #DESCRIPTION RMF MAXXX - Włocławek
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radiofonia:Radiofonia
-#DESCRIPTION Radiofonia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra:Radio Gra - Toruń
 #DESCRIPTION Radio Gra - Toruń
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra_wroc:Radio Gra - Wrocław
@@ -249,22 +247,10 @@
 #DESCRIPTION ZET 90
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZET200.mp3:ZET 2000
 #DESCRIPTION ZET 2000
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETCLA.mp3:ZET Classic
-#DESCRIPTION ZET Classic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETDAN.mp3:ZET Dance
 #DESCRIPTION ZET Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETRUN.mp3:ZET Do Biegania
-#DESCRIPTION ZET Do Biegania
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETFIL.mp3:ZET Film
-#DESCRIPTION ZET Film
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETFIT.mp3:ZET Fitness
-#DESCRIPTION ZET Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETFUT.mp3:ZET Futbol
-#DESCRIPTION ZET Futbol
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETGOL.mp3:ZET Gold
-#DESCRIPTION ZET Gold
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETHIP.mp3:ZET Hip-hop
-#DESCRIPTION ZET Hip-hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETHIP.mp3:ZET Hip-Hop
+#DESCRIPTION ZET Hip-Hop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETHIT.mp3:ZET Hits
 #DESCRIPTION ZET Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETKID.mp3:ZET Kids
@@ -283,18 +269,12 @@
 #DESCRIPTION ZET Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETPL1.mp3:ZET PL
 #DESCRIPTION ZET PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETROK.mp3:ZET Rock
-#DESCRIPTION ZET Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETSOU.mp3:ZET Soul
-#DESCRIPTION ZET Soul
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-ukr.mp3:ZET Ukrayina
 #DESCRIPTION ZET Ukrayina
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/chi-net.mp3:Chillizet
 #DESCRIPTION Chillizet
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/chi-kat.mp3:Chillizet Katowice
 #DESCRIPTION Chillizet Katowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/CHIAFT.mp3:Chillizet African Therapy
-#DESCRIPTION Chillizet African Therapy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/CHIRUN.mp3:Chillizet Biega
 #DESCRIPTION Chillizet Biega
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/CHISWI.mp3:Chillizet Christmas
@@ -307,8 +287,6 @@
 #DESCRIPTION Chillizet Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/CHILAD.mp3:Chillizet Ladies
 #DESCRIPTION Chillizet Ladies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/CHIPPE.mp3:Chillizet Past Perfect
-#DESCRIPTION Chillizet Past Perfect
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/CHIPOL.mp3:Chillizet Salon Polski
 #DESCRIPTION Chillizet Salon Polski
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ch.cdn.eurozet.pl/CHISOU.mp3:Chillizet Soul
@@ -365,50 +343,6 @@
 #DESCRIPTION Meloradio Film
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/MELPRE.mp3:Meloradio Premium
 #DESCRIPTION Meloradio Premium
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGL060.mp3:ZET Gold 60's
-#DESCRIPTION ZET Gold 60's
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGL070.mp3:ZET Gold 70's
-#DESCRIPTION ZET Gold 70's
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGL080.mp3:ZET Gold 80's
-#DESCRIPTION ZET Gold 80's
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGL090.mp3:ZET Gold 90's
-#DESCRIPTION ZET Gold 90's
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGLBAL.mp3:ZET Gold Ballady
-#DESCRIPTION ZET Gold Ballady
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETLEN.mp3:ZET Gold Beatles
-#DESCRIPTION ZET Gold Beatles
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETGRE.mp3:ZET Gold Grechuta
-#DESCRIPTION ZET Gold Grechuta
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGLLAT.mp3:ZET Gold Hity Na Lato
-#DESCRIPTION ZET Gold Hity Na Lato
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGLITA.mp3:ZET Gold Italo
-#DESCRIPTION ZET Gold Italo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZETOSI.mp3:ZET Gold Osiecka
-#DESCRIPTION ZET Gold Osiecka
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGLPAR.mp3:ZET Gold Party
-#DESCRIPTION ZET Gold Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGLPOL.mp3:ZET Gold Po Polsku
-#DESCRIPTION ZET Gold Po Polsku
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zt.cdn.eurozet.pl/ZGLSWI.mp3:ZET Gold Święta
-#DESCRIPTION ZET Gold Święta
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//al.cdn.eurozet.pl/ALLBEA.mp3:Radiostacja Beach Party
-#DESCRIPTION Radiostacja Beach Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//al.cdn.eurozet.pl/ALLLOV.mp3:Radiostacja Chill Love
-#DESCRIPTION Radiostacja Chill Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//al.cdn.eurozet.pl/ALLHAL.mp3:Radiostacja Halloween Party
-#DESCRIPTION Radiostacja Halloween Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//al.cdn.eurozet.pl/ALLRNB.mp3:Radiostacja Happy Hits
-#DESCRIPTION Radiostacja Happy Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//al.cdn.eurozet.pl/ALLBLU.mp3:Radiostacja Legendy Bluesa
-#DESCRIPTION Radiostacja Legendy Bluesa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//al.cdn.eurozet.pl/ALLMOV.mp3:Radiostacja Muzyka Filmowa
-#DESCRIPTION Radiostacja Muzyka Filmowa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//al.cdn.eurozet.pl/ALLRNB.mp3:Radiostacja R&B Mix
-#DESCRIPTION Radiostacja R&B Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//al.cdn.eurozet.pl/ALLAUT.mp3:Radiostacja Wieczorny Chill
-#DESCRIPTION Radiostacja Wieczorny Chill
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLAOLD.mp3:Retrostacja by Radiostacja
-#DESCRIPTION Retrostacja by Radiostacja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/420:OPEN FM DAB+
 #DESCRIPTION OPEN FM DAB+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/10:OPEN FM #popularne
@@ -567,6 +501,8 @@
 #DESCRIPTION OPEN FM Lejdis Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/121:OPEN FM Love
 #DESCRIPTION OPEN FM Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/150:OPEN FM Majówka
+#DESCRIPTION OPEN FM Majówka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/366:OPEN FM Miejska Stacja
 #DESCRIPTION OPEN FM Miejska Stacja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/70:OPEN FM Muzyka do snu
@@ -663,8 +599,8 @@
 #DESCRIPTION OPEN FM Top 20 PL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/99:OPEN FM Top 20 Rock
 #DESCRIPTION OPEN FM Top 20 Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/131:OPEN FM Top 2021 Hits
-#DESCRIPTION OPEN FM Top 2021 Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/131:OPEN FM Top 2022 Hits
+#DESCRIPTION OPEN FM Top 2022 Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/176:OPEN FM Top Wszech Czasów - Hip-Hop PL
 #DESCRIPTION OPEN FM Top Wszech Czasów - Hip-Hop PL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/152:OPEN FM Top Wszech Czasów - Polska
@@ -945,28 +881,6 @@
 #DESCRIPTION Radio Plus - Warszawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/plu-zgr.mp3:Radio Plus - Zielona Góra
 #DESCRIPTION Radio Plus - Zielona Góra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/pla-net.mp3:Planeta FM
-#DESCRIPTION Planeta FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLACLU.mp3:Planeta FM - Clubbing
-#DESCRIPTION Planeta FM - Clubbing
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLAHOU.mp3:Planeta FM - Dope Hits
-#DESCRIPTION Planeta FM - Dope Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLAEDM.mp3:Planeta FM - Electronic Wave
-#DESCRIPTION Planeta FM - Electronic Wave
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLACHI.mp3:Planeta FM - Good Vibes
-#DESCRIPTION Planeta FM - Good Vibes
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLAMAD.mp3:Planeta FM - Hip Hop Stacja
-#DESCRIPTION Planeta FM - Hip Hop Stacja
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLAIDM.mp3:Planeta FM - Indie Day Mood
-#DESCRIPTION Planeta FM - Indie Day Mood
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLAGOU.mp3:Planeta FM - Love
-#DESCRIPTION Planeta FM - Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLARNB.mp3:Planeta FM - Make It POP
-#DESCRIPTION Planeta FM - Make It POP
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/ALLSWA.mp3:Planeta FM - Oldschool Hip Hop
-#DESCRIPTION Planeta FM - Oldschool Hip Hop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/PLATRA.mp3:Planeta FM - Trance Vibes
-#DESCRIPTION Planeta FM - Trance Vibes
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8950:Moje Polskie Radio - Jedynka
 #DESCRIPTION Moje Polskie Radio - Jedynka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8952:Moje Polskie Radio - Dwójka
@@ -1073,6 +987,8 @@
 #DESCRIPTION Moje Polskie Radio - Studio Reportażu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8520:Moje Polskie Radio - Szanty
 #DESCRIPTION Moje Polskie Radio - Szanty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8514:Moje Polskie Radio - T.Love
+#DESCRIPTION Moje Polskie Radio - T.Love
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8424:Moje Polskie Radio - W jazzowym klimacie
 #DESCRIPTION Moje Polskie Radio - W jazzowym klimacie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8502:Moje Polskie Radio - Wieczór odkrywców
@@ -1095,8 +1011,6 @@
 #DESCRIPTION Antyradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ant-kat.mp3:Antyradio Katowice
 #DESCRIPTION Antyradio Katowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ALLAKA.mp3:Antyradio - Akademik
-#DESCRIPTION Antyradio - Akademik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTBAL.mp3:Antyradio - Ballads
 #DESCRIPTION Antyradio - Ballads
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTCLA.mp3:Antyradio - Classic Rock
@@ -1107,16 +1021,12 @@
 #DESCRIPTION Antyradio - Greatest
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTHAR.mp3:Antyradio - Hard
 #DESCRIPTION Antyradio - Hard
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ALLHVY.mp3:Antyradio - Hard & Heavy
-#DESCRIPTION Antyradio - Hard & Heavy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTLIV.mp3:Antyradio - Live
 #DESCRIPTION Antyradio - Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTPOL.mp3:Antyradio - Made in Poland
 #DESCRIPTION Antyradio - Made in Poland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTMAK.mp3:Antyradio - Makak
 #DESCRIPTION Antyradio - Makak
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ALLIND.mp3:Antyradio - Rock & Indie
-#DESCRIPTION Antyradio - Rock & Indie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTUNP.mp3:Antyradio - Unplugged
 #DESCRIPTION Antyradio - Unplugged
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTWOD.mp3:Antyradio - Woodstock
@@ -1201,6 +1111,8 @@
 #DESCRIPTION Radio Mbox - Disco Polo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8040/GoldHits320kbps:Radio Mbox - Gold Hits
 #DESCRIPTION Radio Mbox - Gold Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//panel.radiombox.pl/radio/8050/RnbHH320kbps:Radio Mbox - RNB & Rap
+#DESCRIPTION Radio Mbox - RNB & Rap
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8090/Rock320kbps:Radio Mbox - Rock
 #DESCRIPTION Radio Mbox - Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7502/stream:Radio Musicdays.pl - Blues Rock
@@ -1395,6 +1307,8 @@
 #DESCRIPTION Radio Dla Ciebie - Radom
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a14005/siedlce:Radio Dla Ciebie - Siedlce
 #DESCRIPTION Radio Dla Ciebie - Siedlce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n05.radiojar.com/q87xmtvrrg8uv:Radio Elbląg
+#DESCRIPTION Radio Elbląg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.lublin.pl%3a8843/radiofreee:Radio Freee
 #DESCRIPTION Radio Freee
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg1:Radio Gdańsk
@@ -1437,10 +1351,10 @@
 #DESCRIPTION Radio Lublin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.113.224.171%3a80/RadioLodz-1-HQ.aac:Radio Łódź
 #DESCRIPTION Radio Łódź
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.113.224.171%3a80/RadioLodz-2-HQ.aac:Radio Łódź - Extra
-#DESCRIPTION Radio Łódź - Extra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.113.224.171%3a80/RadioLodz-NW-HQ.aac:Radio Łódź - Nad Wartą
 #DESCRIPTION Radio Łódź - Nad Wartą
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.113.224.171%3a80/RadioLodz-3-HQ.aac:Radio Łódź - Transmisje
+#DESCRIPTION Radio Łódź - Transmisje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a8624/mcradio:Radio MC
 #DESCRIPTION Radio MC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//193.47.151.4%3a9000/ro1mp3:Radio Opole
@@ -1467,7 +1381,7 @@
 #DESCRIPTION Radio Szczecin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream3.nadaje.com%3a8201/szczecinextra:Radio Szczecin Extra
 #DESCRIPTION Radio Szczecin Extra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rostr1.radioolsztyn.pl%3a8743/RWiM:Radio Warmii i Mazur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rostr1.radioolsztyn.pl%3a8843/RWiM:Radio Warmii i Mazur
 #DESCRIPTION Radio Warmii i Mazur
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a9240/prw:Radio Wrocław
 #DESCRIPTION Radio Wrocław
@@ -1545,8 +1459,6 @@
 #DESCRIPTION Radio Śląsk /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream10.hosterion.pl/8066/stream:Radio Śląskie Radio /śląskie/
 #DESCRIPTION Radio Śląskie Radio /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuptus.stream.laut.fm/tuptus:Radio Tuptuś /śląskie/
-#DESCRIPTION Radio Tuptuś /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7358:Radio Vanessa /śląskie/
 #DESCRIPTION Radio Vanessa /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.24%3a8126:Radio Wesołe Ślonzoki /śląskie/
@@ -1649,7 +1561,7 @@
 #DESCRIPTION Radio ViennaPlus /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming03.technologicznie.net%3a8765/radio_warszawa.mp3:Radio Warszawa /katolickie/
 #DESCRIPTION Radio Warszawa /katolickie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.231.120.124%3a80:Radio Zamość /katolickie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/0n8y7mxcay8uv:Radio Zamość /katolickie/
 #DESCRIPTION Radio Zamość /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//emisja.radio17.pl%3a8000/R17:Radio 1.7
 #DESCRIPTION Radio 1.7
@@ -1697,7 +1609,7 @@
 #DESCRIPTION Radio AOi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7512:Radio Apogeum
 #DESCRIPTION Radio Apogeum
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7450:Radio Arkadia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7238:Radio Arkadia
 #DESCRIPTION Radio Arkadia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a7096/stream:Radio Art Bogatynia
 #DESCRIPTION Radio Art Bogatynia
@@ -1729,8 +1641,8 @@
 #DESCRIPTION Radio Big City
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.91.156%3a8000:Radio BIGbbs
 #DESCRIPTION Radio BIGbbs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9709:Radio Blender.pl
-#DESCRIPTION Radio Blender.pl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.transmisjaradio.net%3a8000/blackwings:Radio Black Wings
+#DESCRIPTION Radio Black Wings
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7014:Radio Blue Moon
 #DESCRIPTION Radio Blue Moon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6.radiohost.pl%3a8888:Radio Bogoria
@@ -1787,8 +1699,6 @@
 #DESCRIPTION Radio Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7088/stream:Radio Danielka
 #DESCRIPTION Radio Danielka
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7486:Radio DanJur
-#DESCRIPTION Radio DanJur
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiodht.com/stream_main/:Radio DHT 1
 #DESCRIPTION Radio DHT 1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiodht.com/stream_second/:Radio DHT 2
@@ -1813,7 +1723,7 @@
 #DESCRIPTION Radio Dobra Nuta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dobre.out.airtime.pro/dobre_a:Radio Dobre.Radio
 #DESCRIPTION Radio Dobre.Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.138.125.181%3a8006/stream:Radio DTR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.transmisjaradio.net%3a8000/dtr:Radio DTR
 #DESCRIPTION Radio DTR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7174:Radio Duch
 #DESCRIPTION Radio Duch
@@ -1829,8 +1739,6 @@
 #DESCRIPTION Radio Egida
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.el-stacja.pl%3a8000/elstacjamp3:Radio EL-Stacja
 #DESCRIPTION Radio EL-Stacja
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n05.radiojar.com/q87xmtvrrg8uv:Radio Elbląg
-#DESCRIPTION Radio Elbląg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.elka.pl%3a8000/miedziowe.pl:Radio Elka Głogów
 #DESCRIPTION Radio Elka Głogów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.elka.pl%3a8000/elka:Radio Elka Leszno
@@ -1891,10 +1799,12 @@
 #DESCRIPTION Radio Gold Stacja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7270:Radio Gold Stars
 #DESCRIPTION Radio Gold Stars
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/s1fe132ddb/listen:Radio Gozdawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.transmisjaradio.net%3a8000/gozdawa:Radio Gozdawa
 #DESCRIPTION Radio Gozdawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7398/stream:Radio Góralskie
 #DESCRIPTION Radio Góralskie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7400/stream:Radio Green Garden
+#DESCRIPTION Radio Green Garden
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7508:Radio Guardian
 #DESCRIPTION Radio Guardian
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.radio.co/s6b9e36d1c/listen:Radio Halo.Radio
@@ -1913,8 +1823,6 @@
 #DESCRIPTION Radio Horyzont
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hqsource.org%3a2082:Radio HQS
 #DESCRIPTION Radio HQS
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//azuracast.htmecoradio.com%3a8000/htm.mp3:Radio HTM Eco Radio
-#DESCRIPTION Radio HTM Eco Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.130.209.64%3a8000:Radio I
 #DESCRIPTION Radio I
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/sd1bcd1376/listen:Radio Ibiza
@@ -1991,8 +1899,6 @@
 #DESCRIPTION Radio Logos
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7570/stream:Radio Lolusiowe
 #DESCRIPTION Radio Lolusiowe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7660/stream:Radio Lovmusic
-#DESCRIPTION Radio Lovmusic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7284:Radio Love Song
 #DESCRIPTION Radio Love Song
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7670:Radio Made Music
@@ -2141,6 +2047,8 @@
 #DESCRIPTION Radio Pełnosprytni.pl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7146:Radio Piekielskie 1
 #DESCRIPTION Radio Piekielskie 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/pla-net.mp3:Radio Planeta FM
+#DESCRIPTION Radio Planeta FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/6qvcy46wmc9uv:Radio Płock FM
 #DESCRIPTION Radio Płock FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioplonsk.pl%3a9360:Radio Płońsk
@@ -2375,7 +2283,7 @@
 #DESCRIPTION Radio Z Qlturą
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s65cef3a93/listen:Radio Zamek Nadaje
 #DESCRIPTION Radio Zamek Nadaje
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7656/stream:Radio Zawiercie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a9078/stream:Radio Zawiercie
 #DESCRIPTION Radio Zawiercie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8022:Radio Ziemi Wieluńskiej
 #DESCRIPTION Radio Ziemi Wieluńskiej
