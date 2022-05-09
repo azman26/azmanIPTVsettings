@@ -231,8 +231,6 @@ http://195.150.20.7/rmf_maxxx_gda
 http://195.150.20.7/rmf_maxxx_waw
 #EXTINF:0 radio=true,RMF MAXXX - Włocławek
 http://195.150.20.7/rmf_maxxx_wlc
-#EXTINF:0 radio=true,Radiofonia
-http://195.150.20.7/radiofonia
 #EXTINF:0 radio=true,Radio Gra - Toruń
 http://195.150.20.7/radio_gra
 #EXTINF:0 radio=true,Radio Gra - Wrocław
@@ -249,21 +247,9 @@ https://zt.cdn.eurozet.pl/ZET080.mp3
 https://zt.cdn.eurozet.pl/ZET090.mp3
 #EXTINF:0 radio=true,ZET 2000
 https://zt.cdn.eurozet.pl/ZET200.mp3
-#EXTINF:0 radio=true,ZET Classic
-https://zt.cdn.eurozet.pl/ZETCLA.mp3
 #EXTINF:0 radio=true,ZET Dance
 https://zt.cdn.eurozet.pl/ZETDAN.mp3
-#EXTINF:0 radio=true,ZET Do Biegania
-https://zt.cdn.eurozet.pl/ZETRUN.mp3
-#EXTINF:0 radio=true,ZET Film
-https://zt.cdn.eurozet.pl/ZETFIL.mp3
-#EXTINF:0 radio=true,ZET Fitness
-https://zt.cdn.eurozet.pl/ZETFIT.mp3
-#EXTINF:0 radio=true,ZET Futbol
-https://zt.cdn.eurozet.pl/ZETFUT.mp3
-#EXTINF:0 radio=true,ZET Gold
-https://zt.cdn.eurozet.pl/ZETGOL.mp3
-#EXTINF:0 radio=true,ZET Hip-hop
+#EXTINF:0 radio=true,ZET Hip-Hop
 https://zt.cdn.eurozet.pl/ZETHIP.mp3
 #EXTINF:0 radio=true,ZET Hits
 https://zt.cdn.eurozet.pl/ZETHIT.mp3
@@ -283,18 +269,12 @@ https://zt.cdn.eurozet.pl/ZETSWI.mp3
 https://zt.cdn.eurozet.pl/ZETPAR.mp3
 #EXTINF:0 radio=true,ZET PL
 https://zt.cdn.eurozet.pl/ZETPL1.mp3
-#EXTINF:0 radio=true,ZET Rock
-https://zt.cdn.eurozet.pl/ZETROK.mp3
-#EXTINF:0 radio=true,ZET Soul
-https://zt.cdn.eurozet.pl/ZETSOU.mp3
 #EXTINF:0 radio=true,ZET Ukrayina
 https://zt.cdn.eurozet.pl/zet-ukr.mp3
 #EXTINF:0 radio=true,Chillizet
 https://ch.cdn.eurozet.pl/chi-net.mp3
 #EXTINF:0 radio=true,Chillizet Katowice
 https://ch.cdn.eurozet.pl/chi-kat.mp3
-#EXTINF:0 radio=true,Chillizet African Therapy
-https://ch.cdn.eurozet.pl/CHIAFT.mp3
 #EXTINF:0 radio=true,Chillizet Biega
 https://ch.cdn.eurozet.pl/CHIRUN.mp3
 #EXTINF:0 radio=true,Chillizet Christmas
@@ -307,8 +287,6 @@ https://ch.cdn.eurozet.pl/CHIDEP.mp3
 https://ch.cdn.eurozet.pl/CHIJAZ.mp3
 #EXTINF:0 radio=true,Chillizet Ladies
 https://ch.cdn.eurozet.pl/CHILAD.mp3
-#EXTINF:0 radio=true,Chillizet Past Perfect
-https://ch.cdn.eurozet.pl/CHIPPE.mp3
 #EXTINF:0 radio=true,Chillizet Salon Polski
 https://ch.cdn.eurozet.pl/CHIPOL.mp3
 #EXTINF:0 radio=true,Chillizet Soul
@@ -365,50 +343,6 @@ https://ml.cdn.eurozet.pl/MELDEL.mp3
 https://ml.cdn.eurozet.pl/MELFIL.mp3
 #EXTINF:0 radio=true,Meloradio Premium
 https://ml.cdn.eurozet.pl/MELPRE.mp3
-#EXTINF:0 radio=true,ZET Gold 60's
-https://zt.cdn.eurozet.pl/ZGL060.mp3
-#EXTINF:0 radio=true,ZET Gold 70's
-https://zt.cdn.eurozet.pl/ZGL070.mp3
-#EXTINF:0 radio=true,ZET Gold 80's
-https://zt.cdn.eurozet.pl/ZGL080.mp3
-#EXTINF:0 radio=true,ZET Gold 90's
-https://zt.cdn.eurozet.pl/ZGL090.mp3
-#EXTINF:0 radio=true,ZET Gold Ballady
-https://zt.cdn.eurozet.pl/ZGLBAL.mp3
-#EXTINF:0 radio=true,ZET Gold Beatles
-https://zt.cdn.eurozet.pl/ZETLEN.mp3
-#EXTINF:0 radio=true,ZET Gold Grechuta
-https://zt.cdn.eurozet.pl/ZETGRE.mp3
-#EXTINF:0 radio=true,ZET Gold Hity Na Lato
-https://zt.cdn.eurozet.pl/ZGLLAT.mp3
-#EXTINF:0 radio=true,ZET Gold Italo
-https://zt.cdn.eurozet.pl/ZGLITA.mp3
-#EXTINF:0 radio=true,ZET Gold Osiecka
-https://zt.cdn.eurozet.pl/ZETOSI.mp3
-#EXTINF:0 radio=true,ZET Gold Party
-https://zt.cdn.eurozet.pl/ZGLPAR.mp3
-#EXTINF:0 radio=true,ZET Gold Po Polsku
-https://zt.cdn.eurozet.pl/ZGLPOL.mp3
-#EXTINF:0 radio=true,ZET Gold Święta
-https://zt.cdn.eurozet.pl/ZGLSWI.mp3
-#EXTINF:0 radio=true,Radiostacja Beach Party
-https://al.cdn.eurozet.pl/ALLBEA.mp3
-#EXTINF:0 radio=true,Radiostacja Chill Love
-https://al.cdn.eurozet.pl/ALLLOV.mp3
-#EXTINF:0 radio=true,Radiostacja Halloween Party
-https://al.cdn.eurozet.pl/ALLHAL.mp3
-#EXTINF:0 radio=true,Radiostacja Happy Hits
-https://al.cdn.eurozet.pl/ALLRNB.mp3
-#EXTINF:0 radio=true,Radiostacja Legendy Bluesa
-https://al.cdn.eurozet.pl/ALLBLU.mp3
-#EXTINF:0 radio=true,Radiostacja Muzyka Filmowa
-https://al.cdn.eurozet.pl/ALLMOV.mp3
-#EXTINF:0 radio=true,Radiostacja R&B Mix
-https://al.cdn.eurozet.pl/ALLRNB.mp3
-#EXTINF:0 radio=true,Radiostacja Wieczorny Chill
-https://al.cdn.eurozet.pl/ALLAUT.mp3
-#EXTINF:0 radio=true,Retrostacja by Radiostacja
-https://pl.cdn.eurozet.pl/PLAOLD.mp3
 #EXTINF:0 radio=true,OPEN FM DAB+
 http://stream.open.fm/420
 #EXTINF:0 radio=true,OPEN FM #popularne
@@ -567,6 +501,8 @@ http://stream.open.fm/48
 http://stream.open.fm/102
 #EXTINF:0 radio=true,OPEN FM Love
 http://stream.open.fm/121
+#EXTINF:0 radio=true,OPEN FM Majówka
+http://stream.open.fm/150
 #EXTINF:0 radio=true,OPEN FM Miejska Stacja
 http://stream.open.fm/366
 #EXTINF:0 radio=true,OPEN FM Muzyka do snu
@@ -663,7 +599,7 @@ http://stream.open.fm/96
 http://stream.open.fm/97
 #EXTINF:0 radio=true,OPEN FM Top 20 Rock
 http://stream.open.fm/99
-#EXTINF:0 radio=true,OPEN FM Top 2021 Hits
+#EXTINF:0 radio=true,OPEN FM Top 2022 Hits
 http://stream.open.fm/131
 #EXTINF:0 radio=true,OPEN FM Top Wszech Czasów - Hip-Hop PL
 http://stream.open.fm/176
@@ -945,28 +881,6 @@ http://ext03.ic.smcdn.pl/4260-1.mp3
 https://pl.cdn.eurozet.pl/plu-waw.mp3
 #EXTINF:0 radio=true,Radio Plus - Zielona Góra
 https://pl.cdn.eurozet.pl/plu-zgr.mp3
-#EXTINF:0 radio=true,Planeta FM
-https://pl.cdn.eurozet.pl/pla-net.mp3
-#EXTINF:0 radio=true,Planeta FM - Clubbing
-https://pl.cdn.eurozet.pl/PLACLU.mp3
-#EXTINF:0 radio=true,Planeta FM - Dope Hits
-https://pl.cdn.eurozet.pl/PLAHOU.mp3
-#EXTINF:0 radio=true,Planeta FM - Electronic Wave
-https://pl.cdn.eurozet.pl/PLAEDM.mp3
-#EXTINF:0 radio=true,Planeta FM - Good Vibes
-https://pl.cdn.eurozet.pl/PLACHI.mp3
-#EXTINF:0 radio=true,Planeta FM - Hip Hop Stacja
-https://pl.cdn.eurozet.pl/PLAMAD.mp3
-#EXTINF:0 radio=true,Planeta FM - Indie Day Mood
-https://pl.cdn.eurozet.pl/PLAIDM.mp3
-#EXTINF:0 radio=true,Planeta FM - Love
-https://pl.cdn.eurozet.pl/PLAGOU.mp3
-#EXTINF:0 radio=true,Planeta FM - Make It POP
-https://pl.cdn.eurozet.pl/PLARNB.mp3
-#EXTINF:0 radio=true,Planeta FM - Oldschool Hip Hop
-https://pl.cdn.eurozet.pl/ALLSWA.mp3
-#EXTINF:0 radio=true,Planeta FM - Trance Vibes
-https://pl.cdn.eurozet.pl/PLATRA.mp3
 #EXTINF:0 radio=true,Moje Polskie Radio - Jedynka
 http://stream3.polskieradio.pl:8950
 #EXTINF:0 radio=true,Moje Polskie Radio - Dwójka
@@ -1073,6 +987,8 @@ http://stream3.polskieradio.pl:8504
 http://stream3.polskieradio.pl:8508
 #EXTINF:0 radio=true,Moje Polskie Radio - Szanty
 http://stream3.polskieradio.pl:8520
+#EXTINF:0 radio=true,Moje Polskie Radio - T.Love
+http://stream3.polskieradio.pl:8514
 #EXTINF:0 radio=true,Moje Polskie Radio - W jazzowym klimacie
 http://stream3.polskieradio.pl:8424
 #EXTINF:0 radio=true,Moje Polskie Radio - Wieczór odkrywców
@@ -1095,8 +1011,6 @@ https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
 https://an.cdn.eurozet.pl/ant-waw.mp3
 #EXTINF:0 radio=true,Antyradio Katowice
 https://an.cdn.eurozet.pl/ant-kat.mp3
-#EXTINF:0 radio=true,Antyradio - Akademik
-https://an.cdn.eurozet.pl/ALLAKA.mp3
 #EXTINF:0 radio=true,Antyradio - Ballads
 https://an.cdn.eurozet.pl/ANTBAL.mp3
 #EXTINF:0 radio=true,Antyradio - Classic Rock
@@ -1107,16 +1021,12 @@ https://an.cdn.eurozet.pl/ANTCOV.mp3
 https://an.cdn.eurozet.pl/ANTGRE.mp3
 #EXTINF:0 radio=true,Antyradio - Hard
 https://an.cdn.eurozet.pl/ANTHAR.mp3
-#EXTINF:0 radio=true,Antyradio - Hard & Heavy
-https://an.cdn.eurozet.pl/ALLHVY.mp3
 #EXTINF:0 radio=true,Antyradio - Live
 https://an.cdn.eurozet.pl/ANTLIV.mp3
 #EXTINF:0 radio=true,Antyradio - Made in Poland
 https://an.cdn.eurozet.pl/ANTPOL.mp3
 #EXTINF:0 radio=true,Antyradio - Makak
 https://an.cdn.eurozet.pl/ANTMAK.mp3
-#EXTINF:0 radio=true,Antyradio - Rock & Indie
-https://an.cdn.eurozet.pl/ALLIND.mp3
 #EXTINF:0 radio=true,Antyradio - Unplugged
 https://an.cdn.eurozet.pl/ANTUNP.mp3
 #EXTINF:0 radio=true,Antyradio - Woodstock
@@ -1201,6 +1111,8 @@ http://panel.radiombox.pl/radio/8070/Club320kbps
 http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
 #EXTINF:0 radio=true,Radio Mbox - Gold Hits
 http://panel.radiombox.pl/radio/8040/GoldHits320kbps
+#EXTINF:0 radio=true,Radio Mbox - RNB & Rap
+https://panel.radiombox.pl/radio/8050/RnbHH320kbps
 #EXTINF:0 radio=true,Radio Mbox - Rock
 http://panel.radiombox.pl/radio/8090/Rock320kbps
 #EXTINF:0 radio=true,Radio Musicdays.pl - Blues Rock
@@ -1395,6 +1307,8 @@ http://stream4.nadaje.com:14006/plock
 https://stream4.nadaje.com:14001/radom
 #EXTINF:0 radio=true,Radio Dla Ciebie - Siedlce
 https://stream4.nadaje.com:14005/siedlce
+#EXTINF:0 radio=true,Radio Elbląg
+http://n05.radiojar.com/q87xmtvrrg8uv
 #EXTINF:0 radio=true,Radio Freee
 https://streaming.radio.lublin.pl:8843/radiofreee
 #EXTINF:0 radio=true,Radio Gdańsk
@@ -1437,10 +1351,10 @@ http://stream2.nadaje.com:13332/offradiokrakow
 https://streaming.radio.lublin.pl:8843/128k
 #EXTINF:0 radio=true,Radio Łódź
 http://217.113.224.171:80/RadioLodz-1-HQ.aac
-#EXTINF:0 radio=true,Radio Łódź - Extra
-http://217.113.224.171:80/RadioLodz-2-HQ.aac
 #EXTINF:0 radio=true,Radio Łódź - Nad Wartą
 http://217.113.224.171:80/RadioLodz-NW-HQ.aac
+#EXTINF:0 radio=true,Radio Łódź - Transmisje
+http://217.113.224.171:80/RadioLodz-3-HQ.aac
 #EXTINF:0 radio=true,Radio MC
 http://stream4.nadaje.com:8624/mcradio
 #EXTINF:0 radio=true,Radio Opole
@@ -1468,7 +1382,7 @@ https://stream4.nadaje.com:11987/prs
 #EXTINF:0 radio=true,Radio Szczecin Extra
 https://stream3.nadaje.com:8201/szczecinextra
 #EXTINF:0 radio=true,Radio Warmii i Mazur
-https://rostr1.radioolsztyn.pl:8743/RWiM
+https://rostr1.radioolsztyn.pl:8843/RWiM
 #EXTINF:0 radio=true,Radio Wrocław
 http://stream4.nadaje.com:9240/prw
 #EXTINF:0 radio=true,Radio Wrocław Kultura
@@ -1545,8 +1459,6 @@ http://s1.slotex.pl:7560
 http://s1.slotex.pl:7022
 #EXTINF:0 radio=true,Radio Śląskie Radio /śląskie/
 https://stream10.hosterion.pl/8066/stream
-#EXTINF:0 radio=true,Radio Tuptuś /śląskie/
-https://tuptus.stream.laut.fm/tuptus
 #EXTINF:0 radio=true,Radio Vanessa /śląskie/
 http://s1.slotex.pl:7358
 #EXTINF:0 radio=true,Radio Wesołe Ślonzoki /śląskie/
@@ -1650,7 +1562,7 @@ http://radio.viennaplus.at:8000
 #EXTINF:0 radio=true,Radio Warszawa /katolickie/
 http://streaming03.technologicznie.net:8765/radio_warszawa.mp3
 #EXTINF:0 radio=true,Radio Zamość /katolickie/
-http://91.231.120.124:80
+https://stream.rcs.revma.com/0n8y7mxcay8uv
 #EXTINF:0 radio=true,Radio 1.7
 http://emisja.radio17.pl:8000/R17
 #EXTINF:0 radio=true,Radio 4Music
@@ -1698,7 +1610,7 @@ http://54.37.73.148:8000/stream
 #EXTINF:0 radio=true,Radio Apogeum
 http://s1.slotex.pl:7512
 #EXTINF:0 radio=true,Radio Arkadia
-http://s3.slotex.pl:7450
+http://s1.slotex.pl:7238
 #EXTINF:0 radio=true,Radio Art Bogatynia
 http://91.232.4.33:7096/stream
 #EXTINF:0 radio=true,Radio Autsajder
@@ -1729,8 +1641,8 @@ http://195.164.158.230:9070
 http://91.232.4.33:9149/stream
 #EXTINF:0 radio=true,Radio BIGbbs
 http://91.121.91.156:8000
-#EXTINF:0 radio=true,Radio Blender.pl
-https://ssl-1.radiohost.pl:9709
+#EXTINF:0 radio=true,Radio Black Wings
+https://streaming.transmisjaradio.net:8000/blackwings
 #EXTINF:0 radio=true,Radio Blue Moon
 http://s3.slotex.pl:7014
 #EXTINF:0 radio=true,Radio Bogoria
@@ -1787,8 +1699,6 @@ http://s1.slotex.pl:7512
 http://s7.radiohost.pl:8488
 #EXTINF:0 radio=true,Radio Danielka
 https://s3.slotex.pl/shoutcast/7088/stream
-#EXTINF:0 radio=true,Radio DanJur
-http://s1.slotex.pl:7486
 #EXTINF:0 radio=true,Radio DHT 1
 https://radiodht.com/stream_main/
 #EXTINF:0 radio=true,Radio DHT 2
@@ -1814,7 +1724,7 @@ https://s3.slotex.pl/shoutcast/7100/stream
 #EXTINF:0 radio=true,Radio Dobre.Radio
 https://dobre.out.airtime.pro/dobre_a
 #EXTINF:0 radio=true,Radio DTR
-http://188.138.125.181:8006/stream
+https://streaming.transmisjaradio.net:8000/dtr
 #EXTINF:0 radio=true,Radio Duch
 http://s1.slotex.pl:7174
 #EXTINF:0 radio=true,Radio Echo Chicago
@@ -1829,8 +1739,6 @@ http://radioef.pl:8000/stream02.mp3
 http://radiointernetowe.net:9950
 #EXTINF:0 radio=true,Radio EL-Stacja
 http://radio.el-stacja.pl:8000/elstacjamp3
-#EXTINF:0 radio=true,Radio Elbląg
-http://n05.radiojar.com/q87xmtvrrg8uv
 #EXTINF:0 radio=true,Radio Elka Głogów
 http://live.elka.pl:8000/miedziowe.pl
 #EXTINF:0 radio=true,Radio Elka Leszno
@@ -1892,9 +1800,11 @@ http://s1.slotex.pl:7326
 #EXTINF:0 radio=true,Radio Gold Stars
 http://s1.slotex.pl:7270
 #EXTINF:0 radio=true,Radio Gozdawa
-https://streams.radio.co/s1fe132ddb/listen
+https://streaming.transmisjaradio.net:8000/gozdawa
 #EXTINF:0 radio=true,Radio Góralskie
 https://s3.slotex.pl/shoutcast/7398/stream
+#EXTINF:0 radio=true,Radio Green Garden
+https://s3.slotex.pl/shoutcast/7400/stream
 #EXTINF:0 radio=true,Radio Guardian
 http://s1.slotex.pl:7508
 #EXTINF:0 radio=true,Radio Halo.Radio
@@ -1913,8 +1823,6 @@ http://46.170.199.85:8000
 http://s1.slotex.pl:7328
 #EXTINF:0 radio=true,Radio HQS
 http://hqsource.org:2082
-#EXTINF:0 radio=true,Radio HTM Eco Radio
-https://azuracast.htmecoradio.com:8000/htm.mp3
 #EXTINF:0 radio=true,Radio I
 http://94.130.209.64:8000
 #EXTINF:0 radio=true,Radio Ibiza
@@ -1991,8 +1899,6 @@ http://stream10.hosterion.pl:8004/stream
 http://panel.nadaje.com:11058
 #EXTINF:0 radio=true,Radio Lolusiowe
 https://s3.slotex.pl/shoutcast/7570/stream
-#EXTINF:0 radio=true,Radio Lovmusic
-https://s3.slotex.pl/shoutcast/7660/stream
 #EXTINF:0 radio=true,Radio Love Song
 http://s1.slotex.pl:7284
 #EXTINF:0 radio=true,Radio Made Music
@@ -2141,6 +2047,8 @@ http://panel.nadaje.com:9052/radiopatrolpl
 http://s1.slotex.pl:7288
 #EXTINF:0 radio=true,Radio Piekielskie 1
 http://s1.slotex.pl:7146
+#EXTINF:0 radio=true,Radio Planeta FM
+https://pl.cdn.eurozet.pl/pla-net.mp3
 #EXTINF:0 radio=true,Radio Płock FM
 https://stream.rcs.revma.com/6qvcy46wmc9uv
 #EXTINF:0 radio=true,Radio Płońsk
@@ -2376,7 +2284,7 @@ https://radiozqlturapl.radioca.st/stream
 #EXTINF:0 radio=true,Radio Zamek Nadaje
 https://streaming.radio.co/s65cef3a93/listen
 #EXTINF:0 radio=true,Radio Zawiercie
-https://s3.slotex.pl/shoutcast/7656/stream
+http://51.255.8.139:9078/stream
 #EXTINF:0 radio=true,Radio Ziemi Wieluńskiej
 http://stream2.nadaje.com:8022
 #EXTINF:0 radio=true,Radio Ziomki
