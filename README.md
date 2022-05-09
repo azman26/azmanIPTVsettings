@@ -2,7 +2,7 @@
 
 Do prawidłowego działania większości kanałów w listach wymagana jest wtyczka "STREAMLINK" z zawartymi w niej oficjalnymi pluginami oraz dodatkowe komponenty ( streamlinkwrapper + ytdlpwrapper + ytdlwrapper + streamlinksrv ).
 
-Poza oficjalnymi pluginami wymagane są też autorskie pluginy  j00zka ( _pilotwppl,  _tvpstream,  _tvregionalna ), które zawarte są w jego modzie Streamlinka.
+Poza oficjalnymi pluginami wymagane są też autorskie pluginy j00zka ( _pilotwppl,  _tvpstream,  _tvregionalna ), które zawarte są w jego Streamlink Konfiguratorze.
 
 - IPTV REGIONALNE + YT + RADIO [azman] - lista zawiera wszystkie lokalne polskie kanały oraz stałe przekazy na YT jakie udało się znaleźć. Dodatkowo zawiera pakiet polskich rozgłośni radiowych dla których jest możliwość generowania EPG . ( wymagane oficjalne pluginy Streamlinka ) + ( ytdlpwrapper )
 
