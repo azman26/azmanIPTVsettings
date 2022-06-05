@@ -441,7 +441,7 @@ http://stream.open.fm/69
 http://stream.open.fm/361
 #EXTINF:0 radio=true,OPEN FM Fitness
 http://stream.open.fm/65
-#EXTINF:0 radio=true,OPEN FM Freszzz: Wiosna 2022
+#EXTINF:0 radio=true,OPEN FM Freszzz: Lato 2022
 http://stream.open.fm/39
 #EXTINF:0 radio=true,OPEN FM Giganci Rocka
 http://stream.open.fm/118
@@ -456,7 +456,9 @@ http://stream.open.fm/120
 #EXTINF:0 radio=true,OPEN FM Hip-Hop Freszzz
 http://stream.open.fm/93
 #EXTINF:0 radio=true,OPEN FM Hip-Hop Klasyk
-http://stream.open.fm/107
+https://stream.open.fm/107
+#EXTINF:0 radio=true,OPEN FM Hip-Hop Motywacyjny
+https://stream.open.fm/143
 #EXTINF:0 radio=true,OPEN FM Hip-Hop PL
 http://stream.open.fm/24
 #EXTINF:0 radio=true,OPEN FM Hip Hop Ulica
@@ -845,6 +847,8 @@ http://ext03.ic.smcdn.pl/6100-1.mp3
 http://ext03.ic.smcdn.pl/6170-1.mp3
 #EXTINF:0 radio=true,VOX Disco Party
 http://ext03.ic.smcdn.pl/6180-1.mp3
+#EXTINF:0 radio=true,VOX Najlepszy Koncert Świata
+http://ext03.ic.smcdn.pl/6080-1.mp3
 #EXTINF:0 radio=true,VOX Wesele Marzeń
 http://ext03.ic.smcdn.pl/6020-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Polska
@@ -1919,8 +1923,8 @@ http://s1.slotex.pl:8880
 https://stream10.hosterion.pl/8016/stream
 #EXTINF:0 radio=true,Radio Mega
 https://stream.rcs.revma.com/q18ty3qhwzzuv
-#EXTINF:0 radio=true,Radio Mega The Best
-https://s3.slotex.pl/shoutcast/7420/stream
+#EXTINF:0 radio=true,Radio MegaTheBest
+https://s2.ok9.pl/radio/8100/radio.mp3
 #EXTINF:0 radio=true,Radio Metal Live Radio
 http://51.255.8.139:8738/stream
 #EXTINF:0 radio=true,Radio Miasto Muzyki
@@ -2143,6 +2147,8 @@ http://4stream.pl:18454
 http://s1.slotex.pl:7556
 #EXTINF:0 radio=true,Radio Sigma Fm
 http://www.play.radiosigma.eu:8000/sigma_128_kbps
+#EXTINF:0 radio=true,Radio Silver Blue
+https://s3.slotex.pl/shoutcast/7278/stream
 #EXTINF:0 radio=true,Radio Składankowe Radio
 http://s1.slotex.pl:7488
 #EXTINF:0 radio=true,Radio Sky Radio Polska
