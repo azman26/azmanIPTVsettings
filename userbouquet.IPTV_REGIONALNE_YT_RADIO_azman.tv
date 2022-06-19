@@ -5,7 +5,7 @@
 #DESCRIPTION Twoja TV
 #SERVICE 4097:0:1:6:1:48:0:0:0:0:http%3a//stream.sferatv.pl%3a1935/sferalive/smil%3asferalive.smil/chunklist_w1722636790_b1128000_slpl.m3u8:Sfera TV
 #DESCRIPTION Sfera TV
-#SERVICE 4097:0:1:7:1:48:0:0:0:0:https%3a//insysgo.live.rd.insyscd.net/cl04/out/u/asta-tv-hd_4.m3u8?m=1597317441:Asta TV HD
+#SERVICE 4097:0:1:7:1:48:0:0:0:0:https%3a//5cce8c6f0e84c.streamlock.net/LiveCast/smil%3aPlayStream9.smil/playlist.m3u8:Asta TV HD
 #DESCRIPTION Asta TV HD
 #SERVICE 4097:0:1:13:1:48:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/_definst_/dlaCiebieTv/playlist.m3u8:Dla ciebie.tv
 #DESCRIPTION Dla ciebie.tv
@@ -15,7 +15,7 @@
 #DESCRIPTION TVT Rybnik
 #SERVICE 4097:0:1:65:1:48:0:0:0:0:https%3a//insysgo.live.e57-po.insyscd.net/echo24.720.smil/manifest.m3u8:Echo24
 #DESCRIPTION Echo24
-#SERVICE 4097:0:1:64:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvtoya.pl/live:TOYA
+#SERVICE 4097:0:1:64:1:48:0:0:0:0:streamlink%3a//http%3a//tvtoya.pl/player/live:TOYA
 #DESCRIPTION TOYA
 #SERVICE 4097:0:1:59:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCYxbE-WoPqKq26sSeQ6eD1w/live:New TV  (YT)
 #DESCRIPTION New TV  (YT)
@@ -23,6 +23,8 @@
 #DESCRIPTION TV Relax  (YT)
 #SERVICE 4097:0:1:58:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCL1u3cY7_nPjbZmKljCy_Cw/live:TV DAMI  (YT)
 #DESCRIPTION TV DAMI  (YT)
+#SERVICE 4097:0:1:91CB:4324:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCENo4wEDe_59Bb8rGGMZl_w/live:HTS Słubice  (YT)
+#DESCRIPTION HTS Słubice  (YT)
 #SERVICE 4097:0:1:84:1:48:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
 #DESCRIPTION TVT Zgorzelec
 #SERVICE 4097:0:1:86:1:48:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
@@ -33,26 +35,24 @@
 #DESCRIPTION TV Wielkopolska
 #SERVICE 4097:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
 #DESCRIPTION Truso TV
+#SERVICE 5002:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag2/myStream/playlist.m3u8:TV Kaszuby
+#DESCRIPTION TV Kaszuby
 #SERVICE 4097:0:1:96:1:48:0:0:0:0:https%3a//cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8:TV JASŁO
 #DESCRIPTION TV JASŁO
 #SERVICE 4097:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
 #DESCRIPTION TV Lubań
-#SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/hls/live.stream.m3u8:TVK Nowy Tomyśl
+#SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/02994218-eeb7-4791-8dc2-2f2942cfbe2b.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/polonico/events/9905467:Polonico TV
 #DESCRIPTION Polonico TV
-#SERVICE 4097:0:1:70EF:2C33:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/event/1230897/embed:Index TV
+#SERVICE 4097:0:1:70EF:2C33:EC:0:0:0:0:streamlink%3a//https%3a//vimeo.com/event/1230897/embed:Index TV
 #DESCRIPTION Index TV
-#SERVICE 4097:0:1:69:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10nazywo:KANAŁ 10 (Radio NAKŁO)
+#SERVICE 4097:0:1:69:1:48:0:0:0:0:streamlink%3a//https%3a//www.twitch.tv/kanal10live:KANAŁ 10 (Radio NAKŁO)
 #DESCRIPTION KANAŁ 10 (Radio NAKŁO)
-#SERVICE 4097:0:1:8F76:F05E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10nazywo2:KANAŁ 10 (RMF FM)
+#SERVICE 4097:0:1:8F76:F05E:EC:0:0:0:0:streamlink%3a//https%3a//www.twitch.tv/kanal10nazywo2:KANAŁ 10 (RMF FM)
 #DESCRIPTION KANAŁ 10 (RMF FM)
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCU7uwCYami150L_lydp2OHQ/live:LTVM  (YT)
 #DESCRIPTION LTVM  (YT)
-#SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
-#DESCRIPTION info PŁOCK  (YT)
-#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCYG4JRAdsBM6BiuF5-UL9DQ/live:UAM.TV  (YT)
-#DESCRIPTION UAM.TV  (YT)
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCpUZqLZNnVwlBIeOZYslMDw/live:TV Słowianin  (YT)
 #DESCRIPTION TV Słowianin  (YT)
 #SERVICE 4097:0:1:50:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/TelewizjaGorz%C3%B3wteletop/live:TV Gorzów  (YT)
@@ -69,11 +69,11 @@
 #DESCRIPTION TVi Roland  (YT)
 #SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCzk5x_PbhFKUoJx_HNTefDQ/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
-#SERVICE 4097:0:1:40:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
+#SERVICE 4097:0:1:40:1:48:0:0:0:0:streamlink%3a//https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
 #DESCRIPTION WebCamera.pl
 #SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl Plaże
 #DESCRIPTION WebCamera.pl Plaże
-#SERVICE 4097:0:1:1090:3EE:1:C00000:0:0:0:https%3a//trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8?m=1577689011:TV Trwam
+#SERVICE 4097:0:1:1090:3EE:1:C00000:0:0:0:https%3a//trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.m3u8:TV Trwam
 #DESCRIPTION TV Trwam
 #SERVICE 4097:0:1:81:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCOZvcN7zQbf5kpi321dVcZQ/live:Dobre Media  (YT)
 #DESCRIPTION Dobre Media  (YT)
@@ -125,8 +125,14 @@
 #DESCRIPTION Super Express  (YT) (8:45-10:00)
 #SERVICE 4097:0:1:1648:D40C:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCTKxkwZp-aWyNsV3vdV2EpA/live:Polskie Radio 24  (YT)
 #DESCRIPTION Polskie Radio 24  (YT)
-#SERVICE 4097:0:1:2775:E944:EC:0:0:0:0:YT-DLP%3a/https%3a//www.youtube.com/channel/UCIfI7Yo22SMKp5PraztHM6w/live:Kanał Sportowy  (YT)
+#SERVICE 4097:0:1:2775:E944:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCIfI7Yo22SMKp5PraztHM6w/live:Kanał Sportowy  (YT)
 #DESCRIPTION Kanał Sportowy  (YT)
+#SERVICE 1:64:1:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
+#DESCRIPTION --- CHWILOWO OFFLINE ---
+#SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
+#DESCRIPTION info PŁOCK  (YT)
+#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCYG4JRAdsBM6BiuF5-UL9DQ/live:UAM.TV  (YT)
+#DESCRIPTION UAM.TV  (YT)
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
 #DESCRIPTION --- RADIO  PL  IP ---
 #SERVICE 4097:0:2:1091:3EE:1:C00000:0:0:0:https%3a//radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1:Radio Maryja
@@ -241,5 +247,11 @@
 #DESCRIPTION Radio ŁÓDŹ
 #SERVICE 4097:0:2:0:192:0:0:0:0:0:https%3a//ext03.ic.smcdn.pl/5380-1.mp3:Radio ESKA ROCK
 #DESCRIPTION Radio ESKA ROCK
+#SERVICE 4097:0:2:0:193:0:0:0:0:0:https%3a//primary.moodyradiostream.org/radiofest:Radio FEST
+#DESCRIPTION Radio FEST
+#SERVICE 4097:0:2:0:194:0:0:0:0:0:https%3a//stream0.radio90.pl%3a8001/radio90_128kbps_stereo.mp3:Radio 90
+#DESCRIPTION Radio 90
+#SERVICE 4097:0:2:0:195:0:0:0:0:0:https%3a//stream.weekendfm.pl/weekendfm_najlepsza:WEEKEND FM
+#DESCRIPTION WEEKEND FM
 #SERVICE 4097:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
