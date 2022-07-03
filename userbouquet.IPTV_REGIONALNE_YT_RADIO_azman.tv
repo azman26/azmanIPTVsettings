@@ -253,5 +253,12 @@
 #DESCRIPTION Radio 90
 #SERVICE 4097:0:2:0:195:0:0:0:0:0:https%3a//stream.weekendfm.pl/weekendfm_najlepsza:WEEKEND FM
 #DESCRIPTION WEEKEND FM
+<<<<<<< Updated upstream
+=======
+#SERVICE 4097:0:2:0:196:0:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:Nasze Radio
+#DESCRIPTION Nasze Radio
+#SERVICE 4097:0:2:0:197:0:0:0:0:0:http%3a//88.199.169.10%3a8000:Radio Niepokalanów
+#DESCRIPTION Radio Niepokalanów
+>>>>>>> Stashed changes
 #SERVICE 4097:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
