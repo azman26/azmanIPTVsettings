@@ -1,7 +1,7 @@
 #NAME TVP VOD  [azman]
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- Klasyka ---
 #DESCRIPTION --- Klasyka ---
-#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=39091614:Akwarium
+#SERVICE 4097:0:1:F67A:2736:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=39091614:Akwarium
 #DESCRIPTION Akwarium
 #SERVICE 4097:0:1:9ac3:464e:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=57974686:Marusarz - Tatrzański orzeł
 #DESCRIPTION Marusarz - Tatrzański orzeł
