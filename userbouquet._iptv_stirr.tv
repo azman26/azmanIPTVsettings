@@ -1,82 +1,74 @@
-#NAME IPTV STIRR (EN)
-#SERVICE 4097:0:1:F5D1:D8D9:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8:CHARGE
-#DESCRIPTION CHARGE
-#SERVICE 4097:0:1:29FA:7E5E:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8:COMET
-#DESCRIPTION COMET
-#SERVICE 4097:0:1:6C08:2762:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8:STIRR | Movies
-#DESCRIPTION STIRR | Movies
-#SERVICE 4097:0:1:DF6A:25F6:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8:Filmrise Free Movies
-#DESCRIPTION Filmrise Free Movies
-#SERVICE 4097:0:1:65DA:1427:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8:STIRR P.D.
-#DESCRIPTION STIRR P.D.
-#SERVICE 4097:0:1:9D1:D282:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8:Film Detective
-#DESCRIPTION Film Detective
-#SERVICE 4097:0:1:E473:7E88:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8:The Archive
-#DESCRIPTION The Archive
-#SERVICE 4097:0:1:F5CD:D859:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8:CineLife
-#DESCRIPTION CineLife
-#SERVICE 4097:0:1:8B36:1AD6:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8:Cinehouse
-#DESCRIPTION Cinehouse
-#SERVICE 4097:0:1:FABA:9BC3:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8:Electric Now
-#DESCRIPTION Electric Now
-#SERVICE 4097:0:1:BAE7:8D6C:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8:Dove
-#DESCRIPTION Dove
-#SERVICE 4097:0:1:D92F:2B2A:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8:STIRR Classic TV
-#DESCRIPTION STIRR Classic TV
-#SERVICE 4097:0:1:6790:51F4:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8:Filmrise Classic TV
-#DESCRIPTION Filmrise Classic TV
-#SERVICE 4097:0:1:B108:A6BB:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8:STIRR Horror Movies
-#DESCRIPTION STIRR Horror Movies
-#SERVICE 4097:0:1:94F6:C3F3:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8:STIRR Westerns
-#DESCRIPTION STIRR Westerns
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8:Midnight Pulp
-#DESCRIPTION Midnight Pulp
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8:Space 1999
-#DESCRIPTION Space 1999
+#NAME IPTV STIRR EN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8:STIRR | National
 #DESCRIPTION STIRR | National
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/242b1153-0129-484e-8ec8-378edd691537.m3u8:STIRR Family
-#DESCRIPTION STIRR Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8:Gravitas
-#DESCRIPTION Gravitas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8:Comedy Dynamics
-#DESCRIPTION Comedy Dynamics
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8:Chicken Soup For The Soul
 #DESCRIPTION Chicken Soup For The Soul
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8:TBD
-#DESCRIPTION TBD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8:Nosey
-#DESCRIPTION Nosey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8:CHARGE
+#DESCRIPTION CHARGE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8:Buzzr
 #DESCRIPTION Buzzr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TDMDqMIpS82NHoFpGVYB9Q/master.m3u8:STIRR KaiJune
+#DESCRIPTION STIRR KaiJune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8:COMET
+#DESCRIPTION COMET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8:TBD
+#DESCRIPTION TBD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/V6bPnsRPQ0K6cQr3zxjdbw/master.m3u8:Circle
+#DESCRIPTION Circle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8:Nosey
+#DESCRIPTION Nosey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/VY5rb91ASh26jkj60tkeNQ/master.m3u8:Johnny Carson TV
 #DESCRIPTION Johnny Carson TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8:Shout Factory
 #DESCRIPTION Shout Factory
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8:Dick Cavett
-#DESCRIPTION Dick Cavett
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/P2UqOY0CSbCxXP5WHYeg4w/master.m3u8:The Carol Burnett Show
+#DESCRIPTION The Carol Burnett Show
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8:STIRR Classic TV
+#DESCRIPTION STIRR Classic TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8:The Bob Ross Channel
+#DESCRIPTION The Bob Ross Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8:Filmrise Classic TV
+#DESCRIPTION Filmrise Classic TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8:The Tim Conway Show
+#DESCRIPTION The Tim Conway Show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8:American Classics
 #DESCRIPTION American Classics
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8:It's Showtime at the Apollo
 #DESCRIPTION It's Showtime at the Apollo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8:The Bob Ross Channel
-#DESCRIPTION The Bob Ross Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8:The Tim Conway Show
-#DESCRIPTION The Tim Conway Show
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8:STIRR Black Cinema
-#DESCRIPTION STIRR Black Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8:STIRR | Movies
+#DESCRIPTION STIRR | Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8:STIRR Horror Movies
+#DESCRIPTION STIRR Horror Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8:Comedy Dynamics
+#DESCRIPTION Comedy Dynamics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8:Gravitas
+#DESCRIPTION Gravitas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8:Cinehouse
+#DESCRIPTION Cinehouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8:CineLife
+#DESCRIPTION CineLife
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8:Dick Cavett
+#DESCRIPTION Dick Cavett
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8:Filmrise Free Movies
+#DESCRIPTION Filmrise Free Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8:Docurama
 #DESCRIPTION Docurama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8:Swerve Sports
+#DESCRIPTION Swerve Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8:MagellanTV
 #DESCRIPTION MagellanTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8:Bloomberg TV
-#DESCRIPTION Bloomberg TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8:The Archive
+#DESCRIPTION The Archive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8:Film Detective
+#DESCRIPTION Film Detective
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8:USA Today
 #DESCRIPTION USA Today
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8:Quicktake
-#DESCRIPTION Quicktake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8:Bloomberg TV
+#DESCRIPTION Bloomberg TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/XZAqu9DcTciaDqXU1TzBPg/master.m3u8:FOX Soul
 #DESCRIPTION FOX Soul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8:Quicktake
+#DESCRIPTION Quicktake
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8:The First
 #DESCRIPTION The First
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8:Cheddar
@@ -89,126 +81,136 @@
 #DESCRIPTION AccuWeather
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8:NASATV
 #DESCRIPTION NASATV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/V6bPnsRPQ0K6cQr3zxjdbw/master.m3u8:Circle
-#DESCRIPTION Circle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8:STIRR Reality TV
+#DESCRIPTION STIRR Reality TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/c16448cc-ef21-44a5-a5b4-192f943b2dbb.m3u8:Horse Shopping Channel
+#DESCRIPTION Horse Shopping Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8:So...Real
 #DESCRIPTION So...Real
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/JqUO_upJSQyenPkO1OICcg/master.m3u8:Spartan TV
 #DESCRIPTION Spartan TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/P2UqOY0CSbCxXP5WHYeg4w/master.m3u8:The Carol Burnett Show
-#DESCRIPTION The Carol Burnett Show
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/c16448cc-ef21-44a5-a5b4-192f943b2dbb.m3u8:Horse Shopping Channel
-#DESCRIPTION Horse Shopping Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8:STIRR Reality TV
-#DESCRIPTION STIRR Reality TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8:AFV
 #DESCRIPTION AFV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8:The Pet Collective
-#DESCRIPTION The Pet Collective
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8:People Are Awesome
 #DESCRIPTION People Are Awesome
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8:WeatherSpy
-#DESCRIPTION WeatherSpy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8:The Pet Collective
+#DESCRIPTION The Pet Collective
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8:FailArmy
 #DESCRIPTION FailArmy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8:WeatherSpy
+#DESCRIPTION WeatherSpy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8:America vs. Addiction
 #DESCRIPTION America vs. Addiction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/242b1153-0129-484e-8ec8-378edd691537.m3u8:STIRR Family
+#DESCRIPTION STIRR Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=stirr_testing:Electric Now
+#DESCRIPTION Electric Now
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8:Deal or No Deal
 #DESCRIPTION Deal or No Deal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dust-stirr.amagi.tv/index.m3u8:DUST
-#DESCRIPTION DUST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8:STIRR P.D.
+#DESCRIPTION STIRR P.D.
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8:Wipeout Xtra
 #DESCRIPTION Wipeout Xtra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dust-stirr.amagi.tv/index.m3u8:DUST
+#DESCRIPTION DUST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/m8v8NmeOSAGo1rZqjCpdtA/master.m3u8:Alter
+#DESCRIPTION Alter
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8:Mystery Science Theater 3000
 #DESCRIPTION Mystery Science Theater 3000
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8:CONtv
 #DESCRIPTION CONtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8:Midnight Pulp
+#DESCRIPTION Midnight Pulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8:Space 1999
+#DESCRIPTION Space 1999
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8:Revry
 #DESCRIPTION Revry
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8:LiveXLive
-#DESCRIPTION LiveXLive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8:RetroCrush
 #DESCRIPTION RetroCrush
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8:EVRGRN
-#DESCRIPTION EVRGRN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8:LiveXLive
+#DESCRIPTION LiveXLive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8:People TV
 #DESCRIPTION People TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8:Dove
+#DESCRIPTION Dove
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8:The Country Network
 #DESCRIPTION The Country Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8:EVRGRN
+#DESCRIPTION EVRGRN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8:STIRR Westerns
+#DESCRIPTION STIRR Westerns
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8:Popstar! TV
 #DESCRIPTION Popstar! TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8:Ambiance
-#DESCRIPTION Ambiance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8:Glewed TV
 #DESCRIPTION Glewed TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8:Ambiance
+#DESCRIPTION Ambiance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/f3uG6WJHTFi7wnsaH59Stg/master.m3u8:BspokeTV
 #DESCRIPTION BspokeTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8:HSN
+#DESCRIPTION HSN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8:Big Life
 #DESCRIPTION Big Life
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8:ONTV4U
 #DESCRIPTION ONTV4U
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8:HSN
-#DESCRIPTION HSN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8:SOAR
-#DESCRIPTION SOAR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8:Shop LC
 #DESCRIPTION Shop LC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8:SOAR
+#DESCRIPTION SOAR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8:Stadium
 #DESCRIPTION Stadium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8:QVC
-#DESCRIPTION QVC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8:ACCDN
 #DESCRIPTION ACCDN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8:Ring of Honor
-#DESCRIPTION Ring of Honor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8:beIN Sports Xtra
 #DESCRIPTION beIN Sports Xtra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8:Sportswire
+#DESCRIPTION Sportswire
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8:The T
 #DESCRIPTION The T
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8:SportsGrid
 #DESCRIPTION SportsGrid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8:World Poker Tour
 #DESCRIPTION World Poker Tour
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8:Sportswire
-#DESCRIPTION Sportswire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/KQw4tzC3Sf6n9rV_MuJbjg/master.m3u8:Racing America
+#DESCRIPTION Racing America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8:Whistle TV
 #DESCRIPTION Whistle TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8:Outdoor America
-#DESCRIPTION Outdoor America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8:MavTv
 #DESCRIPTION MavTv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8:Outdoor America
+#DESCRIPTION Outdoor America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8:Waypoint
+#DESCRIPTION Waypoint
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8:Outside TV
 #DESCRIPTION Outside TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8:PursuitUp
 #DESCRIPTION PursuitUp
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8:Insight TV
-#DESCRIPTION Insight TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/QjDVfzVNRba77CS-LcVTmg/master.m3u8:Unbeaten
 #DESCRIPTION Unbeaten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/gJpQRkqiS8SHzAbPlGNRQw/master.m3u8:VENN
-#DESCRIPTION VENN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8:Stingray Greatest Hits
 #DESCRIPTION Stingray Greatest Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8:Insight TV
+#DESCRIPTION Insight TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8:Stingray Hit List
 #DESCRIPTION Stingray Hit List
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/KQw4tzC3Sf6n9rV_MuJbjg/master.m3u8:Racing America
-#DESCRIPTION Racing America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8:Stingray Classic Rock
 #DESCRIPTION Stingray Classic Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8:Stingray Rock Alternative
 #DESCRIPTION Stingray Rock Alternative
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8:Stingray Pop Adult
 #DESCRIPTION Stingray Pop Adult
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8:Stingray Urban Beats
-#DESCRIPTION Stingray Urban Beats
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8:Stingray Hot Country
 #DESCRIPTION Stingray Hot Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8:Stingray Urban Beats
+#DESCRIPTION Stingray Urban Beats
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8:Stingray Flashback 70s
 #DESCRIPTION Stingray Flashback 70s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8:Stingray Everything 80s
-#DESCRIPTION Stingray Everything 80s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8:Stingray Today's Latin Pop
 #DESCRIPTION Stingray Today's Latin Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8:Stingray Everything 80s
+#DESCRIPTION Stingray Everything 80s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8:Karaoke
 #DESCRIPTION Karaoke
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8:Qello
@@ -217,8 +219,6 @@
 #DESCRIPTION Classica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8:DJAZZ
 #DESCRIPTION DJAZZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8:Waypoint
-#DESCRIPTION Waypoint
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8:Alabama%3a Birmingham
 #DESCRIPTION Alabama: Birmingham
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8:Alabama%3a Mobile
