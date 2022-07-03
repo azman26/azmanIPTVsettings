@@ -1,4 +1,6 @@
 #NAME *IPTV Rakuten TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//1plus1-rakuten.amagi.tv/playlist.m3u8:LIVE 24/7 news UE
+#DESCRIPTION LIVE 24/7 news UE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8:CNN International (EU)
 #DESCRIPTION CNN International (EU)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8:EuroNews 1 (EU)
@@ -267,6 +269,12 @@
 #DESCRIPTION Rakuten Comedy 12 (EU)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-13-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Comedy 13 (EU)
 #DESCRIPTION Rakuten Comedy 13 (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991732/master.m3u8?ads.xumo_channelId=9991732:FilmRise Serien DE
+#DESCRIPTION FilmRise Serien DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/56f5b5ceafba4a8b/9991733/master.m3u8?ads.xumo_channelId=9991733:FilmRise Binge Watch DE
+#DESCRIPTION FilmRise Binge Watch DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/a249be578217437d/9991761/master.m3u8?ads.xumo_channelId=9991761:GoldStar TV
+#DESCRIPTION GoldStar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-4-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 4 (EU) German subs
 #DESCRIPTION Rakuten Documentaries 4 (EU) German subs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-5-eu.rakuten.wurl.tv/playlist.m3u8:Rakuten Documentaries 5 (EU)
