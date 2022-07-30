@@ -1,0 +1,209 @@
+#NAME *IPTV TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//contv-tcl.amagi.tv/playlist.m3u8:Con TV -TCL
+#DESCRIPTION Con TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//contvanime-tcl.amagi.tv/playlist.m3u8:Con TV Anime -TCL
+#DESCRIPTION Con TV Anime -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unbeaten-tcl.amagi.tv/playlist.m3u8:Unbeaten -TCL
+#DESCRIPTION Unbeaten -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//docurama-tcl.amagi.tv/playlist.m3u8:Docurama -TCL
+#DESCRIPTION Docurama -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//whistlesports-tcl.amagi.tv/playlist.m3u8:Whistle Sports -TCL
+#DESCRIPTION Whistle Sports -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//whistletv-tcl.amagi.tv/playlist.m3u8:Whistle TV -TCl -alt
+#DESCRIPTION Whistle TV -TCl -alt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dovenow-tcl.amagi.tv/playlist.m3u8:Dove Now -TCL
+#DESCRIPTION Dove Now -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//younghollywood-tcl.amagi.tv/playlist.m3u8:Young Hollywood -TCL
+#DESCRIPTION Young Hollywood -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bambu-tcl.amagi.tv/playlist.m3u8:Bambu -TCL
+#DESCRIPTION Bambu -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloodydisgusting-tcl.amagi.tv/playlist.m3u8:Bloody Disgusting -TCL
+#DESCRIPTION Bloody Disgusting -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobross-tcl.amagi.tv/playlist.m3u8:The Bob Ross Channel -TCL
+#DESCRIPTION The Bob Ross Channel -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shoutfactory-johnnycarson-tcl.amagi.tv/playlist.m3u8:Johnny Carson -TCL (Geo)
+#DESCRIPTION Johnny Carson -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comedydynamics-tcl.amagi.tv/playlist.m3u8:Comedy Dynamics -TCL
+#DESCRIPTION Comedy Dynamics -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//soreal-tcl.amagi.tv/playlist.m3u8:So Real -TCL
+#DESCRIPTION So Real -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-dttb-tcl/playlist.m3u8:Dont tell the Bride -TCL
+#DESCRIPTION Dont tell the Bride -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime-tcl/playlist.m3u8:Real Crime -TCL
+#DESCRIPTION Real Crime -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-tcl/playlist.m3u8:Real Stories -TCL
+#DESCRIPTION Real Stories -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8:Real Wild -TCL
+#DESCRIPTION Real Wild -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-tcl/playlist.m3u8:Wonder -TCL
+#DESCRIPTION Wonder -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-tcl/playlist.m3u8:Timeline -TCL
+#DESCRIPTION Timeline -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vidaprimo-tcl.amagi.tv/playlist.m3u8:Latido Music -TCL (Geo)
+#DESCRIPTION Latido Music -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//demandafrica-tcl.amagi.tv/playlist.m3u8:Demand Africa -TCL (Geo)
+#DESCRIPTION Demand Africa -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fantawild-tcl.amagi.tv/playlist.m3u8:Fantawild -TCL (Geo)
+#DESCRIPTION Fantawild -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mytime-tcl.amagi.tv/playlist.m3u8:Mytime Movie Network -TCL
+#DESCRIPTION Mytime Movie Network -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dmtv-tcl.amagi.tv/playlist.m3u8:Dark Matter -TCL (Geo)
+#DESCRIPTION Dark Matter -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashionbox-tcl.amagi.tv/playlist.m3u8:Fashion Box -TCL (Geo)
+#DESCRIPTION Fashion Box -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brat-tcl.amagi.tv/playlist.m3u8:Brat TV -TCL
+#DESCRIPTION Brat TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lonestar-tcl.amagi.tv/playlist.m3u8:Lonestar -TCL
+#DESCRIPTION Lonestar -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//filmdetective-tcl.amagi.tv/playlist.m3u8:The Film Detective -TCL (Geo)
+#DESCRIPTION The Film Detective -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofytv-tcl.amagi.tv/playlist.m3u8:Sofy TV -TCL
+#DESCRIPTION Sofy TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//oan-plus-tcl.amagi.tv/playlist.m3u8:OAN -TCL
+#DESCRIPTION OAN -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aweencore-tcl.amagi.tv/playlist.m3u8:Awe Encore -TCL
+#DESCRIPTION Awe Encore -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lawandcrime-tcl.amagi.tv/playlist.m3u8:Law and Crime -TCL (Geo)
+#DESCRIPTION Law and Crime -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shoutfactory-carolburnett-tcl.amagi.tv/playlist.m3u8:Carol Burnett -TCL (Geo)
+#DESCRIPTION Carol Burnett -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-shoutfactory-tcl/playlist.m3u8:Shoutfactory -TCL (Geo)
+#DESCRIPTION Shoutfactory -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-tcl/playlist.m3u8:TokushoutSU -TCL (Geo)
+#DESCRIPTION TokushoutSU -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassics-tcl/playlist.m3u8:Crackle Classics -TCL
+#DESCRIPTION Crackle Classics -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-tcl/playlist.m3u8:Crackle Plus -TCL
+#DESCRIPTION Crackle Plus -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-tcl/playlist.m3u8:Sportsgrid -TCL
+#DESCRIPTION Sportsgrid -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-rarefiedatmosph-chivetv-tcl/playlist.m3u8:Chive TV -TCL
+#DESCRIPTION Chive TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-mst3k-tcl/playlist.m3u8:MST3K -TCL
+#DESCRIPTION MST3K -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01220-theyoungturksne-tyt-tcl/playlist.m3u8:The Young Turks -TCL (Geo)
+#DESCRIPTION The Young Turks -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-mix-tcl-tcl/playlist.m3u8:Qwest Mix -TCL
+#DESCRIPTION Qwest Mix -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-classic-tcl/playlist.m3u8:Qwest Classic -TCL
+#DESCRIPTION Qwest Classic -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8:Qwest Jazz -TCL
+#DESCRIPTION Qwest Jazz -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8:Vivaldi -TCL
+#DESCRIPTION Vivaldi -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8:Trace Latina -TCL
+#DESCRIPTION Trace Latina -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8:Trace Urban -TCL
+#DESCRIPTION Trace Urban -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8:Trace Brazuca -TCL
+#DESCRIPTION Trace Brazuca -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivetv-ofive-tcl/playlist.m3u8:Ofive -TCL
+#DESCRIPTION Ofive -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-tcl/playlist.m3u8:Watch4Movies -TCL
+#DESCRIPTION Watch4Movies -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8:MovieDome Family -TCL
+#DESCRIPTION MovieDome Family -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8:MovieDome -TCL
+#DESCRIPTION MovieDome -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-us.tcl.wurl.tv/playlist.m3u8:Bloomberg Quicktake -TCL
+#DESCRIPTION Bloomberg Quicktake -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8:Bloomberg UHD -TCL
+#DESCRIPTION Bloomberg UHD -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-br.tcl.wurl.tv/playlist.m3u8:Bloomberg Quicktake Brazil -TCL
+#DESCRIPTION Bloomberg Quicktake Brazil -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8:ION -TCL
+#DESCRIPTION ION -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8:ION Plus -TCL
+#DESCRIPTION ION Plus -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8:ION Mystery -TCL
+#DESCRIPTION ION Mystery -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-bouncexl-2-us.tcl.wurl.tv/playlist.m3u8:Bounce XL TV -TCL
+#DESCRIPTION Bounce XL TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-courttv-1-us.tcl.wurl.tv/playlist.m3u8:Court TV -TCL
+#DESCRIPTION Court TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spartantv-tcl.amagi.tv/playlist.m3u8:Spartan TV -TCL (Geo)
+#DESCRIPTION Spartan TV -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//extremeinternational-autoallstars-1-us.tcl.wurl.tv/playlist.m3u8:Auto AllStars -TCL
+#DESCRIPTION Auto AllStars -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8:Global Fashion Channnel -TCL
+#DESCRIPTION Global Fashion Channnel -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ondemandchina-1-us.tcl.wurl.tv/playlist.m3u8:Ondemand China -TCL
+#DESCRIPTION Ondemand China -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8:Filmzie -TCL
+#DESCRIPTION Filmzie -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-action-1-us.tcl.wurl.tv/playlist.m3u8:Action -TCL
+#DESCRIPTION Action -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-commune-1-us.tcl.wurl.tv/playlist.m3u8:Commune -TCL
+#DESCRIPTION Commune -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-moreu-1-us.tcl.wurl.tv/playlist.m3u8:MoreU -TCL
+#DESCRIPTION MoreU -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-besttvever-1-us.tcl.wurl.tv/playlist.m3u8:Best TV Ever -TCL
+#DESCRIPTION Best TV Ever -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8:Trailers from Hell -TCL
+#DESCRIPTION Trailers from Hell -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-thegrid-1-us.tcl.wurl.tv/playlist.m3u8:The Grid -TCL
+#DESCRIPTION The Grid -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dangertv-us.tcl.wurl.tv/playlist.m3u8:Danger TV -TCL
+#DESCRIPTION Danger TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmtv-samsung-us.tcl.wurl.tv/playlist.m3u8:Powernation -TCL
+#DESCRIPTION Powernation -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmtv-powernationenespanol-1-us.tcl.wurl.tv/playlist.m3u8:PowerNation Espanol -TCL
+#DESCRIPTION PowerNation Espanol -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lol-lolnetwork-1-us.tcl.wurl.tv/playlist.m3u8:LOL Network -TCL
+#DESCRIPTION LOL Network -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-darkcorners-1-us.tcl.wurl.tv/playlist.m3u8:Dark corners -TCL
+#DESCRIPTION Dark corners -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-beautiful-planet-1-us.tcl.wurl.tv/playlist.m3u8:Beautiful Planet -TCL
+#DESCRIPTION Beautiful Planet -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-leveluptv-1-us.tcl.wurl.tv/playlist.m3u8:Level Up TV -TCL
+#DESCRIPTION Level Up TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-planet-eat-1-us.tcl.wurl.tv/playlist.m3u8:Planet Eat -TCL
+#DESCRIPTION Planet Eat -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-theredgreenshow-2-us.tcl.wurl.tv/playlist.m3u8:The Red Green Show -TCL
+#DESCRIPTION The Red Green Show -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-fite-tv-1-us.tcl.wurl.tv/playlist.m3u8:Fite TV -TCL
+#DESCRIPTION Fite TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//careco-outdoor-action-1-us.tcl.wurl.tv/playlist.m3u8:Outdoor Action TV -TCL
+#DESCRIPTION Outdoor Action TV -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8:Drone Tv -TCL
+#DESCRIPTION Drone Tv -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newsy-newsy-2-us.tcl.wurl.tv/playlist.m3u8:Newsy -TCL
+#DESCRIPTION Newsy -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//curiosity-curiosity-now-2-us.tcl.wurl.tv/playlist.m3u8:Curiosity -TCL
+#DESCRIPTION Curiosity -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//triplesquirrels-evrgrn-1-us.tcl.wurl.tv/playlist.m3u8:Evrgreen -TCL
+#DESCRIPTION Evrgreen -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kravemedia-mtrspt1-1-us.tcl.wurl.tv/playlist.m3u8:Motorsport 1 -TCL
+#DESCRIPTION Motorsport 1 -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//baktilp-intipacha-1-us.tcl.wurl.tv/playlist.m3u8:Intipacha -TCL
+#DESCRIPTION Intipacha -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watchmojo-1-us.tcl.wurl.tv/playlist.m3u8:Watch Mojo -TCL
+#DESCRIPTION Watch Mojo -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-us.tcl.wurl.tv/playlist.m3u8:NewkID -TCL
+#DESCRIPTION NewkID -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gravitas-movies-us.tcl.wurl.tv/playlist.m3u8:Gravitas Movies -TCL
+#DESCRIPTION Gravitas Movies -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8:RCN MAS+ -TCL
+#DESCRIPTION RCN MAS+ -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/-secomcofites-my-myzentven-tcl/playlist.m3u8:Myzen Fit -TCL
+#DESCRIPTION Myzen Fit -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8:BeinSports Xtra -TCL
+#DESCRIPTION BeinSports Xtra -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-tcl/playlist.m3u8:Wannasee -TCL (Geo)
+#DESCRIPTION Wannasee -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tucine-tcl.amagi.tv/playlist.m3u8:Tucine -TCL (Geo) may not be correct
+#DESCRIPTION Tucine -TCL (Geo) may not be correct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tucineus-tcl.amagi.tv/playlist.m3u8:Tucine US -TCL (Geo) may not be correct
+#DESCRIPTION Tucine US -TCL (Geo) may not be correct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//topcinelatam-tcl.amagi.tv/playlist.m3u8:Topcine Latm -TCL (Geo) may not be correct
+#DESCRIPTION Topcine Latm -TCL (Geo) may not be correct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinereallatam-tcl.amagi.tv/playlist.m3u8:Cinereal Latam -TCL (Geo) may not be correct
+#DESCRIPTION Cinereal Latam -TCL (Geo) may not be correct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash-tcl.amagi.tv/playlist.m3u8:Flash -TCL (Geo) may not be correct
+#DESCRIPTION Flash -TCL (Geo) may not be correct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//juntos-tcl.amagi.tv/playlist.m3u8:Juntos -TCl (Geo) may not be correct
+#DESCRIPTION Juntos -TCl (Geo) may not be correct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sabermas-tcl.amagi.tv/playlist.m3u8:Sabermas -TCl (Geo) may not be correct
+#DESCRIPTION Sabermas -TCl (Geo) may not be correct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinesureno-tcl.amagi.tv/playlist.m3u8:Cinesureno -TCL (not correct)
+#DESCRIPTION Cinesureno -TCL (not correct)

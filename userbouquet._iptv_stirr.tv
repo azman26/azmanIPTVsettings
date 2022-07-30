@@ -1,4 +1,4 @@
-#NAME IPTV STIRR EN
+#NAME *IPTV STIRR EN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8:STIRR | National
 #DESCRIPTION STIRR | National
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8:Chicken Soup For The Soul
