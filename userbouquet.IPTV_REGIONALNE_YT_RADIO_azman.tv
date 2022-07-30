@@ -203,32 +203,52 @@
 #DESCRIPTION ROCK Radio [RDS]
 #SERVICE 4097:0:2:0:163:0:0:0:0:0:https%3a//stream.rcs.revma.com/062uq3z3kwzuv:Radio BIELSKO
 #DESCRIPTION Radio BIELSKO
+#SERVICE 4097:0:2:3211:681D:EC:0:0:0:0:https%3a//stream.rcs.revma.com/062uq3z3kwzuv:Radio BIELSKO [RDS]
+#DESCRIPTION Radio BIELSKO [RDS]
 #SERVICE 4097:0:2:0:164:0:0:0:0:0:http%3a//sluchaj.107i5.fm:Radio NAKŁO
 #DESCRIPTION Radio NAKŁO
+#SERVICE 4097:0:2:CFAF:6D1:EC:0:0:0:0:http%3a//sluchaj.107i5.fm:Radio NAKŁO [RDS]
+#DESCRIPTION Radio NAKŁO [RDS]
 #SERVICE 4097:0:2:0:165:0:0:0:0:0:http%3a//online.jard.pl%3a8744/jard1:Radio JARD
 #DESCRIPTION Radio JARD
 #SERVICE 4097:0:2:0:166:0:0:0:0:0:http%3a//gra.radio.kielce.pl%3a8000/rk1:Radio KIELCE
 #DESCRIPTION Radio KIELCE
+#SERVICE 4097:0:2:13E2:62D9:EC:0:0:0:0:http%3a//gra.radio.kielce.pl%3a8000/rk1:Radio KIELCE [RDS]
+#DESCRIPTION Radio KIELCE [RDS]
 #SERVICE 4097:0:2:0:167:0:0:0:0:0:http%3a//stream3.nadaje.com%3a9000:MUZYCZNE Radio
 #DESCRIPTION MUZYCZNE Radio
 #SERVICE 4097:0:2:0:168:0:0:0:0:0:http%3a//213.73.25.178%3a7055:Radio OLSZTYN
 #DESCRIPTION Radio OLSZTYN
+#SERVICE 4097:0:2:877F:72E7:EC:0:0:0:0:https%3a//rostr1.radioolsztyn.pl%3a8443/RO:Radio OLSZTYN [RDS]
+#DESCRIPTION Radio OLSZTYN [RDS]
 #SERVICE 4097:0:2:0:169:0:0:0:0:0:http%3a//s4.radioparty.pl%3a8000/rp.mp3:Radio PARTY
 #DESCRIPTION Radio PARTY
+#SERVICE 4097:0:2:6DB9:107D:EC:0:0:0:0:http%3a//s4.radioparty.pl%3a8000/rp.mp3:Radio PARTY [RDS]
+#DESCRIPTION Radio PARTY [RDS]
 #SERVICE 4097:0:2:0:170:0:0:0:0:0:http%3a//streaming03.technologicznie.net%3a8765/radio_warszawa.mp3:Radio WARSZAWA
 #DESCRIPTION Radio WARSZAWA
+#SERVICE 4097:0:2:FBFB:EC78:EC:0:0:0:0:http%3a//streaming03.technologicznie.net%3a8765/radio_warszawa.mp3:Radio WARSZAWA [RDS]
+#DESCRIPTION Radio WARSZAWA [RDS]
 #SERVICE 4097:0:2:0:171:0:0:0:0:0:http%3a//193.47.151.4%3a8070/1:Radio OPOLE
 #DESCRIPTION Radio OPOLE
+#SERVICE 4097:0:2:E481:3A43:EC:0:0:0:0:http%3a//193.47.151.4%3a9000/ro1mp3:Radio OPOLE [RDS]
+#DESCRIPTION Radio OPOLE [RDS]
 #SERVICE 4097:0:2:0:172:0:0:0:0:0:http%3a//stream4.nadaje.com%3a8578/poznan:Radio POZNAŃ
 #DESCRIPTION Radio POZNAŃ
+#SERVICE 4097:0:2:629A:24B3:EC:0:0:0:0:https%3a//stream4.nadaje.com%3a11987/prs:Radio SZCZECIN [RDS]
+#DESCRIPTION Radio SZCZECIN [RDS]
 #SERVICE 4097:0:2:0:173:0:0:0:0:0:http%3a//stream4.nadaje.com%3a11986/prs:Radio SZCZECIN
 #DESCRIPTION Radio SZCZECIN
 #SERVICE 4097:0:2:0:174:0:0:0:0:0:http%3a//stream.open.fm/331:Radio KOLOR
 #DESCRIPTION Radio KOLOR
 #SERVICE 4097:0:2:0:175:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350/stream:ROCKREACTOR
 #DESCRIPTION ROCKREACTOR
+#SERVICE 4097:0:2:2CC2:3F7D:EC:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350:ROCKREACTOR [RDS]
+#DESCRIPTION ROCKREACTOR [RDS]
 #SERVICE 4097:0:2:0:176:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8048:Radio KASZËBË
 #DESCRIPTION Radio KASZËBË
+#SERVICE 4097:0:2:FDF5:EEFF:EC:0:0:0:0:http%3a//stream3.nadaje.com%3a8048:Radio KASZËBË [RDS]
+#DESCRIPTION Radio KASZËBË [RDS]
 #SERVICE 4097:0:2:0:177:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg1:Radio GDAŃSK
 #DESCRIPTION Radio GDAŃSK
 #SERVICE 4097:0:2:0:178:0:0:0:0:0:http%3a//stream4.nadaje.com%3a9212/radiokatowice:Radio KATOWICE
