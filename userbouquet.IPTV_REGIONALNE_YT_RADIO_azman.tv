@@ -167,8 +167,12 @@
 #DESCRIPTION RMF FM
 #SERVICE 4097:0:2:1C9E:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxxx
 #DESCRIPTION RMF Maxxx
+#SERVICE 4097:0:2:D81E:A3FD:EC:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF MAXXX [RDS]
+#DESCRIPTION RMF MAXXX [RDS]
 #SERVICE 4097:0:2:1C9A:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
 #DESCRIPTION RMF Classic
+#SERVICE 4097:0:2:938A:3A8D:EC:0:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic [RDS]
+#DESCRIPTION RMF Classic [RDS]
 #SERVICE 4097:0:2:1410:5DC:13E:820000:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-net.mp3:Radio ZET
 #DESCRIPTION Radio ZET
 #SERVICE 4097:0:2:142A:5DC:13E:820000:0:0:0:http%3a//stream.open.fm/200:Tok FM
@@ -177,16 +181,26 @@
 #DESCRIPTION Radio Złote Przeboje
 #SERVICE 4097:0:2:0:157:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3990-1.mp3:VOX FM
 #DESCRIPTION VOX FM
+#SERVICE 4097:0:2:C4FD:CB2B:EC:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3990-1.mp3:VOX FM [RDS]
+#DESCRIPTION VOX FM [RDS]
 #SERVICE 4097:0:2:0:158:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2380-1.mp3:Radio ESKA
 #DESCRIPTION Radio ESKA
+#SERVICE 4097:0:2:43D5:5281:EC:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2380-1.mp3:ESKA - Warszawa [RDS]
+#DESCRIPTION ESKA - Warszawa [RDS]
 #SERVICE 4097:0:2:0:159:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1380-1.mp3:Radio SUPERNOVA
 #DESCRIPTION Radio SUPERNOVA
+#SERVICE 4097:0:2:7EDC:3B66:EC:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1380-1.mp3:Radio SUPERNOVA - Warszawa [RDS]
+#DESCRIPTION Radio SUPERNOVA - Warszawa [RDS]
 #SERVICE 4097:0:2:0:160:0:0:0:0:0:http%3a//stream10.radioagora.pl%3a80/tuba38-1.mp3:Radio POGODA
 #DESCRIPTION Radio POGODA
 #SERVICE 4097:0:2:0:161:0:0:0:0:0:http%3a//s1.slotex.pl%3a7350:Radio SILESIA
 #DESCRIPTION Radio SILESIA
+#SERVICE 4097:0:2:1CCE:947A:EC:0:0:0:0:http%3a//s3.slotex.pl%3a7770:Radio SILESIA [RDS]
+#DESCRIPTION Radio SILESIA [RDS]
 #SERVICE 4097:0:2:0:162:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio:ROCK Radio
 #DESCRIPTION ROCK Radio
+#SERVICE 4097:0:2:AE88:B90E:EC:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio:ROCK Radio [RDS]
+#DESCRIPTION ROCK Radio [RDS]
 #SERVICE 4097:0:2:0:163:0:0:0:0:0:https%3a//stream.rcs.revma.com/062uq3z3kwzuv:Radio BIELSKO
 #DESCRIPTION Radio BIELSKO
 #SERVICE 4097:0:2:0:164:0:0:0:0:0:http%3a//sluchaj.107i5.fm:Radio NAKŁO
@@ -257,5 +271,7 @@
 #DESCRIPTION Nasze Radio
 #SERVICE 4097:0:2:0:197:0:0:0:0:0:http%3a//88.199.169.10%3a8000:Radio Niepokalanów
 #DESCRIPTION Radio Niepokalanów
+#SERVICE 4097:0:2:0:198:0:0:0:0:0:https%3a//stream2.nadaje.com%3a11141/rdc:Radio dla Ciebie
+#DESCRIPTION Radio dla Ciebie
 #SERVICE 4097:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
