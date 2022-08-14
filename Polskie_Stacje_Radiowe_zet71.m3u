@@ -91,8 +91,6 @@ http://195.150.20.7/rmf_grunge
 http://195.150.20.7/rmf_hard_heavy
 #EXTINF:0 radio=true,RMF Hip Hop
 http://195.150.20.7/rmf_hip_hop
-#EXTINF:0 radio=true,RMF Hity Wakacji 2021
-http://195.150.20.7/rmf_top3
 #EXTINF:0 radio=true,RMF Hot New
 http://195.150.20.7/rmf_hot_new
 #EXTINF:0 radio=true,RMF Kolędy
@@ -133,6 +131,8 @@ http://195.150.20.7/rmf_polskie_przeboje
 http://195.150.20.7/rmf_poplista
 #EXTINF:0 radio=true,RMF PRL
 http://195.150.20.7/rmf_prl
+#EXTINF:0 radio=true,RMF Przebój Lata 2022
+http://195.150.20.7/rmf_top3
 #EXTINF:0 radio=true,RMF Przebój Roku 2021
 http://195.150.20.7/rmf_przeboj_roku
 #EXTINF:0 radio=true,RMF Queen
