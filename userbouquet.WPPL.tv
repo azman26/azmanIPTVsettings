@@ -1,27 +1,27 @@
 #NAME PILOT.WP.PL aktualizacja 21-07-2022
-#SERVICE 4097:0:1:3D5A:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/158:Telewizja WP HD
+#SERVICE 4097:0:1:3d5a:2c88:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/158:Telewizja WP HD
 #DESCRIPTION Telewizja WP HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/271:Kabaret TV
 #DESCRIPTION Kabaret TV
-#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/3:TVP 1 HD
+#SERVICE 4097:0:1:3abd:514:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/3:TVP 1 HD
 #DESCRIPTION TVP 1 HD
-#SERVICE 4097:0:1:C22:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/5:TVP 2 HD
+#SERVICE 4097:0:1:c22:1e78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/5:TVP 2 HD
 #DESCRIPTION TVP 2 HD
-#SERVICE 4097:0:16:3:2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/9:Polsat HD
+#SERVICE 4097:0:16:3:2:2268:eeee0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/9:Polsat HD
 #DESCRIPTION Polsat HD
-#SERVICE 4097:0:1:3DCD:640:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/14:TVN
+#SERVICE 4097:0:1:3dcd:640:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/14:TVN
 #DESCRIPTION TVN
 #SERVICE 4097:0:1:3393:3390:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/11:TV 4 HD
 #DESCRIPTION TV 4 HD
-#SERVICE 4097:0:1:3D66:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/12:TV Puls HD
+#SERVICE 4097:0:1:3d66:2c88:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/12:TV Puls HD
 #DESCRIPTION TV Puls HD
-#SERVICE 4097:0:1:428D:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/21:4FUN.TV
+#SERVICE 4097:0:1:428d:2bc0:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/21:4FUN.TV
 #DESCRIPTION 4FUN.TV
-#SERVICE 4097:0:1:428F:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/50:4FUN DANCE
+#SERVICE 4097:0:1:428f:2bc0:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/50:4FUN DANCE
 #DESCRIPTION 4FUN DANCE
-#SERVICE 4097:0:1:428E:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/22:4FUN KIDS
+#SERVICE 4097:0:1:428e:2bc0:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/22:4FUN KIDS
 #DESCRIPTION 4FUN KIDS
-#SERVICE 4097:0:1:113B:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/57:TVP Warszawa
+#SERVICE 4097:0:1:113b:2af8:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/57:TVP Warszawa
 #DESCRIPTION TVP Warszawa
 #SERVICE 4097:0:1:9:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/187:TVP Gdańsk
 #DESCRIPTION TVP Gdańsk
@@ -29,17 +29,17 @@
 #DESCRIPTION News24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/273:Red Top TV
 #DESCRIPTION Red Top TV
-#SERVICE 4097:0:1:11FB:2B5C:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/182:Travelxp HD
+#SERVICE 4097:0:1:11fb:2b5c:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/182:Travelxp HD
 #DESCRIPTION Travelxp HD
-#SERVICE 4097:0:1:38:16:A4A:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/205:Gametoon HD
+#SERVICE 4097:0:1:38:16:a4a:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/205:Gametoon HD
 #DESCRIPTION Gametoon HD
-#SERVICE 4097:0:1:427F:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/24:Stars.TV HD
+#SERVICE 4097:0:1:427f:2bc0:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/24:Stars.TV HD
 #DESCRIPTION Stars.TV HD
 #SERVICE 4097:0:1:152:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/188:Music Box Polska
 #DESCRIPTION Music Box Polska
-#SERVICE 4097:0:1:540B:DD1E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/213:Jazz HD
+#SERVICE 4097:0:1:540b:dd1e:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/213:Jazz HD
 #DESCRIPTION Jazz HD
-#SERVICE 4097:0:1:132C:33F4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/58:Fashion TV HD
+#SERVICE 4097:0:1:132c:33f4:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/58:Fashion TV HD
 #DESCRIPTION Fashion TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/236:2. Liga piłki nożnej 1
 #DESCRIPTION 2. Liga piłki nożnej 1
@@ -49,39 +49,39 @@
 #DESCRIPTION 2. Liga piłki nożnej 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/259:2. Liga piłki nożnej 4
 #DESCRIPTION 2. Liga piłki nożnej 4
-#SERVICE 4097:0:1:327:3BC4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/18:France 24 HD
+#SERVICE 4097:0:1:327:3bc4:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/18:France 24 HD
 #DESCRIPTION France 24 HD
-#SERVICE 4097:0:1:328:3BC4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/17:France 24 English HD
+#SERVICE 4097:0:1:328:3bc4:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/17:France 24 English HD
 #DESCRIPTION France 24 English HD
-#SERVICE 4097:0:16:10E8:3E8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/172:GOLD TV
+#SERVICE 4097:0:16:10e8:3e8:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/172:GOLD TV
 #DESCRIPTION GOLD TV
-#SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/174:wPolsce.pl HD
+#SERVICE 4097:0:1:4279:2bc0:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/174:wPolsce.pl HD
 #DESCRIPTION wPolsce.pl HD
-#SERVICE 4097:0:1:36:F8:63B2:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/45:Love TV HD
+#SERVICE 4097:0:1:36:f8:63b2:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/45:Love TV HD
 #DESCRIPTION Love TV HD
-#SERVICE 4097:0:1:3D58:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/51:TVS
+#SERVICE 4097:0:1:3d58:2c88:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/51:TVS
 #DESCRIPTION TVS
-#SERVICE 4097:0:1:10D6:418:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/10:TV Trwam
+#SERVICE 4097:0:1:10d6:418:1:c00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/10:TV Trwam
 #DESCRIPTION TV Trwam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/274:13.TV
 #DESCRIPTION 13.TV
 #SERVICE 4097:0:1:5:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/150:Twoja.TV HD
 #DESCRIPTION Twoja.TV HD
-#SERVICE 4097:0:1:DB5:2D50:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/138:Red Carpet TV HD
+#SERVICE 4097:0:1:db5:2d50:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/138:Red Carpet TV HD
 #DESCRIPTION Red Carpet TV HD
-#SERVICE 4097:0:1:423C:3DB8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/211:Polonia 1
+#SERVICE 4097:0:1:423c:3db8:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/211:Polonia 1
 #DESCRIPTION Polonia 1
-#SERVICE 4097:0:1:423B:3DB8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/212:Tele 5 HD
+#SERVICE 4097:0:1:423b:3db8:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/212:Tele 5 HD
 #DESCRIPTION Tele 5 HD
-#SERVICE 4097:0:1:327:1F40:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/204:TBN Polska HD
+#SERVICE 4097:0:1:327:1f40:13e:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/204:TBN Polska HD
 #DESCRIPTION TBN Polska HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/266:WP Radio
 #DESCRIPTION WP Radio
-#SERVICE 4097:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/240:Radio 357
+#SERVICE 4097:0:1:3c02:3af2:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/240:Radio 357
 #DESCRIPTION Radio 357
-#SERVICE 4097:0:1:513D:DFC5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/238:Radio Nowy Świat
+#SERVICE 4097:0:1:513d:dfc5:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/238:Radio Nowy Świat
 #DESCRIPTION Radio Nowy Świat
-#SERVICE 4097:0:19:4C4:5E:55:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/239:Ukraina 24
+#SERVICE 4097:0:19:4c4:5e:55:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/239:Ukraina 24
 #DESCRIPTION Ukraina 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/281:Nickelodeon Ukraine Pluto TV
 #DESCRIPTION Nickelodeon Ukraine Pluto TV
