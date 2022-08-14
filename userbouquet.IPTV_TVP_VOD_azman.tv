@@ -1,7 +1,7 @@
 #NAME TVP VOD  [azman]
-#SERVICE 1:64:B:0:0:0:0:0:0:0::--- Klasyka ---
+#SERVICE 1:64:A:0:0:0:0:0:0:0::--- Klasyka ---
 #DESCRIPTION --- Klasyka ---
-#SERVICE 4097:0:1:F67A:2736:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=39091614:Akwarium
+#SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=39091614:Akwarium
 #DESCRIPTION Akwarium
 #SERVICE 4097:0:1:9ac3:464e:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=57974686:Marusarz - Tatrzański orzeł
 #DESCRIPTION Marusarz - Tatrzański orzeł
@@ -43,7 +43,7 @@
 #DESCRIPTION Diabeł
 #SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=35318232:Goryl czyli ostatnie zadanie
 #DESCRIPTION Goryl czyli ostatnie zadanie
-#SERVICE 1:64:C:0:0:0:0:0:0:0::--- Czarne chmury ---
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- Czarne chmury ---
 #DESCRIPTION --- Czarne chmury ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=35228716&prefertype=mpd:1/10 Szafot
 #DESCRIPTION 1/10 Szafot
@@ -65,7 +65,7 @@
 #DESCRIPTION 9/10 Zaręczyny
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=35228749&prefertype=mpd:10/10 Pościg
 #DESCRIPTION 10/10 Pościg
-#SERVICE 1:64:D:0:0:0:0:0:0:0::--- Daleko od szosy ---
+#SERVICE 1:64:C:0:0:0:0:0:0:0::--- Daleko od szosy ---
 #DESCRIPTION --- Daleko od szosy ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=38194531&prefertype=mpd:1/7 Szpaki
 #DESCRIPTION 1/7 Szpaki
@@ -81,7 +81,7 @@
 #DESCRIPTION 6/7 Egzamin
 #SERVICE 4097:0:1:15bc:68e2:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=38194439&prefertype=mpd:7/7 We dwoje
 #DESCRIPTION 7/7 We dwoje
-#SERVICE 1:64:E:0:0:0:0:0:0:0::--- Doktor Ewa ---
+#SERVICE 1:64:D:0:0:0:0:0:0:0::--- Doktor Ewa ---
 #DESCRIPTION --- Doktor Ewa ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=40024181&prefertype=mpd:1/9 Trudny wybór
 #DESCRIPTION 1/9 Trudny wybór
@@ -101,7 +101,7 @@
 #DESCRIPTION 8/9 Porwanie
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=40024437&prefertype=mpd:9/9 Pożegnania
 #DESCRIPTION 9/9 Pożegnania
-#SERVICE 1:64:F:0:0:0:0:0:0:0::--- Kapitan Sowa na tropie ---
+#SERVICE 1:64:E:0:0:0:0:0:0:0::--- Kapitan Sowa na tropie ---
 #DESCRIPTION --- Kapitan Sowa na tropie ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=40023670&prefertype=mpd:1/8 Gipsowa figurka
 #DESCRIPTION 1/8 Gipsowa figurka
@@ -119,7 +119,7 @@
 #DESCRIPTION 7/8 Śpiący nie kłamie
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=40024057&prefertype=mpd:8/8 Numer IB 2968
 #DESCRIPTION 8/8 Numer IB 2968
-#SERVICE 1:64:10:0:0:0:0:0:0:0::--- KOBRA Teatr sensacji ---
+#SERVICE 1:64:F:0:0:0:0:0:0:0::--- KOBRA Teatr sensacji ---
 #DESCRIPTION --- KOBRA Teatr sensacji ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=52732159&prefertype=mpd:14 maja o północy
 #DESCRIPTION 14 maja o północy
@@ -135,7 +135,7 @@
 #DESCRIPTION Upiór w kuchni (1976)
 #SERVICE 4097:0:1:15bc:68e2:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=52731805&prefertype=mpd:Śmierć za śmierć, czyli dobry chłopiec
 #DESCRIPTION Śmierć za śmierć, czyli dobry chłopiec
-#SERVICE 1:64:11:0:0:0:0:0:0:0::--- Na kłopoty... Bednarski ---
+#SERVICE 1:64:10:0:0:0:0:0:0:0::--- Na kłopoty... Bednarski ---
 #DESCRIPTION --- Na kłopoty... Bednarski ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=38924150&prefertype=mpd:1/7 Kurier z Ankary
 #DESCRIPTION 1/7 Kurier z Ankary
@@ -151,7 +151,7 @@
 #DESCRIPTION 6/7 Ostatnie lato
 #SERVICE 4097:0:1:15bc:68e2:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=38868404&prefertype=mpd:7/7 Nasz człowiek
 #DESCRIPTION 7/7 Nasz człowiek
-#SERVICE 1:64:12:0:0:0:0:0:0:0::--- Podróż za jeden uśmiech ---
+#SERVICE 1:64:11:0:0:0:0:0:0:0::--- Podróż za jeden uśmiech ---
 #DESCRIPTION --- Podróż za jeden uśmiech ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=40674581&prefertype=mpd:1/7 Pechowy dzień
 #DESCRIPTION 1/7 Pechowy dzień
@@ -167,7 +167,7 @@
 #DESCRIPTION 6/7 Polowanie na kapelusz
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=45005230&prefertype=mpd:7/7 Pożegnanie z Dudusiem
 #DESCRIPTION 7/7 Pożegnanie z Dudusiem
-#SERVICE 1:64:13:0:0:0:0:0:0:0::--- Przyłbice i kaptury ---
+#SERVICE 1:64:12:0:0:0:0:0:0:0::--- Przyłbice i kaptury ---
 #DESCRIPTION --- Przyłbice i kaptury ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=39410553&prefertype=mpd:1/9 Porwanie
 #DESCRIPTION 1/9 Porwanie
@@ -187,7 +187,7 @@
 #DESCRIPTION 8/9 A wężowi biada
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=39410946&prefertype=mpd:9/9 Jutro bitwa
 #DESCRIPTION 9/9 Jutro bitwa
-#SERVICE 1:64:14:0:0:0:0:0:0:0::--- Przygody pana Michała ---
+#SERVICE 1:64:13:0:0:0:0:0:0:0::--- Przygody pana Michała ---
 #DESCRIPTION --- Przygody pana Michała ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=1404417&prefertype=mpd:1/13 Brat Jerzy
 #DESCRIPTION 1/13 Brat Jerzy
@@ -215,7 +215,7 @@
 #DESCRIPTION 12/13 Dymy nad twierdzą
 #SERVICE 4097:0:1:6a20:78a5:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=1404429&prefertype=mpd:13/13 Hektor Kamieniecki
 #DESCRIPTION 13/13 Hektor Kamieniecki
-#SERVICE 1:64:15:0:0:0:0:0:0:0::--- Przygody Psa Cywila ---
+#SERVICE 1:64:14:0:0:0:0:0:0:0::--- Przygody Psa Cywila ---
 #DESCRIPTION --- Przygody Psa Cywila ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=43329219&prefertype=mpd:1/7 Trudne dzieciństwo
 #DESCRIPTION 1/7 Trudne dzieciństwo
@@ -231,7 +231,7 @@
 #DESCRIPTION 6/7 Zbiegowie
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=43329261&prefertype=mpd:7/7 Niewypały
 #DESCRIPTION 7/7 Niewypały
-#SERVICE 1:64:16:0:0:0:0:0:0:0::--- Stawiam na Tolka Banana ---
+#SERVICE 1:64:15:0:0:0:0:0:0:0::--- Stawiam na Tolka Banana ---
 #DESCRIPTION --- Stawiam na Tolka Banana ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=42607888&prefertype=mpd:1/7 Klondike
 #DESCRIPTION 1/7 Klondike
@@ -247,7 +247,7 @@
 #DESCRIPTION 6/7 Filipek
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=42608035&prefertype=mpd:7/7 Tolek
 #DESCRIPTION 7/7 Tolek
-#SERVICE 1:64:17:0:0:0:0:0:0:0::--- Zmiennicy ---
+#SERVICE 1:64:16:0:0:0:0:0:0:0::--- Zmiennicy ---
 #DESCRIPTION --- Zmiennicy ---
 #SERVICE 4097:0:1:0:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=40862471&prefertype=mpd:1/15 Ceny umowne
 #DESCRIPTION 1/15 Ceny umowne
