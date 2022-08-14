@@ -91,8 +91,6 @@
 #DESCRIPTION RMF Hard & Heavy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_hip_hop:RMF Hip Hop
 #DESCRIPTION RMF Hip Hop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top3:RMF Hity Wakacji 2021
-#DESCRIPTION RMF Hity Wakacji 2021
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_hot_new:RMF Hot New
 #DESCRIPTION RMF Hot New
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_koledy:RMF Kolędy
@@ -133,6 +131,8 @@
 #DESCRIPTION RMF Poplista
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_prl:RMF PRL
 #DESCRIPTION RMF PRL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top3:RMF Przebój Lata 2022
+#DESCRIPTION RMF Przebój Lata 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_przeboj_roku:RMF Przebój Roku 2021
 #DESCRIPTION RMF Przebój Roku 2021
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_queen:RMF Queen
@@ -435,7 +435,7 @@
 #DESCRIPTION OPEN FM EDM Anthems
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness
 #DESCRIPTION OPEN FM Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz%3a Lato 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Lato 2022
 #DESCRIPTION OPEN FM Freszzz: Lato 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118:OPEN FM Giganci Rocka
 #DESCRIPTION OPEN FM Giganci Rocka
@@ -565,7 +565,7 @@
 #DESCRIPTION OPEN FM Sad
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/410:OPEN FM Schodki
 #DESCRIPTION OPEN FM Schodki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy%3a Soul & R'n'B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy: Soul & R'n'B
 #DESCRIPTION OPEN FM Sexy: Soul & R'n'B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/60:OPEN FM Smooth Jazz
 #DESCRIPTION OPEN FM Smooth Jazz
@@ -675,7 +675,7 @@
 #DESCRIPTION Tok FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/363:WP Klub
 #DESCRIPTION WP Klub
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio%3a muzyka i informacje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio: muzyka i informacje
 #DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/201:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
@@ -1433,8 +1433,8 @@
 #DESCRIPTION Radio Krysjan /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7028:Radio Lenka /śląskie/
 #DESCRIPTION Radio Lenka /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo:Radio Larmo /śląskie/
-#DESCRIPTION Radio Larmo /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo: Radio Larmo /śląskie/
+#DESCRIPTION  Radio Larmo /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomazurek.com.pl%3a8000:Radio Mazurek /śląskie/
 #DESCRIPTION Radio Mazurek /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7646/stream:Radio MoniRaj /śląskie/
