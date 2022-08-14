@@ -1,7 +1,7 @@
 #NAME IPTV SPORT  [azman]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8:Abu Dhabi Sport 1
-#DESCRIPTION Abu Dhabi Sport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//admdn1.cdn.mangomolo.com/adsports1/smil%3aadsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8:Abu Dhabi Sport 1
+#DESCRIPTION Abu Dhabi Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8:Abu Dhabi Sport 1
 #DESCRIPTION Abu Dhabi Sport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8:Abu Dhabi Sport 2
 #DESCRIPTION Abu Dhabi Sport 2
