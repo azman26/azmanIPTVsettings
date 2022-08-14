@@ -71,10 +71,16 @@
 #DESCRIPTION Shoutfactory -TCL (Geo)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-tcl/playlist.m3u8:TokushoutSU -TCL (Geo)
 #DESCRIPTION TokushoutSU -TCL (Geo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-tcl/playlist.m3u8:Crackle -TCL
+#DESCRIPTION Crackle -TCL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassics-tcl/playlist.m3u8:Crackle Classics -TCL
 #DESCRIPTION Crackle Classics -TCL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-tcl/playlist.m3u8:Crackle Plus -TCL
-#DESCRIPTION Crackle Plus -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-truli-tcl/playlist.m3u8:Truli -TCL
+#DESCRIPTION Truli -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-tcl/playlist.m3u8:Chicken Soup For The Soul -TCL
+#DESCRIPTION Chicken Soup For The Soul -TCL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-popcornflix-tcl/playlist.m3u8:Popcorn Flix -TCL
+#DESCRIPTION Popcorn Flix -TCL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-tcl/playlist.m3u8:Sportsgrid -TCL
 #DESCRIPTION Sportsgrid -TCL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-rarefiedatmosph-chivetv-tcl/playlist.m3u8:Chive TV -TCL
