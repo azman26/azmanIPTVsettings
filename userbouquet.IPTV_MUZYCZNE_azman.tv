@@ -1,4 +1,4 @@
-#NAME IPTV MUZYCZNE  [azman]
+#NAME IPTV MUZYCZNE  (azman)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8:1 Music Channel Rumunia
 #DESCRIPTION 1 Music Channel Rumunia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8:101 Tele Antequera
