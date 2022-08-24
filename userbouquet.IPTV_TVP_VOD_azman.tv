@@ -1,4 +1,4 @@
-#NAME TVP VOD  [azman]
+#NAME TVP VOD  (azman)
 #SERVICE 1:64:A:0:0:0:0:0:0:0::--- Klasyka ---
 #DESCRIPTION --- Klasyka ---
 #SERVICE 4097:0:1:f67a:2736:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=39091614:Akwarium
