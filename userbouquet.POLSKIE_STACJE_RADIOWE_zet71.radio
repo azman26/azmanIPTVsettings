@@ -1,4 +1,4 @@
-#NAME POLSKIE STACJE RADIOWE zet71
+#NAME POLSKIE STACJE RADIOWE  (zet71)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
 #DESCRIPTION RMF FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2:RMF 2 Pop
@@ -435,7 +435,7 @@
 #DESCRIPTION OPEN FM EDM Anthems
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness
 #DESCRIPTION OPEN FM Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Lato 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz%3a Lato 2022
 #DESCRIPTION OPEN FM Freszzz: Lato 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118:OPEN FM Giganci Rocka
 #DESCRIPTION OPEN FM Giganci Rocka
@@ -565,7 +565,7 @@
 #DESCRIPTION OPEN FM Sad
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/410:OPEN FM Schodki
 #DESCRIPTION OPEN FM Schodki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy: Soul & R'n'B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy%3a Soul & R'n'B
 #DESCRIPTION OPEN FM Sexy: Soul & R'n'B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/60:OPEN FM Smooth Jazz
 #DESCRIPTION OPEN FM Smooth Jazz
@@ -675,7 +675,7 @@
 #DESCRIPTION Tok FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/363:WP Klub
 #DESCRIPTION WP Klub
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio: muzyka i informacje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio%3a muzyka i informacje
 #DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/201:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
@@ -1123,26 +1123,6 @@
 #DESCRIPTION Radio Mbox - RNB & Rap
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8090/Rock320kbps:Radio Mbox - Rock
 #DESCRIPTION Radio Mbox - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7502/stream:Radio Musicdays.pl - Blues Rock
-#DESCRIPTION Radio Musicdays.pl - Blues Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7202/stream:Radio Musicdays.pl - House Clubbing Electro
-#DESCRIPTION Radio Musicdays.pl - House Clubbing Electro
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7500/stream:Radio Musicdays.pl - Jazz Smooth Swing
-#DESCRIPTION Radio Musicdays.pl - Jazz Smooth Swing
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7240/stream:Radio Musicdays.pl - Lounge Chillout
-#DESCRIPTION Radio Musicdays.pl - Lounge Chillout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7256/stream:Radio Musicdays.pl - Pop Rhytm Dance
-#DESCRIPTION Radio Musicdays.pl - Pop Rhytm Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7520/stream:Radio Musicdays.pl - Relaxation
-#DESCRIPTION Radio Musicdays.pl - Relaxation
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7286/stream:Radio Musicdays.pl - Romantic Music
-#DESCRIPTION Radio Musicdays.pl - Romantic Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7218/stream:Radio Musicdays.pl - Soft Pop
-#DESCRIPTION Radio Musicdays.pl - Soft Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7366/stream:Radio Musicdays.pl - Vocal Pop Songs
-#DESCRIPTION Radio Musicdays.pl - Vocal Pop Songs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7516/stream:Radio Musicdays.pl - World Music
-#DESCRIPTION Radio Musicdays.pl - World Music
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.nadaje.com%3a9000:Muzyczne Radio
 #DESCRIPTION Muzyczne Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8600:Muzyczne Radio Best of
@@ -1433,8 +1413,8 @@
 #DESCRIPTION Radio Krysjan /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7028:Radio Lenka /śląskie/
 #DESCRIPTION Radio Lenka /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo: Radio Larmo /śląskie/
-#DESCRIPTION  Radio Larmo /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo:Radio Larmo /śląskie/
+#DESCRIPTION Radio Larmo /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomazurek.com.pl%3a8000:Radio Mazurek /śląskie/
 #DESCRIPTION Radio Mazurek /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7646/stream:Radio MoniRaj /śląskie/
@@ -1713,8 +1693,6 @@
 #DESCRIPTION Radio DiscoParty.pl - Disco z polotem
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7384:Radio Disco Planeta
 #DESCRIPTION Radio Disco Planeta
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7608/stream:Radio Disco Szlagier
-#DESCRIPTION Radio Disco Szlagier
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7100/stream:Radio Dobra Nuta
 #DESCRIPTION Radio Dobra Nuta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dobre.out.airtime.pro/dobre_a:Radio Dobre.Radio
@@ -2091,6 +2069,8 @@
 #DESCRIPTION Radio Rekord
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7614/stream:Radio Relax
 #DESCRIPTION Radio Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu4.fastcast4u.com/proxy/radioreset?mp=/1:Radio Reset Obywatelski
+#DESCRIPTION Radio Reset Obywatelski
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350:Radio RockReactor
 #DESCRIPTION Radio RockReactor
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.rockserwis.fm/live:Radio Rockserwis.fm
@@ -2271,5 +2251,3 @@
 #DESCRIPTION Radio Żak
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a8052:Radio Żnin
 #DESCRIPTION Radio Żnin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18278:Radio Żuk
-#DESCRIPTION Radio Żuk
