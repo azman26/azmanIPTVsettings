@@ -1,4 +1,4 @@
-#NAME LIMEHD_OK.RU_VK  [azman]
+#NAME LIMEHD OK.RU VK  (azman)
 #SERVICE 1:64:24:0:0:0:0:0:0:0::--- LimeHD TV Music ---
 #DESCRIPTION --- LimeHD TV Music ---
 #SERVICE 4097:0:1:f413:521:d:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/musicbox:MUSIC BOX RUSSIA
