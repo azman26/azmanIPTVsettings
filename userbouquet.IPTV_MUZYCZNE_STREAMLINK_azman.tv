@@ -1,4 +1,4 @@
-#NAME IPTV MUZYCZNE (STREAMLINK) [azman]
+#NAME IPTV MUZYCZNE (STREAMLINK)  (azman)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.mjunoon.tv/8xm-live:8XM
 #DESCRIPTION 8XM
 #SERVICE 4097:0:1:ce0b:a80f:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/asot:A State of Trance
