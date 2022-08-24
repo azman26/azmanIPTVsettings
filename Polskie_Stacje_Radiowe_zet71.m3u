@@ -1123,26 +1123,6 @@ http://panel.radiombox.pl/radio/8040/GoldHits320kbps
 https://panel.radiombox.pl/radio/8050/RnbHH320kbps
 #EXTINF:0 radio=true,Radio Mbox - Rock
 http://panel.radiombox.pl/radio/8090/Rock320kbps
-#EXTINF:0 radio=true,Radio Musicdays.pl - Blues Rock
-https://s3.slotex.pl/shoutcast/7502/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - House Clubbing Electro
-https://s3.slotex.pl/shoutcast/7202/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - Jazz Smooth Swing
-https://s3.slotex.pl/shoutcast/7500/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - Lounge Chillout
-https://s3.slotex.pl/shoutcast/7240/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - Pop Rhytm Dance
-https://s3.slotex.pl/shoutcast/7256/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - Relaxation
-https://s3.slotex.pl/shoutcast/7520/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - Romantic Music
-https://s3.slotex.pl/shoutcast/7286/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - Soft Pop
-https://s3.slotex.pl/shoutcast/7218/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - Vocal Pop Songs
-https://s3.slotex.pl/shoutcast/7366/stream
-#EXTINF:0 radio=true,Radio Musicdays.pl - World Music
-https://s3.slotex.pl/shoutcast/7516/stream
 #EXTINF:0 radio=true,Muzyczne Radio
 http://stream3.nadaje.com:9000
 #EXTINF:0 radio=true,Muzyczne Radio Best of
@@ -1713,8 +1693,6 @@ https://s1.slotex.pl/shoutcast/7432/stream
 https://s3.slotex.pl/shoutcast/7046/stream
 #EXTINF:0 radio=true,Radio Disco Planeta
 http://s1.slotex.pl:7384
-#EXTINF:0 radio=true,Radio Disco Szlagier
-https://s1.slotex.pl/shoutcast/7608/stream
 #EXTINF:0 radio=true,Radio Dobra Nuta
 https://s3.slotex.pl/shoutcast/7100/stream
 #EXTINF:0 radio=true,Radio Dobre.Radio
@@ -2091,6 +2069,8 @@ http://s1.cmp3.eu:8010/stream
 http://stream2.nadaje.com:8108
 #EXTINF:0 radio=true,Radio Relax
 https://s1.slotex.pl/shoutcast/7614/stream
+#EXTINF:0 radio=true,Radio Reset Obywatelski
+https://eu4.fastcast4u.com/proxy/radioreset?mp=/1
 #EXTINF:0 radio=true,Radio RockReactor
 https://ssl-1.radiohost.pl:9350
 #EXTINF:0 radio=true,Radio Rockserwis.fm
@@ -2271,5 +2251,3 @@ https://plays.zw.lt/zw128
 http://212.191.2.16:8000/radiozak.ogg
 #EXTINF:0 radio=true,Radio Żnin
 http://stream4.nadaje.com:8052
-#EXTINF:0 radio=true,Radio Żuk
-http://4stream.pl:18278
