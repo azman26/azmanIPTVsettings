@@ -1,4 +1,4 @@
-#NAME IPTV TVP  [azman]
+#NAME IPTV TVP  (azman)
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- TVP GO ---
 #DESCRIPTION --- TVP GO ---
 #SERVICE 4097:0:1:3abd:514:13e:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51689486:TVP 1 HD
