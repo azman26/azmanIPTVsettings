@@ -3,8 +3,8 @@
 #DESCRIPTION STIRR | National
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8:Chicken Soup For The Soul
 #DESCRIPTION Chicken Soup For The Soul
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8:CHARGE
-#DESCRIPTION CHARGE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8:CHARGE 
+#DESCRIPTION CHARGE 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8:Buzzr
 #DESCRIPTION Buzzr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TDMDqMIpS82NHoFpGVYB9Q/master.m3u8:STIRR KaiJune
@@ -73,8 +73,8 @@
 #DESCRIPTION The First
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8:Cheddar
 #DESCRIPTION Cheddar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8:Law & Crime
-#DESCRIPTION Law & Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8:Law & Crime 
+#DESCRIPTION Law & Crime 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8:News 12 New York
 #DESCRIPTION News 12 New York
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/HD_ys6igSayIiNXKl9nTrQ/master.m3u8:AccuWeather
@@ -151,16 +151,16 @@
 #DESCRIPTION QVC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8:HSN
 #DESCRIPTION HSN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8:Big Life
-#DESCRIPTION Big Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8:Big Life 
+#DESCRIPTION Big Life 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8:ONTV4U
 #DESCRIPTION ONTV4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8:Shop LC
 #DESCRIPTION Shop LC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8:SOAR
 #DESCRIPTION SOAR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8:Stadium
-#DESCRIPTION Stadium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8:Stadium 
+#DESCRIPTION Stadium 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8:ACCDN
 #DESCRIPTION ACCDN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8:beIN Sports Xtra
