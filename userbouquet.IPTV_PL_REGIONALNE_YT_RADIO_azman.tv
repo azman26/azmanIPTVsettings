@@ -17,7 +17,7 @@
 #DESCRIPTION Stopklatka
 #SERVICE 4097:0:1:4291:2bc0:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/zoom1/manifest.m3u8:Zoom TV
 #DESCRIPTION Zoom TV
-#SERVICE 4097:0:1:12c5:2e7c:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/antenatv_1/manifest.m3u8:Antena
+#SERVICE 4097:0:1:32CF:190:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/antenatv_1/manifest.m3u8:Antena
 #DESCRIPTION Antena
 #SERVICE 4097:0:1:423b:3db8:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tele51/manifest.m3u8:Tele 5 HD
 #DESCRIPTION Tele 5 HD
@@ -31,7 +31,7 @@
 #DESCRIPTION E-SPORT
 #SERVICE 4097:0:1:c6a0:d5d:ec:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/13tv1/manifest.m3u8:13.TV
 #DESCRIPTION 13.TV
-#SERVICE 4097:0:1:12c4:2e7c:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/hometv1/manifest.m3u8:Home TV HD
+#SERVICE 4097:0:1:32D0:190:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/hometv1/manifest.m3u8:Home TV HD
 #DESCRIPTION Home TV HD
 #SERVICE 4097:0:1:f6b3:51bb:ec:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/news241/manifest.m3u8:News24
 #DESCRIPTION News24
@@ -41,7 +41,7 @@
 #DESCRIPTION TVN 24 HD
 #SERVICE 4097:0:19:10ea:3e8:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tvn24bis1/manifest.m3u8:TVN24 BiS
 #DESCRIPTION TVN24 BiS
-#SERVICE 4097:0:1:12c7:2e7c:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/nutatv1/manifest.m3u8:Nuta TV HD
+#SERVICE 4097:0:1:32D2:190:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/nutatv1/manifest.m3u8:Nuta TV HD
 #DESCRIPTION Nuta TV HD
 #SERVICE 4097:0:1:ae96:6b2a:ec:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/ukraina241/manifest.m3u8:Ukraine 1
 #DESCRIPTION Ukraine 1
@@ -49,7 +49,7 @@
 #DESCRIPTION --- Regionalne + YT ---
 #SERVICE 4097:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
 #DESCRIPTION 4Fun TV
-#SERVICE 4097:0:1:12C7:2E7C:13E:820000:0:0:0:http%3a//5.254.16.186/NutaTV/index.m3u8:NUTA TV
+#SERVICE 4097:0:1:32D2:190:13E:820000:0:0:0:http%3a//5.254.16.186/NutaTV/index.m3u8:NUTA TV
 #DESCRIPTION NUTA TV
 #SERVICE 4097:0:1:3:1:48:0:0:0:0:https%3a//tvreg.klemit.net/regionalna/stream/index.m3u8:TV Regionalna
 #DESCRIPTION TV Regionalna
@@ -83,16 +83,10 @@
 #DESCRIPTION Pogranicze TV
 #SERVICE 4097:0:1:92:1:48:0:0:0:0:https%3a//stream6.nadaje.com%3a35308/live/stream-1/chunklist_w1534321118.m3u8:TV Wielkopolska
 #DESCRIPTION TV Wielkopolska
-#SERVICE 5002:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
-#DESCRIPTION Truso TV
-#SERVICE 5002:0:1:a7c7:3d8:ec:0:0:0:0:https%3a//stream.truso.tv/elblag2/myStream/playlist.m3u8:TV Kaszuby
-#DESCRIPTION TV Kaszuby
 #SERVICE 4097:0:1:96:1:48:0:0:0:0:https%3a//cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8:TV JASŁO
 #DESCRIPTION TV JASŁO
 #SERVICE 4097:0:1:5b76:bb9b:ec:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
 #DESCRIPTION TV Lubań
-#SERVICE 4097:0:1:bd0:d855:ec:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
-#DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCpUZqLZNnVwlBIeOZYslMDw/live:TV Słowianin  (YT)
 #DESCRIPTION TV Słowianin  (YT)
 #SERVICE 4097:0:1:54:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UC0vwjMGoZpwG_lLBuF6_ALA/live:TV Olsztyn  (YT)
@@ -111,13 +105,13 @@
 #DESCRIPTION TV Zabrze  (YT)
 #SERVICE 4097:0:1:50:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/TelewizjaGorzówteletop/live:TV Gorzów  (YT)
 #DESCRIPTION TV Gorzów  (YT)
+#SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
+#DESCRIPTION info PŁOCK  (YT)
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCU7uwCYami150L_lydp2OHQ/live:RTVP HD  (YT)
 #DESCRIPTION RTVP HD  (YT)
 #SERVICE 4097:0:1:2d3:7ed6:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCciOOtgCargNFJw2BzR12Qw/live:Arche TV  (YT)
 #DESCRIPTION Arche TV  (YT)
-#SERVICE 4097:0:1:a648:c711:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UC2XrUJZZvY9DRoxGWVvOZSA/live:TVi Roland  (YT)
-#DESCRIPTION TVi Roland  (YT)
-#SERVICE 5002:0:1:c163:ab6d:ec:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/accounts/30886593/events/9905467:Polonico TV
+#SERVICE 5002:0:1:C163:AB6D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/accounts/30886593/events/9905467:Polonico TV
 #DESCRIPTION Polonico TV
 #SERVICE 4097:0:1:70ef:2c33:ec:0:0:0:0:streamlink%3a//https%3a//vimeo.com/event/1230897/embed:Index TV
 #DESCRIPTION Index TV
@@ -125,8 +119,6 @@
 #DESCRIPTION TVK Stella (Serwis Inf.)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//informacje.kolobrzeg.pl/video/wydarzenia.mp4:TV Kablowa Kołobrzeg (Serwis Inf)
 #DESCRIPTION TV Kablowa Kołobrzeg (Serwis Inf)
-#SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
-#DESCRIPTION info PŁOCK  (YT)
 #SERVICE 4097:0:1:a24:aff8:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCzk5x_PbhFKUoJx_HNTefDQ/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 4097:0:1:69:1:48:0:0:0:0:streamlink%3a//https%3a//www.twitch.tv/kanal10live:KANAŁ 10 (Radio NAKŁO)
@@ -159,7 +151,7 @@
 #DESCRIPTION Radio Wrocław Kultura (Visual Radio)
 #SERVICE 4097:0:1:ac96:c97c:ec:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
-#SERVICE 4097:0:1:3:0:48:0:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
+#SERVICE 5002:0:1:3:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=17251711:Belsat Tv
 #DESCRIPTION Belsat Tv
 #SERVICE 4097:0:1:3:0:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCRokSp8CGOuQO4R0F1RxRGg/live:Belsat TV  (YT)
 #DESCRIPTION Belsat TV  (YT)
@@ -183,6 +175,16 @@
 #DESCRIPTION Kanał Sportowy  (YT)
 #SERVICE 1:64:6:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
+#SERVICE 4097:0:1:3:0:48:0:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
+#DESCRIPTION Belsat Tv
+#SERVICE 5002:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
+#DESCRIPTION Truso TV
+#SERVICE 5002:0:1:a7c7:3d8:ec:0:0:0:0:https%3a//stream.truso.tv/elblag2/myStream/playlist.m3u8:TV Kaszuby
+#DESCRIPTION TV Kaszuby
+#SERVICE 4097:0:1:bd0:d855:ec:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
+#DESCRIPTION TVK Nowy Tomyśl
+#SERVICE 4097:0:1:a648:c711:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UC2XrUJZZvY9DRoxGWVvOZSA/live:TVi Roland  (YT)
+#DESCRIPTION TVi Roland  (YT)
 #SERVICE 4097:0:1:1648:d40c:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCTKxkwZp-aWyNsV3vdV2EpA/live:Polskie Radio 24  (YT)
 #DESCRIPTION Polskie Radio 24  (YT)
 #SERVICE 4097:0:1:9908:338a:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/LokalnaTV2009/live:Lokalna TV  (YT)
