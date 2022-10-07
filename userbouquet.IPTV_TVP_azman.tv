@@ -1,6 +1,8 @@
 #NAME IPTV TVP  (azman)
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- TVP GO ---
 #DESCRIPTION --- TVP GO ---
+#SERVICE 4097:0:1:8945:818A:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=62975271:TVP Nauka
+#DESCRIPTION TVP Nauka
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51689486:TVP 1 HD
 #DESCRIPTION TVP 1 HD
 #SERVICE 4097:0:1:c2c:1e78:71:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696811:TVP 2 HD
