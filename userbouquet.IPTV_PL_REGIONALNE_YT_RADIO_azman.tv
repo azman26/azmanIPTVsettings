@@ -83,6 +83,8 @@
 #DESCRIPTION Pogranicze TV
 #SERVICE 4097:0:1:92:1:48:0:0:0:0:https%3a//stream6.nadaje.com%3a35308/live/stream-1/chunklist_w1534321118.m3u8:TV Wielkopolska
 #DESCRIPTION TV Wielkopolska
+#SERVICE 5002:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
+#DESCRIPTION Truso TV
 #SERVICE 4097:0:1:96:1:48:0:0:0:0:https%3a//cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8:TV JASŁO
 #DESCRIPTION TV JASŁO
 #SERVICE 4097:0:1:5b76:bb9b:ec:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
@@ -133,7 +135,7 @@
 #DESCRIPTION TV Trwam
 #SERVICE 4097:0:1:82:1:48:0:0:0:0:https%3a//stream.hopechannel.pl/livetv/colombo/hope.m3u8:Hope Channel Polska
 #DESCRIPTION Hope Channel Polska
-#SERVICE 4097:0:1:70:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=i6tBI4dtwGA&ab_channel=EWTNPolska:EWTN Polska  (YT)
+#SERVICE 4097:0:1:70:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/EWTNPolska/live:EWTN Polska  (YT)
 #DESCRIPTION EWTN Polska  (YT)
 #SERVICE 4097:0:1:81:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCOZvcN7zQbf5kpi321dVcZQ/live:Dobre Media  (YT)
 #DESCRIPTION Dobre Media  (YT)
@@ -151,7 +153,7 @@
 #DESCRIPTION Radio Wrocław Kultura (Visual Radio)
 #SERVICE 4097:0:1:ac96:c97c:ec:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
-#SERVICE 5002:0:1:3:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=17251711:Belsat Tv
+#SERVICE 4097:0:1:3:0:48:0:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
 #DESCRIPTION Belsat Tv
 #SERVICE 4097:0:1:3:0:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCRokSp8CGOuQO4R0F1RxRGg/live:Belsat TV  (YT)
 #DESCRIPTION Belsat TV  (YT)
@@ -175,10 +177,8 @@
 #DESCRIPTION Kanał Sportowy  (YT)
 #SERVICE 1:64:6:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
-#SERVICE 4097:0:1:3:0:48:0:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
+#SERVICE 5002:0:1:3:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=17251711:Belsat Tv
 #DESCRIPTION Belsat Tv
-#SERVICE 5002:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
-#DESCRIPTION Truso TV
 #SERVICE 5002:0:1:a7c7:3d8:ec:0:0:0:0:https%3a//stream.truso.tv/elblag2/myStream/playlist.m3u8:TV Kaszuby
 #DESCRIPTION TV Kaszuby
 #SERVICE 4097:0:1:bd0:d855:ec:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
