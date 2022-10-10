@@ -215,18 +215,18 @@
 #DESCRIPTION Polskie Radio Chopin
 #SERVICE 4097:0:1:101:0:48:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24/pr24.sdp/chunklist_w544058526.m3u8:Polskie Radio 24
 #DESCRIPTION Polskie Radio 24
-#SERVICE 4097:0:2:0:155:0:0:0:0:0:http%3a//stream85.polskieradio.pl/pr5/pr5.sdp/chunklist_w1914007679.m3u8:Radio Poland
+#SERVICE 4097:0:2:0:155:0:0:0:0:0:https%3a//stream85.polskieradio.pl/pr5/pr5.sdp/chunklist_w25537459.m3u8:Radio Poland
 #DESCRIPTION Radio Poland
-#SERVICE 4097:0:2:0:150:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8962:Radio Poland DAB+
-#DESCRIPTION Radio Poland DAB+
-#SERVICE 4097:0:2:0:156:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8964:Radio Poland East
-#DESCRIPTION Radio Poland East
+#SERVICE 4097:0:2:0:150:0:0:0:0:0:https%3a//stream85.polskieradio.pl/pr5/pr5_dab.sdp/chunklist_w1970943775.m3u8:Polish Radio External Service DAB+
+#DESCRIPTION Polish Radio External Service DAB+
+#SERVICE 4097:0:2:0:156:0:0:0:0:0:https%3a//stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8:РАДИО ПОЛЬША
+#DESCRIPTION РАДИО ПОЛЬША
 #SERVICE 4097:0:2:cf89:2945:ec:0:0:0:0:https%3a//stream85.polskieradio.pl/radio_ukraina/ukraina.stream/chunklist_w654249407.m3u8:UA Radio
 #DESCRIPTION UA Radio
 #SERVICE 4097:0:2:1c98:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
 #DESCRIPTION RMF FM
-#SERVICE 4097:0:2:1c9e:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxxx
-#DESCRIPTION RMF Maxxx
+#SERVICE 4097:0:2:1c9e:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxx
+#DESCRIPTION RMF Maxx
 #SERVICE 4097:0:2:1c9a:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
 #DESCRIPTION RMF Classic
 #SERVICE 4097:0:2:1410:5dc:13e:820000:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-net.mp3:Radio ZET
@@ -271,8 +271,6 @@
 #DESCRIPTION Radio SZCZECIN
 #SERVICE 4097:0:2:0:174:0:0:0:0:0:http%3a//stream.open.fm/331:Radio KOLOR
 #DESCRIPTION Radio KOLOR
-#SERVICE 4097:0:2:0:175:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350/stream:ROCKREACTOR
-#DESCRIPTION ROCKREACTOR
 #SERVICE 4097:0:2:0:176:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8048:Radio KASZËBË
 #DESCRIPTION Radio KASZËBË
 #SERVICE 4097:0:2:0:177:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg1:Radio GDAŃSK
@@ -309,8 +307,6 @@
 #DESCRIPTION Radio ESKA ROCK
 #SERVICE 4097:0:2:0:193:0:0:0:0:0:https%3a//primary.moodyradiostream.org/radiofest:Radio FEST
 #DESCRIPTION Radio FEST
-#SERVICE 4097:0:2:0:194:0:0:0:0:0:https%3a//stream0.radio90.pl%3a8001/radio90_128kbps_stereo.mp3:Radio 90
-#DESCRIPTION Radio 90
 #SERVICE 4097:0:2:0:195:0:0:0:0:0:https%3a//stream.weekendfm.pl/weekendfm_najlepsza:WEEKEND FM
 #DESCRIPTION WEEKEND FM
 #SERVICE 4097:0:2:0:196:0:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:Nasze Radio
@@ -321,5 +317,15 @@
 #DESCRIPTION Radio dla Ciebie
 #SERVICE 4097:0:2:0:199:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7432/stream?sid=1:Radio DiscoParty
 #DESCRIPTION Radio DiscoParty
+#SERVICE 4097:0:1:AC96:C97C:EC:0:0:0:0:https%3a//stream2.prw.pl%3a8001/radioram:Radio RAM
+#DESCRIPTION Radio RAM
+#SERVICE 4097:0:2:0:200:0:0:0:0:0:http%3a//193.0.98.66%3a8002:Radio Kampus
+#DESCRIPTION Radio Kampus
+#SERVICE 4097:0:2:0:194:0:0:0:0:0:https%3a//stream0.radio90.pl%3a8001/radio90_128kbps_stereo.mp3:Radio 90
+#DESCRIPTION Radio 90
+#SERVICE 4097:0:2:0:175:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350/stream:ROCKREACTOR
+#DESCRIPTION ROCKREACTOR
+#SERVICE 4097:0:2:D685:307E:EC:0:0:0:0:http%3a//s1.slotex.pl%3a7358:Radio Vanessa
+#DESCRIPTION Radio Vanessa
 #SERVICE 4097:0:2:c1c:ddb:ec:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
