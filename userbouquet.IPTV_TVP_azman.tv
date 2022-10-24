@@ -29,8 +29,8 @@
 #DESCRIPTION TVP World
 #SERVICE 4097:0:1:3A9E:514:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696827:TVP Sport HD
 #DESCRIPTION TVP Sport HD
-#SERVICE 4097:0:1:A143:521:D:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=58758689:UA%3aPerszyj
-#DESCRIPTION UA:Perszyj
+#SERVICE 4097:0:1:1659:42C:1:C00000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=58758689:UA%3aPershyj
+#DESCRIPTION UA:Pershyj
 #SERVICE 1:64:9:0:0:0:0:0:0:0::--- TVP Stream ---
 #DESCRIPTION --- TVP Stream ---
 #SERVICE 4097:0:1:1:0:48:0:0:0:0:streamlink%3a//https%3a//tvpstream.vod.tvp.pl/?channel_id=44418549:TVP Wilno
