@@ -1,49 +1,49 @@
 #NAME IPTV PL REGIONALNE + YT + RADIO  (azman)
 #SERVICE 1:64:4:0:0:0:0:0:0:0::--- Telewizja Online ---
 #DESCRIPTION --- Telewizja Online ---
-#SERVICE 4097:0:1:3dcd:640:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tvn1/manifest.m3u8:TVN HD
+#SERVICE 4097:0:1:3DCD:640:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tvn1/manifest.m3u8:TVN HD
 #DESCRIPTION TVN HD
 #SERVICE 4097:0:1:3391:3390:71:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/polsat1/manifest.m3u8:Polsat HD
 #DESCRIPTION Polsat HD
 #SERVICE 4097:0:1:3393:3390:71:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tv41/manifest.m3u8:TV4 HD
 #DESCRIPTION TV4 HD
-#SERVICE 4097:0:1:3d66:2c88:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/puls11/manifest.m3u8:TV Puls
+#SERVICE 4097:0:1:3D66:2C88:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/puls11/manifest.m3u8:TV Puls
 #DESCRIPTION TV Puls
-#SERVICE 4097:0:1:3d5e:2c88:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/puls21/manifest.m3u8:Puls 2 HD
+#SERVICE 4097:0:1:3D5E:2C88:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/puls21/manifest.m3u8:Puls 2 HD
 #DESCRIPTION Puls 2 HD
-#SERVICE 4097:0:1:3d5a:2c88:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/wp1/manifest.m3u8:WP HD
+#SERVICE 4097:0:1:3D5A:2C88:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/wp1/manifest.m3u8:WP HD
 #DESCRIPTION WP HD
-#SERVICE 4097:0:1:427b:2bc0:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/stopklatka1/manifest.m3u8:Stopklatka
+#SERVICE 4097:0:1:427B:2BC0:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/stopklatka1/manifest.m3u8:Stopklatka
 #DESCRIPTION Stopklatka
-#SERVICE 4097:0:1:4291:2bc0:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/zoom1/manifest.m3u8:Zoom TV
+#SERVICE 4097:0:1:4291:2BC0:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/zoom1/manifest.m3u8:Zoom TV
 #DESCRIPTION Zoom TV
 #SERVICE 4097:0:1:32CF:190:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/antenatv_1/manifest.m3u8:Antena
 #DESCRIPTION Antena
-#SERVICE 4097:0:1:423b:3db8:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tele51/manifest.m3u8:Tele 5 HD
+#SERVICE 4097:0:1:423B:3DB8:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tele51/manifest.m3u8:Tele 5 HD
 #DESCRIPTION Tele 5 HD
-#SERVICE 4097:0:1:423c:3db8:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/polonia11/manifest.m3u8:Polonia 1 HD
+#SERVICE 4097:0:1:423C:3DB8:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/polonia11/manifest.m3u8:Polonia 1 HD
 #DESCRIPTION Polonia 1 HD
-#SERVICE 4097:0:1:11ab:12ab:ec:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/topkids1/manifest.m3u8:Top Kids HD
+#SERVICE 4097:0:1:11AB:12AB:EC:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/topkids1/manifest.m3u8:Top Kids HD
 #DESCRIPTION Top Kids HD
-#SERVICE 4097:0:1:423a:3db8:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/adventuretv1/manifest.m3u8:Adventure HD
+#SERVICE 4097:0:1:423A:3DB8:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/adventuretv1/manifest.m3u8:Adventure HD
 #DESCRIPTION Adventure HD
-#SERVICE 4097:0:1:6745:7f4a:ec:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/esport1/manifest.m3u8:E-SPORT
+#SERVICE 4097:0:1:6745:7F4A:EC:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/esport1/manifest.m3u8:E-SPORT
 #DESCRIPTION E-SPORT
-#SERVICE 4097:0:1:c6a0:d5d:ec:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/13tv1/manifest.m3u8:13.TV
+#SERVICE 4097:0:1:C6A0:D5D:EC:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/13tv1/manifest.m3u8:13.TV
 #DESCRIPTION 13.TV
 #SERVICE 4097:0:1:32D0:190:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/hometv1/manifest.m3u8:Home TV HD
 #DESCRIPTION Home TV HD
-#SERVICE 4097:0:1:f6b3:51bb:ec:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/news241/manifest.m3u8:News24
+#SERVICE 4097:0:1:F6B3:51BB:EC:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/news241/manifest.m3u8:News24
 #DESCRIPTION News24
-#SERVICE 4097:0:1:3d57:2c88:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/biznes241/manifest.m3u8:Biznes24 HD
+#SERVICE 4097:0:1:3D57:2C88:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/biznes241/manifest.m3u8:Biznes24 HD
 #DESCRIPTION Biznes24 HD
-#SERVICE 4097:0:1:3dd2:640:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tvn241/manifest.m3u8:TVN 24 HD
+#SERVICE 4097:0:1:3DD2:640:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tvn241/manifest.m3u8:TVN 24 HD
 #DESCRIPTION TVN 24 HD
-#SERVICE 4097:0:19:10ea:3e8:13e:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tvn24bis1/manifest.m3u8:TVN24 BiS
+#SERVICE 4097:0:1:10EA:3E8:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/tvn24bis1/manifest.m3u8:TVN24 BiS
 #DESCRIPTION TVN24 BiS
 #SERVICE 4097:0:1:32D2:190:13E:820000:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/nutatv1/manifest.m3u8:Nuta TV HD
 #DESCRIPTION Nuta TV HD
-#SERVICE 4097:0:1:ae96:6b2a:ec:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/ukraina241/manifest.m3u8:Ukraine 1
+#SERVICE 4097:0:1:AE96:6B2A:EC:0:0:0:0:https%3a//cdn1.telewizjaonline.pl/secure_play/ukraina241/manifest.m3u8:Ukraine 1
 #DESCRIPTION Ukraine 1
 #SERVICE 1:64:5:0:0:0:0:0:0:0::--- Regionalne + YT ---
 #DESCRIPTION --- Regionalne + YT ---
@@ -59,8 +59,8 @@
 #DESCRIPTION Sfera TV
 #SERVICE 4097:0:1:7:1:48:0:0:0:0:https%3a//5cce8c6f0e84c.streamlock.net/LiveCast/smil%3aPlayStream9.smil/playlist.m3u8:Asta TV HD
 #DESCRIPTION Asta TV HD
-#SERVICE 4097:0:1:13:1:48:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/_definst_/dlaCiebieTv/playlist.m3u8:Dla ciebie.tv
-#DESCRIPTION Dla ciebie.tv
+#SERVICE 4097:0:1:13:1:48:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/_definst_/dlaCiebieTv/playlist.m3u8:Dla Ciebie TV
+#DESCRIPTION Dla Ciebie TV
 #SERVICE 4097:0:1:15:1:48:0:0:0:0:http%3a//217.173.176.107%3a1935/live/tvk.stream/playlist.m3u8:TV Toruń
 #DESCRIPTION TV Toruń
 #SERVICE 4097:0:1:95:1:48:0:0:0:0:https%3a//live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8:TVT Rybnik
@@ -111,6 +111,8 @@
 #DESCRIPTION info PŁOCK  (YT)
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCU7uwCYami150L_lydp2OHQ/live:RTVP HD  (YT)
 #DESCRIPTION RTVP HD  (YT)
+#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/UniwersytetimAdamaMickiewiczawPoznaniu1/live:UAM.TV  (YT)
+#DESCRIPTION UAM.TV  (YT)
 #SERVICE 4097:0:1:2d3:7ed6:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCciOOtgCargNFJw2BzR12Qw/live:Arche TV  (YT)
 #DESCRIPTION Arche TV  (YT)
 #SERVICE 5002:0:1:C163:AB6D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/accounts/30886593/events/9905467:Polonico TV
@@ -131,7 +133,7 @@
 #DESCRIPTION WebCamera.pl
 #SERVICE 4097:0:0:f5c:73b7:ec:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl Plaże
 #DESCRIPTION WebCamera.pl Plaże
-#SERVICE 4097:0:1:1090:3ee:1:c00000:0:0:0:https%3a//trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.m3u8:TV Trwam
+#SERVICE 4097:0:1:1090:3EE:1:C00000:0:0:0:https%3a//trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.m3u8:TV Trwam
 #DESCRIPTION TV Trwam
 #SERVICE 4097:0:1:82:1:48:0:0:0:0:https%3a//stream.hopechannel.pl/livetv/colombo/hope.m3u8:Hope Channel Polska
 #DESCRIPTION Hope Channel Polska
@@ -157,9 +159,9 @@
 #DESCRIPTION Belsat Tv
 #SERVICE 4097:0:1:3:0:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCRokSp8CGOuQO4R0F1RxRGg/live:Belsat TV  (YT)
 #DESCRIPTION Belsat TV  (YT)
-#SERVICE 4097:0:1:4289:2bc0:13e:820000:0:0:0:https%3a//ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8:TV Republika
+#SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8:TV Republika
 #DESCRIPTION TV Republika
-#SERVICE 4097:0:1:4279:2bc0:13e:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live:wPolsce.pl  (YT)
+#SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live:wPolsce.pl  (YT)
 #DESCRIPTION wPolsce.pl  (YT)
 #SERVICE 4097:0:1:f106:277:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCMA-v2JV_9ZYNoY4uY4mRWA/live:Radio WNET  (YT) (7%3a07-10%3a30)
 #DESCRIPTION Radio WNET  (YT) (7:07-10:30)
@@ -189,8 +191,6 @@
 #DESCRIPTION Polskie Radio 24  (YT)
 #SERVICE 4097:0:1:9908:338a:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/LokalnaTV2009/live:Lokalna TV  (YT)
 #DESCRIPTION Lokalna TV  (YT)
-#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCYG4JRAdsBM6BiuF5-UL9DQ/live:UAM.TV  (YT)
-#DESCRIPTION UAM.TV  (YT)
 #SERVICE 4097:0:1:61:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCpchzx2u5Ab8YASeJsR1WIw/live:Rzeczpospolita TV  (YT)
 #DESCRIPTION Rzeczpospolita TV  (YT)
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
