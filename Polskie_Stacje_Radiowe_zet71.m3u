@@ -75,7 +75,7 @@ http://195.150.20.7/rmf_fitness
 http://195.150.20.7/rmf_fitness_rock
 #EXTINF:0 radio=true,RMF Francais
 http://195.150.20.7/rmf_francais
-#EXTINF:0 radio=true,RMF Fresh 2021
+#EXTINF:0 radio=true,RMF Fresh 2022
 http://195.150.20.7/rmf_top
 #EXTINF:0 radio=true,RMF Funk
 http://195.150.20.7/rmf_funk
@@ -171,7 +171,7 @@ http://195.150.20.7/rmf_top_5_pl
 http://195.150.20.7/rmf_top_5_pop
 #EXTINF:0 radio=true,RMF Top 30 Święta
 http://195.150.20.7/rmf_top_30_swieta
-#EXTINF:0 radio=true,RMF Top 2021 Disco polo
+#EXTINF:0 radio=true,RMF Top 2022 Disco polo
 http://195.150.20.7/rmf_top2
 #EXTINF:0 radio=true,RMF Trend Sounds
 http://195.150.20.7/rmf_trend_sounds
@@ -293,6 +293,8 @@ https://zt.cdn.eurozet.pl/ZETKID.mp3
 https://zt.cdn.eurozet.pl/ZETKOL.mp3
 #EXTINF:0 radio=true,ZET Latino
 https://zt.cdn.eurozet.pl/ZETLTN.mp3
+#EXTINF:0 radio=true,ZET Live
+https://zt.cdn.eurozet.pl/ZETLIV.mp3
 #EXTINF:0 radio=true,ZET Love
 https://zt.cdn.eurozet.pl/ZETLOV.mp3
 #EXTINF:0 radio=true,ZET Na Rower
@@ -479,6 +481,10 @@ http://stream.open.fm/364
 http://stream.open.fm/157
 #EXTINF:0 radio=true,OPEN FM Gwiazdy
 http://stream.open.fm/58
+#EXTINF:0 radio=true,OPEN FM Halloween Night
+http://stream.open.fm/130
+#EXTINF:0 radio=true,OPEN FM Halloween Party
+http://stream.open.fm/179
 #EXTINF:0 radio=true,OPEN FM Happy
 http://stream.open.fm/120
 #EXTINF:0 radio=true,OPEN FM Hip-Hop Freszzz
@@ -493,8 +499,6 @@ http://stream.open.fm/24
 http://stream.open.fm/92
 #EXTINF:0 radio=true,OPEN FM Hip-Hop USA
 http://stream.open.fm/23
-#EXTINF:0 radio=true,OPEN FM Hity Na Grilla
-http://stream.open.fm/146
 #EXTINF:0 radio=true,OPEN FM Hot Lista
 http://stream.open.fm/327
 #EXTINF:0 radio=true,OPEN FM House
@@ -523,12 +527,12 @@ http://stream.open.fm/142
 http://stream.open.fm/161
 #EXTINF:0 radio=true,OPEN FM Kraina Łagodności
 http://stream.open.fm/37
+#EXTINF:0 radio=true,OPEN FM Ladies Cafe
+http://stream.open.fm/48
+#EXTINF:0 radio=true,OPEN FM Ladies Party
+http://stream.open.fm/102
 #EXTINF:0 radio=true,OPEN FM Latino Hits
 http://stream.open.fm/19
-#EXTINF:0 radio=true,OPEN FM Lejdis Cafe
-http://stream.open.fm/48
-#EXTINF:0 radio=true,OPEN FM Lejdis Party
-http://stream.open.fm/102
 #EXTINF:0 radio=true,OPEN FM Love
 http://stream.open.fm/121
 #EXTINF:0 radio=true,OPEN FM Miejska Stacja
@@ -591,8 +595,6 @@ http://stream.open.fm/25
 http://stream.open.fm/61
 #EXTINF:0 radio=true,OPEN FM Rocks
 http://stream.open.fm/77
-#EXTINF:0 radio=true,OPEN FM Rotacja Open FM (muzyka z podcastu)
-http://stream.open.fm/425
 #EXTINF:0 radio=true,OPEN FM Sad
 http://stream.open.fm/103
 #EXTINF:0 radio=true,OPEN FM Schodki
@@ -657,14 +659,20 @@ http://stream.open.fm/126
 http://stream.open.fm/127
 #EXTINF:0 radio=true,OPEN FM Wesele
 http://stream.open.fm/110
+#EXTINF:0 radio=true,OPEN FM Wielcy Nieobecni
+http://stream.open.fm/180
 #EXTINF:0 radio=true,4FUN Radio
 http://stream.open.fm/173
 #EXTINF:0 radio=true,Radio 357
 http://stream.open.fm/357
+#EXTINF:0 radio=true,Radio Afera
+http://stream.open.fm/333
 #EXTINF:0 radio=true,Radio Akadera
 http://stream.open.fm/332
 #EXTINF:0 radio=true,Radio CCM
 http://stream.open.fm/336
+#EXTINF:0 radio=true,Radio Centrum
+http://stream.open.fm/339
 #EXTINF:0 radio=true,Radio Fest
 http://stream.open.fm/335
 #EXTINF:0 radio=true,Radio Halo.Radio
@@ -708,173 +716,173 @@ http://stream.open.fm/423
 #EXTINF:0 radio=true,Radio Pyatnica
 http://stream.open.fm/424
 #EXTINF:0 radio=true,ESKA - Bełchatów
-http://ic1.smcdn.pl/2010-1.mp3
+http://ic2.smcdn.pl/2010-1.mp3
 #EXTINF:0 radio=true,ESKA - Beskidy
-http://ic1.smcdn.pl/2300-1.mp3
+http://ic2.smcdn.pl/2300-1.mp3
 #EXTINF:0 radio=true,ESKA - Białystok
-http://ic1.smcdn.pl/2020-1.mp3
+http://ic2.smcdn.pl/2020-1.mp3
 #EXTINF:0 radio=true,ESKA - Braniewo
-http://ic1.smcdn.pl/2520-1.mp3
+http://ic2.smcdn.pl/2520-1.mp3
 #EXTINF:0 radio=true,ESKA - Bydgoszcz
-http://ic1.smcdn.pl/2030-1.mp3
+http://ic2.smcdn.pl/2030-1.mp3
 #EXTINF:0 radio=true,ESKA - Elbląg
-http://ic1.smcdn.pl/2430-1.mp3
+http://ic2.smcdn.pl/2430-1.mp3
 #EXTINF:0 radio=true,ESKA - Gorzów
-http://ic1.smcdn.pl/2040-1.mp3
+http://ic2.smcdn.pl/2040-1.mp3
 #EXTINF:0 radio=true,ESKA - Grudziądz
-http://ic1.smcdn.pl/2450-1.mp3
+http://ic2.smcdn.pl/2450-1.mp3
 #EXTINF:0 radio=true,ESKA - Iława
-http://ic1.smcdn.pl/2440-1.mp3
+http://ic2.smcdn.pl/2440-1.mp3
 #EXTINF:0 radio=true,ESKA - Jelenia Góra
-http://ic1.smcdn.pl/2480-1.mp3
+http://ic2.smcdn.pl/2480-1.mp3
 #EXTINF:0 radio=true,ESKA - Kalisz/Ostrów
-http://ic1.smcdn.pl/2200-1.mp3
+http://ic2.smcdn.pl/2200-1.mp3
 #EXTINF:0 radio=true,ESKA - Kielce
-http://ic1.smcdn.pl/2050-1.mp3
+http://ic2.smcdn.pl/2050-1.mp3
 #EXTINF:0 radio=true,ESKA - Koszalin
-http://ic1.smcdn.pl/2270-1.mp3
+http://ic2.smcdn.pl/2270-1.mp3
 #EXTINF:0 radio=true,ESKA - Kraków
-http://ic1.smcdn.pl/2070-1.mp3
+http://ic2.smcdn.pl/2070-1.mp3
 #EXTINF:0 radio=true,ESKA - Kraśnik
-http://ic1.smcdn.pl/2360-1.mp3
+http://ic2.smcdn.pl/2360-1.mp3
 #EXTINF:0 radio=true,ESKA - Leszno
-http://ic1.smcdn.pl/2080-1.mp3
+http://ic2.smcdn.pl/2080-1.mp3
 #EXTINF:0 radio=true,ESKA - Lublin
-http://ic1.smcdn.pl/2130-1.mp3
+http://ic2.smcdn.pl/2130-1.mp3
 #EXTINF:0 radio=true,ESKA - Łomża
-http://ic1.smcdn.pl/2460-1.mp3
+http://ic2.smcdn.pl/2460-1.mp3
 #EXTINF:0 radio=true,ESKA - Łódź
-http://ic1.smcdn.pl/2100-1.mp3
+http://ic2.smcdn.pl/2100-1.mp3
 #EXTINF:0 radio=true,ESKA - Małopolska/Nowy Sącz
-http://ic1.smcdn.pl/2330-1.mp3
+http://ic2.smcdn.pl/2330-1.mp3
 #EXTINF:0 radio=true,ESKA - Olsztyn
-http://ic1.smcdn.pl/2110-1.mp3
+http://ic2.smcdn.pl/2110-1.mp3
 #EXTINF:0 radio=true,ESKA - Opole
-http://ic1.smcdn.pl/2120-1.mp3
+http://ic2.smcdn.pl/2120-1.mp3
 #EXTINF:0 radio=true,ESKA - Ostrzeszów
-http://ic1.smcdn.pl/2500-1.mp3
+http://ic2.smcdn.pl/2500-1.mp3
 #EXTINF:0 radio=true,ESKA - Piła
-http://ic1.smcdn.pl/2090-1.mp3
+http://ic2.smcdn.pl/2090-1.mp3
 #EXTINF:0 radio=true,ESKA - Płock
-http://ic1.smcdn.pl/2250-1.mp3
+http://ic2.smcdn.pl/2250-1.mp3
 #EXTINF:0 radio=true,ESKA - Poznań
-http://ic1.smcdn.pl/2140-1.mp3
+http://ic2.smcdn.pl/2140-1.mp3
 #EXTINF:0 radio=true,ESKA - Przemyśl
-http://ic1.smcdn.pl/2320-1.mp3
+http://ic2.smcdn.pl/2320-1.mp3
 #EXTINF:0 radio=true,ESKA - Radom
-http://ic1.smcdn.pl/2210-1.mp3
+http://ic2.smcdn.pl/2210-1.mp3
 #EXTINF:0 radio=true,ESKA - Rzeszów
-http://ic1.smcdn.pl/2240-1.mp3
+http://ic2.smcdn.pl/2240-1.mp3
 #EXTINF:0 radio=true,ESKA - Siedlce
-http://ic1.smcdn.pl/2060-1.mp3
+http://ic2.smcdn.pl/2060-1.mp3
 #EXTINF:0 radio=true,ESKA - Starachowice
-http://ic1.smcdn.pl/2400-1.mp3
+http://ic2.smcdn.pl/2400-1.mp3
 #EXTINF:0 radio=true,ESKA - Szczecin
-http://ic1.smcdn.pl/2260-1.mp3
+http://ic2.smcdn.pl/2260-1.mp3
 #EXTINF:0 radio=true,ESKA - Szczecinek
-http://ic1.smcdn.pl/2310-1.mp3
+http://ic2.smcdn.pl/2310-1.mp3
 #EXTINF:0 radio=true,ESKA - Śląsk
-http://ic1.smcdn.pl/2220-1.mp3
+http://ic2.smcdn.pl/2220-1.mp3
 #EXTINF:0 radio=true,ESKA - Tarnów
-http://ic1.smcdn.pl/2160-1.mp3
+http://ic2.smcdn.pl/2160-1.mp3
 #EXTINF:0 radio=true,ESKA - Toruń
-http://ic1.smcdn.pl/2150-1.mp3
+http://ic2.smcdn.pl/2150-1.mp3
 #EXTINF:0 radio=true,ESKA - Trójmiasto
-http://ic1.smcdn.pl/2170-1.mp3
+http://ic2.smcdn.pl/2170-1.mp3
 #EXTINF:0 radio=true,ESKA - Warszawa
-http://ic1.smcdn.pl/2380-1.mp3
+http://ic2.smcdn.pl/2380-1.mp3
 #EXTINF:0 radio=true,ESKA - Wrocław
-http://ic1.smcdn.pl/2180-1.mp3
+http://ic2.smcdn.pl/2180-1.mp3
 #EXTINF:0 radio=true,ESKA - Zamość
-http://ic1.smcdn.pl/2230-1.mp3
+http://ic2.smcdn.pl/2230-1.mp3
 #EXTINF:0 radio=true,ESKA - Zielona Góra
-http://ic1.smcdn.pl/2190-1.mp3
+http://ic2.smcdn.pl/2190-1.mp3
 #EXTINF:0 radio=true,ESKA - Żary
-http://ic1.smcdn.pl/2420-1.mp3
+http://ic2.smcdn.pl/2420-1.mp3
 #EXTINF:0 radio=true,ESKA - Z Wami FM
-http://ic1.smcdn.pl/7990-1.mp3
+http://ic2.smcdn.pl/7990-1.mp3
 #EXTINF:0 radio=true,ESKA - Do Pracy
-http://ic1.smcdn.pl/6140-1.mp3
+http://ic2.smcdn.pl/6140-1.mp3
 #EXTINF:0 radio=true,ESKA - Gorąca 20
-http://ic1.smcdn.pl/6130-1.mp3
+http://ic2.smcdn.pl/6130-1.mp3
 #EXTINF:0 radio=true,ESKA - Impreska
-http://ic1.smcdn.pl/6030-1.mp3
+http://ic2.smcdn.pl/6030-1.mp3
 #EXTINF:0 radio=true,ESKA - Rap 20
-http://ic1.smcdn.pl/6190-1.mp3
+http://ic2.smcdn.pl/6190-1.mp3
 #EXTINF:0 radio=true,ESKA - Summer City
-http://ic1.smcdn.pl/6120-1.mp3
+http://ic2.smcdn.pl/6120-1.mp3
 #EXTINF:0 radio=true,ESKA Rock
-http://ic1.smcdn.pl/5380-1.mp3
+http://ic2.smcdn.pl/5380-1.mp3
 #EXTINF:0 radio=true,ESKA Rock - Dobrze Rockuje
-http://ic1.smcdn.pl/6060-1.mp3
+http://ic2.smcdn.pl/6060-1.mp3
 #EXTINF:0 radio=true,ESKA Rock - Klasyka Rocka
-http://ic1.smcdn.pl/6070-1.mp3
+http://ic2.smcdn.pl/6070-1.mp3
 #EXTINF:0 radio=true,ESKA Rock - Rock Ballads
-http://ic1.smcdn.pl/6010-1.mp3
+http://ic2.smcdn.pl/6010-1.mp3
 #EXTINF:0 radio=true,ESKA Rock - Teraz Polski Rock
-http://ic1.smcdn.pl/6090-1.mp3
+http://ic2.smcdn.pl/6090-1.mp3
 #EXTINF:0 radio=true,Radio GO
-http://ic1.smcdn.pl/6490-1.mp3
+http://ic2.smcdn.pl/6490-1.mp3
 #EXTINF:0 radio=true,SuperNova - Gdańsk
-http://ic1.smcdn.pl/1170-1.mp3
+http://ic2.smcdn.pl/1170-1.mp3
 #EXTINF:0 radio=true,SuperNova - Jelenia Góra
-http://ic1.smcdn.pl/1480-1.mp3
+http://ic2.smcdn.pl/1480-1.mp3
 #EXTINF:0 radio=true,SuperNova - Kielce
-http://ic1.smcdn.pl/1050-1.mp3
+http://ic2.smcdn.pl/1050-1.mp3
 #EXTINF:0 radio=true,SuperNova - Konin
-http://ic1.smcdn.pl/1530-1.mp3
+http://ic2.smcdn.pl/1530-1.mp3
 #EXTINF:0 radio=true,SuperNova - Kraków
-http://ic1.smcdn.pl/1070-1.mp3
+http://ic2.smcdn.pl/1070-1.mp3
 #EXTINF:0 radio=true,SuperNova - Łódź
-http://ic1.smcdn.pl/1100-1.mp3
+http://ic2.smcdn.pl/1100-1.mp3
 #EXTINF:0 radio=true,SuperNova - Nowy Sącz
-http://ic1.smcdn.pl/1290-1.mp3
+http://ic2.smcdn.pl/1290-1.mp3
 #EXTINF:0 radio=true,SuperNova - Opole
-http://ic1.smcdn.pl/1120-1.mp3
+http://ic2.smcdn.pl/1120-1.mp3
 #EXTINF:0 radio=true,SuperNova - Rzeszów
-http://ic1.smcdn.pl/1240-1.mp3
+http://ic2.smcdn.pl/1240-1.mp3
 #EXTINF:0 radio=true,SuperNova - Szczecin
-http://ic1.smcdn.pl/1260-1.mp3
+http://ic2.smcdn.pl/1260-1.mp3
 #EXTINF:0 radio=true,SuperNova - Toruń
-http://ic1.smcdn.pl/1150-1.mp3
+http://ic2.smcdn.pl/1150-1.mp3
 #EXTINF:0 radio=true,SuperNova - Trzebnica
-http://ic1.smcdn.pl/1510-1.mp3
+http://ic2.smcdn.pl/1510-1.mp3
 #EXTINF:0 radio=true,SuperNova - Wrocław
-http://ic1.smcdn.pl/1180-1.mp3
+http://ic2.smcdn.pl/1180-1.mp3
 #EXTINF:0 radio=true,SuperNova - Warszawa
-http://ic1.smcdn.pl/1380-1.mp3
+http://ic2.smcdn.pl/1380-1.mp3
 #EXTINF:0 radio=true,SuperNova - Classic
-http://ic1.smcdn.pl/6040-1.mp3
+http://ic2.smcdn.pl/6040-1.mp3
 #EXTINF:0 radio=true,SuperNova - Disco Polo
-http://ic1.smcdn.pl/6110-1.mp3
+http://ic2.smcdn.pl/6110-1.mp3
 #EXTINF:0 radio=true,SuperNova - Party
-http://ic1.smcdn.pl/6160-1.mp3
+http://ic2.smcdn.pl/6160-1.mp3
 #EXTINF:0 radio=true,SuperNova - Rock
-http://ic1.smcdn.pl/6090-1.mp3
+http://ic2.smcdn.pl/6090-1.mp3
 #EXTINF:0 radio=true,SuperNova - Sanah
-http://ic1.smcdn.pl/6220-1.mp3
+http://ic2.smcdn.pl/6220-1.mp3
 #EXTINF:0 radio=true,SuperNova - Super 13
-http://ic1.smcdn.pl/6230-1.mp3
+http://ic2.smcdn.pl/6230-1.mp3
 #EXTINF:0 radio=true,VOX FM
-http://ic1.smcdn.pl/3990-1.mp3
+http://ic2.smcdn.pl/3990-1.mp3
 #EXTINF:0 radio=true,VOX FM - Gorzów Wielkopolski
-http://ic1.smcdn.pl/3040-1.mp3
+http://ic2.smcdn.pl/3040-1.mp3
 #EXTINF:0 radio=true,VOX FM - Poznań
-http://ic1.smcdn.pl/3140-1.mp3
+http://ic2.smcdn.pl/3140-1.mp3
 #EXTINF:0 radio=true,VOX FM - Radom
-http://ic1.smcdn.pl/3210-1.mp3
+http://ic2.smcdn.pl/3210-1.mp3
 #EXTINF:0 radio=true,VOX FM - Best Lista
-http://ic1.smcdn.pl/6100-1.mp3
+http://ic2.smcdn.pl/6100-1.mp3
 #EXTINF:0 radio=true,VOX FM - Disco 90
-http://ic1.smcdn.pl/6170-1.mp3
+http://ic2.smcdn.pl/6170-1.mp3
 #EXTINF:0 radio=true,VOX FM - Disco Party
-http://ic1.smcdn.pl/6180-1.mp3
+http://ic2.smcdn.pl/6180-1.mp3
 #EXTINF:0 radio=true,VOX FM - Najlepszy Koncert Świata
-http://ic1.smcdn.pl/6080-1.mp3
+http://ic2.smcdn.pl/6080-1.mp3
 #EXTINF:0 radio=true,VOX FM - Roztańczony PGE Narodowy
-http://ic1.smcdn.pl/6020-1.mp3
+http://ic2.smcdn.pl/6020-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Polska
-http://ic1.smcdn.pl/4000-1.mp3
+http://ic2.smcdn.pl/4000-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Bydgoszcz
 https://pl.cdn.eurozet.pl/plu-bdg.mp3
 #EXTINF:0 radio=true,Radio Plus - Gdańsk
@@ -886,23 +894,23 @@ https://pl.cdn.eurozet.pl/plu-gnz.mp3
 #EXTINF:0 radio=true,Radio Plus - Gorzów
 https://pl.cdn.eurozet.pl/plu-grz.mp3
 #EXTINF:0 radio=true,Radio Plus - Koszalin
-http://ic1.smcdn.pl/4270-1.mp3
+http://ic2.smcdn.pl/4270-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Kraków
-http://ic1.smcdn.pl/4070-1.mp3
+http://ic2.smcdn.pl/4070-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Legnica
 http://stream.plus.legnica.pl:8000/radioplus
 #EXTINF:0 radio=true,Radio Plus - Lublin
-http://ic1.smcdn.pl/4130-1.mp3
+http://ic2.smcdn.pl/4130-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Łódź
-http://ic1.smcdn.pl/4100-1.mp3
+http://ic2.smcdn.pl/4100-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Olsztyn
-http://ic1.smcdn.pl/4110-1.mp3
+http://ic2.smcdn.pl/4110-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Podhale
-http://ic1.smcdn.pl/4340-1.mp3
+http://ic2.smcdn.pl/4340-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Radom
 https://pl.cdn.eurozet.pl/plu-rdo.mp3
 #EXTINF:0 radio=true,Radio Plus - Szczecin
-http://ic1.smcdn.pl/4260-1.mp3
+http://ic2.smcdn.pl/4260-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Warszawa
 https://pl.cdn.eurozet.pl/plu-waw.mp3
 #EXTINF:0 radio=true,Radio Plus - Zielona Góra
