@@ -13,16 +13,22 @@
 #DESCRIPTION TVP ABC 2
 #SERVICE 4097:0:1:4288:2BC0:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696825:TVP Rozrywka
 #DESCRIPTION TVP Rozrywka
-#SERVICE 4097:0:1:5ec9:13fb:ec:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53795158:TVP Kobieta
+#SERVICE 4097:0:1:5EC9:13FB:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53795158:TVP Kobieta
 #DESCRIPTION TVP Kobieta
+#SERVICE 4097:0:1:3D59:2C88:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696822:TVP Kultura
+#DESCRIPTION TVP Kultura
 #SERVICE 4097:0:1:5:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=47094327:TVP Kultura 2
 #DESCRIPTION TVP Kultura 2
 #SERVICE 4097:0:1:3a9d:514:13e:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53795159:TVP Dokument HD
 #DESCRIPTION TVP Dokument HD
+#SERVICE 4097:0:1:3D67:2C88:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696819:TVP Historia
+#DESCRIPTION TVP Historia
 #SERVICE 4097:0:1:31:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=52491596:TVP Historia 2
 #DESCRIPTION TVP Historia 2
-#SERVICE 4097:0:1:e83:3200:13e:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696824:TVP Polonia
+#SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696824:TVP Polonia
 #DESCRIPTION TVP Polonia
+#SERVICE 4097:0:1:1:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=49889516:TVP Wilno
+#DESCRIPTION TVP Wilno
 #SERVICE 4097:0:1:1139:2af8:13e:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696820:TVP Info HD
 #DESCRIPTION TVP Info HD
 #SERVICE 4097:0:1:4:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51590674:TVP World
@@ -33,7 +39,7 @@
 #DESCRIPTION UA:Pershyj
 #SERVICE 1:64:9:0:0:0:0:0:0:0::--- TVP Stream ---
 #DESCRIPTION --- TVP Stream ---
-#SERVICE 4097:0:1:1:0:48:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=53933471:TVP Wilno
+#SERVICE 4097:0:1:1:0:48:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=49889516:TVP Wilno
 #DESCRIPTION TVP Wilno
 #SERVICE 4097:0:1:5:0:48:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=51161266:TVP Kultura 2
 #DESCRIPTION TVP Kultura 2
@@ -43,7 +49,7 @@
 #DESCRIPTION TVP Info
 #SERVICE 5002:0:1:3:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=17251711:Belsat Tv
 #DESCRIPTION Belsat Tv
-#SERVICE 4097:0:1:FB68:E26:EC:0:0:0:0:streamlink%3a//https%3a//tvpstream.vod.tvp.pl/?channel_id=43894349:TVP Msze
+#SERVICE 4097:0:1:FB68:E26:EC:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=43894349:TVP Msze
 #DESCRIPTION TVP Msze
 #SERVICE 4097:0:1:7:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14812658:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
