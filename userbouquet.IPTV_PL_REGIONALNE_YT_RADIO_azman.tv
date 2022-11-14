@@ -163,6 +163,8 @@
 #DESCRIPTION TV Republika
 #SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live:wPolsce.pl  (YT)
 #DESCRIPTION wPolsce.pl  (YT)
+#SERVICE 4097:0:1:E2DD:3753:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/MediaNarodoweInfo/live:Media Narodowe  (YT)
+#DESCRIPTION Media Narodowe  (YT)
 #SERVICE 4097:0:1:f106:277:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCMA-v2JV_9ZYNoY4uY4mRWA/live:Radio WNET  (YT) (7%3a07-10%3a30)
 #DESCRIPTION Radio WNET  (YT) (7:07-10:30)
 #SERVICE 4097:0:1:c83b:cbcc:ec:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UC-wh71MEZ4KAx94aZyoG_qg/live:Wirtualna Polska News  (YT) (7%3a30-9%3a00)
