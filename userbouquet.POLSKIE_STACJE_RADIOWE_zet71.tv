@@ -265,6 +265,8 @@
 #DESCRIPTION RMF MAXX 2020
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2021:RMF MAXX 2021
 #DESCRIPTION RMF MAXX 2021
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_alex:Radio Alex
+#DESCRIPTION Radio Alex
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra:Radio Gra - Toruń
 #DESCRIPTION Radio Gra - Toruń
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra_wroc:Radio Gra - Wrocław
@@ -535,6 +537,8 @@
 #DESCRIPTION OPEN FM Love
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/366:OPEN FM Miejska Stacja
 #DESCRIPTION OPEN FM Miejska Stacja
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/44:OPEN FM Mundial - Katar 2022
+#DESCRIPTION OPEN FM Mundial - Katar 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/70:OPEN FM Muzyka do snu
 #DESCRIPTION OPEN FM Muzyka do snu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/38:OPEN FM Muzyka Filmowa
