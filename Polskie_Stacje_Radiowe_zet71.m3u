@@ -265,6 +265,8 @@ http://195.150.20.7/rmf_maxx_2019
 http://195.150.20.7/rmf_maxx_2020
 #EXTINF:0 radio=true,RMF MAXX 2021
 http://195.150.20.7/rmf_maxx_2021
+#EXTINF:0 radio=true,Radio Alex
+http://195.150.20.7/radio_alex
 #EXTINF:0 radio=true,Radio Gra - Toruń
 http://195.150.20.7/radio_gra
 #EXTINF:0 radio=true,Radio Gra - Wrocław
@@ -535,6 +537,8 @@ http://stream.open.fm/19
 http://stream.open.fm/121
 #EXTINF:0 radio=true,OPEN FM Miejska Stacja
 http://stream.open.fm/366
+#EXTINF:0 radio=true,OPEN FM Mundial - Katar 2022
+http://stream.open.fm/44
 #EXTINF:0 radio=true,OPEN FM Muzyka do snu
 http://stream.open.fm/70
 #EXTINF:0 radio=true,OPEN FM Muzyka Filmowa
