@@ -1,6 +1,10 @@
 #NAME IPTV PL REGIONALNE + YT + RADIO  (azman)
 #SERVICE 1:64:4:0:0:0:0:0:0:0::--- Telewizja Online ---
 #DESCRIPTION --- Telewizja Online ---
+#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp1hd/Ryne8xhYKhfTAQAA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 1 HD
+#DESCRIPTION TVP 1 HD
+#SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp2hd/6KT2fDpYKhe5AQCA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 2 HD
+#DESCRIPTION TVP 2 HD
 #SERVICE 1:64:5:0:0:0:0:0:0:0::--- Regionalne + YT ---
 #DESCRIPTION --- Regionalne + YT ---
 #SERVICE 4097:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
