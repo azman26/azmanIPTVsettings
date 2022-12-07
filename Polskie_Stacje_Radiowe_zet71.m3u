@@ -131,7 +131,7 @@ http://195.150.20.7/rmf_poplista
 http://195.150.20.7/rmf_prl
 #EXTINF:0 radio=true,RMF Przebój Lata 2022
 http://195.150.20.7/rmf_top3
-#EXTINF:0 radio=true,RMF Przebój Roku 2021
+#EXTINF:0 radio=true,RMF Przebój Roku 2022
 http://195.150.20.7/rmf_przeboj_roku
 #EXTINF:0 radio=true,RMF Queen
 http://195.150.20.7/rmf_queen
@@ -155,7 +155,7 @@ http://195.150.20.7/rmf_studencka_impreza
 http://195.150.20.7/rmf_styl
 #EXTINF:0 radio=true,RMF Szanty
 http://195.150.20.7/rmf_szanty
-#EXTINF:0 radio=true,RMF Świąteczne Nowości 2021
+#EXTINF:0 radio=true,RMF Świąteczne Nowości 2022
 http://195.150.20.7/rmf_top5
 #EXTINF:0 radio=true,RMF Święta
 http://195.150.20.7/rmf_swieta
@@ -523,6 +523,8 @@ http://stream.open.fm/16
 http://stream.open.fm/8
 #EXTINF:0 radio=true,OPEN FM Kołysanki
 http://stream.open.fm/142
+#EXTINF:0 radio=true,OPEN FM Kolędy
+http://stream.open.fm/89
 #EXTINF:0 radio=true,OPEN FM Koncentracja
 http://stream.open.fm/161
 #EXTINF:0 radio=true,OPEN FM Kraina Łagodności
@@ -545,6 +547,16 @@ http://stream.open.fm/70
 http://stream.open.fm/38
 #EXTINF:0 radio=true,OPEN FM Muzyka Klasyczna
 http://stream.open.fm/67
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę
+http://stream.open.fm/87
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Jazz & Classic
+http://stream.open.fm/88
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Hity
+http://stream.open.fm/90
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę PL
+http://stream.open.fm/56
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Rock
+http://stream.open.fm/91
 #EXTINF:0 radio=true,OPEN FM Największe Przeboje XX w.
 http://stream.open.fm/163
 #EXTINF:0 radio=true,OPEN FM Nauka
@@ -879,7 +891,7 @@ http://ic2.smcdn.pl/6170-1.mp3
 http://ic2.smcdn.pl/6180-1.mp3
 #EXTINF:0 radio=true,VOX FM - Najlepszy Koncert Świata
 http://ic2.smcdn.pl/6080-1.mp3
-#EXTINF:0 radio=true,VOX FM - Roztańczony PGE Narodowy
+#EXTINF:0 radio=true,VOX FM - XMAS
 http://ic2.smcdn.pl/6020-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Polska
 http://ic2.smcdn.pl/4000-1.mp3
@@ -935,6 +947,8 @@ http://stream3.polskieradio.pl:8964
 http://stream3.polskieradio.pl:8960
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Dzieciom
 http://stream3.polskieradio.pl:8966
+#EXTINF:0 radio=true,Moje Polskie Radio - Radio Gwiazdka
+http://stream3.polskieradio.pl:8538
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Kierowców
 http://stream3.polskieradio.pl:8968
 #EXTINF:0 radio=true,Moje Polskie Radio - Abba Non Stop
@@ -1037,7 +1051,7 @@ http://stream3.polskieradio.pl:8492
 http://stream3.polskieradio.pl:8400
 #EXTINF:0 radio=true,Moje Polskie Radio - Zapiski ze współczesności
 http://stream3.polskieradio.pl:8406
-#EXTINF:0 radio=true,Moje Polskie Radio - Radio Ukraina
+#EXTINF:0 radio=true,Moje Polskie Radio - PR Dla Ukrainy
 https://stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8
 #EXTINF:0 radio=true,Moje Polskie Radio - Serwis Ukraiński
 https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
@@ -1577,6 +1591,44 @@ http://radio.viennaplus.at:8000
 http://streaming03.technologicznie.net:8765/radio_warszawa.mp3
 #EXTINF:0 radio=true,Radio Zamość /katolickie/
 https://stream.rcs.revma.com/0n8y7mxcay8uv
+#EXTINF:0 radio=true,RMF Kolędy /świąteczne/
+http://195.150.20.7/rmf_koledy
+#EXTINF:0 radio=true,RMF Święta /świąteczne/
+http://195.150.20.7/rmf_swieta
+#EXTINF:0 radio=true,RMF Świąteczne Nowości 2022 /świąteczne/
+http://195.150.20.7/rmf_top5
+#EXTINF:0 radio=true,RMF Top 30 Święta /świąteczne/
+http://195.150.20.7/rmf_top_30_swieta
+#EXTINF:0 radio=true,RMF Classic /świąteczne/
+http://195.150.20.7/rmf_classic
+#EXTINF:0 radio=true,ZET Kolędy /świąteczne/
+http://zt.cdn.eurozet.pl/ZETKOL.mp3
+#EXTINF:0 radio=true,ZET Na Święta /świąteczne/
+http://zt.cdn.eurozet.pl/ZETSWI.mp3
+#EXTINF:0 radio=true,Chillizet Christmas /świąteczne/
+http://ch.cdn.eurozet.pl/CHISWI.mp3
+#EXTINF:0 radio=true,Meloradio Christmas /świąteczne/
+http://ml.cdn.eurozet.pl/MELCHR.mp3
+#EXTINF:0 radio=true,Moje Polskie Radio - Radio Gwiazdka /świąteczne/
+http://stream3.polskieradio.pl:8538
+#EXTINF:0 radio=true,VOX FM - X-MAS /świąteczne/
+http://ic2.smcdn.pl/6020-1.mp3
+#EXTINF:0 radio=true,OPEN FM Kolędy /świąteczne/
+http://stream.open.fm/89
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę /świąteczne/
+http://stream.open.fm/87
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
+http://stream.open.fm/88
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Hity /świąteczne/
+http://stream.open.fm/90
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę PL /świąteczne/
+http://stream.open.fm/56
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Rock /świąteczne/
+http://stream.open.fm/91
+#EXTINF:0 radio=true,Antyradio - X-mass /świąteczne/
+http://an.cdn.eurozet.pl/ANTXMA.mp3
+#EXTINF:0 radio=true,Radio Polski.FM Chicago - Święta z Polski.FM /świąteczne/
+http://198.27.127.246:5717
 #EXTINF:0 radio=true,Radio 1.7
 http://emisja.radio17.pl:8000/R17
 #EXTINF:0 radio=true,Radio 4Music
@@ -2073,8 +2125,14 @@ https://stream1.dabcom.pl/rdn_mpl
 https://stream1.dabcom.pl/rdn_ns
 #EXTINF:0 radio=true,Radio Red7
 http://s1.cmp3.eu:8010/stream
-#EXTINF:0 radio=true,Radio Rekord
-http://stream2.nadaje.com:8108
+#EXTINF:0 radio=true,Radio Rekord FM - Rodzime Radio
+https://stream3.nadaje.com:8007/radom2
+#EXTINF:0 radio=true,Radio Rekord FM - Kielce
+https://stream4.nadaje.com:9855/test
+#EXTINF:0 radio=true,Radio Rekord FM - Mazowsze
+https://stream3.nadaje.com:8087/ciechanow
+#EXTINF:0 radio=true,Radio Rekord FM - Świętokrzyskie
+https://stream4.nadaje.com:8309/ostrowiec
 #EXTINF:0 radio=true,Radio Relax
 https://s1.slotex.pl/shoutcast/7614/stream
 #EXTINF:0 radio=true,Radio Reset Obywatelski
