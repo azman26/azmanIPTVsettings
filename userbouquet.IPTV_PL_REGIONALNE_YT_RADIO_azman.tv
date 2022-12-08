@@ -27,7 +27,7 @@
 #DESCRIPTION TVT Rybnik
 #SERVICE 4097:0:1:65:1:48:0:0:0:0:https%3a//insysgo.live.e57-po.insyscd.net/echo24.720.smil/manifest.m3u8:Echo24
 #DESCRIPTION Echo24
-#SERVICE 4097:0:1:64:1:48:0:0:0:0:streamlink%3a//http%3a//tvtoya.pl/player/live:TOYA
+#SERVICE 5002:0:1:64:1:48:0:0:0:0:streamlink%3a//http%3a//tvtoya.pl/player/live:TOYA
 #DESCRIPTION TOYA
 #SERVICE 4097:0:1:59:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCYxbE-WoPqKq26sSeQ6eD1w/live:New TV  (YT)
 #DESCRIPTION New TV  (YT)
@@ -171,7 +171,7 @@
 #DESCRIPTION Czwórka - PR
 #SERVICE 4097:0:1:101:0:48:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24/pr24.sdp/chunklist_w544058526.m3u8:Polskie Radio 24
 #DESCRIPTION Polskie Radio 24
-#SERVICE 4097:0:2:0:154:0:0:0:0:0:https%3a//stream85.polskieradio.pl/omniaaxe/rdk.sdp/chunklist_w1800892788.m3u8:Polskie Radio Kierowców
+#SERVICE 4097:0:2:0:154:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968:Polskie Radio Kierowców
 #DESCRIPTION Polskie Radio Kierowców
 #SERVICE 4097:0:2:0:153:0:0:0:0:0:https%3a//stream85.polskieradio.pl/live/rytm.sdp/chunklist_w1163479695.m3u8:Polskie Radio Chopin
 #DESCRIPTION Polskie Radio Chopin
@@ -189,15 +189,15 @@
 #DESCRIPTION RMF FM
 #SERVICE 4097:0:2:1c9e:1ce8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxx
 #DESCRIPTION RMF Maxx
-#SERVICE 4097:0:2:0:158:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/2380-1.mp3:Radio ESKA
+#SERVICE 4097:0:2:0:158:0:0:0:0:0:http%3a//ic1.smcdn.pl/2380-1.mp3:Radio ESKA
 #DESCRIPTION Radio ESKA
-#SERVICE 4097:0:2:0:192:0:0:0:0:0:https%3a//ext03.ic.smcdn.pl/5380-1.mp3:Radio ESKA ROCK
+#SERVICE 4097:0:2:0:192:0:0:0:0:0:http%3a//ic1.smcdn.pl/5380-1.mp3:Radio ESKA ROCK
 #DESCRIPTION Radio ESKA ROCK
 #SERVICE 4097:0:2:1410:5dc:13e:820000:0:0:0:https%3a//zt.cdn.eurozet.pl/zet-net.mp3:Radio ZET
 #DESCRIPTION Radio ZET
 #SERVICE 4097:0:2:0:198:0:0:0:0:0:https%3a//stream2.nadaje.com%3a11141/rdc:Radio DLA CIEBIE
 #DESCRIPTION Radio DLA CIEBIE
-#SERVICE 4097:0:2:0:157:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/3990-1.mp3:VOX FM
+#SERVICE 4097:0:2:0:157:0:0:0:0:0:http%3a//ic1.smcdn.pl/3990-1.mp3:VOX FM
 #DESCRIPTION VOX FM
 #SERVICE 4097:0:2:142a:5dc:13e:820000:0:0:0:http%3a//stream.open.fm/200:TOK FM
 #DESCRIPTION TOK FM
@@ -209,7 +209,7 @@
 #DESCRIPTION Radio POGODA
 #SERVICE 4097:0:2:1C9A:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
 #DESCRIPTION RMF Classic
-#SERVICE 4097:0:2:0:159:0:0:0:0:0:http%3a//ext03.ic.smcdn.pl/1380-1.mp3:Radio SUPERNOVA
+#SERVICE 4097:0:2:0:159:0:0:0:0:0:http%3a//ic1.smcdn.pl/1380-1.mp3:Radio SUPERNOVA
 #DESCRIPTION Radio SUPERNOVA
 #SERVICE 4097:0:2:0:202:0:0:0:0:0:http%3a//stream.open.fm/357:Radio 357
 #DESCRIPTION Radio 357
