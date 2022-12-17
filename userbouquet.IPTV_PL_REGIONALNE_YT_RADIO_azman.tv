@@ -269,8 +269,6 @@
 #DESCRIPTION Radio SZCZECIN
 #SERVICE 4097:0:2:0:182:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8022:Radio ZW
 #DESCRIPTION Radio ZW
-#SERVICE 4097:0:2:1419:5DC:13E:820000:0:0:0:http%3a//online.radiojasnagora.pl%3a8000/rjg:Radio JASNA GÓRA
-#DESCRIPTION Radio JASNA GÓRA
 #SERVICE 4097:0:2:0:189:0:0:0:0:0:https%3a//n05a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABf192TAYAZaZvi_pL0_lB3w:Radio EXPRESS
 #DESCRIPTION Radio EXPRESS
 #SERVICE 4097:0:2:0:181:0:0:0:0:0:http%3a//audio.radiownet.pl%3a8000/stream:Radio WNET
