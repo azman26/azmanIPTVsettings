@@ -3,11 +3,13 @@
 #DESCRIPTION --- TVP GO ---
 #SERVICE 4097:0:1:8945:818A:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=62975271:TVP Nauka
 #DESCRIPTION TVP Nauka
+#SERVICE 4097:0:1:278A:E976:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=65184034:Alfa TVP
+#DESCRIPTION Alfa TVP
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51689486:TVP 1 HD
 #DESCRIPTION TVP 1 HD
-#SERVICE 4097:0:1:c2c:1e78:71:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696811:TVP 2 HD
+#SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696811:TVP 2 HD
 #DESCRIPTION TVP 2 HD
-#SERVICE 4097:0:1:3d5f:2c88:13e:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696812:TVP ABC
+#SERVICE 4097:0:1:3D5F:2C88:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696812:TVP ABC
 #DESCRIPTION TVP ABC
 #SERVICE 4097:0:1:28:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=47094324:TVP ABC 2
 #DESCRIPTION TVP ABC 2
@@ -19,7 +21,7 @@
 #DESCRIPTION TVP Kultura
 #SERVICE 4097:0:1:5:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=47094327:TVP Kultura 2
 #DESCRIPTION TVP Kultura 2
-#SERVICE 4097:0:1:3a9d:514:13e:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53795159:TVP Dokument HD
+#SERVICE 4097:0:1:3A9D:514:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53795159:TVP Dokument HD
 #DESCRIPTION TVP Dokument HD
 #SERVICE 4097:0:1:3D67:2C88:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696819:TVP Historia
 #DESCRIPTION TVP Historia
@@ -29,7 +31,7 @@
 #DESCRIPTION TVP Polonia
 #SERVICE 4097:0:1:3A9E:514:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696827:TVP Sport HD
 #DESCRIPTION TVP Sport HD
-#SERVICE 4097:0:1:1139:2af8:13e:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696820:TVP Info HD
+#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696820:TVP Info HD
 #DESCRIPTION TVP Info HD
 #SERVICE 4097:0:1:4:0:48:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51590674:TVP World
 #DESCRIPTION TVP World
@@ -101,7 +103,7 @@
 #DESCRIPTION TVP Parlament 2
 #SERVICE 1:64:A:0:0:0:0:0:0:0::--- HbbTV ---
 #DESCRIPTION --- HbbTV ---
-#SERVICE 4097:0:19:1139:2af8:13e:820000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo:TVP Info
+#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo:TVP Info
 #DESCRIPTION TVP Info
 #SERVICE 4097:0:1:7:0:48:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok:TVP 3 Białystok
 #DESCRIPTION TVP 3 Białystok
