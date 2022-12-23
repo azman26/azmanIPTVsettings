@@ -1,211 +1,211 @@
 #NAME STIRR
 #SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
 #DESCRIPTION NoGroup
-#SERVICE 5002:0:1:7bfc:c360:6038:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR | National
+#SERVICE 5002:0:1:7BFC:C360:6038:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR | National
 #DESCRIPTION STIRR | National
-#SERVICE 5002:0:1:61a7:3da6:a60b:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chicken Soup For The Soul
-#DESCRIPTION Chicken Soup For The Soul
-#SERVICE 5002:0:1:2e4:f97b:7bbe:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:COMET
-#DESCRIPTION COMET
-#SERVICE 5002:0:1:b9ff:90a5:a5bc:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TBD
-#DESCRIPTION TBD
-#SERVICE 5002:0:1:3c35:a1bd:bd8a:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Buzzr
-#DESCRIPTION Buzzr
-#SERVICE 5002:0:1:54b8:ea81:81ae:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CHARGE
+#SERVICE 5002:0:1:54B8:EA81:81AE:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CHARGE
 #DESCRIPTION CHARGE
-#SERVICE 5002:0:1:f0bb:fb4c:4c95:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/V6bPnsRPQ0K6cQr3zxjdbw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle
-#DESCRIPTION Circle
-#SERVICE 5002:0:1:80ed:5181:81f9:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey
+#SERVICE 5002:0:1:61A7:3DA6:A60B:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chicken Soup For The Soul
+#DESCRIPTION Chicken Soup For The Soul
+#SERVICE 5002:0:1:80ED:5181:81F9:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey
 #DESCRIPTION Nosey
-#SERVICE 5002:0:1:2ce7:a8b3:b356:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/VY5rb91ASh26jkj60tkeNQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Johnny Carson TV
-#DESCRIPTION Johnny Carson TV
-#SERVICE 5002:0:1:4f77:79c9:c9a0:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shout Factory
+#SERVICE 5002:0:1:3C35:A1BD:BD8A:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Buzzr
+#DESCRIPTION Buzzr
+#SERVICE 5002:0:1:B9FF:90A5:A5BC:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TBD
+#DESCRIPTION TBD
+#SERVICE 5002:0:1:F0BB:FB4C:4C95:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/V6bPnsRPQ0K6cQr3zxjdbw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle
+#DESCRIPTION Circle
+#SERVICE 5002:0:1:2E4:F97B:7BBE:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:COMET
+#DESCRIPTION COMET
+#SERVICE 5002:0:1:4F77:79C9:C9A0:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shout Factory
 #DESCRIPTION Shout Factory
-#SERVICE 5002:0:1:e9cf:c0d2:d2e9:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/P2UqOY0CSbCxXP5WHYeg4w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Carol Burnett Show
+#SERVICE 5002:0:1:2CE7:A8B3:B356:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/VY5rb91ASh26jkj60tkeNQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Johnny Carson TV
+#DESCRIPTION Johnny Carson TV
+#SERVICE 5002:0:1:E9CF:C0D2:D2E9:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/P2UqOY0CSbCxXP5WHYeg4w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Carol Burnett Show
 #DESCRIPTION The Carol Burnett Show
-#SERVICE 5002:0:1:26b4:4ecc:cc7c:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dick Cavett
-#DESCRIPTION Dick Cavett
-#SERVICE 5002:0:1:796e:fd01:12e:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Classic TV
+#SERVICE 5002:0:1:796E:FD01:12E:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Classic TV
 #DESCRIPTION STIRR Classic TV
-#SERVICE 5002:0:1:34c2:b683:83e0:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Classic TV
+#SERVICE 5002:0:1:26B4:4ECC:CC7C:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dick Cavett
+#DESCRIPTION Dick Cavett
+#SERVICE 5002:0:1:34C2:B683:83E0:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Classic TV
 #DESCRIPTION Filmrise Classic TV
-#SERVICE 5002:0:1:20d7:ba02:235:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:American Classics
+#SERVICE 5002:0:1:20D7:BA02:235:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:American Classics
 #DESCRIPTION American Classics
-#SERVICE 5002:0:1:becc:7c53:53e9:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Tim Conway Show
-#DESCRIPTION The Tim Conway Show
-#SERVICE 5002:0:1:7a88:ca0c:c72:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:It's Showtime at the Apollo
+#SERVICE 5002:0:1:7A88:CA0C:C72:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:It's Showtime at the Apollo
 #DESCRIPTION It's Showtime at the Apollo
-#SERVICE 5002:0:1:e198:5ad4:d417:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Horror Movies
-#DESCRIPTION STIRR Horror Movies
-#SERVICE 5002:0:1:e5c3:d384:845a:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Bob Ross Channel
-#DESCRIPTION The Bob Ross Channel
-#SERVICE 5002:0:1:856e:7845:45ab:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Dynamics
-#DESCRIPTION Comedy Dynamics
-#SERVICE 5002:0:1:a761:b37:371e:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas
-#DESCRIPTION Gravitas
-#SERVICE 5002:0:1:1d71:2223:23a1:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Free Movies
-#DESCRIPTION Filmrise Free Movies
-#SERVICE 5002:0:1:191f:8ec8:c84d:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CineLife
-#DESCRIPTION CineLife
-#SERVICE 5002:0:1:939e:1c3e:3eb7:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cineverse Selects
-#DESCRIPTION Cineverse Selects
-#SERVICE 5002:0:1:605b:ba0a:a75:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MagellanTV
-#DESCRIPTION MagellanTV
-#SERVICE 5002:0:1:fbbb:edfd:fd60:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR | Movies
+#SERVICE 5002:0:1:BECC:7C53:53E9:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Tim Conway Show
+#DESCRIPTION The Tim Conway Show
+#SERVICE 5002:0:1:FBBB:EDFD:FD60:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR | Movies
 #DESCRIPTION STIRR | Movies
-#SERVICE 5002:0:1:9319:bb48:4878:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Film Detective
-#DESCRIPTION Film Detective
-#SERVICE 5002:0:1:9301:f973:7364:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:USA Today
-#DESCRIPTION USA Today
-#SERVICE 5002:0:1:9737:7919:19cc:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Archive
-#DESCRIPTION The Archive
-#SERVICE 5002:0:1:dfe7:a10f:f89:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Docurama
+#SERVICE 5002:0:1:856E:7845:45AB:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Dynamics
+#DESCRIPTION Comedy Dynamics
+#SERVICE 5002:0:1:E198:5AD4:D417:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Horror Movies
+#DESCRIPTION STIRR Horror Movies
+#SERVICE 5002:0:1:A761:B37:371E:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas
+#DESCRIPTION Gravitas
+#SERVICE 5002:0:1:1D71:2223:23A1:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Free Movies
+#DESCRIPTION Filmrise Free Movies
+#SERVICE 5002:0:1:191F:8EC8:C84D:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CineLife
+#DESCRIPTION CineLife
+#SERVICE 5002:0:1:E5C3:D384:845A:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Bob Ross Channel
+#DESCRIPTION The Bob Ross Channel
+#SERVICE 5002:0:1:939E:1C3E:3EB7:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cineverse Selects
+#DESCRIPTION Cineverse Selects
+#SERVICE 5002:0:1:DFE7:A10F:F89:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Docurama
 #DESCRIPTION Docurama
-#SERVICE 5002:0:1:fc12:f42d:2d0f:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Swerve Sports
+#SERVICE 5002:0:1:FC12:F42D:2D0F:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Swerve Sports
 #DESCRIPTION Swerve Sports
-#SERVICE 5002:0:1:c2a9:401a:1a34:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/XZAqu9DcTciaDqXU1TzBPg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FOX Soul
-#DESCRIPTION FOX Soul
-#SERVICE 5002:0:1:59b7:4752:52a7:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The First
-#DESCRIPTION The First
-#SERVICE 5002:0:1:10ad:a975:756e:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV
-#DESCRIPTION Bloomberg TV
-#SERVICE 5002:0:1:6791:8623:236f:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:News 12 New York
-#DESCRIPTION News 12 New York
-#SERVICE 5002:0:1:8df7:5000:96:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cheddar
-#DESCRIPTION Cheddar
-#SERVICE 5002:0:1:b92d:d712:1240:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Quicktake
+#SERVICE 5002:0:1:605B:BA0A:A75:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MagellanTV
+#DESCRIPTION MagellanTV
+#SERVICE 5002:0:1:9319:BB48:4878:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Film Detective
+#DESCRIPTION Film Detective
+#SERVICE 5002:0:1:9301:F973:7364:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:USA Today
+#DESCRIPTION USA Today
+#SERVICE 5002:0:1:B92D:D712:1240:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Quicktake
 #DESCRIPTION Quicktake
-#SERVICE 5002:0:1:74ec:42d2:d2eb:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Law & Crime
+#SERVICE 5002:0:1:59B7:4752:52A7:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The First
+#DESCRIPTION The First
+#SERVICE 5002:0:1:10AD:A975:756E:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV
+#DESCRIPTION Bloomberg TV
+#SERVICE 5002:0:1:C2A9:401A:1A34:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/XZAqu9DcTciaDqXU1TzBPg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FOX Soul
+#DESCRIPTION FOX Soul
+#SERVICE 5002:0:1:9737:7919:19CC:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Archive
+#DESCRIPTION The Archive
+#SERVICE 5002:0:1:6791:8623:236F:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:News 12 New York
+#DESCRIPTION News 12 New York
+#SERVICE 5002:0:1:74EC:42D2:D2EB:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Law & Crime
 #DESCRIPTION Law & Crime
-#SERVICE 5002:0:1:a4d2:f163:6363:1010101:0:0:0:https%3a//usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NASATV
+#SERVICE 5002:0:1:A4D2:F163:6363:1010101:0:0:0:https%3a//usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NASATV
 #DESCRIPTION NASATV
-#SERVICE 5002:0:1:1e1c:3df4:f4d6:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Reality TV
-#DESCRIPTION STIRR Reality TV
-#SERVICE 5002:0:1:749c:5a7b:7b06:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People Are Awesome
-#DESCRIPTION People Are Awesome
-#SERVICE 5002:0:1:4e8a:da1e:1e82:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective
-#DESCRIPTION The Pet Collective
-#SERVICE 5002:0:1:7203:e92:92d6:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AFV
-#DESCRIPTION AFV
-#SERVICE 5002:0:1:6013:311d:1d5e:1010101:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/c16448cc-ef21-44a5-a5b4-192f943b2dbb.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horse Shopping Channel
-#DESCRIPTION Horse Shopping Channel
-#SERVICE 5002:0:1:bed0:40a2:a20f:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:So...Real
-#DESCRIPTION So...Real
-#SERVICE 5002:0:1:ef20:11fa:fa78:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/HD_ys6igSayIiNXKl9nTrQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AccuWeather
+#SERVICE 5002:0:1:EF20:11FA:FA78:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/HD_ys6igSayIiNXKl9nTrQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AccuWeather
 #DESCRIPTION AccuWeather
-#SERVICE 5002:0:1:7ebb:1d54:545f:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FailArmy
-#DESCRIPTION FailArmy
-#SERVICE 5002:0:1:ed27:a30c:cdc:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America vs. Addiction
+#SERVICE 5002:0:1:1E1C:3DF4:F4D6:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Reality TV
+#DESCRIPTION STIRR Reality TV
+#SERVICE 5002:0:1:BED0:40A2:A20F:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:So...Real
+#DESCRIPTION So...Real
+#SERVICE 5002:0:1:6013:311D:1D5E:1010101:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/c16448cc-ef21-44a5-a5b4-192f943b2dbb.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horse Shopping Channel
+#DESCRIPTION Horse Shopping Channel
+#SERVICE 5002:0:1:8DF7:5000:96:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cheddar
+#DESCRIPTION Cheddar
+#SERVICE 5002:0:1:4E8A:DA1E:1E82:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective
+#DESCRIPTION The Pet Collective
+#SERVICE 5002:0:1:7203:E92:92D6:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AFV
+#DESCRIPTION AFV
+#SERVICE 5002:0:1:749C:5A7B:7B06:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People Are Awesome
+#DESCRIPTION People Are Awesome
+#SERVICE 5002:0:1:ED27:A30C:CDC:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America vs. Addiction
 #DESCRIPTION America vs. Addiction
-#SERVICE 5002:0:1:6649:a651:5190:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR P.D.
+#SERVICE 5002:0:1:7EBB:1D54:545F:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FailArmy
+#DESCRIPTION FailArmy
+#SERVICE 5002:0:1:6649:A651:5190:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR P.D.
 #DESCRIPTION STIRR P.D.
-#SERVICE 5002:0:1:6568:4d81:81b1:1010101:0:0:0:https%3a//api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=stirr_testing#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Electric Now
-#DESCRIPTION Electric Now
-#SERVICE 5002:0:1:4b81:25b6:b6da:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deal or No Deal
-#DESCRIPTION Deal or No Deal
-#SERVICE 5002:0:1:fa9d:fd02:228:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra
-#DESCRIPTION Wipeout Xtra
-#SERVICE 5002:0:1:4b45:d2d2:d2a2:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy
+#SERVICE 5002:0:1:4B45:D2D2:D2A2:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy
 #DESCRIPTION WeatherSpy
-#SERVICE 5002:0:1:fb4:5606:691:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/j-4cJYXFSmiThnHiebOycQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ALF BINGE
+#SERVICE 5002:0:1:6568:4D81:81B1:1010101:0:0:0:https%3a//api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=stirr_testing#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Electric Now
+#DESCRIPTION Electric Now
+#SERVICE 5002:0:1:4B81:25B6:B6DA:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deal or No Deal
+#DESCRIPTION Deal or No Deal
+#SERVICE 5002:0:1:FB4:5606:691:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/j-4cJYXFSmiThnHiebOycQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ALF BINGE
 #DESCRIPTION ALF BINGE
-#SERVICE 5002:0:1:da:cf80:8080:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/TDMDqMIpS82NHoFpGVYB9Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Spring Break
-#DESCRIPTION STIRR Spring Break
-#SERVICE 5002:0:1:64eb:ae6b:6be6:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Space 1999
-#DESCRIPTION Space 1999
-#SERVICE 5002:0:1:20d0:83cc:cc3d:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CONtv
-#DESCRIPTION CONtv
-#SERVICE 5002:0:1:29b4:8de8:e8c1:1010101:0:0:0:https%3a//dust-stirr.amagi.tv/index.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DUST
+#SERVICE 5002:0:1:29B4:8DE8:E8C1:1010101:0:0:0:https%3a//dust-stirr.amagi.tv/index.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DUST
 #DESCRIPTION DUST
-#SERVICE 5002:0:1:e9f1:28ab:ab93:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/m8v8NmeOSAGo1rZqjCpdtA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alter
+#SERVICE 5002:0:1:E9F1:28AB:AB93:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/m8v8NmeOSAGo1rZqjCpdtA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alter
 #DESCRIPTION Alter
-#SERVICE 5002:0:1:6c0a:58fc:fc4a:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mystery Science Theater 3000
+#SERVICE 5002:0:1:FA9D:FD02:228:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra
+#DESCRIPTION Wipeout Xtra
+#SERVICE 5002:0:1:6C0A:58FC:FC4A:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mystery Science Theater 3000
 #DESCRIPTION Mystery Science Theater 3000
-#SERVICE 5002:0:1:4509:516c:6c39:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midnight Pulp
+#SERVICE 5002:0:1:64EB:AE6B:6BE6:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Space 1999
+#DESCRIPTION Space 1999
+#SERVICE 5002:0:1:4509:516C:6C39:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midnight Pulp
 #DESCRIPTION Midnight Pulp
-#SERVICE 5002:0:1:2fd7:fea8:a826:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RetroCrush
+#SERVICE 5002:0:1:DA:CF80:8080:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/TDMDqMIpS82NHoFpGVYB9Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Spring Break
+#DESCRIPTION STIRR Spring Break
+#SERVICE 5002:0:1:20D0:83CC:CC3D:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CONtv
+#DESCRIPTION CONtv
+#SERVICE 5002:0:1:2FD7:FEA8:A826:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RetroCrush
 #DESCRIPTION RetroCrush
-#SERVICE 5002:0:1:2409:1a9b:9ba8:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People TV
-#DESCRIPTION People TV
-#SERVICE 5002:0:1:9b05:de0f:f9d:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dove
-#DESCRIPTION Dove
-#SERVICE 5002:0:1:30a7:4df4:f4c5:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EVRGRN
-#DESCRIPTION EVRGRN
-#SERVICE 5002:0:1:4f3b:5375:754b:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Country Network
-#DESCRIPTION The Country Network
-#SERVICE 5002:0:1:95cb:38dc:dccd:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Westerns
-#DESCRIPTION STIRR Westerns
-#SERVICE 5002:0:1:2d5b:2260:6086:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Popstar! TV
-#DESCRIPTION Popstar! TV
-#SERVICE 5002:0:1:bf4d:dd0d:dd2:1010101:0:0:0:https%3a//linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revry
+#SERVICE 5002:0:1:BF4D:DD0D:DD2:1010101:0:0:0:https%3a//linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revry
 #DESCRIPTION Revry
-#SERVICE 5002:0:1:c279:6ac5:c59b:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:QVC
-#DESCRIPTION QVC
-#SERVICE 5002:0:1:4e21:20cb:cb7d:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ambiance
+#SERVICE 5002:0:1:9B05:DE0F:F9D:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dove
+#DESCRIPTION Dove
+#SERVICE 5002:0:1:4F3B:5375:754B:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Country Network
+#DESCRIPTION The Country Network
+#SERVICE 5002:0:1:30A7:4DF4:F4C5:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EVRGRN
+#DESCRIPTION EVRGRN
+#SERVICE 5002:0:1:2409:1A9B:9BA8:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People TV
+#DESCRIPTION People TV
+#SERVICE 5002:0:1:2D5B:2260:6086:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Popstar! TV
+#DESCRIPTION Popstar! TV
+#SERVICE 5002:0:1:4E21:20CB:CB7D:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ambiance
 #DESCRIPTION Ambiance
-#SERVICE 5002:0:1:2d16:ea2:a222:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Glewed TV
-#DESCRIPTION Glewed TV
-#SERVICE 5002:0:1:8370:8be2:e21e:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ONTV4U
-#DESCRIPTION ONTV4U
-#SERVICE 5002:0:1:e862:ab4:b411:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HSN
+#SERVICE 5002:0:1:95CB:38DC:DCCD:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:STIRR Westerns
+#DESCRIPTION STIRR Westerns
+#SERVICE 5002:0:1:E862:AB4:B411:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HSN
 #DESCRIPTION HSN
-#SERVICE 5002:0:1:d5c8:8fcc:cc6a:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stadium
-#DESCRIPTION Stadium
-#SERVICE 5002:0:1:c65b:7cf7:f7a6:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shop LC
-#DESCRIPTION Shop LC
-#SERVICE 5002:0:1:6ae1:ab1f:1ff3:1010101:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The T
-#DESCRIPTION The T
-#SERVICE 5002:0:1:f6c8:bdfd:fda2:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ACCDN
-#DESCRIPTION ACCDN
-#SERVICE 5002:0:1:c3ba:909:94d:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:beIN Sports Xtra
-#DESCRIPTION beIN Sports Xtra
-#SERVICE 5002:0:1:afaa:15b4:b4e7:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SOAR
+#SERVICE 5002:0:1:8370:8BE2:E21E:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ONTV4U
+#DESCRIPTION ONTV4U
+#SERVICE 5002:0:1:AFAA:15B4:B4E7:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SOAR
 #DESCRIPTION SOAR
-#SERVICE 5002:0:1:90c:7c21:2169:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sportswire
+#SERVICE 5002:0:1:C65B:7CF7:F7A6:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shop LC
+#DESCRIPTION Shop LC
+#SERVICE 5002:0:1:2D16:EA2:A222:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Glewed TV
+#DESCRIPTION Glewed TV
+#SERVICE 5002:0:1:C279:6AC5:C59B:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:QVC
+#DESCRIPTION QVC
+#SERVICE 5002:0:1:D5C8:8FCC:CC6A:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stadium
+#DESCRIPTION Stadium
+#SERVICE 5002:0:1:F6C8:BDFD:FDA2:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ACCDN
+#DESCRIPTION ACCDN
+#SERVICE 5002:0:1:C3BA:909:94D:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:beIN Sports Xtra
+#DESCRIPTION beIN Sports Xtra
+#SERVICE 5002:0:1:90C:7C21:2169:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sportswire
 #DESCRIPTION Sportswire
-#SERVICE 5002:0:1:5215:3efd:fd50:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SportsGrid
+#SERVICE 5002:0:1:6AE1:AB1F:1FF3:1010101:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The T
+#DESCRIPTION The T
+#SERVICE 5002:0:1:5215:3EFD:FD50:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SportsGrid
 #DESCRIPTION SportsGrid
-#SERVICE 5002:0:1:f866:72e7:e75d:1010101:0:0:0:https%3a//0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
-#DESCRIPTION World Poker Tour
-#SERVICE 5002:0:1:9665:181e:1eab:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MavTv
-#DESCRIPTION MavTv
-#SERVICE 5002:0:1:dc23:cd95:95ed:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/KQw4tzC3Sf6n9rV_MuJbjg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Racing America
+#SERVICE 5002:0:1:DC23:CD95:95ED:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/KQw4tzC3Sf6n9rV_MuJbjg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Racing America
 #DESCRIPTION Racing America
-#SERVICE 5002:0:1:1348:625e:5ed3:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waypoint
-#DESCRIPTION Waypoint
-#SERVICE 5002:0:1:43b5:ec29:29c9:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor America
+#SERVICE 5002:0:1:9665:181E:1EAB:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MavTv
+#DESCRIPTION MavTv
+#SERVICE 5002:0:1:229B:9D1B:1B82:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PursuitUp
+#DESCRIPTION PursuitUp
+#SERVICE 5002:0:1:43B5:EC29:29C9:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor America
 #DESCRIPTION Outdoor America
-#SERVICE 5002:0:1:f9bf:37bb:bb37:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/QjDVfzVNRba77CS-LcVTmg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten
+#SERVICE 5002:0:1:1348:625E:5ED3:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waypoint
+#DESCRIPTION Waypoint
+#SERVICE 5002:0:1:F9BF:37BB:BB37:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/QjDVfzVNRba77CS-LcVTmg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten
 #DESCRIPTION Unbeaten
-#SERVICE 5002:0:1:a226:80b4:b4cd:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Greatest Hits
+#SERVICE 5002:0:1:F866:72E7:E75D:1010101:0:0:0:https%3a//0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 5002:0:1:A226:80B4:B4CD:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Greatest Hits
 #DESCRIPTION Stingray Greatest Hits
-#SERVICE 5002:0:1:4c9:e2e1:e107:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Rock Alternative
+#SERVICE 5002:0:1:5809:C15A:5A51:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Classic Rock
+#DESCRIPTION Stingray Classic Rock
+#SERVICE 5002:0:1:31D9:E573:738C:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hit List
+#DESCRIPTION Stingray Hit List
+#SERVICE 5002:0:1:12A5:DE54:54F4:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Urban Beats
+#DESCRIPTION Stingray Urban Beats
+#SERVICE 5002:0:1:4C9:E2E1:E107:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Rock Alternative
 #DESCRIPTION Stingray Rock Alternative
 #SERVICE 5002:0:1:6375:8105:595:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Pop Adult
 #DESCRIPTION Stingray Pop Adult
-#SERVICE 5002:0:1:5809:c15a:5a51:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Classic Rock
-#DESCRIPTION Stingray Classic Rock
-#SERVICE 5002:0:1:12a5:de54:54f4:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Urban Beats
-#DESCRIPTION Stingray Urban Beats
-#SERVICE 5002:0:1:e07a:904a:4a09:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hot Country
+#SERVICE 5002:0:1:E07A:904A:4A09:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hot Country
 #DESCRIPTION Stingray Hot Country
-#SERVICE 5002:0:1:e73f:6273:7318:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Everything 80s
-#DESCRIPTION Stingray Everything 80s
-#SERVICE 5002:0:1:31d9:e573:738c:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hit List
-#DESCRIPTION Stingray Hit List
-#SERVICE 5002:0:1:808:d8d1:d176:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Today's Latin Pop
-#DESCRIPTION Stingray Today's Latin Pop
-#SERVICE 5002:0:1:e593:a9af:aff0:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Flashback 70s
+#SERVICE 5002:0:1:E593:A9AF:AFF0:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Flashback 70s
 #DESCRIPTION Stingray Flashback 70s
-#SERVICE 5002:0:1:f49:ace5:e5a8:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Karaoke
+#SERVICE 5002:0:1:E73F:6273:7318:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Everything 80s
+#DESCRIPTION Stingray Everything 80s
+#SERVICE 5002:0:1:F49:ACE5:E5A8:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Karaoke
 #DESCRIPTION Karaoke
-#SERVICE 5002:0:1:229b:9d1b:1b82:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PursuitUp
-#DESCRIPTION PursuitUp
-#SERVICE 5002:0:1:25e:cad2:d22a:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LiveXLive
+#SERVICE 5002:0:1:808:D8D1:D176:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Today's Latin Pop
+#DESCRIPTION Stingray Today's Latin Pop
+#SERVICE 5002:0:1:25E:CAD2:D22A:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LiveXLive
 #DESCRIPTION LiveXLive
-#SERVICE 5002:0:1:bfa6:6bb6:b687:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Classica
+#SERVICE 5002:0:1:BFA6:6BB6:B687:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Classica
 #DESCRIPTION Classica
-#SERVICE 5002:0:1:4f9b:82cb:cb1a:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qello
+#SERVICE 5002:0:1:4F9B:82CB:CB1A:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qello
 #DESCRIPTION Qello
-#SERVICE 5002:0:1:7697:9dfe:fe84:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DJAZZ
+#SERVICE 5002:0:1:7697:9DFE:FE84:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DJAZZ
 #DESCRIPTION DJAZZ
