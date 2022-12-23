@@ -475,7 +475,7 @@ http://stream.open.fm/69
 http://stream.open.fm/361
 #EXTINF:0 radio=true,OPEN FM Fitness
 http://stream.open.fm/65
-#EXTINF:0 radio=true,OPEN FM Freszzz: Jesień 2022
+#EXTINF:0 radio=true,OPEN FM Freszzz: Zima 2022
 http://stream.open.fm/39
 #EXTINF:0 radio=true,OPEN FM Giganci Rocka
 http://stream.open.fm/118
@@ -685,8 +685,6 @@ http://stream.open.fm/336
 http://stream.open.fm/339
 #EXTINF:0 radio=true,Radio Fest
 http://stream.open.fm/335
-#EXTINF:0 radio=true,Radio Halo.Radio
-http://stream.open.fm/372
 #EXTINF:0 radio=true,Radio Kampus
 http://stream.open.fm/337
 #EXTINF:0 radio=true,Radio Kolor
@@ -1195,7 +1193,7 @@ http://91.232.4.33:8049/stream
 http://91.232.4.33:8108/stream
 #EXTINF:0 radio=true,Radio Pasja - Dance
 http://91.232.4.33:9466/stream
-#EXTINF:0 radio=true,Radio Pasja - Klubowa
+#EXTINF:0 radio=true,Radio Pasja - Muzyka Świąteczna
 http://91.232.4.33:9460/stream
 #EXTINF:0 radio=true,Radio Pasja - Pop
 http://91.232.4.33:8084/stream
@@ -1613,6 +1611,8 @@ http://ml.cdn.eurozet.pl/MELCHR.mp3
 http://stream3.polskieradio.pl:8538
 #EXTINF:0 radio=true,VOX FM - X-MAS /świąteczne/
 http://ic2.smcdn.pl/6020-1.mp3
+#EXTINF:0 radio=true,Radio Pasja - Muzyka Świąteczna /świąteczne/
+http://91.232.4.33:9460/stream
 #EXTINF:0 radio=true,OPEN FM Kolędy /świąteczne/
 http://stream.open.fm/89
 #EXTINF:0 radio=true,OPEN FM Na Gwiazdkę /świąteczne/
@@ -1769,6 +1769,8 @@ https://s1.slotex.pl/shoutcast/7432/stream
 https://s3.slotex.pl/shoutcast/7046/stream
 #EXTINF:0 radio=true,Radio Disco Planeta
 http://s1.slotex.pl:7384
+#EXTINF:0 radio=true,Radio Disco Polo Non Stop
+https://s3.slotex.pl:7496
 #EXTINF:0 radio=true,Radio Dobra Nuta
 https://s3.slotex.pl/shoutcast/7250/stream
 #EXTINF:0 radio=true,Radio Dobre.Radio
@@ -1909,6 +1911,8 @@ http://stream3.nadaje.com:8048
 http://sc1.readycast.org:8516
 #EXTINF:0 radio=true,Radio Kechnowogard
 http://s3.slotex.pl:7016
+#EXTINF:0 radio=true,Radio Kiss FM
+http://88.198.33.133:18318
 #EXTINF:0 radio=true,Radio Kolor
 http://stream.radiojar.com/xt0cf1v8938uv
 #EXTINF:0 radio=true,Radio Kołobrzeg
