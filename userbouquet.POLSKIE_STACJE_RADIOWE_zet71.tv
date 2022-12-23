@@ -475,8 +475,8 @@
 #DESCRIPTION OPEN FM EDM Anthems
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness
 #DESCRIPTION OPEN FM Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Jesień 2022
-#DESCRIPTION OPEN FM Freszzz: Jesień 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Zima 2022
+#DESCRIPTION OPEN FM Freszzz: Zima 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118:OPEN FM Giganci Rocka
 #DESCRIPTION OPEN FM Giganci Rocka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/364:OPEN FM Girl Power!
@@ -685,8 +685,6 @@
 #DESCRIPTION Radio Centrum
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/335:Radio Fest
 #DESCRIPTION Radio Fest
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/372:Radio Halo.Radio
-#DESCRIPTION Radio Halo.Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/337:Radio Kampus
 #DESCRIPTION Radio Kampus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/331:Radio Kolor
@@ -1195,8 +1193,8 @@
 #DESCRIPTION Radio Pasja - Chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9466/stream:Radio Pasja - Dance
 #DESCRIPTION Radio Pasja - Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9460/stream:Radio Pasja - Klubowa
-#DESCRIPTION Radio Pasja - Klubowa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9460/stream:Radio Pasja - Muzyka Świąteczna
+#DESCRIPTION Radio Pasja - Muzyka Świąteczna
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a8084/stream:Radio Pasja - Pop
 #DESCRIPTION Radio Pasja - Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a8102/stream:Radio Pasja - Relaks
@@ -1613,6 +1611,8 @@
 #DESCRIPTION Moje Polskie Radio - Radio Gwiazdka /świąteczne/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6020-1.mp3:VOX FM - X-MAS /świąteczne/
 #DESCRIPTION VOX FM - X-MAS /świąteczne/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9460/stream:Radio Pasja - Muzyka Świąteczna /świąteczne/
+#DESCRIPTION Radio Pasja - Muzyka Świąteczna /świąteczne/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/89:OPEN FM Kolędy /świąteczne/
 #DESCRIPTION OPEN FM Kolędy /świąteczne/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/87:OPEN FM Na Gwiazdkę /świąteczne/
@@ -1769,6 +1769,8 @@
 #DESCRIPTION Radio DiscoParty.pl - Disco z polotem
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7384:Radio Disco Planeta
 #DESCRIPTION Radio Disco Planeta
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7496:Radio Disco Polo Non Stop
+#DESCRIPTION Radio Disco Polo Non Stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7250/stream:Radio Dobra Nuta
 #DESCRIPTION Radio Dobra Nuta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dobre.out.airtime.pro/dobre_a:Radio Dobre.Radio
@@ -1909,6 +1911,8 @@
 #DESCRIPTION Radio Kącik Rodzinny
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7016:Radio Kechnowogard
 #DESCRIPTION Radio Kechnowogard
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//88.198.33.133%3a18318:Radio Kiss FM
+#DESCRIPTION Radio Kiss FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/xt0cf1v8938uv:Radio Kolor
 #DESCRIPTION Radio Kolor
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//194.24.244.11%3a8000:Radio Kołobrzeg
