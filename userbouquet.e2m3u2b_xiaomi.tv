@@ -1,343 +1,343 @@
 #NAME Xiaomi
 #SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
 #DESCRIPTION NoGroup
-#SERVICE 5002:0:1:b5a3:e6bd:bd31:1010101:0:0:0:https%3a//newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS (EU)
+#SERVICE 5002:0:1:B5A3:E6BD:BD31:1010101:0:0:0:https%3a//newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS (EU)
 #DESCRIPTION SBS (EU)
-#SERVICE 5002:0:1:4392:58a:8a29:1010101:0:0:0:https%3a//globi-globi-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Globi (EU)
+#SERVICE 5002:0:1:4392:58A:8A29:1010101:0:0:0:https%3a//globi-globi-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Globi (EU)
 #DESCRIPTION Globi (EU)
-#SERVICE 5002:0:1:77c:100d:df9:1010101:0:0:0:https%3a//newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YG TV (EU)
+#SERVICE 5002:0:1:77C:100D:DF9:1010101:0:0:0:https%3a//newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YG TV (EU)
 #DESCRIPTION YG TV (EU)
-#SERVICE 5002:0:1:927a:a0b8:b89d:1010101:0:0:0:https%3a//newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NEW KPOP (EU)
+#SERVICE 5002:0:1:927A:A0B8:B89D:1010101:0:0:0:https%3a//newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NEW KPOP (EU)
 #DESCRIPTION NEW KPOP (EU)
-#SERVICE 5002:0:1:4c43:e255:5584:1010101:0:0:0:https%3a//newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (EU)
+#SERVICE 5002:0:1:4C43:E255:5584:1010101:0:0:0:https%3a//newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (EU)
 #DESCRIPTION Billiards TV (EU)
-#SERVICE 5002:0:1:d7b0:79da:da06:1010101:0:0:0:https%3a//newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (EU)
+#SERVICE 5002:0:1:D7B0:79DA:DA06:1010101:0:0:0:https%3a//newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (EU)
 #DESCRIPTION Rakuten Viki (EU)
-#SERVICE 5002:0:1:99a6:6f68:6855:1010101:0:0:0:https%3a//reuters-reutersnow-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reuters Now (EU)
+#SERVICE 5002:0:1:99A6:6F68:6855:1010101:0:0:0:https%3a//reuters-reutersnow-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reuters Now (EU)
 #DESCRIPTION Reuters Now (EU)
-#SERVICE 5002:0:1:59ee:83fc:fc51:1010101:0:0:0:https%3a//bloomberg-bloombergtv-3-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV (EU)
+#SERVICE 5002:0:1:59EE:83FC:FC51:1010101:0:0:0:https%3a//bloomberg-bloombergtv-3-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV (EU)
 #DESCRIPTION Bloomberg TV (EU)
-#SERVICE 5002:0:1:70dd:a116:168a:1010101:0:0:0:https%3a//bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boomberg Quicktake (EU)
+#SERVICE 5002:0:1:70DD:A116:168A:1010101:0:0:0:https%3a//bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boomberg Quicktake (EU)
 #DESCRIPTION Boomberg Quicktake (EU)
-#SERVICE 5002:0:1:99a6:6f68:6855:1010101:0:0:0:https%3a//reuters-reutersnow-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reuters Now (EU)
+#SERVICE 5002:0:1:99A6:6F68:6855:1010101:0:0:0:https%3a//reuters-reutersnow-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reuters Now (EU)
 #DESCRIPTION Reuters Now (EU)
-#SERVICE 5002:0:1:28be:3aa8:a8e4:1010101:0:0:0:https%3a//euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Africa News (EU)
+#SERVICE 5002:0:1:28BE:3AA8:A8E4:1010101:0:0:0:https%3a//euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Africa News (EU)
 #DESCRIPTION Africa News (EU)
-#SERVICE 5002:0:1:c326:98a2:a225:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachanne-demandafrica-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Demand Africa
+#SERVICE 5002:0:1:C326:98A2:A225:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachanne-demandafrica-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Demand Africa
 #DESCRIPTION Demand Africa
-#SERVICE 5002:0:1:c4c9:4530:3091:1010101:0:0:0:https%3a//rakuten-guardian-1-gb.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Guardian (GB)
+#SERVICE 5002:0:1:C4C9:4530:3091:1010101:0:0:0:https%3a//rakuten-guardian-1-gb.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Guardian (GB)
 #DESCRIPTION Rakuten Guardian (GB)
-#SERVICE 5002:0:1:84:2471:71c0:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (UK)
+#SERVICE 5002:0:1:84:2471:71C0:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (UK)
 #DESCRIPTION Euronews (UK)
-#SERVICE 5002:0:1:c5a5:44ca:cab2:1010101:0:0:0:https%3a//euronews-euronews-world-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews World (EU)
+#SERVICE 5002:0:1:C5A5:44CA:CAB2:1010101:0:0:0:https%3a//euronews-euronews-world-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews World (EU)
 #DESCRIPTION Euronews World (EU)
-#SERVICE 5002:0:1:3c86:f201:16c:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewses-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (ES)
+#SERVICE 5002:0:1:3C86:F201:16C:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewses-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (ES)
 #DESCRIPTION Euronews (ES)
-#SERVICE 5002:0:1:5929:df0b:bd2:1010101:0:0:0:https%3a//euronews-euronews-spanish-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Spanish
+#SERVICE 5002:0:1:5929:DF0B:BD2:1010101:0:0:0:https%3a//euronews-euronews-spanish-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Spanish
 #DESCRIPTION Euronews Spanish
-#SERVICE 5002:0:1:1f0:83aa:aa19:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (FR)
+#SERVICE 5002:0:1:1F0:83AA:AA19:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (FR)
 #DESCRIPTION Euronews (FR)
-#SERVICE 5002:0:1:ebcd:ef6f:6fb7:1010101:0:0:0:https%3a//euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews French
+#SERVICE 5002:0:1:EBCD:EF6F:6FB7:1010101:0:0:0:https%3a//euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews French
 #DESCRIPTION Euronews French
-#SERVICE 5002:0:1:6c2b:9874:74bd:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsde-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (DE)
+#SERVICE 5002:0:1:6C2B:9874:74BD:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsde-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (DE)
 #DESCRIPTION Euronews (DE)
-#SERVICE 5002:0:1:bd5f:1815:1589:1010101:0:0:0:https%3a//euronews-euronews-german-4-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EuroNews German
+#SERVICE 5002:0:1:BD5F:1815:1589:1010101:0:0:0:https%3a//euronews-euronews-german-4-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EuroNews German
 #DESCRIPTION EuroNews German
-#SERVICE 5002:0:1:4c8c:c7bb:bb06:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsit-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (IT)
+#SERVICE 5002:0:1:4C8C:C7BB:BB06:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsit-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (IT)
 #DESCRIPTION Euronews (IT)
-#SERVICE 5002:0:1:b5e:66b7:b707:1010101:0:0:0:https%3a//euronews-euronews-italian-5-it.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Italian
+#SERVICE 5002:0:1:B5E:66B7:B707:1010101:0:0:0:https%3a//euronews-euronews-italian-5-it.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Italian
 #DESCRIPTION Euronews Italian
-#SERVICE 5002:0:1:116c:29bc:bc9f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-humdocuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Humanity Documentaries (UK)
+#SERVICE 5002:0:1:116C:29BC:BC9F:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-humdocuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Humanity Documentaries (UK)
 #DESCRIPTION Humanity Documentaries (UK)
-#SERVICE 5002:0:1:804c:88fd:fd9b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-humdocfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Humanity Documentaries (FR)
+#SERVICE 5002:0:1:804C:88FD:FD9B:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-humdocfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Humanity Documentaries (FR)
 #DESCRIPTION Humanity Documentaries (FR)
-#SERVICE 5002:0:1:3f67:8aac:ac3b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-exploreuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Explore (UK)
+#SERVICE 5002:0:1:3F67:8AAC:AC3B:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-exploreuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Explore (UK)
 #DESCRIPTION Explore (UK)
-#SERVICE 5002:0:1:1edf:2cb2:b2e8:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-explorees-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Explore (ES)
+#SERVICE 5002:0:1:1EDF:2CB2:B2E8:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-explorees-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Explore (ES)
 #DESCRIPTION Explore (ES)
-#SERVICE 5002:0:1:e69f:592d:2d2a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-luxeuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Luxe (UK)
+#SERVICE 5002:0:1:E69F:592D:2D2A:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-luxeuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Luxe (UK)
 #DESCRIPTION Luxe (UK)
-#SERVICE 5002:0:1:74cd:de49:49a1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-luxefr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Luxe (FR)
+#SERVICE 5002:0:1:74CD:DE49:49A1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-luxefr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Luxe (FR)
 #DESCRIPTION Luxe (FR)
-#SERVICE 5002:0:1:81e2:c344:4467:1010101:0:0:0:https%3a//gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Global Fashion Channel (EU)
+#SERVICE 5002:0:1:81E2:C344:4467:1010101:0:0:0:https%3a//gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Global Fashion Channel (EU)
 #DESCRIPTION Global Fashion Channel (EU)
-#SERVICE 5002:0:1:232:33a7:a757:1010101:0:0:0:https%3a//nosey-2-eu.xiaomi.wurl.tv/playlist.m3u8/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey (EU)
+#SERVICE 5002:0:1:232:33A7:A757:1010101:0:0:0:https%3a//nosey-2-eu.xiaomi.wurl.tv/playlist.m3u8/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey (EU)
 #DESCRIPTION Nosey (EU)
-#SERVICE 5002:0:1:9a64:9100:6b:1010101:0:0:0:https%3a//nosey-3-eu.xiaomi.wurl.tv/playlist.m3u8/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey other (EU)
+#SERVICE 5002:0:1:9A64:9100:6B:1010101:0:0:0:https%3a//nosey-3-eu.xiaomi.wurl.tv/playlist.m3u8/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey other (EU)
 #DESCRIPTION Nosey other (EU)
-#SERVICE 5002:0:1:f54e:f6f8:f813:1010101:0:0:0:https%3a//nosey-realnosey-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Nosey (EU)
+#SERVICE 5002:0:1:F54E:F6F8:F813:1010101:0:0:0:https%3a//nosey-realnosey-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Nosey (EU)
 #DESCRIPTION Real Nosey (EU)
-#SERVICE 5002:0:1:7b48:7c1a:1a6e:1010101:0:0:0:https%3a//buffactorymedia-gameplay-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gameplay (EU)
+#SERVICE 5002:0:1:7B48:7C1A:1A6E:1010101:0:0:0:https%3a//buffactorymedia-gameplay-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gameplay (EU)
 #DESCRIPTION Gameplay (EU)
-#SERVICE 5002:0:1:bd10:c47d:7d80:1010101:0:0:0:https%3a//answermedia-leveluptv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Level Up (EU)
+#SERVICE 5002:0:1:BD10:C47D:7D80:1010101:0:0:0:https%3a//answermedia-leveluptv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Level Up (EU)
 #DESCRIPTION Level Up (EU)
-#SERVICE 5002:0:1:561c:9f9f:9f82:1010101:0:0:0:https%3a//answermedia-planet-eat-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Planet Eat (EU)
+#SERVICE 5002:0:1:561C:9F9F:9F82:1010101:0:0:0:https%3a//answermedia-planet-eat-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Planet Eat (EU)
 #DESCRIPTION Planet Eat (EU)
-#SERVICE 5002:0:1:fb77:ed56:5678:1010101:0:0:0:https%3a//answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beautiful Planet (EU)
+#SERVICE 5002:0:1:FB77:ED56:5678:1010101:0:0:0:https%3a//answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beautiful Planet (EU)
 #DESCRIPTION Beautiful Planet (EU)
-#SERVICE 5002:0:1:ba26:7264:640e:1010101:0:0:0:https%3a//answermedia-darkcorners-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dark Corners (EU)
+#SERVICE 5002:0:1:BA26:7264:640E:1010101:0:0:0:https%3a//answermedia-darkcorners-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dark Corners (EU)
 #DESCRIPTION Dark Corners (EU)
-#SERVICE 5002:0:1:6de8:4ab0:b06d:1010101:0:0:0:https%3a//answermedia-fite-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fite TV (EU)
+#SERVICE 5002:0:1:6DE8:4AB0:B06D:1010101:0:0:0:https%3a//answermedia-fite-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fite TV (EU)
 #DESCRIPTION Fite TV (EU)
-#SERVICE 5002:0:1:27b8:d589:89a2:1010101:0:0:0:https%3a//answermedia-theredgreenshow-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Red Green Show (EU)
+#SERVICE 5002:0:1:27B8:D589:89A2:1010101:0:0:0:https%3a//answermedia-theredgreenshow-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Red Green Show (EU)
 #DESCRIPTION The Red Green Show (EU)
-#SERVICE 5002:0:1:6036:a57e:7e3d:1010101:0:0:0:https%3a//tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ted Talks (EU)
+#SERVICE 5002:0:1:6036:A57E:7E3D:1010101:0:0:0:https%3a//tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ted Talks (EU)
 #DESCRIPTION Ted Talks (EU)
-#SERVICE 5002:0:1:72fb:54d0:d074:1010101:0:0:0:https%3a//janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Super Simple Songs (EU)
+#SERVICE 5002:0:1:72FB:54D0:D074:1010101:0:0:0:https%3a//janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Super Simple Songs (EU)
 #DESCRIPTION Super Simple Songs (EU)
-#SERVICE 5002:0:1:9754:d918:182b:1010101:0:0:0:https%3a//janson-gigglemug-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gigglemug (EU)
+#SERVICE 5002:0:1:9754:D918:182B:1010101:0:0:0:https%3a//janson-gigglemug-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gigglemug (EU)
 #DESCRIPTION Gigglemug (EU)
-#SERVICE 5002:0:1:dae5:b47e:7e4a:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tayo
+#SERVICE 5002:0:1:DAE5:B47E:7E4A:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tayo
 #DESCRIPTION Tayo
-#SERVICE 5002:0:1:6148:588c:8c97:1010101:0:0:0:https%3a//dhx-caillou-1-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Caillou (ES)
+#SERVICE 5002:0:1:6148:588C:8C97:1010101:0:0:0:https%3a//dhx-caillou-1-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Caillou (ES)
 #DESCRIPTION Caillou (ES)
-#SERVICE 5002:0:1:d82f:d980:80d3:1010101:0:0:0:https%3a//dhx-caillou-2-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Caillou (FR)
+#SERVICE 5002:0:1:D82F:D980:80D3:1010101:0:0:0:https%3a//dhx-caillou-2-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Caillou (FR)
 #DESCRIPTION Caillou (FR)
-#SERVICE 5002:0:1:cfff:29ba:ba49:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00377-kidzbopenterpri-kidzbop-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidzbop
+#SERVICE 5002:0:1:CFFF:29BA:BA49:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00377-kidzbopenterpri-kidzbop-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidzbop
 #DESCRIPTION Kidzbop
-#SERVICE 5002:0:1:e370:f68b:8b7f:1010101:0:0:0:https%3a//travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Travel XP (EU)
+#SERVICE 5002:0:1:E370:F68B:8B7F:1010101:0:0:0:https%3a//travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Travel XP (EU)
 #DESCRIPTION Travel XP (EU)
-#SERVICE 5002:0:1:94fa:c5f5:f55f:1010101:0:0:0:https%3a//travelxp-travelxp-2-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Travel XP (DE)
+#SERVICE 5002:0:1:94FA:C5F5:F55F:1010101:0:0:0:https%3a//travelxp-travelxp-2-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Travel XP (DE)
 #DESCRIPTION Travel XP (DE)
-#SERVICE 5002:0:1:c643:d133:3302:1010101:0:0:0:https%3a//travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Travel XP (FR)
+#SERVICE 5002:0:1:C643:D133:3302:1010101:0:0:0:https%3a//travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Travel XP (FR)
 #DESCRIPTION Travel XP (FR)
-#SERVICE 5002:0:1:a458:178f:8f48:1010101:0:0:0:https%3a//watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Watch Mojo (EU)
+#SERVICE 5002:0:1:A458:178F:8F48:1010101:0:0:0:https%3a//watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Watch Mojo (EU)
 #DESCRIPTION Watch Mojo (EU)
-#SERVICE 5002:0:1:ff68:479:7905:1010101:0:0:0:https%3a//gravitas-documentaries-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas Documentaries (EU)
+#SERVICE 5002:0:1:FF68:479:7905:1010101:0:0:0:https%3a//gravitas-documentaries-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas Documentaries (EU)
 #DESCRIPTION Gravitas Documentaries (EU)
-#SERVICE 5002:0:1:1e30:3440:404f:1010101:0:0:0:https%3a//gravitas-movies-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas Movies (EU)
+#SERVICE 5002:0:1:1E30:3440:404F:1010101:0:0:0:https%3a//gravitas-movies-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas Movies (EU)
 #DESCRIPTION Gravitas Movies (EU)
-#SERVICE 5002:0:1:8526:43:43ec:1010101:0:0:0:https%3a//gravitas-adrenaline-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Adrenaline (EU)
+#SERVICE 5002:0:1:8526:43:43EC:1010101:0:0:0:https%3a//gravitas-adrenaline-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Adrenaline (EU)
 #DESCRIPTION Adrenaline (EU)
-#SERVICE 5002:0:1:d045:3031:31b6:1010101:0:0:0:https%3a//gravitas-unexplained-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unexplained (EU)
+#SERVICE 5002:0:1:D045:3031:31B6:1010101:0:0:0:https%3a//gravitas-unexplained-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unexplained (EU)
 #DESCRIPTION Unexplained (EU)
-#SERVICE 5002:0:1:da22:91b8:b8a3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime (UK)
+#SERVICE 5002:0:1:DA22:91B8:B8A3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime (UK)
 #DESCRIPTION Mytime (UK)
-#SERVICE 5002:0:1:a3b9:5f8a:8a1f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime (ES)
+#SERVICE 5002:0:1:A3B9:5F8A:8A1F:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime (ES)
 #DESCRIPTION Mytime (ES)
-#SERVICE 5002:0:1:9692:8042:42c2:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime (FR)
+#SERVICE 5002:0:1:9692:8042:42C2:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime (FR)
 #DESCRIPTION Mytime (FR)
-#SERVICE 5002:0:1:b251:5e33:33e3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimede-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime (DE)
+#SERVICE 5002:0:1:B251:5E33:33E3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimede-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime (DE)
 #DESCRIPTION Mytime (DE)
-#SERVICE 5002:0:1:165b:3a87:8766:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-moviecentuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Central (UK)
+#SERVICE 5002:0:1:165B:3A87:8766:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-moviecentuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Central (UK)
 #DESCRIPTION Movie Central (UK)
-#SERVICE 5002:0:1:77cf:da59:59d9:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-mctves-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Central (ES)
+#SERVICE 5002:0:1:77CF:DA59:59D9:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-mctves-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Central (ES)
 #DESCRIPTION Movie Central (ES)
-#SERVICE 5002:0:1:131d:8756:563b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-moviecentfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Central (FR)
+#SERVICE 5002:0:1:131D:8756:563B:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-moviecentfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Central (FR)
 #DESCRIPTION Movie Central (FR)
-#SERVICE 5002:0:1:cd10:657d:7db5:1010101:0:0:0:https%3a//escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Escapes (EU)
+#SERVICE 5002:0:1:CD10:657D:7DB5:1010101:0:0:0:https%3a//escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Escapes (EU)
 #DESCRIPTION Escapes (EU)
-#SERVICE 5002:0:1:e8f3:343a:3a9f:1010101:0:0:0:https%3a//airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Drone TV (EU)
+#SERVICE 5002:0:1:E8F3:343A:3A9F:1010101:0:0:0:https%3a//airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Drone TV (EU)
 #DESCRIPTION Drone TV (EU)
-#SERVICE 5002:0:1:99d1:a977:77ca:1010101:0:0:0:https%3a//rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LBC (EU)
+#SERVICE 5002:0:1:99D1:A977:77CA:1010101:0:0:0:https%3a//rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LBC (EU)
 #DESCRIPTION LBC (EU)
-#SERVICE 5002:0:1:763b:9ffd:fd06:1010101:0:0:0:https%3a//rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Classic (EU)
+#SERVICE 5002:0:1:763B:9FFD:FD06:1010101:0:0:0:https%3a//rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Classic (EU)
 #DESCRIPTION Rotana Classic (EU)
-#SERVICE 5002:0:1:bdb:a887:8740:1010101:0:0:0:https%3a//rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Music (EU)
+#SERVICE 5002:0:1:BDB:A887:8740:1010101:0:0:0:https%3a//rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Music (EU)
 #DESCRIPTION Rotana Music (EU)
-#SERVICE 5002:0:1:9d2c:b152:522b:1010101:0:0:0:https%3a//rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Cinema (EU)
+#SERVICE 5002:0:1:9D2C:B152:522B:1010101:0:0:0:https%3a//rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Cinema (EU)
 #DESCRIPTION Rotana Cinema (EU)
-#SERVICE 5002:0:1:18a8:5f0:f049:1010101:0:0:0:https%3a//rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Drama (EU)
+#SERVICE 5002:0:1:18A8:5F0:F049:1010101:0:0:0:https%3a//rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Drama (EU)
 #DESCRIPTION Rotana Drama (EU)
-#SERVICE 5002:0:1:6c89:e949:4946:1010101:0:0:0:https%3a//rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Comedy (EU)
+#SERVICE 5002:0:1:6C89:E949:4946:1010101:0:0:0:https%3a//rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Comedy (EU)
 #DESCRIPTION Rotana Comedy (EU)
-#SERVICE 5002:0:1:d36c:7ab:abc2:1010101:0:0:0:https%3a//rotanastudios-rotanakhalijiya-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Khalijiya (EU)
+#SERVICE 5002:0:1:D36C:7AB:ABC2:1010101:0:0:0:https%3a//rotanastudios-rotanakhalijiya-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotana Khalijiya (EU)
 #DESCRIPTION Rotana Khalijiya (EU)
-#SERVICE 5002:0:1:6eb2:efa8:a86b:1010101:0:0:0:https%3a//brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (EU)
+#SERVICE 5002:0:1:6EB2:EFA8:A86B:1010101:0:0:0:https%3a//brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (EU)
 #DESCRIPTION Go USA (EU)
-#SERVICE 5002:0:1:7574:4d1e:1ef4:1010101:0:0:0:https%3a//food-eu.xiaomi.wurl.tv/playlist.m3u8/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Food (EU)
+#SERVICE 5002:0:1:7574:4D1E:1EF4:1010101:0:0:0:https%3a//food-eu.xiaomi.wurl.tv/playlist.m3u8/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Food (EU)
 #DESCRIPTION Food (EU)
-#SERVICE 5002:0:1:7eb5:cd8:d840:1010101:0:0:0:https%3a//janson-todayshomeowner-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Today's Homeonwer (EU)
+#SERVICE 5002:0:1:7EB5:CD8:D840:1010101:0:0:0:https%3a//janson-todayshomeowner-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Today's Homeonwer (EU)
 #DESCRIPTION Today's Homeonwer (EU)
-#SERVICE 5002:0:1:d58b:a710:1087:1010101:0:0:0:https%3a//kdmg-manifesttv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Manifest TV (EU)
+#SERVICE 5002:0:1:D58B:A710:1087:1010101:0:0:0:https%3a//kdmg-manifesttv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Manifest TV (EU)
 #DESCRIPTION Manifest TV (EU)
-#SERVICE 5002:0:1:b749:ac0d:dc8:1010101:0:0:0:https%3a//playworksdigital-brb-1-eu.xiaomi.wurl.tv/playlist.m3u8/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BRB (EU)
+#SERVICE 5002:0:1:B749:AC0D:DC8:1010101:0:0:0:https%3a//playworksdigital-brb-1-eu.xiaomi.wurl.tv/playlist.m3u8/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BRB (EU)
 #DESCRIPTION BRB (EU)
-#SERVICE 5002:0:1:6c2d:e09c:9c24:1010101:0:0:0:https%3a//playworksdigital-playworks-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Playworks (EU)
+#SERVICE 5002:0:1:6C2D:E09C:9C24:1010101:0:0:0:https%3a//playworksdigital-playworks-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Playworks (EU)
 #DESCRIPTION Playworks (EU)
-#SERVICE 5002:0:1:9f09:5bca:ca5f:1010101:0:0:0:https%3a//clix-clix-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clix (EU)
+#SERVICE 5002:0:1:9F09:5BCA:CA5F:1010101:0:0:0:https%3a//clix-clix-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clix (EU)
 #DESCRIPTION Clix (EU)
-#SERVICE 5002:0:1:afb6:e44a:4a00:1010101:0:0:0:https%3a//bec-commune-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Commune (EU)
+#SERVICE 5002:0:1:AFB6:E44A:4A00:1010101:0:0:0:https%3a//bec-commune-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Commune (EU)
 #DESCRIPTION Commune (EU)
-#SERVICE 5002:0:1:9a0:bd6d:6d70:1010101:0:0:0:https%3a//bec-moreu-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MoreU (EU)
+#SERVICE 5002:0:1:9A0:BD6D:6D70:1010101:0:0:0:https%3a//bec-moreu-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MoreU (EU)
 #DESCRIPTION MoreU (EU)
-#SERVICE 5002:0:1:bf56:bdb7:b73d:1010101:0:0:0:https%3a//bec-thegrid-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Grid (EU)
+#SERVICE 5002:0:1:BF56:BDB7:B73D:1010101:0:0:0:https%3a//bec-thegrid-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Grid (EU)
 #DESCRIPTION The Grid (EU)
-#SERVICE 5002:0:1:86da:5265:65eb:1010101:0:0:0:https%3a//bec-besttvever-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Best TV ever (EU)
+#SERVICE 5002:0:1:86DA:5265:65EB:1010101:0:0:0:https%3a//bec-besttvever-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Best TV ever (EU)
 #DESCRIPTION Best TV ever (EU)
-#SERVICE 5002:0:1:fa60:896a:6adb:1010101:0:0:0:https%3a//gustotv-gustotv-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV (EU)
+#SERVICE 5002:0:1:FA60:896A:6ADB:1010101:0:0:0:https%3a//gustotv-gustotv-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV (EU)
 #DESCRIPTION Gusto TV (EU)
-#SERVICE 5002:0:1:5caf:d63b:3be6:1010101:0:0:0:https%3a//rtmtv-samsung-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation (EU)
+#SERVICE 5002:0:1:5CAF:D63B:3BE6:1010101:0:0:0:https%3a//rtmtv-samsung-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation (EU)
 #DESCRIPTION PowerNation (EU)
-#SERVICE 5002:0:1:dcac:6898:9820:1010101:0:0:0:https%3a//rtmtv-powernationenespanol-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation Espanol (EU)
+#SERVICE 5002:0:1:DCAC:6898:9820:1010101:0:0:0:https%3a//rtmtv-powernationenespanol-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation Espanol (EU)
 #DESCRIPTION PowerNation Espanol (EU)
-#SERVICE 5002:0:1:84df:a3da:dacd:1010101:0:0:0:https%3a//kravemedia-mtrspt1-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrspt1 1 (EU)
+#SERVICE 5002:0:1:84DF:A3DA:DACD:1010101:0:0:0:https%3a//kravemedia-mtrspt1-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrspt1 1 (EU)
 #DESCRIPTION Mtrspt1 1 (EU)
-#SERVICE 5002:0:1:7cd9:fb80:807f:1010101:0:0:0:https%3a//mavtv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mav TV (EU)
+#SERVICE 5002:0:1:7CD9:FB80:807F:1010101:0:0:0:https%3a//mavtv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mav TV (EU)
 #DESCRIPTION Mav TV (EU)
-#SERVICE 5002:0:1:9b35:abf0:f00a:1010101:0:0:0:https%3a//fueltv-fueltv-19-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuel TV (DE)
+#SERVICE 5002:0:1:9B35:ABF0:F00A:1010101:0:0:0:https%3a//fueltv-fueltv-19-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuel TV (DE)
 #DESCRIPTION Fuel TV (DE)
-#SERVICE 5002:0:1:7654:ff11:11c8:1010101:0:0:0:https%3a//fueltv-fueltv-22-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuel TV (FR)
+#SERVICE 5002:0:1:7654:FF11:11C8:1010101:0:0:0:https%3a//fueltv-fueltv-22-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuel TV (FR)
 #DESCRIPTION Fuel TV (FR)
-#SERVICE 5002:0:1:7a6d:cab:abeb:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-surfworld-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SurfWorld
+#SERVICE 5002:0:1:7A6D:CAB:ABEB:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-surfworld-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SurfWorld
 #DESCRIPTION SurfWorld
-#SERVICE 5002:0:1:7f2f:91b9:b92b:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Auto Allstars (EU)
+#SERVICE 5002:0:1:7F2F:91B9:B92B:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Auto Allstars (EU)
 #DESCRIPTION Auto Allstars (EU)
-#SERVICE 5002:0:1:42f9:d720:20e3:1010101:0:0:0:https%3a//extremeinternational-unreel-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unreel (EU)
+#SERVICE 5002:0:1:42F9:D720:20E3:1010101:0:0:0:https%3a//extremeinternational-unreel-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unreel (EU)
 #DESCRIPTION Unreel (EU)
-#SERVICE 5002:0:1:9057:c51c:1c00:1010101:0:0:0:https%3a//world-poker-tour-samsung-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour (EU)
+#SERVICE 5002:0:1:9057:C51C:1C00:1010101:0:0:0:https%3a//world-poker-tour-samsung-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour (EU)
 #DESCRIPTION World Poker Tour (EU)
-#SERVICE 5002:0:1:a06e:ac20:2057:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes8intl-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
+#SERVICE 5002:0:1:A06E:AC20:2057:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes8intl-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
 #DESCRIPTION Tastemade
-#SERVICE 5002:0:1:ca95:74ed:ede5:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes16intl-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade other
+#SERVICE 5002:0:1:CA95:74ED:EDE5:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes16intl-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade other
 #DESCRIPTION Tastemade other
-#SERVICE 5002:0:1:341a:a67f:7fcc:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade International
+#SERVICE 5002:0:1:341A:A67F:7FCC:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade International
 #DESCRIPTION Tastemade International
-#SERVICE 5002:0:1:1290:4517:17f2:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmgermany-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade (DE)
+#SERVICE 5002:0:1:1290:4517:17F2:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmgermany-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade (DE)
 #DESCRIPTION Tastemade (DE)
-#SERVICE 5002:0:1:bfa8:5992:923d:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ComedyDynamics
+#SERVICE 5002:0:1:BFA8:5992:923D:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ComedyDynamics
 #DESCRIPTION ComedyDynamics
-#SERVICE 5002:0:1:c265:d4e2:e228:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome
+#SERVICE 5002:0:1:C265:D4E2:E228:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome
 #DESCRIPTION MovieDome
-#SERVICE 5002:0:1:9263:98f6:f632:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome Family
+#SERVICE 5002:0:1:9263:98F6:F632:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome Family
 #DESCRIPTION MovieDome Family
-#SERVICE 5002:0:1:74ae:338:3854:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome (UK)
+#SERVICE 5002:0:1:74AE:338:3854:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome (UK)
 #DESCRIPTION MovieDome (UK)
-#SERVICE 5002:0:1:2d83:d8d1:d1b6:1010101:0:0:0:https%3a//lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Action Hollywood Movies
+#SERVICE 5002:0:1:2D83:D8D1:D1B6:1010101:0:0:0:https%3a//lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Action Hollywood Movies
 #DESCRIPTION Action Hollywood Movies
-#SERVICE 5002:0:1:b2fd:ebf6:f6fb:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01349-whistleblowerme-whistleblower-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Whistleblower
+#SERVICE 5002:0:1:B2FD:EBF6:F6FB:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01349-whistleblowerme-whistleblower-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Whistleblower
 #DESCRIPTION Whistleblower
-#SERVICE 5002:0:1:eb63:73f3:f3ad:1010101:0:0:0:https%3a//lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Sports Stars
+#SERVICE 5002:0:1:EB63:73F3:F3AD:1010101:0:0:0:https%3a//lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Sports Stars
 #DESCRIPTION Trace Sports Stars
-#SERVICE 5002:0:1:c693:796a:6af5:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-motorsport-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorsport.tv
+#SERVICE 5002:0:1:C693:796A:6AF5:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-motorsport-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorsport.tv
 #DESCRIPTION Motorsport.tv
-#SERVICE 5002:0:1:21de:175e:5e05:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Edge Sports
+#SERVICE 5002:0:1:21DE:175E:5E05:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Edge Sports
 #DESCRIPTION Edge Sports
-#SERVICE 5002:0:1:3d58:1eb:eb90:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mob TV
+#SERVICE 5002:0:1:3D58:1EB:EB90:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mob TV
 #DESCRIPTION Mob TV
-#SERVICE 5002:0:1:56f1:1325:2565:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten
+#SERVICE 5002:0:1:56F1:1325:2565:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten
 #DESCRIPTION Unbeaten
-#SERVICE 5002:0:1:f474:c30e:e84:1010101:0:0:0:https%3a//cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqxiaomi-ono/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Q
+#SERVICE 5002:0:1:F474:C30E:E84:1010101:0:0:0:https%3a//cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqxiaomi-ono/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Q
 #DESCRIPTION The Q
-#SERVICE 5002:0:1:8511:4c0f:fdb:1010101:0:0:0:https%3a//cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qyoutvxiaomi-ono/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qyou India
+#SERVICE 5002:0:1:8511:4C0F:FDB:1010101:0:0:0:https%3a//cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qyoutvxiaomi-ono/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qyou India
 #DESCRIPTION Qyou India
-#SERVICE 5002:0:1:cd99:e96b:6b51:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Inwild
+#SERVICE 5002:0:1:CD99:E96B:6B51:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Inwild
 #DESCRIPTION Inwild
-#SERVICE 5002:0:1:f3c3:8987:87fd:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Inwonder
+#SERVICE 5002:0:1:F3C3:8987:87FD:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Inwonder
 #DESCRIPTION Inwonder
-#SERVICE 5002:0:1:be7f:577:77a8:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:InTrouble
+#SERVICE 5002:0:1:BE7F:577:77A8:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:InTrouble
 #DESCRIPTION InTrouble
-#SERVICE 5002:0:1:2a9b:4fb0:b037:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Insight TV
+#SERVICE 5002:0:1:2A9B:4FB0:B037:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Insight TV
 #DESCRIPTION Insight TV
-#SERVICE 5002:0:1:bc7f:1b7b:7b1c:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Insight TV R.O.W
+#SERVICE 5002:0:1:BC7F:1B7B:7B1C:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Insight TV R.O.W
 #DESCRIPTION Insight TV R.O.W
-#SERVICE 5002:0:1:4d76:244b:4bb5:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV
+#SERVICE 5002:0:1:4D76:244B:4BB5:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV
 #DESCRIPTION Fashion TV
-#SERVICE 5002:0:1:839d:c20a:a1a:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivebroadcasti-ofive-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:OFive
+#SERVICE 5002:0:1:839D:C20A:A1A:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivebroadcasti-ofive-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:OFive
 #DESCRIPTION OFive
-#SERVICE 5002:0:1:4c85:8a48:48ce:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wannasee
+#SERVICE 5002:0:1:4C85:8A48:48CE:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wannasee
 #DESCRIPTION Wannasee
-#SERVICE 5002:0:1:49b1:c649:4930:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Museum TV
+#SERVICE 5002:0:1:49B1:C649:4930:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Museum TV
 #DESCRIPTION Museum TV
-#SERVICE 5002:0:1:303:8390:90a1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtvfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Museum TV (FR)
+#SERVICE 5002:0:1:303:8390:90A1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtvfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Museum TV (FR)
 #DESCRIPTION Museum TV (FR)
-#SERVICE 5002:0:1:e035:ff8c:8c29:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MYZEN
+#SERVICE 5002:0:1:E035:FF8C:8C29:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MYZEN
 #DESCRIPTION MYZEN
-#SERVICE 5002:0:1:5770:96b8:b88e:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MYZEN (FR)
+#SERVICE 5002:0:1:5770:96B8:B88E:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MYZEN (FR)
 #DESCRIPTION MYZEN (FR)
-#SERVICE 5002:0:1:338b:46e7:e70b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01767-secomiftvlefiga-lefigaro-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Le Figaro (FR) (GEO)
+#SERVICE 5002:0:1:338B:46E7:E70B:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01767-secomiftvlefiga-lefigaro-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Le Figaro (FR) (GEO)
 #DESCRIPTION Le Figaro (FR) (GEO)
-#SERVICE 5002:0:1:bb12:1eb3:b334:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ESTV
+#SERVICE 5002:0:1:BB12:1EB3:B334:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ESTV
 #DESCRIPTION ESTV
-#SERVICE 5002:0:1:d32a:b400:61:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WildEarth
+#SERVICE 5002:0:1:D32A:B400:61:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WildEarth
 #DESCRIPTION WildEarth
-#SERVICE 5002:0:1:5585:f752:52ea:1010101:0:0:0:https%3a//clubbingtv-xiaomi.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clubbing TV
+#SERVICE 5002:0:1:5585:F752:52EA:1010101:0:0:0:https%3a//clubbingtv-xiaomi.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clubbing TV
 #DESCRIPTION Clubbing TV
-#SERVICE 5002:0:1:817d:cb27:277e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-krime-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Krime
+#SERVICE 5002:0:1:817D:CB27:277E:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-krime-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Krime
 #DESCRIPTION Krime
-#SERVICE 5002:0:1:2788:be76:76a5:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Watch4Movies
+#SERVICE 5002:0:1:2788:BE76:76A5:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Watch4Movies
 #DESCRIPTION Watch4Movies
-#SERVICE 5002:0:1:62e9:b44e:4e02:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivebroadcasti-ofive-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ofive
+#SERVICE 5002:0:1:62E9:B44E:4E02:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivebroadcasti-ofive-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ofive
 #DESCRIPTION Ofive
-#SERVICE 5002:0:1:50d6:6e00:70:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Brazuca
+#SERVICE 5002:0:1:50D6:6E00:70:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Brazuca
 #DESCRIPTION Trace Brazuca
-#SERVICE 5002:0:1:84ba:b71a:1a24:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Latina
+#SERVICE 5002:0:1:84BA:B71A:1A24:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Latina
 #DESCRIPTION Trace Latina
-#SERVICE 5002:0:1:2d71:2bdb:db9e:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Urban
+#SERVICE 5002:0:1:2D71:2BDB:DB9E:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Urban
 #DESCRIPTION Trace Urban
-#SERVICE 5002:0:1:2128:6d6c:6cc2:1010101:0:0:0:https%3a//rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (ES)
+#SERVICE 5002:0:1:2128:6D6C:6CC2:1010101:0:0:0:https%3a//rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (ES)
 #DESCRIPTION Rakuten Action Movies (ES)
-#SERVICE 5002:0:1:e575:6bd4:d48b:1010101:0:0:0:https%3a//rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (ES)
+#SERVICE 5002:0:1:E575:6BD4:D48B:1010101:0:0:0:https%3a//rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (ES)
 #DESCRIPTION Rakuten Comedy Movies (ES)
-#SERVICE 5002:0:1:26d5:a275:75d0:1010101:0:0:0:https%3a//rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Romance (ES)
+#SERVICE 5002:0:1:26D5:A275:75D0:1010101:0:0:0:https%3a//rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Romance (ES)
 #DESCRIPTION Rakuten Romance (ES)
-#SERVICE 5002:0:1:79d9:c435:3531:1010101:0:0:0:https%3a//rakuten-spotlight-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (ES)
+#SERVICE 5002:0:1:79D9:C435:3531:1010101:0:0:0:https%3a//rakuten-spotlight-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (ES)
 #DESCRIPTION Rakuten Spotlight (ES)
-#SERVICE 5002:0:1:704f:f51f:1f33:1010101:0:0:0:https%3a//rakuten-topfree-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Top Free (ES)
+#SERVICE 5002:0:1:704F:F51F:1F33:1010101:0:0:0:https%3a//rakuten-topfree-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Top Free (ES)
 #DESCRIPTION Rakuten Top Free (ES)
-#SERVICE 5002:0:1:c5bd:e39b:9b82:1010101:0:0:0:https%3a//rakuten-tvshows-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (ES)
+#SERVICE 5002:0:1:C5BD:E39B:9B82:1010101:0:0:0:https%3a//rakuten-tvshows-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (ES)
 #DESCRIPTION Rakuten TV Shows (ES)
-#SERVICE 5002:0:1:33b5:bcc3:c3f6:1010101:0:0:0:https%3a//rakuten-thriller-1-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Thriller (ES)
+#SERVICE 5002:0:1:33B5:BCC3:C3F6:1010101:0:0:0:https%3a//rakuten-thriller-1-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Thriller (ES)
 #DESCRIPTION Rakuten Thriller (ES)
-#SERVICE 5002:0:1:72c3:d169:69ab:1010101:0:0:0:https%3a//rakuten-family-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Family (ES)
+#SERVICE 5002:0:1:72C3:D169:69AB:1010101:0:0:0:https%3a//rakuten-family-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Family (ES)
 #DESCRIPTION Rakuten Family (ES)
-#SERVICE 5002:0:1:8f12:5281:8194:1010101:0:0:0:https%3a//rakuten-guardian-1-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Guardian (ES)
+#SERVICE 5002:0:1:8F12:5281:8194:1010101:0:0:0:https%3a//rakuten-guardian-1-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Guardian (ES)
 #DESCRIPTION Rakuten Guardian (ES)
-#SERVICE 5002:0:1:5f0:aa5c:5c88:1010101:0:0:0:https%3a//fueltv-fueltv-21-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuel TV (ES)
+#SERVICE 5002:0:1:5F0:AA5C:5C88:1010101:0:0:0:https%3a//fueltv-fueltv-21-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuel TV (ES)
 #DESCRIPTION Fuel TV (ES)
-#SERVICE 5002:0:1:4d6:85f1:f1bb:1010101:0:0:0:https%3a//rakuten-hola-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hola (ES)
+#SERVICE 5002:0:1:4D6:85F1:F1BB:1010101:0:0:0:https%3a//rakuten-hola-2-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hola (ES)
 #DESCRIPTION Hola (ES)
-#SERVICE 5002:0:1:c0ae:c472:72b4:1010101:0:0:0:https%3a//rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Espanol (ES)
+#SERVICE 5002:0:1:C0AE:C472:72B4:1010101:0:0:0:https%3a//rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Espanol (ES)
 #DESCRIPTION Cine Espanol (ES)
-#SERVICE 5002:0:1:edb7:6e97:979a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flo Cine
+#SERVICE 5002:0:1:EDB7:6E97:979A:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flo Cine
 #DESCRIPTION Flo Cine
-#SERVICE 5002:0:1:1b37:4a:4acd:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01328-fractalmedia-tvconcientes-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Television Concientes
+#SERVICE 5002:0:1:1B37:4A:4ACD:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01328-fractalmedia-tvconcientes-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Television Concientes
 #DESCRIPTION Television Concientes
-#SERVICE 5002:0:1:1703:347f:7f8f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Clasic (EU)
+#SERVICE 5002:0:1:1703:347F:7F8F:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Clasic (EU)
 #DESCRIPTION Cine Clasic (EU)
-#SERVICE 5002:0:1:770a:fde1:e1b7:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flash
+#SERVICE 5002:0:1:770A:FDE1:E1B7:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flash
 #DESCRIPTION Flash
-#SERVICE 5002:0:1:5594:3a1:a1e6:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-atelierchefs-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Latelier Des Chefs
+#SERVICE 5002:0:1:5594:3A1:A1E6:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-atelierchefs-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Latelier Des Chefs
 #DESCRIPTION Latelier Des Chefs
-#SERVICE 5002:0:1:8fcc:64e4:e429:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvspa-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sofy TV (ES)
+#SERVICE 5002:0:1:8FCC:64E4:E429:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvspa-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sofy TV (ES)
 #DESCRIPTION Sofy TV (ES)
-#SERVICE 5002:0:1:a98b:b55d:5ded:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvger-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sofy TV (DE)
+#SERVICE 5002:0:1:A98B:B55D:5DED:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvger-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sofy TV (DE)
 #DESCRIPTION Sofy TV (DE)
-#SERVICE 5002:0:1:3c13:3515:156a:1010101:0:0:0:https%3a//rakuten-actionmovies-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (DE)
+#SERVICE 5002:0:1:3C13:3515:156A:1010101:0:0:0:https%3a//rakuten-actionmovies-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (DE)
 #DESCRIPTION Rakuten Action Movies (DE)
-#SERVICE 5002:0:1:9b66:3bd1:d1f3:1010101:0:0:0:https%3a//rakuten-comedymovies-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (DE)
+#SERVICE 5002:0:1:9B66:3BD1:D1F3:1010101:0:0:0:https%3a//rakuten-comedymovies-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (DE)
 #DESCRIPTION Rakuten Comedy Movies (DE)
-#SERVICE 5002:0:1:ce42:c8ee:eea4:1010101:0:0:0:https%3a//rakuten-family-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Family (DE)
+#SERVICE 5002:0:1:CE42:C8EE:EEA4:1010101:0:0:0:https%3a//rakuten-family-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Family (DE)
 #DESCRIPTION Rakuten Family (DE)
-#SERVICE 5002:0:1:90c6:4611:11e0:1010101:0:0:0:https%3a//rakuten-spotlight-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (DE)
+#SERVICE 5002:0:1:90C6:4611:11E0:1010101:0:0:0:https%3a//rakuten-spotlight-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (DE)
 #DESCRIPTION Rakuten Spotlight (DE)
-#SERVICE 5002:0:1:30a2:d76f:6f49:1010101:0:0:0:https%3a//rakuten-tvshows-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (DE)
+#SERVICE 5002:0:1:30A2:D76F:6F49:1010101:0:0:0:https%3a//rakuten-tvshows-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (DE)
 #DESCRIPTION Rakuten TV Shows (DE)
-#SERVICE 5002:0:1:9291:257c:7c86:1010101:0:0:0:https%3a//rakuten-thriller-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Thriller (DE)
+#SERVICE 5002:0:1:9291:257C:7C86:1010101:0:0:0:https%3a//rakuten-thriller-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Thriller (DE)
 #DESCRIPTION Rakuten Thriller (DE)
-#SERVICE 5002:0:1:d429:6ff7:f7a3:1010101:0:0:0:https%3a//rakuten-topfree-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Top Free (DE)
+#SERVICE 5002:0:1:D429:6FF7:F7A3:1010101:0:0:0:https%3a//rakuten-topfree-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Top Free (DE)
 #DESCRIPTION Rakuten Top Free (DE)
-#SERVICE 5002:0:1:f0ac:f8fc:fca3:1010101:0:0:0:https%3a//rakuten-romance-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Romance (DE)
+#SERVICE 5002:0:1:F0AC:F8FC:FCA3:1010101:0:0:0:https%3a//rakuten-romance-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Romance (DE)
 #DESCRIPTION Rakuten Romance (DE)
-#SERVICE 5002:0:1:26a6:edfa:fa45:1010101:0:0:0:https%3a//rakuten-deutsches-kino-1-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Kino 1 (DE)
+#SERVICE 5002:0:1:26A6:EDFA:FA45:1010101:0:0:0:https%3a//rakuten-deutsches-kino-1-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Kino 1 (DE)
 #DESCRIPTION Rakuten Kino 1 (DE)
-#SERVICE 5002:0:1:37a8:1ef4:f411:1010101:0:0:0:https%3a//rakuten-guardian-1-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rajuten Guardian (DE)
+#SERVICE 5002:0:1:37A8:1EF4:F411:1010101:0:0:0:https%3a//rakuten-guardian-1-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rajuten Guardian (DE)
 #DESCRIPTION Rajuten Guardian (DE)
-#SERVICE 5002:0:1:f1a7:fbeb:eb9e:1010101:0:0:0:https%3a//dhx-teletubbies-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teletubbies (DE)
+#SERVICE 5002:0:1:F1A7:FBEB:EB9E:1010101:0:0:0:https%3a//dhx-teletubbies-3-de.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teletubbies (DE)
 #DESCRIPTION Teletubbies (DE)
-#SERVICE 5002:0:1:f835:ab57:5756:1010101:0:0:0:https%3a//rakuten-actionmovies-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (FR)
+#SERVICE 5002:0:1:F835:AB57:5756:1010101:0:0:0:https%3a//rakuten-actionmovies-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (FR)
 #DESCRIPTION Rakuten Action Movies (FR)
-#SERVICE 5002:0:1:8b79:c7ff:ff0f:1010101:0:0:0:https%3a//rakuten-comedymovies-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (FR)
+#SERVICE 5002:0:1:8B79:C7FF:FF0F:1010101:0:0:0:https%3a//rakuten-comedymovies-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (FR)
 #DESCRIPTION Rakuten Comedy Movies (FR)
-#SERVICE 5002:0:1:ae45:d2e5:e559:1010101:0:0:0:https%3a//rakuten-family-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Family (FR)
+#SERVICE 5002:0:1:AE45:D2E5:E559:1010101:0:0:0:https%3a//rakuten-family-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Family (FR)
 #DESCRIPTION Rakuten Family (FR)
-#SERVICE 5002:0:1:a29:9918:18ee:1010101:0:0:0:https%3a//rakuten-spotlight-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (FR)
+#SERVICE 5002:0:1:A29:9918:18EE:1010101:0:0:0:https%3a//rakuten-spotlight-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (FR)
 #DESCRIPTION Rakuten Spotlight (FR)
-#SERVICE 5002:0:1:3b5:601b:1b35:1010101:0:0:0:https%3a//rakuten-tvshows-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (FR)
+#SERVICE 5002:0:1:3B5:601B:1B35:1010101:0:0:0:https%3a//rakuten-tvshows-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (FR)
 #DESCRIPTION Rakuten TV Shows (FR)
-#SERVICE 5002:0:1:5d82:4124:24d3:1010101:0:0:0:https%3a//rakuten-topfree-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Top Free (FR)
+#SERVICE 5002:0:1:5D82:4124:24D3:1010101:0:0:0:https%3a//rakuten-topfree-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Top Free (FR)
 #DESCRIPTION Rakuten Top Free (FR)
-#SERVICE 5002:0:1:8d35:ba18:18ba:1010101:0:0:0:https%3a//rakuten-thriller-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Thriller (FR)
+#SERVICE 5002:0:1:8D35:BA18:18BA:1010101:0:0:0:https%3a//rakuten-thriller-7-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Thriller (FR)
 #DESCRIPTION Rakuten Thriller (FR)
-#SERVICE 5002:0:1:dfde:104c:4c7c:1010101:0:0:0:https%3a//rakuten-guardian-1-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Guardian (FR)
+#SERVICE 5002:0:1:DFDE:104C:4C7C:1010101:0:0:0:https%3a//rakuten-guardian-1-fr.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Guardian (FR)
 #DESCRIPTION Rakuten Guardian (FR)
