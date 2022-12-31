@@ -895,10 +895,10 @@ http://ic2.smcdn.pl/6100-1.mp3
 http://ic2.smcdn.pl/6170-1.mp3
 #EXTINF:0 radio=true,VOX FM - Disco Party
 http://ic2.smcdn.pl/6180-1.mp3
+#EXTINF:0 radio=true,VOX FM - HIT'22
+http://ic2.smcdn.pl/6020-1.mp3
 #EXTINF:0 radio=true,VOX FM - Najlepszy Koncert Świata
 http://ic2.smcdn.pl/6080-1.mp3
-#EXTINF:0 radio=true,VOX FM - XMAS
-http://ic2.smcdn.pl/6020-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Polska
 http://ic2.smcdn.pl/4000-1.mp3
 #EXTINF:0 radio=true,Radio Plus - Bydgoszcz
@@ -1183,6 +1183,8 @@ http://s1.nedds24.pl:8100/radio.mp3
 http://s1.nedds24.pl:8110/radio.mp3
 #EXTINF:0 radio=true,Radio Nedds24.pl - Disco
 http://s1.nedds24.pl:8120/radio.mp3
+#EXTINF:0 radio=true,Radio Nedds24.pl - Po Polsku
+http://s1.nedds24.pl:8140/radio.mp3
 #EXTINF:0 radio=true,Radio Party
 http://s4.radioparty.pl:8000/rp.mp3
 #EXTINF:0 radio=true,Radio Party - Djmixes
@@ -1597,46 +1599,6 @@ http://radio.viennaplus.at:8000
 http://streaming03.technologicznie.net:8765/radio_warszawa.mp3
 #EXTINF:0 radio=true,Radio Zamość /katolickie/
 https://stream.rcs.revma.com/0n8y7mxcay8uv
-#EXTINF:0 radio=true,RMF Kolędy /świąteczne/
-http://195.150.20.7/rmf_koledy
-#EXTINF:0 radio=true,RMF Święta /świąteczne/
-http://195.150.20.7/rmf_swieta
-#EXTINF:0 radio=true,RMF Świąteczne Nowości 2022 /świąteczne/
-http://195.150.20.7/rmf_top5
-#EXTINF:0 radio=true,RMF Top 30 Święta /świąteczne/
-http://195.150.20.7/rmf_top_30_swieta
-#EXTINF:0 radio=true,RMF Classic /świąteczne/
-http://195.150.20.7/rmf_classic
-#EXTINF:0 radio=true,ZET Kolędy /świąteczne/
-http://zt.cdn.eurozet.pl/ZETKOL.mp3
-#EXTINF:0 radio=true,ZET Na Święta /świąteczne/
-http://zt.cdn.eurozet.pl/ZETSWI.mp3
-#EXTINF:0 radio=true,Chillizet Christmas /świąteczne/
-http://ch.cdn.eurozet.pl/CHISWI.mp3
-#EXTINF:0 radio=true,Meloradio Christmas /świąteczne/
-http://ml.cdn.eurozet.pl/MELCHR.mp3
-#EXTINF:0 radio=true,Moje Polskie Radio - Radio Gwiazdka /świąteczne/
-http://stream3.polskieradio.pl:8538
-#EXTINF:0 radio=true,VOX FM - X-MAS /świąteczne/
-http://ic2.smcdn.pl/6020-1.mp3
-#EXTINF:0 radio=true,Radio Pasja - Muzyka Świąteczna /świąteczne/
-http://91.232.4.33:9460/stream
-#EXTINF:0 radio=true,OPEN FM Kolędy /świąteczne/
-http://stream.open.fm/89
-#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę /świąteczne/
-http://stream.open.fm/87
-#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
-http://stream.open.fm/88
-#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Hity /świąteczne/
-http://stream.open.fm/90
-#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę PL /świąteczne/
-http://stream.open.fm/56
-#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Rock /świąteczne/
-http://stream.open.fm/91
-#EXTINF:0 radio=true,Antyradio - X-mass /świąteczne/
-http://an.cdn.eurozet.pl/ANTXMA.mp3
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Święta z Polski.FM /świąteczne/
-http://198.27.127.246:5717
 #EXTINF:0 radio=true,Radio 1.7
 http://emisja.radio17.pl:8000/R17
 #EXTINF:0 radio=true,Radio 4Music
@@ -2025,6 +1987,8 @@ https://online.nasze.fm:8443/stream
 http://online.nasze.fm:9210/stream
 #EXTINF:0 radio=true,Radio Nasze Radio USA
 https://s2.radio.co/sff6a5ee11/listen
+#EXTINF:0 radio=true,Radio NaTak
+https://c30.radioboss.fm:18615/stream
 #EXTINF:0 radio=true,Radio Nestolatki
 http://s1.slotex.pl:7306
 #EXTINF:0 radio=true,Radio Newonce
@@ -2285,6 +2249,8 @@ https://s3.slotex.pl/shoutcast/7728/stream
 http://4stream.pl:18480
 #EXTINF:0 radio=true,Radio W Nienagannym Stylu
 http://51.255.8.139:8810/stream
+#EXTINF:0 radio=true,Radio Warta FM
+http://s1.slotex.pl:7446
 #EXTINF:0 radio=true,Radio Wasze Radio FM
 https://sluchaj.link:5443/wasze
 #EXTINF:0 radio=true,Radio Weekend
@@ -2309,8 +2275,6 @@ http://91.232.4.33:8186/stream
 http://gra.radiowom.pl:9120
 #EXTINF:0 radio=true,Radio WPNA Chicago
 https://s4.yesstreaming.net:17078/stream
-#EXTINF:0 radio=true,Radio Września FM
-http://s1.slotex.pl:7446
 #EXTINF:0 radio=true,Radio Wyczes
 https://radiowyczes.pl:8081/radio/8000/stream
 #EXTINF:0 radio=true,Radio Xmusic
