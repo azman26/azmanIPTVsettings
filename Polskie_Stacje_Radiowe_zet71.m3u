@@ -597,6 +597,8 @@ http://stream.open.fm/104
 http://stream.open.fm/78
 #EXTINF:0 radio=true,OPEN FM Radio Rak'n'Roll
 http://stream.open.fm/168
+#EXTINF:0 radio=true,OPEN FM Rap Sylwester
+http://stream.open.fm/356
 #EXTINF:0 radio=true,OPEN FM Reklama
 http://stream.open.fm/380
 #EXTINF:0 radio=true,OPEN FM Relaks
@@ -617,6 +619,12 @@ http://stream.open.fm/18
 http://stream.open.fm/60
 #EXTINF:0 radio=true,OPEN FM Spacer
 http://stream.open.fm/144
+#EXTINF:0 radio=true,OPEN FM Sylwester 70 80 90
+http://stream.open.fm/133
+#EXTINF:0 radio=true,OPEN FM Sylwester z Disco Polo
+http://stream.open.fm/132
+#EXTINF:0 radio=true,OPEN FM Sylwestrowe Hity
+http://stream.open.fm/71
 #EXTINF:0 radio=true,OPEN FM Szanty
 http://stream.open.fm/28
 #EXTINF:0 radio=true,OPEN FM Szkoła
