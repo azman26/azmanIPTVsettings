@@ -895,10 +895,10 @@
 #DESCRIPTION VOX FM - Disco 90
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6180-1.mp3:VOX FM - Disco Party
 #DESCRIPTION VOX FM - Disco Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6020-1.mp3:VOX FM - HIT'22
+#DESCRIPTION VOX FM - HIT'22
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6080-1.mp3:VOX FM - Najlepszy Koncert Świata
 #DESCRIPTION VOX FM - Najlepszy Koncert Świata
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6020-1.mp3:VOX FM - XMAS
-#DESCRIPTION VOX FM - XMAS
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/4000-1.mp3:Radio Plus - Polska
 #DESCRIPTION Radio Plus - Polska
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/plu-bdg.mp3:Radio Plus - Bydgoszcz
@@ -1183,6 +1183,8 @@
 #DESCRIPTION Radio Nedds24.pl - Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nedds24.pl%3a8120/radio.mp3:Radio Nedds24.pl - Disco
 #DESCRIPTION Radio Nedds24.pl - Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nedds24.pl%3a8140/radio.mp3:Radio Nedds24.pl - Po Polsku
+#DESCRIPTION Radio Nedds24.pl - Po Polsku
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4.radioparty.pl%3a8000/rp.mp3:Radio Party
 #DESCRIPTION Radio Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//djmixes.radioparty.pl%3a8035:Radio Party - Djmixes
@@ -1597,46 +1599,6 @@
 #DESCRIPTION Radio Warszawa /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/0n8y7mxcay8uv:Radio Zamość /katolickie/
 #DESCRIPTION Radio Zamość /katolickie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_koledy:RMF Kolędy /świąteczne/
-#DESCRIPTION RMF Kolędy /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_swieta:RMF Święta /świąteczne/
-#DESCRIPTION RMF Święta /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Świąteczne Nowości 2022 /świąteczne/
-#DESCRIPTION RMF Świąteczne Nowości 2022 /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_30_swieta:RMF Top 30 Święta /świąteczne/
-#DESCRIPTION RMF Top 30 Święta /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic /świąteczne/
-#DESCRIPTION RMF Classic /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zt.cdn.eurozet.pl/ZETKOL.mp3:ZET Kolędy /świąteczne/
-#DESCRIPTION ZET Kolędy /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zt.cdn.eurozet.pl/ZETSWI.mp3:ZET Na Święta /świąteczne/
-#DESCRIPTION ZET Na Święta /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ch.cdn.eurozet.pl/CHISWI.mp3:Chillizet Christmas /świąteczne/
-#DESCRIPTION Chillizet Christmas /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ml.cdn.eurozet.pl/MELCHR.mp3:Meloradio Christmas /świąteczne/
-#DESCRIPTION Meloradio Christmas /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8538:Moje Polskie Radio - Radio Gwiazdka /świąteczne/
-#DESCRIPTION Moje Polskie Radio - Radio Gwiazdka /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6020-1.mp3:VOX FM - X-MAS /świąteczne/
-#DESCRIPTION VOX FM - X-MAS /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9460/stream:Radio Pasja - Muzyka Świąteczna /świąteczne/
-#DESCRIPTION Radio Pasja - Muzyka Świąteczna /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/89:OPEN FM Kolędy /świąteczne/
-#DESCRIPTION OPEN FM Kolędy /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/87:OPEN FM Na Gwiazdkę /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/88:OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/90:OPEN FM Na Gwiazdkę Hity /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę Hity /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/56:OPEN FM Na Gwiazdkę PL /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę PL /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/91:OPEN FM Na Gwiazdkę Rock /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę Rock /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//an.cdn.eurozet.pl/ANTXMA.mp3:Antyradio - X-mass /świąteczne/
-#DESCRIPTION Antyradio - X-mass /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.27.127.246%3a5717:Radio Polski.FM Chicago - Święta z Polski.FM /świąteczne/
-#DESCRIPTION Radio Polski.FM Chicago - Święta z Polski.FM /świąteczne/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//emisja.radio17.pl%3a8000/R17:Radio 1.7
 #DESCRIPTION Radio 1.7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7102:Radio 4Music
@@ -2025,6 +1987,8 @@
 #DESCRIPTION Radio Nasze... nostalgicznie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.radio.co/sff6a5ee11/listen:Radio Nasze Radio USA
 #DESCRIPTION Radio Nasze Radio USA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c30.radioboss.fm%3a18615/stream:Radio NaTak
+#DESCRIPTION Radio NaTak
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7306:Radio Nestolatki
 #DESCRIPTION Radio Nestolatki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-eu-a.rcs.revma.com/fq577gymev8uv/38_33da0c6nt76602/playlist.m3u8:Radio Newonce
@@ -2285,6 +2249,8 @@
 #DESCRIPTION Radio Virgo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a8810/stream:Radio W Nienagannym Stylu
 #DESCRIPTION Radio W Nienagannym Stylu
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7446:Radio Warta FM
+#DESCRIPTION Radio Warta FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sluchaj.link%3a5443/wasze:Radio Wasze Radio FM
 #DESCRIPTION Radio Wasze Radio FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.weekendfm.pl%3a8000/weekendfm_najlepsza.mp3:Radio Weekend
@@ -2309,8 +2275,6 @@
 #DESCRIPTION Radio WoM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.yesstreaming.net%3a17078/stream:Radio WPNA Chicago
 #DESCRIPTION Radio WPNA Chicago
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7446:Radio Września FM
-#DESCRIPTION Radio Września FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiowyczes.pl%3a8081/radio/8000/stream:Radio Wyczes
 #DESCRIPTION Radio Wyczes
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7010/stream:Radio Xmusic
