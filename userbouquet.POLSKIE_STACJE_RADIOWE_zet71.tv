@@ -597,6 +597,8 @@
 #DESCRIPTION OPEN FM Punk Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/168:OPEN FM Radio Rak'n'Roll
 #DESCRIPTION OPEN FM Radio Rak'n'Roll
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/356:OPEN FM Rap Sylwester
+#DESCRIPTION OPEN FM Rap Sylwester
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/380:OPEN FM Reklama
 #DESCRIPTION OPEN FM Reklama
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/112:OPEN FM Relaks
@@ -617,6 +619,12 @@
 #DESCRIPTION OPEN FM Smooth Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/144:OPEN FM Spacer
 #DESCRIPTION OPEN FM Spacer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/133:OPEN FM Sylwester 70 80 90
+#DESCRIPTION OPEN FM Sylwester 70 80 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/132:OPEN FM Sylwester z Disco Polo
+#DESCRIPTION OPEN FM Sylwester z Disco Polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/71:OPEN FM Sylwestrowe Hity
+#DESCRIPTION OPEN FM Sylwestrowe Hity
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/28:OPEN FM Szanty
 #DESCRIPTION OPEN FM Szanty
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/347:OPEN FM Szkoła
