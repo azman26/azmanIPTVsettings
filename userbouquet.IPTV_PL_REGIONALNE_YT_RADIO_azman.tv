@@ -83,6 +83,8 @@
 #DESCRIPTION TVK Stella (Serwis Inf.)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//informacje.kolobrzeg.pl/video/wydarzenia.mp4:TV Kablowa Kołobrzeg (Serwis Inf)
 #DESCRIPTION TV Kablowa Kołobrzeg (Serwis Inf)
+#SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
+#DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCzk5x_PbhFKUoJx_HNTefDQ/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 4097:0:1:69:1:48:0:0:0:0:streamlink%3a//https%3a//www.twitch.tv/kanal10live:KANAŁ 10 (Radio NAKŁO)
@@ -141,12 +143,8 @@
 #DESCRIPTION Kanał Sportowy  (YT)
 #SERVICE 1:64:6:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
-#SERVICE 5002:0:1:3:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=17251711:Belsat Tv
-#DESCRIPTION Belsat Tv
 #SERVICE 5002:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag2/myStream/playlist.m3u8:TV Kaszuby
 #DESCRIPTION TV Kaszuby
-#SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
-#DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 4097:0:1:A648:C711:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UC2XrUJZZvY9DRoxGWVvOZSA/live:TVi Roland  (YT)
 #DESCRIPTION TVi Roland  (YT)
 #SERVICE 4097:0:1:1648:D40C:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCTKxkwZp-aWyNsV3vdV2EpA/live:Polskie Radio 24  (YT)
