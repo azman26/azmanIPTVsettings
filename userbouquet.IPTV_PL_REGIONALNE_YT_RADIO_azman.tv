@@ -35,6 +35,8 @@
 #DESCRIPTION TV Relax  (YT)
 #SERVICE 4097:0:1:58:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCL1u3cY7_nPjbZmKljCy_Cw/live:TV DAMI  (YT)
 #DESCRIPTION TV DAMI  (YT)
+#SERVICE 4097:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
+#DESCRIPTION Imperium TV Gliwice
 #SERVICE 4097:0:1:92:1:48:0:0:0:0:https%3a//stream6.nadaje.com%3a35308/live/stream-1/chunklist_w1534321118.m3u8:TV Wielkopolska
 #DESCRIPTION TV Wielkopolska
 #SERVICE 4097:0:1:84:1:48:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
@@ -53,7 +55,7 @@
 #DESCRIPTION TV Słowianin  (YT)
 #SERVICE 4097:0:1:54:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UC0vwjMGoZpwG_lLBuF6_ALA/live:TV Olsztyn  (YT)
 #DESCRIPTION TV Olsztyn  (YT)
-#SERVICE 4097:0:1:89:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=bDXyoddnL4U&ab_channel=TelewizjaNarew:TV Narew  (YT)
+#SERVICE 4097:0:1:89:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvlomza/live:TV Narew  (YT)
 #DESCRIPTION TV Narew  (YT)
 #SERVICE 4097:0:1:91CB:4324:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCENo4wEDe_59Bb8rGGMZl_w/live:HTS Słubice  (YT)
 #DESCRIPTION HTS Słubice  (YT)
@@ -85,6 +87,8 @@
 #DESCRIPTION TV Kablowa Kołobrzeg (Serwis Inf)
 #SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
+#SERVICE 4097:0:1:B0AF:C5F3:EC:0:0:0:0:https%3a//bsmbialogard.pl/live/index.m3u8:BTK
+#DESCRIPTION BTK
 #SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCzk5x_PbhFKUoJx_HNTefDQ/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 4097:0:1:69:1:48:0:0:0:0:streamlink%3a//https%3a//www.twitch.tv/kanal10live:KANAŁ 10 (Radio NAKŁO)
@@ -93,9 +97,9 @@
 #DESCRIPTION KANAŁ 10 (RMF FM)
 #SERVICE 4097:0:1:40:1:48:0:0:0:0:streamlink%3a//https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
 #DESCRIPTION WebCamera.pl
-#SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl Plaże
-#DESCRIPTION WebCamera.pl Plaże
-#SERVICE 4097:0:1:1090:3EE:1:C00000:0:0:0:https%3a//trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.m3u8:TV Trwam
+#SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:Najpiękniejsze Polskie Plaże (playlista)
+#DESCRIPTION Najpiękniejsze Polskie Plaże (playlista)
+#SERVICE 4097:0:1:1090:3EE:1:C00000:0:0:0:https%3a//trwamtv.cf.insyscd.net/trwamtv.live/cl01/out/u/trwam.m3u8:TV Trwam
 #DESCRIPTION TV Trwam
 #SERVICE 4097:0:1:82:1:48:0:0:0:0:https%3a//stream.hopechannel.pl/livetv/colombo/hope.m3u8:Hope Channel Polska
 #DESCRIPTION Hope Channel Polska
@@ -105,16 +109,16 @@
 #DESCRIPTION Dobre Media  (YT)
 #SERVICE 4097:0:1:2709:DABA:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCKAtPxfE2RAHSCwDABMMeAg/live:Jasna Góra  (YT)
 #DESCRIPTION Jasna Góra  (YT)
-#SERVICE 4097:0:1:100:0:48:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8:Czwórka PR (Visual Radio)
-#DESCRIPTION Czwórka PR (Visual Radio)
+#SERVICE 4097:0:1:100:0:48:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8:Polskie Radio Program4
+#DESCRIPTION Polskie Radio Program4
 #SERVICE 4097:0:1:101:0:48:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24_video/video_pr24.stream/chunklist_w1582075097.m3u8:Polskie Radio 24 (Visual Radio)
 #DESCRIPTION Polskie Radio 24 (Visual Radio)
-#SERVICE 4097:0:1:102:0:48:0:0:0:0:https%3a//d3smbzacjqrkz6.cloudfront.net/out/v1/77b67552aa6a4c51aa74dd5c0e3a1881/index_1.m3u8:Radio Kraków (Visual Radio)
-#DESCRIPTION Radio Kraków (Visual Radio)
-#SERVICE 4097:0:1:103:0:48:0:0:0:0:https%3a//1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8:Radio Wrocław (Visual Radio)
-#DESCRIPTION Radio Wrocław (Visual Radio)
-#SERVICE 4097:0:1:3204:B5D9:EC:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Radio Wrocław Kultura (Visual Radio)
-#DESCRIPTION Radio Wrocław Kultura (Visual Radio)
+#SERVICE 4097:0:1:102:0:48:0:0:0:0:https%3a//d3smbzacjqrkz6.cloudfront.net/out/v1/77b67552aa6a4c51aa74dd5c0e3a1881/index_1.m3u8:Radio Kraków
+#DESCRIPTION Radio Kraków
+#SERVICE 4097:0:1:103:0:48:0:0:0:0:https%3a//1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8:Wrocław - Radio Wrocław (m3u8)
+#DESCRIPTION Wrocław - Radio Wrocław (m3u8)
+#SERVICE 4097:0:1:3204:B5D9:EC:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Wrocław - Radio Wrocław Kultura (m3u8)
+#DESCRIPTION Wrocław - Radio Wrocław Kultura (m3u8)
 #SERVICE 4097:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
 #SERVICE 4097:0:1:3:0:48:0:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
@@ -155,8 +159,8 @@
 #DESCRIPTION Rzeczpospolita TV  (YT)
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
 #DESCRIPTION --- RADIO  PL  IP ---
-#SERVICE 4097:0:2:1091:3EE:1:C00000:0:0:0:https%3a//radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1:Radio Maryja
-#DESCRIPTION Radio Maryja
+#SERVICE 4097:0:2:1091:3EE:1:C00000:0:0:0:https%3a//radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1:Radio Maryja /katolickie/
+#DESCRIPTION Radio Maryja /katolickie/
 #SERVICE 4097:0:2:1419:5DC:13E:820000:0:0:0:https%3a//online.radiojasnagora.pl%3a9000/rjg:Radio JASNA GÓRA
 #DESCRIPTION Radio JASNA GÓRA
 #SERVICE 4097:0:2:1C9B:1CE8:71:820000:0:0:0:https%3a//stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8:Jedynka - PR
@@ -169,8 +173,8 @@
 #DESCRIPTION Czwórka - PR
 #SERVICE 4097:0:2:101:0:48:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24/pr24.sdp/chunklist_w544058526.m3u8:Polskie Radio 24
 #DESCRIPTION Polskie Radio 24
-#SERVICE 4097:0:2:0:154:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968:Polskie Radio Kierowców
-#DESCRIPTION Polskie Radio Kierowców
+#SERVICE 4097:0:2:0:154:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968:Moje Polskie Radio - Radio Kierowców
+#DESCRIPTION Moje Polskie Radio - Radio Kierowców
 #SERVICE 4097:0:2:0:153:0:0:0:0:0:https%3a//stream85.polskieradio.pl/live/rytm.sdp/chunklist_w1163479695.m3u8:Polskie Radio Chopin
 #DESCRIPTION Polskie Radio Chopin
 #SERVICE 4097:0:2:0:152:0:0:0:0:0:https%3a//stream85.polskieradio.pl/live/radio_dzieciom.sdp/chunklist_w1840082260.m3u8:Polskie Radio Dzieciom
@@ -185,8 +189,8 @@
 #DESCRIPTION UA Radio
 #SERVICE 4097:0:2:1C98:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
 #DESCRIPTION RMF FM
-#SERVICE 4097:0:2:1C9E:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxx
-#DESCRIPTION RMF Maxx
+#SERVICE 4097:0:2:1C9E:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF Maxxx
+#DESCRIPTION RMF Maxxx
 #SERVICE 4097:0:2:0:158:0:0:0:0:0:http%3a//ic1.smcdn.pl/2380-1.mp3:Radio ESKA
 #DESCRIPTION Radio ESKA
 #SERVICE 4097:0:2:0:192:0:0:0:0:0:http%3a//ic1.smcdn.pl/5380-1.mp3:Radio ESKA ROCK
@@ -197,115 +201,115 @@
 #DESCRIPTION Radio DLA CIEBIE
 #SERVICE 4097:0:2:0:157:0:0:0:0:0:http%3a//ic1.smcdn.pl/3990-1.mp3:VOX FM
 #DESCRIPTION VOX FM
-#SERVICE 4097:0:2:142A:5DC:13E:820000:0:0:0:http%3a//stream.open.fm/200:TOK FM
-#DESCRIPTION TOK FM
+#SERVICE 4097:0:2:142A:5DC:13E:820000:0:0:0:http%3a//stream.open.fm/200:Tok FM
+#DESCRIPTION Tok FM
 #SERVICE 4097:0:2:0:201:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/plu-waw.mp3:Radio PLUS
 #DESCRIPTION Radio PLUS
 #SERVICE 4097:0:2:1CA0:1CE8:71:820000:0:0:0:https%3a//pl2-play.adtonos.com/zote-przeboje:Radio ZŁOTE PRZEBOJE
 #DESCRIPTION Radio ZŁOTE PRZEBOJE
-#SERVICE 4097:0:2:0:160:0:0:0:0:0:http%3a//stream10.radioagora.pl%3a80/tuba38-1.mp3:Radio POGODA
-#DESCRIPTION Radio POGODA
+#SERVICE 4097:0:2:0:160:0:0:0:0:0:http%3a//stream10.radioagora.pl%3a80/tuba38-1.mp3:Radio Pogoda
+#DESCRIPTION Radio Pogoda
 #SERVICE 4097:0:2:1C9A:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
 #DESCRIPTION RMF Classic
 #SERVICE 4097:0:2:0:159:0:0:0:0:0:http%3a//ic1.smcdn.pl/1380-1.mp3:Radio SUPERNOVA
 #DESCRIPTION Radio SUPERNOVA
 #SERVICE 4097:0:2:0:202:0:0:0:0:0:http%3a//stream.open.fm/357:Radio 357
 #DESCRIPTION Radio 357
-#SERVICE 4097:0:2:0:161:0:0:0:0:0:http%3a//s1.slotex.pl%3a7350:Radio SILESIA
-#DESCRIPTION Radio SILESIA
+#SERVICE 4097:0:2:0:161:0:0:0:0:0:http%3a//s1.slotex.pl%3a7350:Radio Miłosne Serca Dwa
+#DESCRIPTION Radio Miłosne Serca Dwa
 #SERVICE 4097:0:2:1411:5DC:13E:820000:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-net.mp3:Meloradio
 #DESCRIPTION Meloradio
 #SERVICE 4097:0:2:1413:5DC:13E:820000:0:0:0:https%3a//an.cdn.eurozet.pl/ant-waw.mp3:Antyradio
 #DESCRIPTION Antyradio
-#SERVICE 4097:0:2:0:162:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio:ROCK Radio
-#DESCRIPTION ROCK Radio
+#SERVICE 4097:0:2:0:162:0:0:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio:Rock Radio
+#DESCRIPTION Rock Radio
 #SERVICE 4097:0:2:0:193:0:0:0:0:0:https%3a//primary.moodyradiostream.org/radiofest:Radio FEST
 #DESCRIPTION Radio FEST
-#SERVICE 4097:0:2:0:169:0:0:0:0:0:http%3a//s4.radioparty.pl%3a8000/rp.mp3:Radio PARTY
-#DESCRIPTION Radio PARTY
-#SERVICE 4097:0:2:0:164:0:0:0:0:0:http%3a//sluchaj.107i5.fm:Radio NAKŁO
-#DESCRIPTION Radio NAKŁO
-#SERVICE 4097:0:2:0:203:0:0:0:0:0:https%3a//stream.rcs.revma.com/ypqt40u0x1zuv:Radio NOWY ŚWIAT
-#DESCRIPTION Radio NOWY ŚWIAT
+#SERVICE 4097:0:2:0:169:0:0:0:0:0:http%3a//s4.radioparty.pl%3a8000/rp.mp3:Radio Party
+#DESCRIPTION Radio Party
+#SERVICE 4097:0:2:0:164:0:0:0:0:0:http%3a//sluchaj.107i5.fm:Radio Nakło
+#DESCRIPTION Radio Nakło
+#SERVICE 4097:0:2:0:203:0:0:0:0:0:https%3a//stream.rcs.revma.com/ypqt40u0x1zuv:Radio Nowy Świat
+#DESCRIPTION Radio Nowy Świat
 #SERVICE 4097:0:2:0:179:0:0:0:0:0:http%3a//stream.radio7.pl%3a443:Radio 7
 #DESCRIPTION Radio 7
-#SERVICE 4097:0:2:0:190:0:0:0:0:0:https%3a//stream1.dabcom.pl/rdn_mpl:RDN MAŁOPOLSKA
-#DESCRIPTION RDN MAŁOPOLSKA
-#SERVICE 4097:0:2:0:167:0:0:0:0:0:http%3a//stream3.nadaje.com%3a9000:MUZYCZNE Radio
-#DESCRIPTION MUZYCZNE Radio
+#SERVICE 4097:0:2:0:190:0:0:0:0:0:https%3a//stream1.dabcom.pl/rdn_mpl:Radio RDN Małopolska /katolickie/
+#DESCRIPTION Radio RDN Małopolska /katolickie/
+#SERVICE 4097:0:2:0:167:0:0:0:0:0:http%3a//stream3.nadaje.com%3a9000:Muzyczne Radio
+#DESCRIPTION Muzyczne Radio
 #SERVICE 4097:0:2:0:163:0:0:0:0:0:https%3a//stream.rcs.revma.com/062uq3z3kwzuv:Radio BIELSKO
 #DESCRIPTION Radio BIELSKO
-#SERVICE 4097:0:2:0:172:0:0:0:0:0:http%3a//stream4.nadaje.com%3a8578/poznan:Radio POZNAŃ
-#DESCRIPTION Radio POZNAŃ
+#SERVICE 4097:0:2:0:172:0:0:0:0:0:http%3a//stream4.nadaje.com%3a8578/poznan:Radio Poznań
+#DESCRIPTION Radio Poznań
 #SERVICE 4097:0:2:0:199:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7432/stream?sid=1:Radio DISCO PARTY
 #DESCRIPTION Radio DISCO PARTY
-#SERVICE 4097:0:2:0:166:0:0:0:0:0:http%3a//gra.radio.kielce.pl%3a8000/rk1:Radio KIELCE
-#DESCRIPTION Radio KIELCE
+#SERVICE 4097:0:2:0:166:0:0:0:0:0:http%3a//gra.radio.kielce.pl%3a8000/rk1:Radio Kielce
+#DESCRIPTION Radio Kielce
 #SERVICE 4097:0:2:0:204:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9111/stream:Radio ULTRA MAX
 #DESCRIPTION Radio ULTRA MAX
-#SERVICE 4097:0:2:0:165:0:0:0:0:0:http%3a//online.jard.pl%3a8744/jard1:Radio JARD
-#DESCRIPTION Radio JARD
+#SERVICE 4097:0:2:0:165:0:0:0:0:0:http%3a//online.jard.pl%3a8744/jard1:Radio Jard
+#DESCRIPTION Radio Jard
 #SERVICE 4097:0:2:1412:5DC:13E:820000:0:0:0:https%3a//ch.cdn.eurozet.pl/chi-net.mp3:ChilliZET
 #DESCRIPTION ChilliZET
-#SERVICE 4097:0:2:0:200:0:0:0:0:0:http%3a//193.0.98.66%3a8002:Radio KAMPUS
-#DESCRIPTION Radio KAMPUS
-#SERVICE 4097:0:2:0:205:0:0:0:0:0:http%3a//stream3.nadaje.com%3a9116/radiokrakow:Radio KRAKÓW
-#DESCRIPTION Radio KRAKÓW
-#SERVICE 4097:0:2:1C99:1CE8:71:820000:0:0:0:https%3a//stream.rcs.revma.com/1nnezw8qz7zuv:Radio MUZO.FM
-#DESCRIPTION Radio MUZO.FM
-#SERVICE 4097:0:2:0:197:0:0:0:0:0:http%3a//88.199.169.10%3a8000:Radio NIEPOKALANÓW
-#DESCRIPTION Radio NIEPOKALANÓW
-#SERVICE 4097:0:2:0:176:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8048:Radio KASZËBË
-#DESCRIPTION Radio KASZËBË
-#SERVICE 4097:0:2:0:174:0:0:0:0:0:http%3a//stream.open.fm/331:Radio KOLOR
-#DESCRIPTION Radio KOLOR
+#SERVICE 4097:0:2:0:200:0:0:0:0:0:http%3a//193.0.98.66%3a8002:Radio Kampus
+#DESCRIPTION Radio Kampus
+#SERVICE 4097:0:2:0:205:0:0:0:0:0:http%3a//stream3.nadaje.com%3a9116/radiokrakow:Radio Kraków
+#DESCRIPTION Radio Kraków
+#SERVICE 4097:0:2:1C99:1CE8:71:820000:0:0:0:https%3a//stream.rcs.revma.com/1nnezw8qz7zuv:Radio Muzo.fm
+#DESCRIPTION Radio Muzo.fm
+#SERVICE 4097:0:2:0:197:0:0:0:0:0:http%3a//88.199.169.10%3a8000:Radio Niepokalanów /katolickie/
+#DESCRIPTION Radio Niepokalanów /katolickie/
+#SERVICE 4097:0:2:0:176:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8048:Radio Kaszebe
+#DESCRIPTION Radio Kaszebe
+#SERVICE 4097:0:2:0:174:0:0:0:0:0:http%3a//stream.open.fm/331:Radio Kolor
+#DESCRIPTION Radio Kolor
 #SERVICE 4097:0:2:0:194:0:0:0:0:0:https%3a//stream0.radio90.pl%3a8001/radio90_128kbps_stereo.mp3:Radio 90
 #DESCRIPTION Radio 90
-#SERVICE 4097:0:2:0:206:0:0:0:0:0:http%3a//stream4.nadaje.com%3a9240/prw:Radio WROCŁAW
-#DESCRIPTION Radio WROCŁAW
-#SERVICE 4097:0:2:0:173:0:0:0:0:0:http%3a//stream4.nadaje.com%3a11986/prs:Radio SZCZECIN
-#DESCRIPTION Radio SZCZECIN
-#SERVICE 4097:0:2:0:182:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8022:Radio ZW
-#DESCRIPTION Radio ZW
+#SERVICE 4097:0:2:0:206:0:0:0:0:0:http%3a//stream4.nadaje.com%3a9240/prw:Radio Wrocław
+#DESCRIPTION Radio Wrocław
+#SERVICE 4097:0:2:0:173:0:0:0:0:0:http%3a//stream4.nadaje.com%3a11986/prs:Radio Szczecin
+#DESCRIPTION Radio Szczecin
+#SERVICE 4097:0:2:0:182:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8022:Radio Ziemi Wieluńskiej
+#DESCRIPTION Radio Ziemi Wieluńskiej
 #SERVICE 4097:0:2:0:189:0:0:0:0:0:https%3a//n05a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABf192TAYAZaZvi_pL0_lB3w:Radio EXPRESS
 #DESCRIPTION Radio EXPRESS
-#SERVICE 4097:0:2:0:181:0:0:0:0:0:http%3a//audio.radiownet.pl%3a8000/stream:Radio WNET
-#DESCRIPTION Radio WNET
-#SERVICE 4097:0:2:0:178:0:0:0:0:0:http%3a//stream4.nadaje.com%3a9212/radiokatowice:Radio KATOWICE
-#DESCRIPTION Radio KATOWICE
+#SERVICE 4097:0:2:0:181:0:0:0:0:0:http%3a//audio.radiownet.pl%3a8000/stream:Radio Wnet
+#DESCRIPTION Radio Wnet
+#SERVICE 4097:0:2:0:178:0:0:0:0:0:http%3a//stream4.nadaje.com%3a9212/radiokatowice:Radio Katowice /śląskie/
+#DESCRIPTION Radio Katowice /śląskie/
 #SERVICE 4097:0:2:0:191:0:0:0:0:0:https%3a//stream.radiolodz.toya.cloud/RadioLodz-1-LQ-0935616413-web.aac:Radio ŁÓDŹ
 #DESCRIPTION Radio ŁÓDŹ
-#SERVICE 4097:0:2:0:180:0:0:0:0:0:http%3a//62.133.128.22%3a8000:Radio FARA
-#DESCRIPTION Radio FARA
-#SERVICE 4097:0:2:0:186:0:0:0:0:0:http%3a//stream14.shoutcastsolutions.com%3a8057/256stream:SMOOTHJAZZ Radio
-#DESCRIPTION SMOOTHJAZZ Radio
-#SERVICE 4097:0:2:0:168:0:0:0:0:0:http%3a//213.73.25.178%3a7055:Radio OLSZTYN
-#DESCRIPTION Radio OLSZTYN
-#SERVICE 4097:0:2:0:196:0:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:NASZE Radio
-#DESCRIPTION NASZE Radio
-#SERVICE 4097:0:2:0:170:0:0:0:0:0:http%3a//streaming03.technologicznie.net%3a8765/radio_warszawa.mp3:Radio WARSZAWA
-#DESCRIPTION Radio WARSZAWA
+#SERVICE 4097:0:2:0:180:0:0:0:0:0:http%3a//62.133.128.22%3a8000:Radio FARA /katolickie/
+#DESCRIPTION Radio FARA /katolickie/
+#SERVICE 4097:0:2:0:186:0:0:0:0:0:http%3a//stream14.shoutcastsolutions.com%3a8057/256stream:Radio SmoothJazz.com.pl
+#DESCRIPTION Radio SmoothJazz.com.pl
+#SERVICE 4097:0:2:0:168:0:0:0:0:0:http%3a//213.73.25.178%3a7055:Radio Olsztyn
+#DESCRIPTION Radio Olsztyn
+#SERVICE 4097:0:2:0:196:0:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:Radio SIERADZ
+#DESCRIPTION Radio SIERADZ
+#SERVICE 4097:0:2:0:170:0:0:0:0:0:http%3a//streaming03.technologicznie.net%3a8765/radio_warszawa.mp3:Radio Warszawa /katolickie/
+#DESCRIPTION Radio Warszawa /katolickie/
 #SERVICE 4097:0:2:AC96:C97C:EC:0:0:0:0:https%3a//stream2.prw.pl%3a8001/radioram:Radio RAM
 #DESCRIPTION Radio RAM
-#SERVICE 4097:0:2:0:184:0:0:0:0:0:http%3a//s1.slotex.pl%3a7446:Radio WARTA
-#DESCRIPTION Radio WARTA
-#SERVICE 4097:0:2:0:171:0:0:0:0:0:http%3a//193.47.151.4%3a8070/1:Radio OPOLE
-#DESCRIPTION Radio OPOLE
+#SERVICE 4097:0:2:0:184:0:0:0:0:0:http%3a//s1.slotex.pl%3a7446:Radio Września FM
+#DESCRIPTION Radio Września FM
+#SERVICE 4097:0:2:0:171:0:0:0:0:0:http%3a//193.47.151.4%3a8070/1:Radio Opole
+#DESCRIPTION Radio Opole
 #SERVICE 4097:0:2:0:195:0:0:0:0:0:https%3a//stream.weekendfm.pl/weekendfm_najlepsza:WEEKEND FM
 #DESCRIPTION WEEKEND FM
 #SERVICE 4097:0:2:0:188:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7600/stream:Radio HEAVEN
 #DESCRIPTION Radio HEAVEN
-#SERVICE 4097:0:2:0:183:0:0:0:0:0:https%3a//streamer.radio.co/s93b51ccc1/listen:Radio NEWONCE
-#DESCRIPTION Radio NEWONCE
+#SERVICE 4097:0:2:0:183:0:0:0:0:0:https%3a//streamer.radio.co/s93b51ccc1/listen:Radio Newonce
+#DESCRIPTION Radio Newonce
 #SERVICE 4097:0:2:0:187:0:0:0:0:0:https%3a//play.radioftb.net%3a2020/stream/DiscoPolo:Radio FTB
 #DESCRIPTION Radio FTB
-#SERVICE 4097:0:2:0:177:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg1:Radio GDAŃSK
-#DESCRIPTION Radio GDAŃSK
+#SERVICE 4097:0:2:0:177:0:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg1:Radio Gdańsk
+#DESCRIPTION Radio Gdańsk
 #SERVICE 4097:0:2:0:185:0:0:0:0:0:https%3a//stream4.nadaje.com%3a15007/sudety24:Radio SUDETY 24
 #DESCRIPTION Radio SUDETY 24
 #SERVICE 4097:0:2:0:175:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350/stream:ROCKREACTOR
 #DESCRIPTION ROCKREACTOR
-#SERVICE 4097:0:2:D685:307E:EC:0:0:0:0:http%3a//s1.slotex.pl%3a7358:Radio VANESSA
-#DESCRIPTION Radio VANESSA
+#SERVICE 4097:0:2:D685:307E:EC:0:0:0:0:http%3a//s1.slotex.pl%3a7358:Radio Vanessa /śląskie/
+#DESCRIPTION Radio Vanessa /śląskie/
 #SERVICE 4097:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
