@@ -11,10 +11,12 @@
 #DESCRIPTION RMF 5 Łagodne Przeboje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_24:RMF 24.pl
 #DESCRIPTION RMF 24.pl
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_20lat:RMF 30 lat
-#DESCRIPTION RMF 30 lat
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2010:RMF 10s
 #DESCRIPTION RMF 10s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_20s:RMF 20s
+#DESCRIPTION RMF 20s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_20lat:RMF 30 lat
+#DESCRIPTION RMF 30 lat
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_50s:RMF 50s
 #DESCRIPTION RMF 50s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_60s:RMF 60s
@@ -99,6 +101,8 @@
 #DESCRIPTION RMF Lady Pank
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_latino:RMF Latino
 #DESCRIPTION RMF Latino
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_leniwa_niedziela:RMF Leniwa Niedziela
+#DESCRIPTION RMF Leniwa Niedziela
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_love:RMF Love
 #DESCRIPTION RMF Love
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_Michael_Jackson:RMF Michael Jackson
@@ -119,6 +123,8 @@
 #DESCRIPTION RMF Piosenka Literacka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_pobudka:RMF Pobudka
 #DESCRIPTION RMF Pobudka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_polska_alternatywa:RMF Polska Alternatywa
+#DESCRIPTION RMF Polska Alternatywa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_polska_prywatka:RMF Polska Prywatka
 #DESCRIPTION RMF Polska Prywatka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_trend_sounds:RMF Polski Hip Hop
@@ -177,6 +183,10 @@
 #DESCRIPTION RMF Top 2022 Disco polo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_ukraina:RMF Ukraina
 #DESCRIPTION RMF Ukraina
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_vibe:RMF Vibe
+#DESCRIPTION RMF Vibe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_w_kuchni:RMF W Kuchni
+#DESCRIPTION RMF W Kuchni
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_w_pracy:RMF W Pracy
 #DESCRIPTION RMF W Pracy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top4:RMF Wakacyjne Top 100
@@ -475,8 +485,8 @@
 #DESCRIPTION OPEN FM EDM Anthems
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness
 #DESCRIPTION OPEN FM Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Zima 2022
-#DESCRIPTION OPEN FM Freszzz: Zima 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz: Zima 2023
+#DESCRIPTION OPEN FM Freszzz: Zima 2023
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118:OPEN FM Giganci Rocka
 #DESCRIPTION OPEN FM Giganci Rocka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/364:OPEN FM Girl Power!
@@ -641,8 +651,8 @@
 #DESCRIPTION OPEN FM Top 20 PL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/99:OPEN FM Top 20 Rock
 #DESCRIPTION OPEN FM Top 20 Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/426:OPEN FM Top 2022 Hits
-#DESCRIPTION OPEN FM Top 2022 Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/426:OPEN FM Top 2023 Hits
+#DESCRIPTION OPEN FM Top 2023 Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/176:OPEN FM Top Wszech Czasów - Hip-Hop PL
 #DESCRIPTION OPEN FM Top Wszech Czasów - Hip-Hop PL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/152:OPEN FM Top Wszech Czasów - Polska
@@ -823,8 +833,8 @@
 #DESCRIPTION ESKA - G100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6030-1.mp3:ESKA - Impreska
 #DESCRIPTION ESKA - Impreska
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6190-1.mp3:ESKA - Rap 20
-#DESCRIPTION ESKA - Rap 20
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6190-1.mp3:ESKA - Rap20
+#DESCRIPTION ESKA - Rap20
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/5380-1.mp3:ESKA Rock
 #DESCRIPTION ESKA Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6060-1.mp3:ESKA Rock - Dobrze Rockuje
@@ -949,8 +959,6 @@
 #DESCRIPTION Moje Polskie Radio - Radio Chopin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8966:Moje Polskie Radio - Radio Dzieciom
 #DESCRIPTION Moje Polskie Radio - Radio Dzieciom
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8538:Moje Polskie Radio - Radio Gwiazdka
-#DESCRIPTION Moje Polskie Radio - Radio Gwiazdka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968:Moje Polskie Radio - Radio Kierowców
 #DESCRIPTION Moje Polskie Radio - Radio Kierowców
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8576:Moje Polskie Radio - Abba Non Stop
@@ -1117,18 +1125,12 @@
 #DESCRIPTION Radio InterStacja – Najnowsze Hity
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18290:Radio InterStacja - Oldies
 #DESCRIPTION Radio InterStacja - Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ruby.torontocast.com%3a1635/stream:Radio Max Italo - 80s Gold
-#DESCRIPTION Radio Max Italo - 80s Gold
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ruby.torontocast.com%3a1565/stream:Radio Max Italo - Euro Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fred.torontocast.com%3a2350/stream:Radio Max Italo - Euro Disco
 #DESCRIPTION Radio Max Italo - Euro Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ruby.torontocast.com%3a1365/stream:Radio Max Italo - In The Mix
-#DESCRIPTION Radio Max Italo - In The Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ruby.torontocast.com%3a1385/stream:Radio Max Italo - Italo Disco Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fred.torontocast.com%3a2325/stream:Radio Max Italo - Italo Disco Classic
 #DESCRIPTION Radio Max Italo - Italo Disco Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ruby.torontocast.com%3a1525/stream:Radio Max Italo - Italo Disco New Generation
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fred.torontocast.com%3a2335/stream:Radio Max Italo - Italo Disco New Generation
 #DESCRIPTION Radio Max Italo - Italo Disco New Generation
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ruby.torontocast.com%3a1615/stream:Radio Max Italo - Synthesizer Dance
-#DESCRIPTION Radio Max Italo - Synthesizer Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s0.radiohost.pl%3a8018/stream:Radio Italo4you
 #DESCRIPTION Radio Italo4you
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.italodance.pl%3a7694:Radio Italodance - Italo Dance
@@ -1631,6 +1633,8 @@
 #DESCRIPTION Radio Art Jaworzno
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream12.hosterion.pl/stream/radioaskfm:Radio AskFM
 #DESCRIPTION Radio AskFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//epanel.mediacp.eu%3a8551/stream:Radio Asymetria
+#DESCRIPTION Radio Asymetria
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7120:Radio Autsajder
 #DESCRIPTION Radio Autsajder
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc1.readycast.org%3a8030:Radio Avant
@@ -1963,6 +1967,8 @@
 #DESCRIPTION Radio Muzyczny Zakątek
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.admin-marcin.pl%3a7718:Radio Muzyka 24
 #DESCRIPTION Radio Muzyka 24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18306:Radio Muzyka Łączy Ludzi
+#DESCRIPTION Radio Muzyka Łączy Ludzi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18284:Radio Muzykomaniacy
 #DESCRIPTION Radio Muzykomaniacy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.nadaje.com%3a9004:Radio Nadaje - Chillout
@@ -2125,6 +2131,8 @@
 #DESCRIPTION Radio SDM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7556:Radio Sekret
 #DESCRIPTION Radio Sekret
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream9.nadaje.com%3a8002/live:Radio Serwis FM
+#DESCRIPTION Radio Serwis FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.75.34.231%3a8000/sfera.mp3:Radio Sfera
 #DESCRIPTION Radio Sfera
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.radiosigma.net/radio/8000/sigma_128kbps:Radio Sigma Fm
@@ -2171,6 +2179,8 @@
 #DESCRIPTION Radio Super FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7796/stream:Radio SuperStar
 #DESCRIPTION Radio SuperStar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc.noviktech.pl%3a8000:Radio Surprise
+#DESCRIPTION Radio Surprise
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosygnaly2.uni.opole.pl%3a8000/stream:Radio Sygnały
 #DESCRIPTION Radio Sygnały
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a11986/prs:Radio Szczecin
