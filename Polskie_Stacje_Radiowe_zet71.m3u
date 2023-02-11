@@ -11,10 +11,12 @@ http://195.150.20.7/rmf_4
 http://195.150.20.7/rmf_5
 #EXTINF:0 radio=true,RMF 24.pl
 http://195.150.20.7/rmf_24
-#EXTINF:0 radio=true,RMF 30 lat
-http://195.150.20.7/rmf_20lat
 #EXTINF:0 radio=true,RMF 10s
 http://195.150.20.7/rmf_2010
+#EXTINF:0 radio=true,RMF 20s
+http://195.150.20.7/rmf_20s
+#EXTINF:0 radio=true,RMF 30 lat
+http://195.150.20.7/rmf_20lat
 #EXTINF:0 radio=true,RMF 50s
 http://195.150.20.7/rmf_50s
 #EXTINF:0 radio=true,RMF 60s
@@ -99,6 +101,8 @@ http://195.150.20.7/rmf_ziom
 http://195.150.20.7/rmf_lady_pank
 #EXTINF:0 radio=true,RMF Latino
 http://195.150.20.7/rmf_latino
+#EXTINF:0 radio=true,RMF Leniwa Niedziela
+http://195.150.20.7/rmf_leniwa_niedziela
 #EXTINF:0 radio=true,RMF Love
 http://195.150.20.7/rmf_love
 #EXTINF:0 radio=true,RMF Michael Jackson
@@ -119,6 +123,8 @@ http://195.150.20.7/rmf_piosenka_filmowa
 http://195.150.20.7/rmf_piosenka_literacka
 #EXTINF:0 radio=true,RMF Pobudka
 http://195.150.20.7/rmf_pobudka
+#EXTINF:0 radio=true,RMF Polska Alternatywa
+http://195.150.20.7/rmf_polska_alternatywa
 #EXTINF:0 radio=true,RMF Polska Prywatka
 http://195.150.20.7/rmf_polska_prywatka
 #EXTINF:0 radio=true,RMF Polski Hip Hop
@@ -177,6 +183,10 @@ http://195.150.20.7/rmf_top_30_swieta
 http://195.150.20.7/rmf_top2
 #EXTINF:0 radio=true,RMF Ukraina
 http://195.150.20.7/rmf_ukraina
+#EXTINF:0 radio=true,RMF Vibe
+http://195.150.20.7/rmf_vibe
+#EXTINF:0 radio=true,RMF W Kuchni
+http://195.150.20.7/rmf_w_kuchni
 #EXTINF:0 radio=true,RMF W Pracy
 http://195.150.20.7/rmf_w_pracy
 #EXTINF:0 radio=true,RMF Wakacyjne Top 100
@@ -475,7 +485,7 @@ http://stream.open.fm/69
 http://stream.open.fm/361
 #EXTINF:0 radio=true,OPEN FM Fitness
 http://stream.open.fm/65
-#EXTINF:0 radio=true,OPEN FM Freszzz: Zima 2022
+#EXTINF:0 radio=true,OPEN FM Freszzz: Zima 2023
 http://stream.open.fm/39
 #EXTINF:0 radio=true,OPEN FM Giganci Rocka
 http://stream.open.fm/118
@@ -641,7 +651,7 @@ http://stream.open.fm/96
 http://stream.open.fm/97
 #EXTINF:0 radio=true,OPEN FM Top 20 Rock
 http://stream.open.fm/99
-#EXTINF:0 radio=true,OPEN FM Top 2022 Hits
+#EXTINF:0 radio=true,OPEN FM Top 2023 Hits
 http://stream.open.fm/426
 #EXTINF:0 radio=true,OPEN FM Top Wszech Czasów - Hip-Hop PL
 http://stream.open.fm/176
@@ -823,7 +833,7 @@ http://ic2.smcdn.pl/6130-1.mp3
 http://ic2.smcdn.pl/6120-1.mp3
 #EXTINF:0 radio=true,ESKA - Impreska
 http://ic2.smcdn.pl/6030-1.mp3
-#EXTINF:0 radio=true,ESKA - Rap 20
+#EXTINF:0 radio=true,ESKA - Rap20
 http://ic2.smcdn.pl/6190-1.mp3
 #EXTINF:0 radio=true,ESKA Rock
 http://ic2.smcdn.pl/5380-1.mp3
@@ -949,8 +959,6 @@ http://stream3.polskieradio.pl:8964
 http://stream3.polskieradio.pl:8960
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Dzieciom
 http://stream3.polskieradio.pl:8966
-#EXTINF:0 radio=true,Moje Polskie Radio - Radio Gwiazdka
-http://stream3.polskieradio.pl:8538
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Kierowców
 http://stream3.polskieradio.pl:8968
 #EXTINF:0 radio=true,Moje Polskie Radio - Abba Non Stop
@@ -1117,18 +1125,12 @@ http://4stream.pl:18180
 http://4stream.pl:18410
 #EXTINF:0 radio=true,Radio InterStacja - Oldies
 http://4stream.pl:18290
-#EXTINF:0 radio=true,Radio Max Italo - 80s Gold
-https://ruby.torontocast.com:1635/stream
 #EXTINF:0 radio=true,Radio Max Italo - Euro Disco
-https://ruby.torontocast.com:1565/stream
-#EXTINF:0 radio=true,Radio Max Italo - In The Mix
-https://ruby.torontocast.com:1365/stream
+https://fred.torontocast.com:2350/stream
 #EXTINF:0 radio=true,Radio Max Italo - Italo Disco Classic
-https://ruby.torontocast.com:1385/stream
+https://fred.torontocast.com:2325/stream
 #EXTINF:0 radio=true,Radio Max Italo - Italo Disco New Generation
-https://ruby.torontocast.com:1525/stream
-#EXTINF:0 radio=true,Radio Max Italo - Synthesizer Dance
-https://ruby.torontocast.com:1615/stream
+https://fred.torontocast.com:2335/stream
 #EXTINF:0 radio=true,Radio Italo4you
 http://s0.radiohost.pl:8018/stream
 #EXTINF:0 radio=true,Radio Italodance - Italo Dance
@@ -1631,6 +1633,8 @@ http://s1.slotex.pl:7238
 http://185.34.28.166:8000/
 #EXTINF:0 radio=true,Radio AskFM
 https://stream12.hosterion.pl/stream/radioaskfm
+#EXTINF:0 radio=true,Radio Asymetria
+https://epanel.mediacp.eu:8551/stream
 #EXTINF:0 radio=true,Radio Autsajder
 http://s1.slotex.pl:7120
 #EXTINF:0 radio=true,Radio Avant
@@ -1963,6 +1967,8 @@ https://s3.slotex.pl/shoutcast/7234/stream
 https://s3.slotex.pl/shoutcast/7336/stream
 #EXTINF:0 radio=true,Radio Muzyka 24
 http://s3.admin-marcin.pl:7718
+#EXTINF:0 radio=true,Radio Muzyka Łączy Ludzi
+http://4stream.pl:18306
 #EXTINF:0 radio=true,Radio Muzykomaniacy
 http://4stream.pl:18284
 #EXTINF:0 radio=true,Radio Nadaje - Chillout
@@ -2125,6 +2131,8 @@ http://s1.slotex.pl:7434
 http://4stream.pl:18226
 #EXTINF:0 radio=true,Radio Sekret
 http://s1.slotex.pl:7556
+#EXTINF:0 radio=true,Radio Serwis FM
+http://stream9.nadaje.com:8002/live
 #EXTINF:0 radio=true,Radio Sfera
 http://158.75.34.231:8000/sfera.mp3
 #EXTINF:0 radio=true,Radio Sigma Fm
@@ -2171,6 +2179,8 @@ http://4stream.pl:18320
 https://stream.super.fm:8443/superfm.mp3
 #EXTINF:0 radio=true,Radio SuperStar
 https://s3.slotex.pl/shoutcast/7796/stream
+#EXTINF:0 radio=true,Radio Surprise
+http://sc.noviktech.pl:8000
 #EXTINF:0 radio=true,Radio Sygnały
 http://radiosygnaly2.uni.opole.pl:8000/stream
 #EXTINF:0 radio=true,Radio Szczecin
