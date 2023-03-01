@@ -5,6 +5,10 @@
 #DESCRIPTION TVP 1 HD
 #SERVICE 5002:0:1:C2C:1E78:71:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp2hd/6KT2fDpYKhe5AQCA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 2 HD
 #DESCRIPTION TVP 2 HD
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- Rakuten TV ---
+#DESCRIPTION --- Rakuten TV ---
+#SERVICE 5002:0:1:267:1C53:EC:0:0:0:0:https%3a//b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/782a4d55-2593-44e7-95c4-6466a6006138/2.m3u8:Grjngo Westerny
+#DESCRIPTION Grjngo Westerny
 #SERVICE 1:64:5:0:0:0:0:0:0:0::--- Regionalne + YT ---
 #DESCRIPTION --- Regionalne + YT ---
 #SERVICE 5002:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
@@ -65,7 +69,7 @@
 #DESCRIPTION Świebodzin TV  (YT)
 #SERVICE 5002:0:1:57:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/TelewizjaZabrzePL/live:TV Zabrze  (YT)
 #DESCRIPTION TV Zabrze  (YT)
-#SERVICE 5002:0:1:50:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/TelewizjaGorzówteletop/live:TV Gorzów  (YT)
+#SERVICE 5002:0:1:50:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/TelewizjaGorz%252525C3%252525B3wteletop/live:TV Gorzów  (YT)
 #DESCRIPTION TV Gorzów  (YT)
 #SERVICE 5002:0:1:43:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
 #DESCRIPTION info PŁOCK  (YT)
@@ -315,5 +319,13 @@
 #DESCRIPTION ROCKREACTOR
 #SERVICE 5002:0:2:D685:307E:EC:0:0:0:0:http%3a//s1.slotex.pl%3a7358:Radio VANESSA
 #DESCRIPTION Radio VANESSA
+#SERVICE 4097:0:2:EBAC:32F8:EC:0:0:0:0:http%3a//stream.v4.radiovictoria.pl%3a8176:Radio VICTORIA
+#DESCRIPTION Radio VICTORIA
+#SERVICE 4097:0:2:516F:C7B8:EC:0:0:0:0:http%3a//stream4.nadaje.com%3a15274/live:Radio PARADA
+#DESCRIPTION Radio PARADA
+#SERVICE 4097:0:1:B695:205D:EC:0:0:0:0:http%3a//91.232.4.33%3a9680/stream:Polskie Radio Koszalin
+#DESCRIPTION Polskie Radio Koszalin
+#SERVICE 4097:0:1:D173:7C22:EC:0:0:0:0:https%3a//streaming.radio.lublin.pl%3a8843/128k:Radio Lublin
+#DESCRIPTION Radio Lublin
 #SERVICE 5002:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
