@@ -97,6 +97,8 @@ http://195.150.20.7/rmf_hot_new
 http://195.150.20.7/rmf_koledy
 #EXTINF:0 radio=true,RMF Klasyka Polskiego Hip Hopu
 http://195.150.20.7/rmf_ziom
+#EXTINF:0 radio=true,RMF Ladies
+http://195.150.20.7/rmf_ladies
 #EXTINF:0 radio=true,RMF Lady Pank
 http://195.150.20.7/rmf_lady_pank
 #EXTINF:0 radio=true,RMF Latino
@@ -1091,6 +1093,16 @@ https://an.cdn.eurozet.pl/ANTUNP.mp3
 https://an.cdn.eurozet.pl/ANTWOD.mp3
 #EXTINF:0 radio=true,Antyradio - X-mass
 https://an.cdn.eurozet.pl/ANTXMA.mp3
+#EXTINF:0 radio=true,Radio AskFM - Club
+https://streamcast.online:8284/stream
+#EXTINF:0 radio=true,Radio AskFM - Disco Polo
+https://streamcast.online:8290/stream
+#EXTINF:0 radio=true,Radio AskFM - Hip Hop
+https://streamcast.online:7284/stream
+#EXTINF:0 radio=true,Radio AskFM - Top Hits
+https://streamcast.online:8357/stream
+#EXTINF:0 radio=true,Radio AskFM - Vixa
+https://streamcast.online:8528/stream
 #EXTINF:0 radio=true,Radio Derf Blues Standard
 http://178.19.96.111:8011
 #EXTINF:0 radio=true,Radio Derf Bluesdelta
@@ -1225,34 +1237,6 @@ https://pl-play.adtonos.com/8102/radio-pogoda-pozna
 https://pl-play.adtonos.com/8102/radio-pogoda
 #EXTINF:0 radio=true,Radio Pogoda - Wrocław
 https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Live
-http://198.27.127.246/proxy/live?mp=/1
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Live 2
-https://stream.rcs.revma.com/43sksm6hrc9uv
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Charlie LuV Mix Show
-http://198.27.127.246:5120
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Jedziemy...
-http://198.27.127.246:5663
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Kraina Łagodności
-http://198.27.127.246:6082
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Muzyczne Klimaty Termanowskiego
-http://198.27.127.246:5441
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Muzyka Którą Pamiętacie '90
-http://198.27.127.246:5424
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Muzyka Z Oklaskami
-http://198.27.127.246:5479
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Muzyka Do Tupania
-http://198.27.127.246:5096
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Po Polsku 100%
-http://198.27.127.246:5491
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Polo FM
-http://198.27.127.246:5705
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Święta z Polski.FM
-http://198.27.127.246:5717
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Top 100 Polski
-http://198.27.127.246:5970
-#EXTINF:0 radio=true,Radio Polski.FM Chicago - Zabawa
-http://198.27.127.246:5751
 #EXTINF:0 radio=true,Rock Radio
 https://pl-play.adtonos.com/8101/rock-radio
 #EXTINF:0 radio=true,Rock Radio - Kraków
@@ -1631,8 +1615,6 @@ http://s1.slotex.pl:7512
 http://s1.slotex.pl:7238
 #EXTINF:0 radio=true,Radio Art Jaworzno
 http://185.34.28.166:8000/
-#EXTINF:0 radio=true,Radio AskFM
-https://stream12.hosterion.pl/stream/radioaskfm
 #EXTINF:0 radio=true,Radio Asymetria
 https://epanel.mediacp.eu:8551/stream
 #EXTINF:0 radio=true,Radio Autsajder
@@ -1737,6 +1719,8 @@ http://server34740.streamplus.de:12244
 https://streaming.transmisjaradio.net:2020/stream/radiodtr
 #EXTINF:0 radio=true,Radio Duch
 https://s1.slotex.pl/shoutcast/7174/stream
+#EXTINF:0 radio=true,Radio DzikieRadio
+https://ssl-1.radiohost.pl:11250/mp3
 #EXTINF:0 radio=true,Radio Echo Chicago
 http://198.27.127.246:5248
 #EXTINF:0 radio=true,Radio Eden Fm
@@ -1879,6 +1863,8 @@ http://stream.radiojar.com/xt0cf1v8938uv
 http://194.24.244.11:8000
 #EXTINF:0 radio=true,Radio Konin FM
 https://stream2.technologicznie.net/konin.fm
+#EXTINF:0 radio=true,Radio KSON
+http://192.109.240.78:8000/_a
 #EXTINF:0 radio=true,Radio Kujawy
 http://radio.kujawy.info:9940/1
 #EXTINF:0 radio=true,Radio Kultura
@@ -2007,8 +1993,8 @@ http://nowinki.pk.edu.pl:8000/nowinki
 https://stream.rcs.revma.com/ypqt40u0x1zuv
 #EXTINF:0 radio=true,Radio Nuta
 https://stream.rcs.revma.com/0004tehdxzzuv
-#EXTINF:0 radio=true,Radio Oborniki
-https://stream3.nadaje.com:8015/test
+#EXTINF:0 radio=true,Radio OIOM
+https://s3.slotex.pl/shoutcast/7240/stream
 #EXTINF:0 radio=true,Radio OKO
 http://stream2.nadaje.com:8094
 #EXTINF:0 radio=true,Radio Omega Plus FM
@@ -2055,6 +2041,8 @@ http://radiopolo.net:8000
 http://radiopolo.net:9000
 #EXTINF:0 radio=true,Radio PoloRadio
 https://stream.hitnet.live/radio/8000/radio.mp3
+#EXTINF:0 radio=true,Radio Polski.FM Chicago
+http://198.27.127.246/proxy/live?mp=/1
 #EXTINF:0 radio=true,Radio Pomost
 http://91.232.4.33:9209
 #EXTINF:0 radio=true,Radio POPradio
