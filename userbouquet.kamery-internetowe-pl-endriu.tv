@@ -311,7 +311,7 @@
 #DESCRIPTION Chałupy - Hotel Meridian (lookcam)
 #SERVICE 4097:0:1:80A7:614A:EC:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/chalupy_molo_obrotowa.stream/chunklist_w1744177842.m3u8:Chałupy - Przystań (m3u8)
 #DESCRIPTION Chałupy - Przystań (m3u8)
-#SERVICE 4097:0:1:3901:C2F9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//g0.ipcamlive.com/player/player.php?alias=5b72c96b08c8c%2525252525252525252520:Chałupy - Zatoka-Molo (ipcamlive)
+#SERVICE 4097:0:1:3901:C2F9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//g0.ipcamlive.com/player/player.php?alias=5b72c96b08c8c%252525252525252525252525252520:Chałupy - Zatoka-Molo (ipcamlive)
 #DESCRIPTION Chałupy - Zatoka-Molo (ipcamlive)
 #SERVICE 4097:0:1:8813:A16C:EC:0:0:0:0:https%3a//s1.worldcam.live%3a8082/unislaw/tracks-v1/mono.m3u8:Chełmno -  Unisław - Stacja narciarska Unisław Stok (m3u8)
 #DESCRIPTION Chełmno -  Unisław - Stacja narciarska Unisław Stok (m3u8)
@@ -1147,8 +1147,8 @@
 #DESCRIPTION Kalwaria Zebrzydowska - Rynek
 #SERVICE 4097:0:0:111:B3BD:EC:0:0:0:0:http%3a//hoktastream5.webcamera.pl/kalwariazeb_cam_e81271/kalwariazeb_cam_e81271.stream/playlist.m3u8:Kalwaria Zebrzydowska (m3u8)
 #DESCRIPTION Kalwaria Zebrzydowska (m3u8)
-#SERVICE 4097:0:1:DD86:1985:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:Kamery pogodowe1
-#DESCRIPTION Kamery pogodowe1
+#SERVICE 4097:0:1:DD86:1985:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
+#DESCRIPTION WebCamera.pl
 #SERVICE 4097:0:1:DD86:1985:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:Kamery pogodowe1
 #DESCRIPTION Kamery pogodowe1
 #SERVICE 4097:0:1:AB09:48BF:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_656df8/tv_cam_656df8.stream/chunks.m3u8:Kamery pogodowe2
@@ -2361,8 +2361,8 @@
 #DESCRIPTION Myślenice - Sport Arena
 #SERVICE 4097:0:1:9F88:608F:EC:0:0:0:0:http%3a//hoktastream1.webcamera.pl/myslenice_cam_cbe333/myslenice_cam_cbe333.stream/chunks.m3u8:Myślenice - Zarabie - Lodowisko (m3u8)
 #DESCRIPTION Myślenice - Zarabie - Lodowisko (m3u8)
-#SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:Najpiękniejsze Polskie Plaże (playlista)
-#DESCRIPTION Najpiękniejsze Polskie Plaże (playlista)
+#SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl  Plaże
+#DESCRIPTION WebCamera.pl  Plaże
 #SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:Najpiękniejsze Polskie Plaże (playlista)
 #DESCRIPTION Najpiękniejsze Polskie Plaże (playlista)
 #SERVICE 4097:0:1:CE76:8F83:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//youtu.be/caEt08RwQ2c:Namysłów - Jakubowice - Klub jeździecki Osadkowski (YT)
@@ -4387,10 +4387,10 @@
 #DESCRIPTION Wrocław - Panorama (m3u8)
 #SERVICE 4097:0:1:F8C:2A8A:EC:0:0:0:0:https%3a//streaming.airmax.pl/wroclawpanorama/tracks-v1/mono.m3u8:Wrocław - Panorama 3 (m3u8)
 #DESCRIPTION Wrocław - Panorama 3 (m3u8)
-#SERVICE 4097:0:1:153D:226D:EC:0:0:0:0:https%3a//1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8:Wrocław - Radio Wrocław (m3u8)
-#DESCRIPTION Wrocław - Radio Wrocław (m3u8)
-#SERVICE 4097:0:1:3204:B5D9:EC:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Wrocław - Radio Wrocław Kultura (m3u8)
-#DESCRIPTION Wrocław - Radio Wrocław Kultura (m3u8)
+#SERVICE 4097:0:1:153D:226D:EC:0:0:0:0:https%3a//1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8:Radio Wrocław (Visual Radio)
+#DESCRIPTION Radio Wrocław (Visual Radio)
+#SERVICE 4097:0:1:3204:B5D9:EC:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Radio Wrocław Kultura (Visual Radio)
+#DESCRIPTION Radio Wrocław Kultura (Visual Radio)
 #SERVICE 4097:0:1:1979:A796:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//balticlivecam.com/cameras/poland/wroclaw/wroclaw-panoramic-view/:Wrocław - Sky Tower - Panorama (balticlivecam)
 #DESCRIPTION Wrocław - Sky Tower - Panorama (balticlivecam)
 #SERVICE 4097:0:1:C22F:A501:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//g0.ipcamlive.com/player/player.php?alias=5cfe04d66026e&disabledownloadbutton=1:Wrocław - Sky Tower - Panorama (ipcamlive)
