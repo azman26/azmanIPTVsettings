@@ -35,7 +35,7 @@
 #DESCRIPTION TVP Info HD
 #SERVICE 4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51590674:TVP World
 #DESCRIPTION TVP World
-#SERVICE 4097:0:1:7F42:6B24:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53933426:TVP Wilno
+#SERVICE 4097:0:1:64:A11A:2268:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53933426:TVP Wilno
 #DESCRIPTION TVP Wilno
 #SERVICE 4097:0:16:5F:7001:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=58758689:UA%3aPershyj
 #DESCRIPTION UA:Pershyj
@@ -51,7 +51,7 @@
 #DESCRIPTION Alfa TVP
 #SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1773:TVP Polonia
 #DESCRIPTION TVP Polonia
-#SERVICE 4097:0:1:7D08:2BB2:EC:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=44418549:TVP Wilno
+#SERVICE 4097:0:1:64:A11A:2268:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=44418549:TVP Wilno
 #DESCRIPTION TVP Wilno
 #SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1455:TVP Info
 #DESCRIPTION TVP Info
