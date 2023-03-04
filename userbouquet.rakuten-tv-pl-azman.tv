@@ -1,0 +1,139 @@
+#NAME RAKUTEN TV PL (azman)
+#SERVICE 5002:0:1:CFCE:24E4:EC:0:0:0:0:https%3a//a4c5024989df44268e50935f65fb0d88.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Filmstream/3f400994-7b6e-41b9-959e-b2411a4f88e5/2.m3u8:Filmstream
+#DESCRIPTION Filmstream
+#SERVICE 5002:0:1:4004:93F3:EC:0:0:0:0:https%3a//lonestar-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lonestar-rakuten/CDN/1920x1080_4540800/index.m3u8:Lone Star
+#DESCRIPTION Lone Star
+#SERVICE 5002:0:1:31B9:1E5D:EC:0:0:0:0:https%3a//eaaa414db25b43a1b6bee085c61ea487.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Fawesome/e650a2cd-9fc3-4951-ace4-3c85b20f37f2/2.m3u8:Fawesome
+#DESCRIPTION Fawesome
+#SERVICE 5002:0:1:267:1C53:EC:0:0:0:0:https%3a//b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/782a4d55-2593-44e7-95c4-6466a6006138/2.m3u8:Grjngo Westerny
+#DESCRIPTION Grjngo Westerny
+#SERVICE 5002:0:1:1698:86BC:EC:0:0:0:0:https%3a//fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/b16847f7-423b-4e42-b813-4f6315717fe1/2.m3u8:Rakuten VIKI
+#DESCRIPTION Rakuten VIKI
+#SERVICE 5002:0:1:C70F:E0B4:EC:0:0:0:0:https%3a//6d185bb7400e446f89481c43da8a579c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ThePetCollective/8216e5b1-8d29-43a7-aee6-c50b0666a57e/2.m3u8:The Pet Collective
+#DESCRIPTION The Pet Collective
+#SERVICE 5002:0:1:7EBB:1D54:545F:1010101:0:0:0:https%3a//4b1a614d2fbc47b5843ee545489fc197.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FailArmy/30349869-0cab-404c-afc8-88ea9fb7510d/2.m3u8:FailArmy
+#DESCRIPTION FailArmy
+#SERVICE 5002:0:1:69A7:B0BA:EC:0:0:0:0:https%3a//3f01356fd70c4daba7be812b88108d0e.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome/7dd5b805-29a1-4c2c-bdad-12c98b2c509a/2.m3u8:People Are Awesome
+#DESCRIPTION People Are Awesome
+#SERVICE 5002:0:1:190F:EBC3:EC:0:0:0:0:https%3a//ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/a39dd570-f0ae-472c-b8ca-a472c2ea30c9/2.m3u8:AFV Family
+#DESCRIPTION AFV Family
+#SERVICE 5002:0:1:BF4D:DD0D:DD2:1010101:0:0:0:https%3a//03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/26637def-2efa-4351-8877-3b8b36e9d91e/0.m3u8:Revry
+#DESCRIPTION Revry
+#SERVICE 5002:0:1:A9BB:8784:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c47a44d7-dfd7-4bbf-aedd-321175a8be7a/5.m3u8:WIRED
+#DESCRIPTION WIRED
+#SERVICE 5002:0:1:F390:9A19:EC:0:0:0:0:https%3a//younghollywood-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-younghollywood-rakuten/CDN/1280x720_2780800/chunklist.m3u8:Young Hollywood
+#DESCRIPTION Young Hollywood
+#SERVICE 5002:0:1:10FE:4C56:EC:0:0:0:0:https%3a//3b28aa3fa5c44fe3b7bfae380ed7701f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_WatchMojo/66665853-f2b8-4806-af61-d0f0bf4a4a8b/2.m3u8:Watch Mojo
+#DESCRIPTION Watch Mojo
+#SERVICE 5002:0:1:C8E4:2DD3:EC:0:0:0:0:https%3a//a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/9576b4d8-116d-49ae-853e-2dc0a6fd60d6/2.m3u8:Cops
+#DESCRIPTION Cops
+#SERVICE 5002:0:1:49D6:8B81:EC:0:0:0:0:https%3a//shadesofblackrakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fusemedia-shadesofblack-rakutenA/CDN/1920x1080_4870800/index.m3u8:Shades of Black
+#DESCRIPTION Shades of Black
+#SERVICE 5002:0:1:8A0F:C0AC:EC:0:0:0:0:https%3a//1ed7111548254b7080611444388d3b50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_MAVTVMotorSportsNetwork/17cf4177-a8f7-40ae-b946-cba99e6f4ab8/2.m3u8:MAVTV Motorsports Network
+#DESCRIPTION MAVTV Motorsports Network
+#SERVICE 4097:0:1:7837:E881:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e19bd5e7-7410-49ff-99d0-438fc386632e/0.m3u8:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 4097:0:1:A241:4F4:EC:0:0:0:0:https%3a//b4208a07e52a4a4a8fc67d390ca70848.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FuelTV/ad4ff015-982c-4d51-9596-72284d98a4f3/1.m3u8:Fuel TV
+#DESCRIPTION Fuel TV
+#SERVICE 5002:0:1:5879:71BF:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/50d799fd-3bec-4b8e-a06b-8a1e1d17f71c/4.m3u8:Motorvision TV
+#DESCRIPTION Motorvision TV
+#SERVICE 5002:0:1:3448:11E9:EC:0:0:0:0:https%3a//9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/4bdc10be-807b-4b45-ad10-789c34e03ed6/2.m3u8:World Billiards TV
+#DESCRIPTION World Billiards TV
+#SERVICE 5002:0:1:4838:DD56:EC:0:0:0:0:https%3a//estv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-estv-rakuten/CDN/1920x1080_5420800/chunklist.m3u8:ESTV
+#DESCRIPTION ESTV
+#SERVICE 5002:0:1:8B37:E995:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/67f1d8ba-7c3c-4bc0-bded-5c1bc88265dc/5.m3u8:Hard Knocks Fighting Championship
+#DESCRIPTION Hard Knocks Fighting Championship
+#SERVICE 5002:0:1:ADD7:4F7D:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2209d32b-cf99-4dea-9b16-b37595a453a1/5.m3u8:Impact! Wrestling
+#DESCRIPTION Impact! Wrestling
+#SERVICE 5002:0:1:539A:147C:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c6d47d61-5548-480f-b5fa-590f427a5eeb/5.m3u8:PowerNation
+#DESCRIPTION PowerNation
+#SERVICE 5002:0:1:A4DD:5C6C:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/53a836be-ffb2-4a16-9e0c-3a91a8eb58f1/5.m3u8:USGA
+#DESCRIPTION USGA
+#SERVICE 5002:0:1:E8D5:CD2B:EC:0:0:0:0:https%3a//78f255ddade34833a0b258c0d40f9de1.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_FITE247/11913130-da2e-4f98-86f6-556b50c03317/2.m3u8:Fite TV
+#DESCRIPTION Fite TV
+#SERVICE 5002:0:1:2A58:CCC1:EC:0:0:0:0:https%3a//cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/063ae144-aa8c-4094-a608-7f2a209fb2a9/2.m3u8:Strongman Champions League
+#DESCRIPTION Strongman Champions League
+#SERVICE 5002:0:1:AE93:343B:EC:0:0:0:0:https%3a//68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/0ff6ba92-557f-400e-b9e4-f094c4095673/1.m3u8:Fashion TV
+#DESCRIPTION Fashion TV
+#SERVICE 5002:0:1:7CA:FE8E:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/7c3ae309-0ee7-478e-865b-9c097e15e188/5.m3u8:Glamour
+#DESCRIPTION Glamour
+#SERVICE 5002:0:1:A6A1:F5E7:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b05b1e57-7cbc-4404-baef-4ef65dc0fccf/5.m3u8:GQ
+#DESCRIPTION GQ
+#SERVICE 5002:0:1:CACC:9B6:EC:0:0:0:0:https%3a//a7f0dfe917e848a0acfebf5be36b5abd.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TheDesignNetwork/45887416-6a00-4cc4-9416-f39e84d133f4/2.m3u8:The Design Network
+#DESCRIPTION The Design Network
+#SERVICE 5002:0:1:CDB7:B268:EC:0:0:0:0:https%3a//27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/4334ef37-33bd-4427-ad5c-ed8d3a11adfa/2.m3u8:Travelxp
+#DESCRIPTION Travelxp
+#SERVICE 5002:0:1:B65C:8E6B:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/142f0a39-b1f2-4547-bd26-ef0b100fc739/5.m3u8:Vanity Fair
+#DESCRIPTION Vanity Fair
+#SERVICE 5002:0:1:3752:6C78:EC:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/05978869-499c-4dc6-ad84-17babba8661d/5.m3u8:Vogue
+#DESCRIPTION Vogue
+#SERVICE 5002:0:1:9EBD:58E5:EC:0:0:0:0:https%3a//5f536a2597034f248cb209c865837eef.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_LoveStoriesTV/11729a92-ce9c-4e69-b4ee-d3d7edaa6ffe/2.m3u8:Lovestories TV
+#DESCRIPTION Lovestories TV
+#SERVICE 5002:0:1:756A:1F24:EC:0:0:0:0:https%3a//77e440c4d43b41baa60615a84f1461ae.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GoUSATV/acfd73ac-0c19-476f-89e3-faed8f2c65e2/2.m3u8:GoUSA TV
+#DESCRIPTION GoUSA TV
+#SERVICE 5002:0:1:1255:82E:EC:0:0:0:0:https%3a//tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/1920x1080_5055600/chunklist.m3u8:Tastemade
+#DESCRIPTION Tastemade
+#SERVICE 5002:0:1:94E7:5BA3:EC:0:0:0:0:https%3a//bonappetit-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-condenast-rakuten/CDN/1920x1080_5491200/chunklist.m3u8:Bon Appetit
+#DESCRIPTION Bon Appetit
+#SERVICE 5002:0:1:310C:CD6C:EC:0:0:0:0:https%3a//ac84a060d6fd4f7eae260e2b21e468f5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_iFoodTV/46dfe8a9-b650-4d5b-a87f-3cb1b40be7be/2.m3u8:iFood.tv
+#DESCRIPTION iFood.tv
+#SERVICE 5002:0:1:5B23:6899:EC:0:0:0:0:https%3a//0d2253b43eca46a6b5d36fceebb07fc2.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_PlanetEat/b08a5126-4033-41d3-b573-1a32bf3021a5/2.m3u8:Planet Eat
+#DESCRIPTION Planet Eat
+#SERVICE 5002:0:1:8fdc:40d1:d1f8:1010101:0:0:0:https%3a//clubbingtv-rakuten.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clubbing TV
+#DESCRIPTION Clubbing TV
+#SERVICE 5002:0:1:4e1c:af08:89f:1010101:0:0:0:https%3a//qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest TV Jazz and Beyond
+#DESCRIPTION Qwest TV Jazz and Beyond
+#SERVICE 5002:0:1:fc36:5f93:93e2:1010101:0:0:0:https%3a//qwestmix-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestmix-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest TV Mix
+#DESCRIPTION Qwest TV Mix
+#SERVICE 5002:0:1:a226:80b4:b4cd:1010101:0:0:0:https%3a//dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Greatest Hits
+#DESCRIPTION Stingray Greatest Hits
+#SERVICE 4097:0:1:18E:6C4B:EC:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8:Stingray Hit List
+#DESCRIPTION Stingray Hit List
+#SERVICE 5002:0:1:F63:22C3:C3AC:1010101:0:0:0:https%3a//d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_at_stingraykaraoke_001.m3u8?ads.caid=stingraykaraoke&ads.csid=samsungtvplus_at_stingraykaraoke_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%2525252525252525257BTARGETOPT%2525252525252525257D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%2525252525252525257BPSID%2525252525252525257D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%2525252525252525257BTC_STRING%2525252525252525257D&ads._fw_h_x_country=AT&ads.appName=%2525252525252525257BAPP_NAME%2525252525252525257D&ads.xumo_contentId=1824&ads.xumo_contentName=stingraykaraoke&ads.xumo_providerId=1824&ads.xumo_providerName=stingraykaraoke&ads.xumo_channelId=9992552&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=stingraykaraoke_at&ads.tpcl=MIDROLL&ads._fw_app_store_url=%2525252525252525257BAPP_DOMAIN%2525252525252525257D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Karaoke
+#DESCRIPTION Stingray Karaoke
+#SERVICE 5002:0:1:8d12:41b:1b77:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=QelloConcerts&ads.csid=zeus_eu_qelloconcertsbystingray_ssai&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=187&ads.xumo_contentName=QelloConcertsByStingray&ads.xumo_providerId=187&ads.xumo_providerName=QelloConcertsByStingray&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=344&ads.rakuten_streaming_id=f8f7d67b-d98d-4dd5-a642-aa11af46c3a6&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991716&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qello Concerts by Stingray
+#DESCRIPTION Qello Concerts by Stingray
+#SERVICE 5002:0:1:abae:851f:1fc0:1010101:0:0:0:https%3a//qwest-classic-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Classical
+#DESCRIPTION Qwest Classical
+#SERVICE 5002:0:1:a94b:154e:4e40:1010101:0:0:0:https%3a//rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:In Spotlight
+#DESCRIPTION In Spotlight
+#SERVICE 5002:0:1:6037:6f88:8868:1010101:0:0:0:https%3a//mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Duck TV
+#DESCRIPTION Duck TV
+#SERVICE 5002:0:1:be6f:2ad1:d13e:1010101:0:0:0:https%3a//amg00377-kidzbop-kidzbop-rakuten-ur4iu.amagi.tv/hls/amagi_hls_data_rakutenAA-kidzbop-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KIDZ BOP
+#DESCRIPTION KIDZ BOP
+#SERVICE 5002:0:1:5f6f:75ea:ea1c:1010101:0:0:0:https%3a//c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV
+#DESCRIPTION Baby Shark TV
+#SERVICE 5002:0:1:3012:5c69:69d2:1010101:0:0:0:https%3a//brat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-brat-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brat TV
+#DESCRIPTION Brat TV
+#SERVICE 5002:0:1:14d3:c805:59e:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=CoolSchool&ads.csid=zeus_eu_coolschool_ssai&ads._fw_content_category=IAB6&ads._fw_content_genre=Family&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads.xumo_contentId=277&ads.xumo_contentName=CoolSchool&ads.xumo_providerId=277&ads.xumo_providerName=CoolSchool&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=172&ads.rakuten_streaming_id=f79fe404-e369-4768-97a0-89531669e264&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991707&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cool School
+#DESCRIPTION Cool School
+#SERVICE 5002:0:1:1fa6:10c4:c435:1010101:0:0:0:https%3a//cae65e8f5df44be1b3332d9ba0574138.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HappyKidsTV-1/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HappyKids
+#DESCRIPTION HappyKids
+#SERVICE 5002:0:1:E3F9:470D:DFE:1010101:0:0:0:https%3a//050831e2427a4101b90eadb8bd424266.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_SuperToonsTV/playlist.m3u8?ads.wurl_channel=660&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%2525252525252525257BPSID%2525252525252525257D&ads.targetopt=%2525252525252525257BTARGETOPT%2525252525252525257D&ads.app_domain=%2525252525252525257BAPP_DOMAIN%2525252525252525257D&ads.app_name=%2525252525252525257BAPP_NAME%2525252525252525257D&ads.consent=%2525252525252525257BTC_STRING%2525252525252525257D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SuperToons TV
+#DESCRIPTION SuperToons TV
+#SERVICE 5002:0:1:da36:53d5:d5d1:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=StingrayNatureScape&ads.csid=zeus_eu_stingrayambiance_ssai&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_providerId=188&ads.xumo_providerName=StingrayAmbiance&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1293&ads.rakuten_streaming_id=f591538a-3a0e-49ce-bda4-1d32ac55c2cd&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991717&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Naturescape
+#DESCRIPTION Stingray Naturescape
+#SERVICE 5002:0:1:e33:d5bb:bb55:1010101:0:0:0:https%3a//288cf8bdd0784900b402d3ae8bb4807a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Weatherspy/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Weather Spy
+#DESCRIPTION Weather Spy
+#SERVICE 5002:0:1:90dc:29cd:cd26:1010101:0:0:0:https%3a//wildearth-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wild Earth
+#DESCRIPTION Wild Earth
+#SERVICE 5002:0:1:207B:2316:16AB:1010101:0:0:0:https%3a//d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%2525252525252525257BPSID%2525252525252525257D&ads.targetopt=%2525252525252525257BTARGETOPT%2525252525252525257D&ads.app_domain=%2525252525252525257BAPP_DOMAIN%2525252525252525257D&ads.app_name=%2525252525252525257BAPP_NAME%2525252525252525257D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Documentary+
+#DESCRIPTION Documentary+
+#SERVICE 5002:0:1:fb77:ed56:5678:1010101:0:0:0:https%3a//answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beautiful Planet
+#DESCRIPTION Beautiful Planet
+#SERVICE 5002:0:1:8af6:74f9:f9d3:1010101:0:0:0:https%3a//rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EuroNews
+#DESCRIPTION EuroNews
+#SERVICE 5002:0:1:7a2b:c075:7540:1010101:0:0:0:https%3a//rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AfricaNews
+#DESCRIPTION AfricaNews
+#SERVICE 5002:0:1:f068:d7ef:efa9:1010101:0:0:0:https%3a//bbc982df73cf41ceb5511c0aba6df6c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ReutersNow/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reuters
+#DESCRIPTION Reuters
+#SERVICE 5002:0:1:c7d5:db69:69d7:1010101:0:0:0:https%3a//dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revry News
+#DESCRIPTION Revry News
+#SERVICE 5002:0:1:D0C7:F735:35F3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernews-samsungspain/playlist.m3u8?ads.did=%2525252525252525257BPSID%2525252525252525257D&ads.dnt=%2525252525252525257BTARGETOPT%2525252525252525257D&ads.app_domain=%2525252525252525257BAPP_DOMAIN%2525252525252525257D&ads.app_name=%2525252525252525257BAPP_NAME%2525252525252525257D&ads.tc_string=%2525252525252525257BTC_STRING%2525252525252525257D&ads.coppa=0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ticker News
+#DESCRIPTION Ticker News
+#SERVICE 5002:0:1:C8E:DEB8:B863:1010101:0:0:0:https%3a//f559b0b61c424ec891e6b7d9963cdd01.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_QuickTake/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake&ads.coppa=0&ads.psid=%2525252525252525257BPSID%2525252525252525257D&ads.targetopt=%2525252525252525257BTARGETOPT%2525252525252525257D&ads.app_domain=%2525252525252525257BAPP_DOMAIN%2525252525252525257D&ads.app_name=%2525252525252525257BAPP_NAME%2525252525252525257D&ads.consent=%2525252525252525257BTC_STRING%2525252525252525257D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals
+#DESCRIPTION Bloomberg Originals
+#SERVICE 5002:0:1:d2cb:e2b2:b238:1010101:0:0:0:https%3a//afda8ca41e7a407eb97239803281b088.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Bloomberg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Television
+#DESCRIPTION Bloomberg Television
+#SERVICE 5002:0:1:6591:e919:19cc:1010101:0:0:0:https%3a//d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Guardian
+#DESCRIPTION The Guardian
