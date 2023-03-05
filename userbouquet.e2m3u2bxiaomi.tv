@@ -59,8 +59,8 @@
 #DESCRIPTION Real Nosey (EU)
 #SERVICE 5002:0:1:7b48:7c1a:1a6e:1010101:0:0:0:https%3a//buffactorymedia-gameplay-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gameplay (EU)
 #DESCRIPTION Gameplay (EU)
-#SERVICE 5002:0:1:fb77:ed56:5678:1010101:0:0:0:https%3a//answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beautiful Planet
-#DESCRIPTION Beautiful Planet
+#SERVICE 5002:0:1:fb77:ed56:5678:1010101:0:0:0:https%3a//answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beautiful Planet (EU)
+#DESCRIPTION Beautiful Planet (EU)
 #SERVICE 5002:0:1:ba26:7264:640e:1010101:0:0:0:https%3a//answermedia-darkcorners-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dark Corners (EU)
 #DESCRIPTION Dark Corners (EU)
 #SERVICE 5002:0:1:6de8:4ab0:b06d:1010101:0:0:0:https%3a//answermedia-fite-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fite TV (EU)
