@@ -69,7 +69,7 @@
 #DESCRIPTION Świebodzin TV  (YT)
 #SERVICE 5002:0:1:57:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/TelewizjaZabrzePL/live:TV Zabrze  (YT)
 #DESCRIPTION TV Zabrze  (YT)
-#SERVICE 5002:0:1:50:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/TelewizjaGorz%252525252525252525252525252525C3%252525252525252525252525252525B3wteletop/live:TV Gorzów  (YT)
+#SERVICE 5002:0:1:50:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/TelewizjaGorz%25252525252525252525252525252525252525252525252525C3%25252525252525252525252525252525252525252525252525B3wteletop/live:TV Gorzów  (YT)
 #DESCRIPTION TV Gorzów  (YT)
 #SERVICE 5002:0:1:43:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
 #DESCRIPTION info PŁOCK  (YT)
@@ -225,7 +225,7 @@
 #DESCRIPTION Radio 7
 #SERVICE 4097:0:2:10:A22A:2268:0:0:0:0:https%3a//stream0.radio90.pl%3a8001/radio90_128kbps_stereo.mp3:Radio 90
 #DESCRIPTION Radio 90
-#SERVICE 4097:0:1:A628:61ED:EC:0:0:0:0:https%3a//streamcast.online%3a8357/stream:Radio ASK FM
+#SERVICE 4097:0:2:11:A22A:2268:0:0:0:0:https%3a//streamcast.online%3a8357/stream:Radio ASK FM
 #DESCRIPTION Radio ASK FM
 #SERVICE 4097:0:2:12:A22A:2268:0:0:0:0:http%3a//stream4.nadaje.com%3a15476/radiobialystok:Radio BIAŁYSTOK
 #DESCRIPTION Radio BIAŁYSTOK
