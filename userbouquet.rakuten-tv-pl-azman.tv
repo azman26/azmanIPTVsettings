@@ -1,12 +1,14 @@
 #NAME RAKUTEN TV PL (azman)
+#SERVICE 5002:0:1:239:A11A:2268:0:0:0:0:https%3a//103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/7fe0406a-552d-4457-96ee-bffacdcb3462/2.m3u8:BjgTjme
+#DESCRIPTION BjgTjme
+#SERVICE 5002:0:1:1F7:A11A:2268:0:0:0:0:https%3a//b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/782a4d55-2593-44e7-95c4-6466a6006138/2.m3u8:Grjngo Westerny
+#DESCRIPTION Grjngo Westerny
 #SERVICE 5002:0:1:1F4:A11A:2268:0:0:0:0:https%3a//spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmstream
 #DESCRIPTION Filmstream
 #SERVICE 5002:0:1:1F5:A11A:2268:0:0:0:0:https%3a//lonestar-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lonestar-rakuten/CDN/1920x1080_4540800/index.m3u8:Lone Star
 #DESCRIPTION Lone Star
 #SERVICE 5002:0:1:1F6:A11A:2268:0:0:0:0:https%3a//eaaa414db25b43a1b6bee085c61ea487.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Fawesome/e650a2cd-9fc3-4951-ace4-3c85b20f37f2/2.m3u8:Fawesome
 #DESCRIPTION Fawesome
-#SERVICE 5002:0:1:1F7:A11A:2268:0:0:0:0:https%3a//b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/782a4d55-2593-44e7-95c4-6466a6006138/2.m3u8:Grjngo Westerny
-#DESCRIPTION Grjngo Westerny
 #SERVICE 5002:0:1:1F8:A11A:2268:0:0:0:0:https%3a//fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten VIKI
 #DESCRIPTION Rakuten VIKI
 #SERVICE 5002:0:1:1F9:A11A:2268:0:0:0:0:https%3a//6d185bb7400e446f89481c43da8a579c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ThePetCollective/playlist.m3u8:The Pet Collective
