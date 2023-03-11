@@ -75,7 +75,7 @@
 #DESCRIPTION TVP3 Katowice
 #SERVICE 4097:0:16:C:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813011:TVP3 Kielce
 #DESCRIPTION TVP3 Kielce
-#SERVICE 4097:0:1:94BA:1B34:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813024:TVP3 Kraków
+#SERVICE 4097:0:16:D:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813024:TVP3 Kraków
 #DESCRIPTION TVP3 Kraków
 #SERVICE 4097:0:16:E:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813060:TVP3 Lublin
 #DESCRIPTION TVP3 Lublin
@@ -87,7 +87,7 @@
 #DESCRIPTION TVP3 Opole
 #SERVICE 4097:0:1:C4CD:5F92:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813084:TVP3 Poznań
 #DESCRIPTION TVP3 Poznań
-#SERVICE 4097:0:1:C1F:F624:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813059:TVP3 Rzeszów
+#SERVICE 4097:0:16:13:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813059:TVP3 Rzeszów
 #DESCRIPTION TVP3 Rzeszów
 #SERVICE 4097:0:1:C1FF:6235:EC:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813052:TVP3 Szczecin
 #DESCRIPTION TVP3 Szczecin
@@ -119,7 +119,7 @@
 #DESCRIPTION TVP 3 Katowice
 #SERVICE 4097:0:16:C:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce:TVP 3 Kielce
 #DESCRIPTION TVP 3 Kielce
-#SERVICE 4097:0:1:2081:8963:EC:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow:TVP 3 Kraków
+#SERVICE 4097:0:16:D:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow:TVP 3 Kraków
 #DESCRIPTION TVP 3 Kraków
 #SERVICE 4097:0:16:E:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin:TVP 3 Lublin
 #DESCRIPTION TVP 3 Lublin
@@ -131,7 +131,7 @@
 #DESCRIPTION TVP 3 Opole
 #SERVICE 4097:0:1:FB4E:9412:EC:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan:TVP 3 Poznań
 #DESCRIPTION TVP 3 Poznań
-#SERVICE 4097:0:1:54E1:1BE4:EC:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow:TVP 3 Rzeszów
+#SERVICE 4097:0:16:13:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow:TVP 3 Rzeszów
 #DESCRIPTION TVP 3 Rzeszów
 #SERVICE 4097:0:1:F1BD:4849:EC:0:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin:TVP 3 Szczecin
 #DESCRIPTION TVP 3 Szczecin
