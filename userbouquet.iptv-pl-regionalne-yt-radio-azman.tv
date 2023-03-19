@@ -13,6 +13,8 @@
 #DESCRIPTION Grjngo Westerny
 #SERVICE 1:64:5:0:0:0:0:0:0:0::--- Regionalne + YT ---
 #DESCRIPTION --- Regionalne + YT ---
+#SERVICE 4097:0:1:DB7:2D50:13E:820000:0:0:0:https%3a//vs822.vcdn.biz/b62690214391d2de0ca8d4cc4543e343_megogo/live/hls/dscte/2/advtracker/1/b/4000/u_sid/0/o/156751011/rsid/b683952d-e291-4280-838f-c22d7c13324c/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/85.222.92.58*asn/type.live/chunklist-sid3511581567717388500-b4000000.m3u8:Music Box Polska
+#DESCRIPTION Music Box Polska
 #SERVICE 5002:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
 #DESCRIPTION 4Fun TV
 #SERVICE 4097:0:16:57:E1:D58:EEEE0000:0:0:0:https%3a//tvreg.klemit.net/regionalna/stream/index.m3u8:TV Regionalna
