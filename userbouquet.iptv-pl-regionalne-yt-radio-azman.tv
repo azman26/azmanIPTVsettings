@@ -23,7 +23,7 @@
 #DESCRIPTION Twoja TV
 #SERVICE 5002:0:1:6:1:48:0:0:0:0:http%3a//stream.sferatv.pl%3a1935/sferalive/smil%3asferalive.smil/chunklist_w1722636790_b1128000_slpl.m3u8:Sfera TV
 #DESCRIPTION Sfera TV
-#SERVICE 5002:0:1:7:1:48:0:0:0:0:https%3a//5cce8c6f0e84c.streamlock.net/LiveCast/smil%3aPlayStream9.smil/playlist.m3u8:Asta TV HD
+#SERVICE 4097:0:1:7:1:48:0:0:0:0:https%3a//5cce8c6f0e84c.streamlock.net/LiveCast/smil%3aPlayStream9.smil/playlist.m3u8:Asta TV HD
 #DESCRIPTION Asta TV HD
 #SERVICE 5002:0:1:13:1:48:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/_definst_/dlaCiebieTv/playlist.m3u8:Dla Ciebie TV
 #DESCRIPTION Dla Ciebie TV
@@ -95,6 +95,8 @@
 #DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 5002:0:1:B0AF:C5F3:EC:0:0:0:0:https%3a//bsmbialogard.pl/live/index.m3u8:BTK
 #DESCRIPTION BTK
+#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV  (YT)
+#DESCRIPTION UAM.TV  (YT)
 #SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UrzadTransportuKolejowego/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 5002:0:1:69:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10live:KANAŁ 10 (Radio NAKŁO)
@@ -125,11 +127,13 @@
 #DESCRIPTION Radio Wrocław (Visual Radio)
 #SERVICE 4097:0:1:3204:B5D9:EC:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Radio Wrocław Kultura (Visual Radio)
 #DESCRIPTION Radio Wrocław Kultura (Visual Radio)
+#SERVICE 4097:0:1:B90:1F52:EC:0:0:0:0:https%3a//video.raciborz24.pl/hls/test_high/index.m3u8:Racibórz 24 (Vanessa FM)
+#DESCRIPTION Racibórz 24 (Vanessa FM)
 #SERVICE 5002:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
 #DESCRIPTION Belsat Tv
 #SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@belsat_news/live:Belsat TV  (YT)
 #DESCRIPTION Belsat TV  (YT)
-#SERVICE 5002:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8:TV Republika
+#SERVICE 5002:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live-tvrepublika-6000k.m3u8:TV Republika
 #DESCRIPTION TV Republika
 #SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjawPolsce/live:wPolsce.pl  (YT)
 #DESCRIPTION wPolsce.pl  (YT)
@@ -151,8 +155,6 @@
 #DESCRIPTION --- CHWILOWO OFFLINE ---
 #SERVICE 4097:0:1:C5B:918F:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LPUTVpl/live:LPU TV  (YT)
 #DESCRIPTION LPU TV  (YT)
-#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV  (YT)
-#DESCRIPTION UAM.TV  (YT)
 #SERVICE 5002:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
 #SERVICE 5002:0:1:32D2:190:13E:820000:0:0:0:http%3a//5.254.16.186/NutaTV/index.m3u8:NUTA TV
