@@ -77,7 +77,7 @@
 #DESCRIPTION --- TVP Stream ---
 #SERVICE 4097:0:16:5D:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=52451253:TVP Historia 2
 #DESCRIPTION TVP Historia 2
-#SERVICE 4097:0:16:5E:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=51121199:TVP Kultura 2
+#SERVICE 4097:0:16:5E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=51121199:TVP Kultura 2
 #DESCRIPTION TVP Kultura 2
 #SERVICE 4097:0:16:5C:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=51466516:TVP ABC 2
 #DESCRIPTION TVP ABC 2
