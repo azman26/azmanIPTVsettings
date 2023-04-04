@@ -1,0 +1,41 @@
+#NAME XIAOMI TV+ PL (azman)
+#SERVICE 4097:0:1:E086:2C37:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2885:Outer Vision Channel
+#DESCRIPTION Outer Vision Channel
+#SERVICE 5002:0:1:F820:47CF:CF5A:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196a9661d310bf925e02613.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Christmas Classics
+#DESCRIPTION Christmas Classics
+#SERVICE 4097:0:1:3E5D:F837:EC:0:0:0:0:https%3a//newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8:Rakuten Viki
+#DESCRIPTION Rakuten Viki
+#SERVICE 5002:0:1:C89C:B539:394C:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Space Channel
+#DESCRIPTION Space Channel
+#SERVICE 4097:0:1:EB8:5C3A:EC:0:0:0:0:https%3a//s-plus-vivalive.evrideo.tv/91cf8e90-ebe5-48b4-a0ad-6d001d27d479_1000012093_HLS/master.m3u8:S+
+#DESCRIPTION S+
+#SERVICE 4097:0:1:BE3A:88B7:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8:Quietude 4K
+#DESCRIPTION Quietude 4K
+#SERVICE 4097:0:1:2DF4:D31B:EC:0:0:0:0:https%3a//escape-vivalive.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8:Escape TV
+#DESCRIPTION Escape TV
+#SERVICE 4097:0:1:F88F:CE67:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2898:Heritage Tourism
+#DESCRIPTION Heritage Tourism
+#SERVICE 4097:0:1:2FFE:E91:EC:0:0:0:0:https%3a//lol-tv-vivalive.evrideo.tv/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8:LOL TV
+#DESCRIPTION LOL TV
+#SERVICE 4097:0:1:966A:1CFD:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3082:Go Traveler
+#DESCRIPTION Go Traveler
+#SERVICE 4097:0:1:8536:4381:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TgkXUZUMTBW5tkd-vZ5v9w/master.m3u8:Volty
+#DESCRIPTION Volty
+#SERVICE 4097:0:1:438:708B:EC:0:0:0:0:https%3a//linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8:Wired2Fish
+#DESCRIPTION Wired2Fish
+#SERVICE 5002:0:1:3610:67D2:D2E4:1010101:0:0:0:https%3a//stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=BHaTYUJDMfSCZAz8amY3&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=BHaTYUJDMfSCZAz8amY3&custom_7=5f07e9fdf313eb0041bbecda&is_lat=0:Cooking Panda
+#DESCRIPTION Cooking Panda
+#SERVICE 4097:0:1:4E7A:BD99:EC:0:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=sadsea_tn:Treehouse Gaming
+#DESCRIPTION Treehouse Gaming
+#SERVICE 4097:0:1:207:A11A:2268:0:0:0:0:https%3a//newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8:World Billiards TV
+#DESCRIPTION World Billiards TV
+#SERVICE 5002:0:1:71D5:76CB:CB07:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Pro Wrestling TV
+#DESCRIPTION Pro Wrestling TV
+#SERVICE 4097:0:1:AD74:2BC:EC:0:0:0:0:https%3a//linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8:CampusLore Sports
+#DESCRIPTION CampusLore Sports
+#SERVICE 4097:0:1:ECCE:FB4B:EC:0:0:0:0:https%3a//api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=17704&partner=littlstar:Party Tyme Karaoke
+#DESCRIPTION Party Tyme Karaoke
+#SERVICE 4097:0:1:444C:55:EC:0:0:0:0:https%3a//newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8:NEW KPOP
+#DESCRIPTION NEW KPOP
+#SERVICE 4097:0:1:B6CC:67FB:EC:0:0:0:0:https%3a//newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8:YG TV
+#DESCRIPTION YG TV
