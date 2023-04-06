@@ -13,13 +13,13 @@
 #DESCRIPTION EuroNews 11 (EU)
 #SERVICE 5002:0:1:622c:f8cf:cf4d:1010101:0:0:0:https%3a//rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EuroNews 12 (EU)
 #DESCRIPTION EuroNews 12 (EU)
-#SERVICE 5002:0:1:87f6:2f5d:5d42:1010101:0:0:0:https%3a//rakuten-euronews-13-eu.rakuten.wurl.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EuroNews 13 (EU)
+#SERVICE 5002:0:1:87f6:2f5d:5d42:1010101:0:0:0:https%3a//rakuten-euronews-13-eu.rakuten.wurl.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EuroNews 13 (EU)
 #DESCRIPTION EuroNews 13 (EU)
 #SERVICE 5002:0:1:2d4d:3ee5:e5ce:1010101:0:0:0:https%3a//rakuten-guardian-1-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Guardian (EU)
 #DESCRIPTION Guardian (EU)
 #SERVICE 5002:0:1:d6e0:568c:8c95:1010101:0:0:0:https%3a//hollywire-samsung-eu.rakuten.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hollywire (EU)
 #DESCRIPTION Hollywire (EU)
-#SERVICE 5002:0:1:91a9:951e:1ee0:1010101:0:0:0:https%3a//groupnine-popsugar-rakuten.amagi.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Popsugar
+#SERVICE 5002:0:1:91a9:951e:1ee0:1010101:0:0:0:https%3a//groupnine-popsugar-rakuten.amagi.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Popsugar
 #DESCRIPTION Popsugar
 #SERVICE 5002:0:1:7a2b:c075:7540:1010101:0:0:0:https%3a//rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AfricaNews (EU)
 #DESCRIPTION AfricaNews (EU)
@@ -59,7 +59,7 @@
 #DESCRIPTION Ifood.tv (EU)
 #SERVICE 5002:0:1:38a4:69de:dea3:1010101:0:0:0:https%3a//parademedia-bite-rakuten.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BITE
 #DESCRIPTION BITE
-#SERVICE 5002:0:1:69f0:9119:1943:1010101:0:0:0:https%3a//tastemade-tdint-rakuten.amagi.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade (International)
+#SERVICE 5002:0:1:69f0:9119:1943:1010101:0:0:0:https%3a//tastemade-tdint-rakuten.amagi.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade (International)
 #DESCRIPTION Tastemade (International)
 #SERVICE 5002:0:1:3d1:b8a1:a1fc:1010101:0:0:0:https%3a//tastemade-es8tm-rakuten.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade (ES)
 #DESCRIPTION Tastemade (ES)
@@ -75,11 +75,11 @@
 #DESCRIPTION BBC Travel (DE)
 #SERVICE 5002:0:1:150a:be8c:8c5e:1010101:0:0:0:https%3a//bbceu-food-1-de.samsung.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Food (DE)
 #DESCRIPTION BBC Food (DE)
-#SERVICE 5002:0:1:a404:f481:8116:1010101:0:0:0:https%3a//bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Drama (FR)
+#SERVICE 5002:0:1:a404:f481:8116:1010101:0:0:0:https%3a//bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Drama (FR)
 #DESCRIPTION BBC Drama (FR)
 #SERVICE 5002:0:1:26e0:4439:39e3:1010101:0:0:0:https%3a//bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Doctor Who (FR)
 #DESCRIPTION BBC Doctor Who (FR)
-#SERVICE 5002:0:1:ddce:33f0:f01b:1010101:0:0:0:https%3a//bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Drama (IT)
+#SERVICE 5002:0:1:ddce:33f0:f01b:1010101:0:0:0:https%3a//bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Drama (IT)
 #DESCRIPTION BBC Drama (IT)
 #SERVICE 5002:0:1:575f:87ca:ca85:1010101:0:0:0:https%3a//bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Doctor Who (IT)
 #DESCRIPTION BBC Doctor Who (IT)
@@ -259,7 +259,7 @@
 #DESCRIPTION Rakuten Action 12 (EU)
 #SERVICE 5002:0:1:a263:f7f7:f759:1010101:0:0:0:https%3a//rakuten-action-13-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action 13 (EU)
 #DESCRIPTION Rakuten Action 13 (EU)
-#SERVICE 5002:0:1:1e0c:bb95:95ed:1010101:0:0:0:https%3a//rakuten-comedy-8-eu.rakuten.wurl.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy 8 (EU)
+#SERVICE 5002:0:1:1e0c:bb95:95ed:1010101:0:0:0:https%3a//rakuten-comedy-8-eu.rakuten.wurl.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy 8 (EU)
 #DESCRIPTION Rakuten Comedy 8 (EU)
 #SERVICE 5002:0:1:e1ad:688f:8fd6:1010101:0:0:0:https%3a//rakuten-comedy-9-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy 9 (EU) Danish Subs
 #DESCRIPTION Rakuten Comedy 9 (EU) Danish Subs
@@ -307,7 +307,7 @@
 #DESCRIPTION Bloomberg (EU)
 #SERVICE 5002:0:1:2224:6118:18b6:1010101:0:0:0:https%3a//bloomberg-quicktake-2-eu.rakuten.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Quicktake (EU)
 #DESCRIPTION Bloomberg Quicktake (EU)
-#SERVICE 5002:0:1:b35:bc54:548c:1010101:0:0:0:https%3a//bfc-forbes-1-eu.rakuten.wurl.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Forbes (EU)
+#SERVICE 5002:0:1:b35:bc54:548c:1010101:0:0:0:https%3a//bfc-forbes-1-eu.rakuten.wurl.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Forbes (EU)
 #DESCRIPTION Forbes (EU)
 #SERVICE 5002:0:1:9e3f:febb:bbb4:1010101:0:0:0:https%3a//drybar-drybarcomedy-1-eu.rakuten.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dry Bar Comedy (EU)
 #DESCRIPTION Dry Bar Comedy (EU)
@@ -321,7 +321,7 @@
 #DESCRIPTION Revry 3 (EU)
 #SERVICE 5002:0:1:189b:183b:3bab:1010101:0:0:0:https%3a//asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lacrosse Sport Network (EU)
 #DESCRIPTION Lacrosse Sport Network (EU)
-#SERVICE 5002:0:1:2bc0:bf66:6626:1010101:0:0:0:https%3a//newidco-billiardstv-1-eu.rakuten.wurl.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (EU)
+#SERVICE 5002:0:1:2bc0:bf66:6626:1010101:0:0:0:https%3a//newidco-billiardstv-1-eu.rakuten.wurl.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (EU)
 #DESCRIPTION Billiards TV (EU)
 #SERVICE 5002:0:1:b0c7:706c:6cf0:1010101:0:0:0:https%3a//arcade-cloud-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boo Gaming (EU)
 #DESCRIPTION Boo Gaming (EU)
@@ -495,7 +495,7 @@
 #DESCRIPTION Viki (DE) LG
 #SERVICE 5002:0:1:778f:6b6b:6baf:1010101:0:0:0:https%3a//hncfree-rakutende.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horse and Country Free (DE)
 #DESCRIPTION Horse and Country Free (DE)
-#SERVICE 5002:0:1:5f42:9ebb:bb83:1010101:0:0:0:https%3a//rakuten-spotlight-6-it.lg.wurl.tv/playlist.m3u8%09#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (IT Subs) LG
+#SERVICE 5002:0:1:5f42:9ebb:bb83:1010101:0:0:0:https%3a//rakuten-spotlight-6-it.lg.wurl.tv/playlist.m3u8%25252525252509#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (IT Subs) LG
 #DESCRIPTION Rakuten Spotlight (IT Subs) LG
 #SERVICE 5002:0:1:22a1:cc02:2a8:1010101:0:0:0:https%3a//rakuten-actionmovies-6-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Actionmovies (IT Subs) LG
 #DESCRIPTION Rakuten Actionmovies (IT Subs) LG
