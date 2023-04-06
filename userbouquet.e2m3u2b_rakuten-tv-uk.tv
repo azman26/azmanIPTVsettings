@@ -1,5 +1,5 @@
 #NAME Rakuten TV UK
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Movies
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Movies
 #DESCRIPTION Rakuten: Movies
 #SERVICE 5002:0:1:5ebd:9cd1:d123:1010101:0:0:0:https%3a//16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Top Movies
 #DESCRIPTION Rakuten TV Top Movies
@@ -35,7 +35,7 @@
 #DESCRIPTION The Film Detective
 #SERVICE 5002:0:1:a356:db25:25dd:1010101:0:0:0:https%3a//eaaa414db25b43a1b6bee085c61ea487.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Fawesome/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fawesome
 #DESCRIPTION Fawesome
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a TV Shows
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: TV Shows
 #DESCRIPTION Rakuten: TV Shows
 #SERVICE 5002:0:1:124b:8173:731c:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991731/master.m3u8?ads.caid=FilmriseFREESeries&ads.csid=zeus_uk_filmrisefreeseries_ssai&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=2071&ads.xumo_contentName=FilmRiseUK&ads.xumo_providerId=2071&ads.xumo_providerName=FilmRiseUK&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1289&ads.rakuten_streaming_id=7d234e21-146e-4608-8768-a07a074558ce&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991731&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise FREE Series
 #DESCRIPTION FilmRise FREE Series
@@ -55,7 +55,7 @@
 #DESCRIPTION Fail Army
 #SERVICE 5002:0:1:d5d8:4520:20c5:1010101:0:0:0:https%3a//3f01356fd70c4daba7be812b88108d0e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People Are Awesome
 #DESCRIPTION People Are Awesome
-#SERVICE 5002:0:1:d0c5:c1fe:fe1a:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.caid=PeopleTV&ads.csid=zeus_eu_peopleentertainmentnetwork_ssai&ads._fw_content_category=IAB1-2&ads._fw_content_genre=food+%2526+drink&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=140&ads.xumo_contentName=PeopleEntertainmentNetwork&ads.xumo_providerId=140&ads.xumo_providerName=PeopleEntertainmentNetwork&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1882&ads.rakuten_streaming_id=ef60d68a-4e2b-421c-aaf7-2238dedf3c0f&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991715&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People TV
+#SERVICE 5002:0:1:d0c5:c1fe:fe1a:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.caid=PeopleTV&ads.csid=zeus_eu_peopleentertainmentnetwork_ssai&ads._fw_content_category=IAB1-2&ads._fw_content_genre=food+%2525252525252526+drink&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=140&ads.xumo_contentName=PeopleEntertainmentNetwork&ads.xumo_providerId=140&ads.xumo_providerName=PeopleEntertainmentNetwork&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1882&ads.rakuten_streaming_id=ef60d68a-4e2b-421c-aaf7-2238dedf3c0f&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991715&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People TV
 #DESCRIPTION People TV
 #SERVICE 5002:0:1:95fd:5aa4:a4ca:1010101:0:0:0:https%3a//insighttv-eng-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-insighttv-eng-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Insight TV
 #DESCRIPTION Insight TV
@@ -71,7 +71,7 @@
 #DESCRIPTION Wired
 #SERVICE 5002:0:1:157f:32d1:d143:1010101:0:0:0:https%3a//younghollywood-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-younghollywood-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Young Hollywood
 #DESCRIPTION Young Hollywood
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Sports
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Sports
 #DESCRIPTION Rakuten: Sports
 #SERVICE 5002:0:1:a3c2:cb4f:4fc2:1010101:0:0:0:https%3a//tennischannelintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tennischannel-international-uk/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tennis Channel (Geo-UK)
 #DESCRIPTION Tennis Channel (Geo-UK)
@@ -105,7 +105,7 @@
 #DESCRIPTION Unbeaten
 #SERVICE 5002:0:1:5729:481d:1dbc:1010101:0:0:0:https%3a//amg00379-playerstv-playerstv-rakuten-o0ew5.amagi.tv/hls/amagi_hls_data_rakutenAA-playerstv-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Players TV
 #DESCRIPTION Players TV
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Lifestyle
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Lifestyle
 #DESCRIPTION Rakuten: Lifestyle
 #SERVICE 5002:0:1:98fc:5fa5:a5c8:1010101:0:0:0:https%3a//68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV
 #DESCRIPTION Fashion TV
@@ -129,7 +129,7 @@
 #DESCRIPTION Museum Fast
 #SERVICE 5002:0:1:5976:9ebb:bbd0:1010101:0:0:0:https%3a//amg01255-secomcofites-my-myzen-en-rakuten-cyxqh.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-en-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MyZen Fit
 #DESCRIPTION MyZen Fit
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Cooking
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Cooking
 #DESCRIPTION Rakuten: Cooking
 #SERVICE 5002:0:1:123f:c335:3550:1010101:0:0:0:https%3a//tastemade-tdint-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-rakuten-uk/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
 #DESCRIPTION Tastemade
@@ -137,11 +137,11 @@
 #DESCRIPTION BITE
 #SERVICE 5002:0:1:7859:d999:99f8:1010101:0:0:0:https%3a//bonappetit-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-condenast-rakuten/CDN/master.m3u8?ads_amagi_channel=744&ads_content_classification=7&ads_device_lmt=0&ads_device_type=web&ads_device_year=2019&ads_env=prod&ads_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads_rtv_content_id=3462&ads_rtvid=271858&ads_streaming_id=950fc37a-5952-4ea8-8928-a57b99c5add7&ads_user_type=visitor#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bon Appetit
 #DESCRIPTION Bon Appetit
-#SERVICE 5002:0:1:7844:c68a:8a56:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.caid=Gusto&ads.csid=zeus_eu_gustotv_ssai&ads._fw_content_category=IAB8&ads._fw_content_genre=food+%2526+drink&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=272&ads.xumo_contentName=GustoTV&ads.xumo_providerId=272&ads.xumo_providerName=GustoTV&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2196&ads.rakuten_streaming_id=ccf468ba-d30a-42ae-8930-f499ae39f173&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991710&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV
+#SERVICE 5002:0:1:7844:c68a:8a56:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.caid=Gusto&ads.csid=zeus_eu_gustotv_ssai&ads._fw_content_category=IAB8&ads._fw_content_genre=food+%2525252525252526+drink&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=272&ads.xumo_contentName=GustoTV&ads.xumo_providerId=272&ads.xumo_providerName=GustoTV&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2196&ads.rakuten_streaming_id=ccf468ba-d30a-42ae-8930-f499ae39f173&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991710&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV
 #DESCRIPTION Gusto TV
 #SERVICE 5002:0:1:7e53:862f:2fcc:1010101:0:0:0:https%3a//ac84a060d6fd4f7eae260e2b21e468f5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_iFoodTV/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iFood.tv
 #DESCRIPTION iFood.tv
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Music
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Music
 #DESCRIPTION Rakuten: Music
 #SERVICE 5002:0:1:9cba:fa67:6710:1010101:0:0:0:https%3a//clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CLUBBING TV
 #DESCRIPTION CLUBBING TV
@@ -163,7 +163,7 @@
 #DESCRIPTION Qello Concerts by Stingray
 #SERVICE 5002:0:1:3b93:3204:49c:1010101:0:0:0:https%3a//qwestclassic-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestclassic-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest TV Classical
 #DESCRIPTION Qwest TV Classical
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Kids
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Kids
 #DESCRIPTION Rakuten: Kids
 #SERVICE 5002:0:1:950a:c984:844c:1010101:0:0:0:https%3a//e7934a8802cc472f957e8cb4adb933e4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenFamily/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Family - Rakuten TV
 #DESCRIPTION Family - Rakuten TV
@@ -185,7 +185,7 @@
 #DESCRIPTION HappyKids
 #SERVICE 5002:0:1:cba7:f5ea:ea58:1010101:0:0:0:https%3a//a5b4bacecd47433dad06d3189fc7422e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BeanoTV/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beano TV
 #DESCRIPTION Beano TV
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Slow TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Slow TV
 #DESCRIPTION Rakuten: Slow TV
 #SERVICE 5002:0:1:da36:53d5:d5d1:1010101:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=StingrayNatureScape&ads.csid=zeus_eu_stingrayambiance_ssai&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_providerId=188&ads.xumo_providerName=StingrayAmbiance&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1293&ads.rakuten_streaming_id=f591538a-3a0e-49ce-bda4-1d32ac55c2cd&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991717&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Naturescape
 #DESCRIPTION Stingray Naturescape
@@ -193,13 +193,13 @@
 #DESCRIPTION Weather Spy
 #SERVICE 5002:0:1:e668:492f:2f7d:1010101:0:0:0:https%3a//wildearth-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-wildearth-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WildEarth
 #DESCRIPTION WildEarth
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Teleshopping
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Teleshopping
 #DESCRIPTION Rakuten: Teleshopping
 #SERVICE 5002:0:1:7307:8b7e:7e2a:1010101:0:0:0:https%3a//amg00834-asiabroadcastsa-abs-hstv1-rakuten-hvqc1.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:High Street TV Shopping 1
 #DESCRIPTION High Street TV Shopping 1
 #SERVICE 5002:0:1:ecd4:fabb:bb65:1010101:0:0:0:https%3a//amg00128-shoplc-shoplctjc-rakuten-mh7yd.amagi.tv/hls/amagi_hls_data_rakutenAA-shoplc-tjc-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TJC - The Jewellery Channel
 #DESCRIPTION TJC - The Jewellery Channel
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Doc and Factual
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Doc and Factual
 #DESCRIPTION Rakuten: Doc and Factual
 #SERVICE 5002:0:1:6733:b669:69ad:1010101:0:0:0:https%3a//alchimie-humanity-documentaries-uk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-humanity-documentaries-uk-rakuten/CDN/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Humanity Documentaries
 #DESCRIPTION Humanity Documentaries
@@ -219,7 +219,7 @@
 #DESCRIPTION Planet Knowledge
 #SERVICE 5002:0:1:ead9:8f3:f3c7:1010101:0:0:0:https%3a//b20a340953e24055b6a4736ab4605f23.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RadicalDocs/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Radical Docs
 #DESCRIPTION Radical Docs
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a News
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: News
 #DESCRIPTION Rakuten: News
 #SERVICE 5002:0:1:86ae:8038:38c2:1010101:0:0:0:https%3a//3b6e2112ee2d490a93b95c9d130c46aa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_EuroNewsLive/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Live
 #DESCRIPTION Euronews Live
@@ -237,7 +237,7 @@
 #DESCRIPTION Quicktake
 #SERVICE 5002:0:1:d2cb:e2b2:b238:1010101:0:0:0:https%3a//afda8ca41e7a407eb97239803281b088.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Bloomberg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Television
 #DESCRIPTION Bloomberg Television
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten%3a Featured
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rakuten: Featured
 #DESCRIPTION Rakuten: Featured
 #SERVICE 5002:0:1:6591:e919:19cc:1010101:0:0:0:https%3a//d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Guardian
 #DESCRIPTION The Guardian
