@@ -3,7 +3,7 @@
 #DESCRIPTION Outer Vision Channel
 #SERVICE 5002:0:1:F820:47CF:CF5A:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196a9661d310bf925e02613.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Christmas Classics
 #DESCRIPTION Christmas Classics
-#SERVICE 4097:0:1:3E5D:F837:EC:0:0:0:0:https%3a//newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8:Rakuten Viki
+#SERVICE 4097:0:1:1F8:A11A:2268:0:0:0:0:https%3a//newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8:Rakuten Viki
 #DESCRIPTION Rakuten Viki
 #SERVICE 5002:0:1:C89C:B539:394C:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Space Channel
 #DESCRIPTION Space Channel
@@ -25,16 +25,22 @@
 #DESCRIPTION Wired2Fish
 #SERVICE 5002:0:1:3610:67D2:D2E4:1010101:0:0:0:https%3a//stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=BHaTYUJDMfSCZAz8amY3&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=BHaTYUJDMfSCZAz8amY3&custom_7=5f07e9fdf313eb0041bbecda&is_lat=0:Cooking Panda
 #DESCRIPTION Cooking Panda
-#SERVICE 4097:0:1:4E7A:BD99:EC:0:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=sadsea_tn:Treehouse Gaming
-#DESCRIPTION Treehouse Gaming
+#SERVICE 4097:0:1:6403:6ED3:EC:0:0:0:0:https%3a//d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/osc/master.m3u8?ads.rnd=elxa&ads.env_i=e2866cc9-15b6-4e7c-be07-bafdf9b30f17&ads.env_u=8d388ad3-cd82-4b97-981a-469b1233d4cd&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1269&ads.height=714&ads.deviceId=8d388ad3-cd82-4b97-981a-469b1233d4cd&ads.deviceDNT=0&ads.gdpr=1&ads.us_privacy=0&ads.aid=8d388ad3-cd82-4b97-981a-469b1233d4cd&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=85.222.92.58&ads.geo=PL&ads.lat=52.22960&ads.long=21.00670&ads.dma=false&ads.geoType=2&ads.contentid=23064&ads.content_duration=18000&ads.episode_id=83818&ads.show_id=3194&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=OSC%2B&ads.episodetitle=OSC%2B&ads.keywords=Outdoor%2CSports%2CAdventure&ads.contenturl=https%3a%2F%2Fwww.distro.tv%2Flive%2Fosc%2F&ads.paln=&ads.tagname=dtv:Outdoor Sport Channel
+#DESCRIPTION Outdoor Sport Channel
+#SERVICE 5002:0:1:BC77:4503:323:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=732&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=XeztDN3mRuKJPvR9KKni&content_series=60aeb5cd87f9b1002ce12323&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=XeztDN3mRuKJPvR9KKni&custom_7=60aeb5cd87f9b1002ce12323&is_lat=0:NHRA TV
+#DESCRIPTION NHRA TV
 #SERVICE 4097:0:1:207:A11A:2268:0:0:0:0:https%3a//newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8:World Billiards TV
 #DESCRIPTION World Billiards TV
 #SERVICE 5002:0:1:71D5:76CB:CB07:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Pro Wrestling TV
 #DESCRIPTION Pro Wrestling TV
 #SERVICE 4097:0:1:AD74:2BC:EC:0:0:0:0:https%3a//linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8:CampusLore Sports
 #DESCRIPTION CampusLore Sports
+#SERVICE 4097:0:1:4E7A:BD99:EC:0:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=sadsea_tn:Treehouse Gaming
+#DESCRIPTION Treehouse Gaming
 #SERVICE 4097:0:1:ECCE:FB4B:EC:0:0:0:0:https%3a//api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=17704&partner=littlstar:Party Tyme Karaoke
 #DESCRIPTION Party Tyme Karaoke
+#SERVICE 4097:0:1:DE5D:8652:EC:0:0:0:0:https%3a//api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar:SKWAD
+#DESCRIPTION SKWAD
 #SERVICE 4097:0:1:444C:55:EC:0:0:0:0:https%3a//newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8:NEW KPOP
 #DESCRIPTION NEW KPOP
 #SERVICE 4097:0:1:B6CC:67FB:EC:0:0:0:0:https%3a//newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8:YG TV
