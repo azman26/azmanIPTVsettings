@@ -1,1705 +1,353 @@
 #NAME LG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-africanews-1-de.lg.wurl.tv/playlist.m3u8:Africa News (DE)
-#DESCRIPTION Africa News (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-artflix-2-de.lg.wurl.tv/playlist.m3u8:Artflix (DE)
-#DESCRIPTION Artflix (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8:Baby Shark TV (DE)
-#DESCRIPTION Baby Shark TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-de.lg.wurl.tv/playlist.m3u8:Billiards TV (DE)
-#DESCRIPTION Billiards TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitede-lgde/playlist.m3u8:Bite (DE) not currently broadcasting
-#DESCRIPTION Bite (DE) not currently broadcasting
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-de.lg.wurl.tv/playlist.m3u8:Bloomberg TV (DE)
-#DESCRIPTION Bloomberg TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//clubbingtv-lg-de.amagi.tv/playlist.m3u8:Clubbing TV (DE)
-#DESCRIPTION Clubbing TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8:CNN International (DE)
-#DESCRIPTION CNN International (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-comedyandshows-lgde/playlist.m3u8:Comedy and Shows (DE)
-#DESCRIPTION Comedy and Shows (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-deinfilmkanal-1-de.lg.wurl.tv/playlist.m3u8:Dein Film Kanal (DE)
-#DESCRIPTION Dein Film Kanal (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mmm-ducktv-5-de.lg.wurl.tv/playlist.m3u8:Duck TV (DE)
-#DESCRIPTION Duck TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlde-lgde/playlist.m3u8:Dust International (DE)
-#DESCRIPTION Dust International (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-euronews-de-lg.amagi.tv/playlist.m3u8:Euronews via Alchimie (DE) Geo
-#DESCRIPTION Euronews via Alchimie (DE) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimiea-euronews-de-lg/playlist.m3u8:Euronews via Alchimiea (DE) Fix
-#DESCRIPTION Euronews via Alchimiea (DE) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8:Euronews via Rakuten (DE)
-#DESCRIPTION Euronews via Rakuten (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-de.lg.wurl.tv/playlist.m3u8:Fail Army (DE)
-#DESCRIPTION Fail Army (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-de.lg.wurl.tv/playlist.m3u8:Fashion TV (DE)
-#DESCRIPTION Fashion TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgoldde-lgde/playlist.m3u8:Film Gold (DE)
-#DESCRIPTION Film Gold (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-de.lg.wurl.tv/playlist.m3u8:Filmstream (DE)
-#DESCRIPTION Filmstream (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-19-de.lg.wurl.tv/playlist.m3u8:Fuel TV (DE)
-#DESCRIPTION Fuel TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-de.lg.wurl.tv/playlist.m3u8:Gameplay (DE)
-#DESCRIPTION Gameplay (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globi-globi-1-de.lg.wurl.tv/playlist.m3u8:Globi (DE)
-#DESCRIPTION Globi (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brandusa-gousa-1-de.lg.wurl.tv/playlist.m3u8:Go USA (DE)
-#DESCRIPTION Go USA (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-grjngo-4-de.lg.wurl.tv/playlist.m3u8:Grjngo (DE)
-#DESCRIPTION Grjngo (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-de.lg.wurl.tv/playlist.m3u8:Gusto TV (DE)
-#DESCRIPTION Gusto TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//targetvideo-parenting-media-halloeltern-1-de.lg.wurl.tv/playlist.m3u8:Halloeltern (DE)
-#DESCRIPTION Halloeltern (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hncfree-lg-de.amagi.tv/master.m3u8:HNC Free (DE) Geo
-#DESCRIPTION HNC Free (DE) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-row-lg-germany.amagi.tv/playlist.m3u8:Insight TV (DE)
-#DESCRIPTION Insight TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/insightAA-insighttv-lifestyle-lg-germany/playlist.m3u8:Insight TV alt (DE)
-#DESCRIPTION Insight TV alt (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-kidspangtv-1-de.lg.wurl.tv/playlist.m3u8:Kidspang TV (DE)
-#DESCRIPTION Kidspang TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-deutsches-kino-1-de.lg.wurl.tv/playlist.m3u8:Kino 1 (De)
-#DESCRIPTION Kino 1 (De)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinede-lgde/playlist.m3u8:Love Magazine (DE)
-#DESCRIPTION Love Magazine (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/motorpres-marcopolotv-lg-de/playlist.m3u8:Marco Polo TV (DE) Geo
-#DESCRIPTION Marco Polo TV (DE) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgde/playlist.m3u8:MOB TV (DE)
-#DESCRIPTION MOB TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-moconomy-3-de.lg.wurl.tv/playlist.m3u8:Moconomy (DE)
-#DESCRIPTION Moconomy (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-monthlypick-1-de.lg.wurl.tv/playlist.m3u8:Monthly Pick (DE)
-#DESCRIPTION Monthly Pick (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kravemedia-mtrspt1-1-de.lg.wurl.tv/playlist.m3u8:Mtrspt 1 (DE)
-#DESCRIPTION Mtrspt 1 (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-de.lg.wurl.tv/playlist.m3u8:Mubeat (DE)
-#DESCRIPTION Mubeat (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-de.lg.wurl.tv/playlist.m3u8:New K Food (DE)
-#DESCRIPTION New K Food (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkmovies-2-de.lg.wurl.tv/playlist.m3u8:New K Movies (DE)
-#DESCRIPTION New K Movies (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-de.lg.wurl.tv/playlist.m3u8:New Kid (DE)
-#DESCRIPTION New Kid (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-de.lg.wurl.tv/playlist.m3u8:People are Awesome (DE)
-#DESCRIPTION People are Awesome (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-de.lg.wurl.tv/playlist.m3u8:Playground TV (DE)
-#DESCRIPTION Playground TV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-de.lg.wurl.tv/playlist.m3u8:Quicktake (DE)
-#DESCRIPTION Quicktake (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies (DE)
-#DESCRIPTION Rakuten Action Movies (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (DE)
-#DESCRIPTION Rakuten Comedy Movies (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Family (DE)
-#DESCRIPTION Rakuten Family (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-guardian-1-de.lg.wurl.tv/playlist.m3u8:Rakuten Guardian (DE)
-#DESCRIPTION Rakuten Guardian (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Romance (DE)
-#DESCRIPTION Rakuten Romance (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (DE)
-#DESCRIPTION Rakuten Spotlight (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Thriller (DE)
-#DESCRIPTION Rakuten Thriller (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-3-de.lg.wurl.tv/playlist.m3u8:Rakuten Top Free (DE)
-#DESCRIPTION Rakuten Top Free (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-3-de.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (DE)
-#DESCRIPTION Rakuten TV Shows (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-de.lg.wurl.tv/playlist.m3u8:Rakuten Viki alt (DE)
-#DESCRIPTION Rakuten Viki alt (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-sbs-1-de.lg.wurl.tv/playlist.m3u8:SBS (DE)
-#DESCRIPTION SBS (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-spannungemo-lgde/playlist.m3u8:Spannungemo (DE)
-#DESCRIPTION Spannungemo (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//speedvision-speedvision-1-de.lg.wurl.tv/playlist.m3u8:Speedvision (DE)
-#DESCRIPTION Speedvision (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-starkefrauende-lgde/playlist.m3u8:Starkefrauen (DE)
-#DESCRIPTION Starkefrauen (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-starsingefahr-lgde/playlist.m3u8:Starsingefahr (DE)
-#DESCRIPTION Starsingefahr (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//television-concientes-lgde.amagi.tv/playlist.m3u8:Television Concientes (DE)
-#DESCRIPTION Television Concientes (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-de.lg.wurl.tv/playlist.m3u8:The Pet Collective (DE)
-#DESCRIPTION The Pet Collective (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-de.amagi.tv/playlist.m3u8:Trace Brazuca (DE)
-#DESCRIPTION Trace Brazuca (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvaa-trace-brazuca-lg-de/playlist.m3u8:Trace Brazuca (DE)
-#DESCRIPTION Trace Brazuca (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-latina-lg-de.amagi.tv/playlist.m3u8:Trace Latina (DE)
-#DESCRIPTION Trace Latina (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvaa-trace-latina-lg-de/playlist.m3u8:Trace Latina (DE) Geo
-#DESCRIPTION Trace Latina (DE) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-sportstars-lg-de.amagi.tv/playlist.m3u8:Trace Sport Stars (DE)
-#DESCRIPTION Trace Sport Stars (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-urban-lg-de.amagi.tv/playlist.m3u8:Trace Urban (DE)
-#DESCRIPTION Trace Urban (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-urban-lg-de/playlist.m3u8:Trace Urban (DE) Geo
-#DESCRIPTION Trace Urban (DE) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lgde/playlist.m3u8:Unbeaten (DE)
-#DESCRIPTION Unbeaten (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thema-wannasee-lg-de.amagi.tv/playlist.m3u8:Wannasee (DE) Geo
-#DESCRIPTION Wannasee (DE) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watchmojo-1-de.lg.wurl.tv/playlist.m3u8:Watchmojo (DE)
-#DESCRIPTION Watchmojo (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-de.lg.wurl.tv/playlist.m3u8:WeatherSpy (DE)
-#DESCRIPTION WeatherSpy (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocsde-lgde/playlist.m3u8:Wedo Big Docs (DE)
-#DESCRIPTION Wedo Big Docs (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgde/playlist.m3u8:World of Free Sport (DE)
-#DESCRIPTION World of Free Sport (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xite-germany-lg.amagi.tv/playlist.m3u8:Xite (DE)
-#DESCRIPTION Xite (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-lg-de/playlist.m3u8:Xite alt (DE)
-#DESCRIPTION Xite alt (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-de.lg.wurl.tv/playlist.m3u8:YGTV (DE)
-#DESCRIPTION YGTV (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//accuweatherx-lg.amagi.tv/playlist.m3u8:Accuweather
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 5002:0:1:e0d:6ec5:c51e:1010101:0:0:0:https%3a//accuweatherx-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Accuweather
 #DESCRIPTION Accuweather
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/accuweath-accuweather-lg/playlist.m3u8:Accuweather Geo
-#DESCRIPTION Accuweather Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-africanews-1-at.lg.wurl.tv/playlist.m3u8:Africa News (AT)
-#DESCRIPTION Africa News (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-africanews-1-ch.lg.wurl.tv/playlist.m3u8:Africa News (CH)
-#DESCRIPTION Africa News (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-africanews-1-es.lg.wurl.tv/playlist.m3u8:Africa News (ES)
-#DESCRIPTION Africa News (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-africanews-2-fr.lg.wurl.tv/playlist.m3u8:Africa News (FR)
-#DESCRIPTION Africa News (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-africanews-1-gb.lg.wurl.tv/playlist.m3u8:Africa News (GB)
-#DESCRIPTION Africa News (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-africanews-1-it.lg.wurl.tv/playlist.m3u8:Africa News (IT)
-#DESCRIPTION Africa News (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//agoratv-lg.amagi.tv/playlist.m3u8:Agora TV (BR)
-#DESCRIPTION Agora TV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//banijay-allreal-lg-us.amagi.tv/playlist.m3u8:All Real (US) Geo
-#DESCRIPTION All Real (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-allreal-lg-us/playlist.m3u8:All Real alt (US) Geo
-#DESCRIPTION All Real alt (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8:Anger Management (US)
-#DESCRIPTION Anger Management (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8:Are we There Yet (US)
-#DESCRIPTION Are we There Yet (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-artflix-2-at.lg.wurl.tv/playlist.m3u8:Artflix (AT)
-#DESCRIPTION Artflix (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8:Artflix (ES)
-#DESCRIPTION Artflix (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-artflix-1-gb.lg.wurl.tv/playlist.m3u8:Artflix (GB)
-#DESCRIPTION Artflix (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8:At Home with Family Handyman (US)
-#DESCRIPTION At Home with Family Handyman (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-ateliersdeschefs-lg.amagi.tv/playlist.m3u8:Ateliersdeschefs Geo
-#DESCRIPTION Ateliersdeschefs Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//motorpresse-automotorundsport-lg.amagi.tv/playlist.m3u8:Automotorundsport Geo
-#DESCRIPTION Automotorundsport Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//awe-lg.amagi.tv/playlist.m3u8:AWE
-#DESCRIPTION AWE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/oneameric-aweencore-lg/playlist.m3u8:Awe Encore
-#DESCRIPTION Awe Encore
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-ca.lg.wurl.tv/playlist.m3u8:Baby Shark TV (CA)
-#DESCRIPTION Baby Shark TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-es.lg.wurl.tv/playlist.m3u8:Baby Shark TV (ES)
-#DESCRIPTION Baby Shark TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-fr.lg.wurl.tv/playlist.m3u8:Baby Shark TV (FR)
-#DESCRIPTION Baby Shark TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8:Baby Shark TV (GB)
-#DESCRIPTION Baby Shark TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-it.lg.wurl.tv/playlist.m3u8:Baby Shark TV (IT)
-#DESCRIPTION Baby Shark TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-2-mx.lg.wurl.tv/playlist.m3u8:Baby Shark TV (MX)
-#DESCRIPTION Baby Shark TV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8:Baby Shark TV (US)
-#DESCRIPTION Baby Shark TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-babysharktv-2-es.lg.wurl.tv/playlist.m3u8:Baby Shark TV alt (ES)
-#DESCRIPTION Baby Shark TV alt (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8:Baywatch (US)
-#DESCRIPTION Baywatch (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//beanostudios-beanotv-1-gb.lg.wurl.tv/playlist.m3u8:Beano TV (GB)
-#DESCRIPTION Beano TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rightsboosterltd-bigg-1-gb.lg.wurl.tv/playlist.m3u8:Bigg (GB)
-#DESCRIPTION Bigg (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestlooser-lgca/playlist.m3u8:Biggest Loser (CA)
-#DESCRIPTION Biggest Loser (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestlooser-lggb/playlist.m3u8:Biggest Loser (GB)
-#DESCRIPTION Biggest Loser (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-bigtjme-1-gb.lg.wurl.tv/playlist.m3u8:Bigtjme (GB)
-#DESCRIPTION Bigtjme (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-mx.lg.wurl.tv/playlist.m3u8:Biliards TV (MX)
-#DESCRIPTION Biliards TV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-br.lg.wurl.tv/playlist.m3u8:Billiards TV (BR)
-#DESCRIPTION Billiards TV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-ca.lg.wurl.tv/playlist.m3u8:Billiards TV (CA)
-#DESCRIPTION Billiards TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-es.lg.wurl.tv/playlist.m3u8:Billiards TV (ES)
-#DESCRIPTION Billiards TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-fr.lg.wurl.tv/playlist.m3u8:Billiards TV (FR)
-#DESCRIPTION Billiards TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-gb.lg.wurl.tv/playlist.m3u8:Billiards TV (GB)
-#DESCRIPTION Billiards TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-it.lg.wurl.tv/playlist.m3u8:Billiards TV (IT)
-#DESCRIPTION Billiards TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8:Billiards TV (US)
-#DESCRIPTION Billiards TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-biteat-lgat/playlist.m3u8:Bite (AT) not currently broadcasting
-#DESCRIPTION Bite (AT) not currently broadcasting
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitees-lges/playlist.m3u8:Bite (ES) not currently broadcasting
-#DESCRIPTION Bite (ES) not currently broadcasting
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitefr-lgfr/playlist.m3u8:Bite (FR) not currently broadcasting
-#DESCRIPTION Bite (FR) not currently broadcasting
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-biteit-lgit/playlist.m3u8:Bite (IT) not currently broadcasting
-#DESCRIPTION Bite (IT) not currently broadcasting
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bite-lg.amagi.tv/playlist.m3u8:Bite not currently broadcasting
-#DESCRIPTION Bite not currently broadcasting
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/parademed-bite-lg/playlist.m3u8:Bite not currently broadcasting
-#DESCRIPTION Bite not currently broadcasting
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-bizzarromovies-1-it.lg.wurl.tv/playlist.m3u8:Bizzarro Movies (IT)
-#DESCRIPTION Bizzarro Movies (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bldydisgusting-lgca/playlist.m3u8:Bloody Disgusting (CA)
-#DESCRIPTION Bloody Disgusting (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgust-lgus/playlist.m3u8:Bloody Disgusting (US)
-#DESCRIPTION Bloody Disgusting (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-us.lg.wurl.tv/playlist.m3u8:Bloomberg Quicktake
-#DESCRIPTION Bloomberg Quicktake
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-3-at.lg.wurl.tv/playlist.m3u8:Bloomberg TV (AT)
-#DESCRIPTION Bloomberg TV (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-br.lg.wurl.tv/playlist.m3u8:Bloomberg TV (BR)
-#DESCRIPTION Bloomberg TV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-ca.lg.wurl.tv/playliist.m3u8:Bloomberg TV (CA)
-#DESCRIPTION Bloomberg TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-3-ch.lg.wurl.tv/playlist.m3u8:Bloomberg TV (CH)
-#DESCRIPTION Bloomberg TV (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-es.lg.wurl.tv/playlist.m3u8:Bloomberg TV (ES)
-#DESCRIPTION Bloomberg TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-3-fi.lg.wurl.tv/playlist.m3u8:Bloomberg TV (FI)
-#DESCRIPTION Bloomberg TV (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-fr.lg.wurl.tv/playlist.m3u8:Bloomberg TV (FR)
-#DESCRIPTION Bloomberg TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-gb.lg.wurl.tv/playlist.m3u8:Bloomberg TV (GB)
-#DESCRIPTION Bloomberg TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-it.lg.wurl.tv/playlist.m3u8:Bloomberg TV (IT)
-#DESCRIPTION Bloomberg TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-mx.lg.wurl.tv/playlist.m3u8:Bloomberg TV (MX)
-#DESCRIPTION Bloomberg TV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-3-pt.lg.wurl.tv/playlist.m3u8:Bloomberg TV (PT)
-#DESCRIPTION Bloomberg TV (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8:Bloomberg TV 4K
-#DESCRIPTION Bloomberg TV 4K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgch/playlist.m3u8:Brat TV (CH)
-#DESCRIPTION Brat TV (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lges/playlist.m3u8:Brat TV (ES)
-#DESCRIPTION Brat TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgfr/playlist.m3u8:Brat TV (FR)
-#DESCRIPTION Brat TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lggb/playlist.m3u8:Brat TV (GB)
-#DESCRIPTION Brat TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgit/playlist.m3u8:Brat TV (IT)
-#DESCRIPTION Brat TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00366-runtime-bridezilla-lggb/playlist.m3u8:Bridezillas (GB)
-#DESCRIPTION Bridezillas (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//contracorriente-canalfeelgood-1-es.samsung.wurl.tv/playlist.m3u8:Canal Feel good (ES)
-#DESCRIPTION Canal Feel good (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//carbontv-gb-lg.amagi.tv/playlist.m3u8:Carbon TV (GB)
-#DESCRIPTION Carbon TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cgentertainment-cgtv-1-it.lg.wurl.tv/playlist.m3u8:CGTV (IT)
-#DESCRIPTION CGTV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//crackle-chickensoupforthesoul-lg.amagi.tv/playlist.m3u8:Chicken Soup for the Soul
-#DESCRIPTION Chicken Soup for the Soul
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/crackleAA-chickensoupforthesoul-lg/playlist.m3u8:Chicken Soup for the Soul alt Geo
-#DESCRIPTION Chicken Soup for the Soul alt Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chili-alta-tensione-1-it.lg.wurl.tv/playlist.m3u8:Chili Alta Tensione
-#DESCRIPTION Chili Alta Tensione
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chilibuonumore-1-it.lg.wurl.tv/playlist.m3u8:Chili Buonu more
-#DESCRIPTION Chili Buonu more
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8:Chili Indimenticabili (IT)
-#DESCRIPTION Chili Indimenticabili (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8:Chili Velvet (IT)
-#DESCRIPTION Chili Velvet (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//atmosphere-chivetv-lg.amagi.tv/playlist.m3u8:Chive TV
-#DESCRIPTION Chive TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ottstudio-christmasplus-1-us.lg.wurl.tv/playlist.m3u8:Christmas Plus (US)
-#DESCRIPTION Christmas Plus (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cineclasicoeurope-lgspain.amagi.tv/playlist.m3u8:Cine Clasico Europe (ES) check
-#DESCRIPTION Cine Clasico Europe (ES) check
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-cineclasicoeurope-lg-es/playlist.m3u8:Cine Clasico Europe Fix
-#DESCRIPTION Cine Clasico Europe Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeurope-lg-es/playlist.m3u8:Cine Clasico Europe Fix
-#DESCRIPTION Cine Clasico Europe Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-cine-espanol-1-es.lg.wurl.tv/playlist.m3u8:Cine Espanol (ES)
-#DESCRIPTION Cine Espanol (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8:Cine Estrella (US)
-#DESCRIPTION Cine Estrella (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-cinemasegreto-1-it.lg.wurl.tv/playlist.m3u8:Cinema Segreto (IT)
-#DESCRIPTION Cinema Segreto (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zylo-cinenanar-lg.amagi.tv/playlist.m3u8:Cinenanar
-#DESCRIPTION Cinenanar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-cinereallatam-lg-mx/playlist.m3u8:Cinereal (MX) Fix
-#DESCRIPTION Cinereal (MX) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinereallatam-lglatam.amagi.tv/playlist.m3u8:Cinereal latlam fix
-#DESCRIPTION Cinereal latlam fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-cinereallatam-lg-br/playlist.m3u8:cinereallatam (BR) Fix
-#DESCRIPTION cinereallatam (BR) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinesureno-lglatam.amagi.tv/playlist.m3u8:Cinesureno latlam Fix
-#DESCRIPTION Cinesureno latlam Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gsn-cinevault-80s-1-ca.lg.wurl.tv/playlist.m3u8:Cinevault 80s (CA)
-#DESCRIPTION Cinevault 80s (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gsn-cinevault-80s-1-us.lg.wurl.tv/playlist.m3u8:Cinevault 80s (US)
-#DESCRIPTION Cinevault 80s (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gsn-cinevault-classics-2-ca.lg.wurl.tv/playlist.m3u8:Cinevault Classics (CA)
-#DESCRIPTION Cinevault Classics (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gsn-cinevault-classics-2-us.lg.wurl.tv/playlist.m3u8:Cinevault Classics (US)
-#DESCRIPTION Cinevault Classics (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gsn-cinevault-westerns-1-ca.lg.wurl.tv/playlist.m3u8:Cinevault Westerns (CA)
-#DESCRIPTION Cinevault Westerns (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8:Cinevault Westerns (US)
-#DESCRIPTION Cinevault Westerns (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-classico-1-it.lg.wurl.tv/playlist.m3u8:Classico (IT)
-#DESCRIPTION Classico (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//clubbingtv-lg-es.amagi.tv/playlist.m3u8:Clubbing TV (ES)
-#DESCRIPTION Clubbing TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//clubbingtv-lg-fr.amagi.tv/playlist.m3u8:Clubbing TV (FR)
-#DESCRIPTION Clubbing TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8:CNN International (GB)
-#DESCRIPTION CNN International (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spt-comedias-1-us.lg.wurl.tv/playlist.m3u8:Comedias (US)
-#DESCRIPTION Comedias (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-comedyandshows-lgat/playlist.m3u8:Comedy and Shows (AT)
-#DESCRIPTION Comedy and Shows (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-comedyandshows-lgch/playlist.m3u8:Comedy and Shows (CH)
-#DESCRIPTION Comedy and Shows (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xumo-host-comedydynamics-lg-ca/playlist.m3u8:Comedy Dynamics (CA)
-#DESCRIPTION Comedy Dynamics (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-comedydynamics-lg-ca.amagi.tv/playlist.m3u8:Comedy Dynamics (CA)
-#DESCRIPTION Comedy Dynamics (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xumo-host-comedydynamics-lg-us/playlist.m3u8:Comedy Dynamics (US)
-#DESCRIPTION Comedy Dynamics (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-comedydynamics-lg-us.amagi.tv/playlist.m3u8:Comedy Dynamics (US) (Geo)
-#DESCRIPTION Comedy Dynamics (US) (Geo)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spt-competencias-1-us.lg.wurl.tv/playlist.m3u8:Competencias (US)
-#DESCRIPTION Competencias (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8:Cops (CA)
-#DESCRIPTION Cops (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8:Cops (GB)
-#DESCRIPTION Cops (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-courttv-2-us.lg.wurl.tv/playlist.m3u8:Court TV (US)
-#DESCRIPTION Court TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tripleb-aclcornholetv-1-us.lg.wurl.tv/playlist.m3u8:Cornhole TV (US)
-#DESCRIPTION Cornhole TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//crackle-crackle-lg.amagi.tv/playlist.m3u8:Crackle
-#DESCRIPTION Crackle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//palatinmedia-cractiontv-lg.amagi.tv/playlist.m3u8:Craction TV
-#DESCRIPTION Craction TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/palatinme-cractiontv-lg/playlist.m3u8:Craction TV
-#DESCRIPTION Craction TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bamca-crimetime-lg.amagi.tv/playlist.m3u8:Crimetime
-#DESCRIPTION Crimetime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/bamcanada-bamca-crimetime-lg/playlist.m3u8:Crimetime alt check
-#DESCRIPTION Crimetime alt check
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8:Curiosity Now (US)
-#DESCRIPTION Curiosity Now (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8:Davinci (GB)
-#DESCRIPTION Davinci (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//banijay-dealornodeal-lg-ca.amagi.tv/playlist.m3u8:Deal or no Deal (CA) Geo
-#DESCRIPTION Deal or no Deal (CA) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/banijayAA-dealornodeal-lg-uk/playlist.m3u8:Deal or no Deal (UK) Check
-#DESCRIPTION Deal or no Deal (UK) Check
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-dealornodeal-lg-us/playlist.m3u8:Deal or no Deal (US)
-#DESCRIPTION Deal or no Deal (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//banijay-dealornodeal-lg-us.amagi.tv/playlist.m3u8:Deal or no Deal (US) Geo
-#DESCRIPTION Deal or no Deal (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-deinfilmkanal-1-ch.lg.wurl.tv/playlist.m3u8:Dein Film Kanal (CH)
-#DESCRIPTION Dein Film Kanal (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//demandafrica-lg.amagi.tv/playlist.m3u8:Demand Africa
-#DESCRIPTION Demand Africa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//demandafrica-spanish-lg.amagi.tv/playlist.m3u8:Demand Africa Spanish
-#DESCRIPTION Demand Africa Spanish
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/theafrica-demandafrica-spanish-lg/playlist.m3u8:Demand Africa Spanish alt Geo
-#DESCRIPTION Demand Africa Spanish alt Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellbride-lgat/playlist.m3u8:Don't Tell the Bride (AT)
-#DESCRIPTION Don't Tell the Bride (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellbride-lgfi/playlist.m3u8:Don't Tell the Bride (FI)
-#DESCRIPTION Don't Tell the Bride (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellbride-lgie/playlist.m3u8:Don't Tell the Bride (IE)
-#DESCRIPTION Don't Tell the Bride (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-dovenow-lg.amagi.tv/playlist.m3u8:Dove now
-#DESCRIPTION Dove now
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lg-dragnet-1-us.lg.wurl.tv/playlist.m3u8:Dragnet (US)
-#DESCRIPTION Dragnet (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mmm-ducktv-3-es.lg.wurl.tv/playlist.m3u8:Duck TV (ES)
-#DESCRIPTION Duck TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mmm-ducktv-6-fr.lg.wurl.tv/playlist.m3u8:Duck TV (FR)
-#DESCRIPTION Duck TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mmm-ducktv-4-gb.lg.wurl.tv/playlist.m3u8:Duck TV (GB)
-#DESCRIPTION Duck TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mmm-ducktv-2-it.lg.wurl.tv/playlist.m3u8:Duck TV (IT)
-#DESCRIPTION Duck TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dust-lgus/playlist.m3u8:Dust (US)
-#DESCRIPTION Dust (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlat-lgat/playlist.m3u8:Dust International (AT)
-#DESCRIPTION Dust International (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlbr-lgbr/playlist.m3u8:Dust International (BR)
-#DESCRIPTION Dust International (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlca-lgca/playlist.m3u8:Dust International (CA)
-#DESCRIPTION Dust International (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintch-lgch/playlist.m3u8:Dust International (CH)
-#DESCRIPTION Dust International (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlfi-lgfi/playlist.m3u8:Dust International (FI)
-#DESCRIPTION Dust International (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlfr-lgfr/playlist.m3u8:Dust International (FR)
-#DESCRIPTION Dust International (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlie-lgie/playlist.m3u8:Dust International (IE)
-#DESCRIPTION Dust International (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlit-lgit/playlist.m3u8:Dust International (IT)
-#DESCRIPTION Dust International (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlpt-lgpt/playlist.m3u8:Dust International (PT)
-#DESCRIPTION Dust International (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlse-lgse/playlist.m3u8:Dust International (SE)
-#DESCRIPTION Dust International (SE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//img-edgesport-lg.amagi.tv/playlist.m3u8:Edgesport
-#DESCRIPTION Edgesport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/imgAAAAAA-edgesport-lg/playlist.m3u8:Edgesport Geo
-#DESCRIPTION Edgesport Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-elrey-lg.amagi.tv/playlist.m3u8:Elray
+#SERVICE 5002:0:1:93c3:15e0:e04a:1010101:0:0:0:https%3a//cinedigm-bobross-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BobRoss
+#DESCRIPTION BobRoss
+#SERVICE 5002:0:1:834f:af12:127a:1010101:0:0:0:https%3a//cinedigm-dovenow-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DoveNow
+#DESCRIPTION DoveNow
+#SERVICE 5002:0:1:fa57:6a52:527d:1010101:0:0:0:https%3a//cinedigm-elrey-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Elray
 #DESCRIPTION Elray
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-elrey-lg/playlist.m3u8:Elray Geo
-#DESCRIPTION Elray Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zylo-emotional-lg.amagi.tv/playlist.m3u8:Emotional
-#DESCRIPTION Emotional
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/zyloAAAAA-zylo-emotional-lg/playlist.m3u8:Emotional Geo
-#DESCRIPTION Emotional Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-lgus/playlist.m3u8:Estrella News (US)
-#DESCRIPTION Estrella News (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8:Estrella TV (US)
-#DESCRIPTION Estrella TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//estv-lg.amagi.tv/playlist.m3u8:ESTV
-#DESCRIPTION ESTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//estv-lg-kr.amagi.tv/playlist.m3u8:ESTV (KR)
-#DESCRIPTION ESTV (KR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//estv-lg-us.amagi.tv/playlist.m3u8:ESTV (US)
-#DESCRIPTION ESTV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-euronewsuk-lgau/playlist.m3u8:Euronews UK via Alchimie (AU)
-#DESCRIPTION Euronews UK via Alchimie (AU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-euronews-es-lg.amagi.tv/playlist.m3u8:Euronews via Alchimie (ES) Geo
-#DESCRIPTION Euronews via Alchimie (ES) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-euronews-fr-lg.amagi.tv/playlist.m3u8:Euronews via Alchimie (FR) Geo
-#DESCRIPTION Euronews via Alchimie (FR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-euronews-it-lg.amagi.tv/playlist.m3u8:Euronews via Alchimie (IT) Geo
-#DESCRIPTION Euronews via Alchimie (IT) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-euronews-uk-lg.amagi.tv/playlist.m3u8:Euronews via Alchimie (UK) Geo
-#DESCRIPTION Euronews via Alchimie (UK) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimiea-euronews-es-lg/playlist.m3u8:Euronews via Alchimiea (ES) Fix
-#DESCRIPTION Euronews via Alchimiea (ES) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimiea-euronews-fr-lg/playlist.m3u8:Euronews via Alchimiea (FR) Fix
-#DESCRIPTION Euronews via Alchimiea (FR) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimiea-euronews-it-lg/playlist.m3u8:Euronews via Alchimiea (IT) Fix
-#DESCRIPTION Euronews via Alchimiea (IT) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-13-at.lg.wurl.tv/playlist.m3u8:Euronews via Rakuten (AT)
-#DESCRIPTION Euronews via Rakuten (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-13-ch.lg.wurl.tv/playlist.m3u8:Euronews via Rakuten (CH)
-#DESCRIPTION Euronews via Rakuten (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8:Euronews via Rakuten (ES)
-#DESCRIPTION Euronews via Rakuten (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8:Euronews via Rakuten (FR)
-#DESCRIPTION Euronews via Rakuten (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8:Euronews via Rakuten (GB)
-#DESCRIPTION Euronews via Rakuten (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8:Euronews via Rakuten (IT)
-#DESCRIPTION Euronews via Rakuten (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-explorebytvplayer-es-lg.amagi.tv/playlist.m3u8:Explore by TVplayer (ES) Geo
-#DESCRIPTION Explore by TVplayer (ES) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-explorebytvplayer-fr-lg.amagi.tv/playlist.m3u8:Explore by TVplayer (FR) Geo
-#DESCRIPTION Explore by TVplayer (FR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-explorebytvplayer-uk-lg.amagi.tv/playlist.m3u8:Explore by TVplayer (UK) Geo
-#DESCRIPTION Explore by TVplayer (UK) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-at.lg.wurl.tv/playlist.m3u8:Fail Army (AT)
-#DESCRIPTION Fail Army (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-br.lg.wurl.tv/playlist.m3u8:Fail Army (BR)
-#DESCRIPTION Fail Army (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-ca.lg.wurl.tv/playlist.m3u8:Fail Army (CA)
-#DESCRIPTION Fail Army (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-ch.lg.wurl.tv/playlist.m3u8:Fail Army (CH)
-#DESCRIPTION Fail Army (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-es.lg.wurl.tv/playlist.m3u8:Fail Army (ES)
-#DESCRIPTION Fail Army (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-fi.lg.wurl.tv/playlist.m3u8:Fail Army (FI)
-#DESCRIPTION Fail Army (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-fr.lg.wurl.tv/playlist.m3u8:Fail Army (FR)
-#DESCRIPTION Fail Army (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8:Fail Army (GB)
-#DESCRIPTION Fail Army (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-ie.lg.wurl.tv/playlist.m3u8:Fail Army (IE)
-#DESCRIPTION Fail Army (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-it.lg.wurl.tv/playlist.m3u8:Fail Army (IT)
-#DESCRIPTION Fail Army (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-mx.lg.wurl.tv/playlist.m3u8:Fail Army (MX)
-#DESCRIPTION Fail Army (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-international-1-pt.lg.wurl.tv/playlist.m3u8:Fail Army (PT)
-#DESCRIPTION Fail Army (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8:Fail Army (US)
-#DESCRIPTION Fail Army (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8:Fashion TV (BR)
-#DESCRIPTION Fashion TV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-ca.lg.wurl.tv/playlist.m3u8:Fashion TV (CA)
-#DESCRIPTION Fashion TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-es.lg.wurl.tv/playlist.m3u8:Fashion TV (ES)
-#DESCRIPTION Fashion TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-fr.lg.wurl.tv/playlist.m3u8:Fashion TV (FR)
-#DESCRIPTION Fashion TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8:Fashion TV (GB)
-#DESCRIPTION Fashion TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-it.lg.wurl.tv/playlist.m3u8:Fashion TV (IT)
-#DESCRIPTION Fashion TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-mx.lg.wurl.tv/playlist.m3u8:Fashion TV (MX)
-#DESCRIPTION Fashion TV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-5-us.lg.wurl.tv/playlist.m3u8:Fashion TV (US)
-#DESCRIPTION Fashion TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-fearfactor-lg-ca/playlist.m3u8:Fear Factor (CA)
-#DESCRIPTION Fear Factor (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//banijay-fearfactor-lg-uk.amagi.tv/playlist.m3u8:Fear Factor (CA)
-#DESCRIPTION Fear Factor (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//banijay-fearfactor-lg-us.amagi.tv/playlist.m3u8:Fear Factor (US) Geo
-#DESCRIPTION Fear Factor (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-lgus/playlist.m3u8:Fear Factor alt (US)
-#DESCRIPTION Fear Factor alt (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgoldch-lgch/playlist.m3u8:Film Gold (CH)
-#DESCRIPTION Film Gold (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-es.lg.wurl.tv/playlist.m3u8:Filmstream (ES)
-#DESCRIPTION Filmstream (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-fi.lg.wurl.tv/playlist.m3u8:Filmstream (FI)
-#DESCRIPTION Filmstream (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-fr.lg.wurl.tv/playlist.m3u8:Filmstream (FR)
-#DESCRIPTION Filmstream (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-it.lg.wurl.tv/playlist.m3u8:Filmstream (IT)
-#DESCRIPTION Filmstream (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spi-filmstream-1-pt.lg.wurl.tv/playlist.m3u8:Filmstream (PT)
-#DESCRIPTION Filmstream (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//filmzie-filmzie-1-gb.lg.wurl.tv/playlist.m3u8:Filmzie (GB)
-#DESCRIPTION Filmzie (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-fite-tv-1-ca.lg.wurl.tv/playlist.m3u8:Fite TV (CA)
-#DESCRIPTION Fite TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-fite-tv-1-us.lg.wurl.tv/playlist.m3u8:Fite TV (US)
-#DESCRIPTION Fite TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-flashlatam-lg-br/playlist.m3u8:Flash (BR) Fix
-#DESCRIPTION Flash (BR) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-flash-lg-es-59kcu.amagi.tv/playlist.m3u8:Flash (ES) Fix
-#DESCRIPTION Flash (ES) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-flashlatam-lg-mx/playlist.m3u8:Flash (MX) Fix
-#DESCRIPTION Flash (MX) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash-lglatam.amagi.tv/playlist.m3u8:Flash latlam Fix
-#DESCRIPTION Flash latlam Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-23-br.lg.wurl.tv/playlist.m3u8:Fuel TV (BR)
-#DESCRIPTION Fuel TV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-15-ca.lg.wurl.tv/playlist.m3u8:Fuel TV (CA)
-#DESCRIPTION Fuel TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-21-es.lg.wurl.tv/playlist.m3u8:Fuel TV (ES)
-#DESCRIPTION Fuel TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-22-fr.lg.wurl.tv/playlist.m3u8:Fuel TV (FR)
-#DESCRIPTION Fuel TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-16-gb.lg.wurl.tv/playlist.m3u8:Fuel TV (GB)
-#DESCRIPTION Fuel TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-20-it.lg.wurl.tv/playlist.m3u8:Fuel TV (IT)
-#DESCRIPTION Fuel TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-25-mx.lg.wurl.tv/playlist.m3u8:Fuel TV (MX)
-#DESCRIPTION Fuel TV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-15-us.lg.wurl.tv/playlist.m3u8:Fuel TV (US)
-#DESCRIPTION Fuel TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-fullmoon-1-it.lg.wurl.tv/playlist.m3u8:Full Moon (IT)
-#DESCRIPTION Full Moon (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeatuk-lggb/playlist.m3u8:Fuse Beat (GB)
-#DESCRIPTION Fuse Beat (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-at.lg.wurl.tv/playlist.m3u8:Gameplay (AT)
-#DESCRIPTION Gameplay (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-es.lg.wurl.tv/playlist.m3u8:Gameplay (ES)
-#DESCRIPTION Gameplay (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-fi.lg.wurl.tv/playlist.m3u8:Gameplay (FI)
-#DESCRIPTION Gameplay (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-fr.lg.wurl.tv/playlist.m3u8:Gameplay (FR)
-#DESCRIPTION Gameplay (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-gb.lg.wurl.tv/playlist.m3u8:Gameplay (GB)
-#DESCRIPTION Gameplay (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-ie.lg.wurl.tv/playlist.m3u8:Gameplay (IE)
-#DESCRIPTION Gameplay (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-it.lg.wurl.tv/playlist.m3u8:Gameplay (IT)
-#DESCRIPTION Gameplay (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buffactorymedia-gameplay-1-pt.lg.wurl.tv/playlist.m3u8:Gameplay (PT)
-#DESCRIPTION Gameplay (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gsn-gameshowchannnel-1-ca.lg.wurl.tv/playlist.m3u8:Gameshow Channel (CA)
-#DESCRIPTION Gameshow Channel (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gsn-gameshowchannnel-1-us.lg.wurl.tv/playlist.m3u8:Gameshow Channel (US)
-#DESCRIPTION Gameshow Channel (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globi-globi-1-fr.lg.wurl.tv/playlist.m3u8:Globi (FR)
-#DESCRIPTION Globi (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globi-globi-1-gb.lg.wurl.tv/playlist.m3u8:Globi (GB)
-#DESCRIPTION Globi (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globi-globi-1-it.lg.wurl.tv/playlist.m3u8:Globi (IT)
-#DESCRIPTION Globi (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brandusa-gousa-1-br.lg.wurl.tv/playlist.m3u8:GO USA (BR)
-#DESCRIPTION GO USA (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brandusa-gousa-1-ca.lg.wurl.tv/playlist.m3u8:Go USA (CA)
-#DESCRIPTION Go USA (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brandusa-gousa-1-es.lg.wurl.tv/playlist.m3u8:Go USA (ES)
-#DESCRIPTION Go USA (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brandusa-gousa-1-fr.lg.wurl.tv/playlist.m3u8:Go USA (FR)
-#DESCRIPTION Go USA (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brandusa-gousa-1-gb.lg.wurl.tv/playlist.m3u8:Go USA (GB)
-#DESCRIPTION Go USA (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brandusa-gousa-1-it.lg.wurl.tv/playlist.m3u8:Go USA (IT)
-#DESCRIPTION Go USA (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gghubsrl-gotgame-1-it.lg.wurl.tv/playlist.m3u8:Got Game (IT)
-#DESCRIPTION Got Game (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-grjngo-4-at.lg.wurl.tv/playlist.m3u8:Grjngo (AT)
-#DESCRIPTION Grjngo (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-grjngo-2-es.lg.wurl.tv/playlist.m3u8:Grjngo (ES)
-#DESCRIPTION Grjngo (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8:Grjngo (GB)
-#DESCRIPTION Grjngo (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-at.lg.wurl.tv/playlist.m3u8:Gusto TV (BR)
-#DESCRIPTION Gusto TV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvca-lgca/playlist.m3u8:Gusto TV (CA)
-#DESCRIPTION Gusto TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-ch.lg.wurl.tv/playlist.m3u8:Gusto TV (CH)
-#DESCRIPTION Gusto TV (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-es.lg.wurl.tv/playlist.m3u8:Gusto TV (ES)
-#DESCRIPTION Gusto TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-fi.lg.wurl.tv/playlist.m3u8:Gusto TV (FI)
-#DESCRIPTION Gusto TV (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-fr.lg.wurl.tv/playlist.m3u8:Gusto TV (FR)
-#DESCRIPTION Gusto TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-gb.lg.wurl.tv/playlist.m3u8:Gusto TV (GB)
-#DESCRIPTION Gusto TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-ie.lg.wurl.tv/playlist.m3u8:Gusto TV (IE)
-#DESCRIPTION Gusto TV (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-it.lg.wurl.tv/playlist.m3u8:Gusto TV (IT)
-#DESCRIPTION Gusto TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-mx.lg.wurl.tv/playlist.m3u8:Gusto TV (MX)
-#DESCRIPTION Gusto TV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-pt.lg.wurl.tv/playlist.m3u8:Gusto TV (PT)
-#DESCRIPTION Gusto TV (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gustotv-gustotv-2-us.lg.wurl.tv/playlist.m3u8:Gusto TV (US)
-#DESCRIPTION Gusto TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bamca-haunttv-lg.amagi.tv/playlist.m3u8:Haunt TV
-#DESCRIPTION Haunt TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttv-lgus/playlist.m3u8:Haunt TV alt (US)
-#DESCRIPTION Haunt TV alt (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historyhit-lgfi/playlist.m3u8:History Hit (FI)
-#DESCRIPTION History Hit (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historyhit-lgpt/playlist.m3u8:History Hit (PT)
-#DESCRIPTION History Hit (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historytime-lgat/playlist.m3u8:History Time (AT)
-#DESCRIPTION History Time (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgca/playlist.m3u8:History Time (CA)
-#DESCRIPTION History Time (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historytime-lgie/playlist.m3u8:History Time (IE)
-#DESCRIPTION History Time (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8:History Time (US)
-#DESCRIPTION History Time (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hncfree-lg-uk.amagi.tv/playlist.m3u8:HNC Free (UK) Geo
-#DESCRIPTION HNC Free (UK) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-hola-2-es.lg.wurl.tv/playlist.m3u8:Hola (ES)
-#DESCRIPTION Hola (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hollywire-samsung-3-br.lg.wurl.tv/playlist.m3u8:Hollywire (BR)
-#DESCRIPTION Hollywire (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hollywire-samsung-ca.lg.wurl.tv/playlist.m3u8:Hollywire (CA)
-#DESCRIPTION Hollywire (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hollywire-samsung-2-mx.lg.wurl.tv/playlist.m3u8:Hollywire (MX)
-#DESCRIPTION Hollywire (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hollywire-hollywire-1-us.lg.wurl.tv/playlist.m3u8:Hollywire (US)
-#DESCRIPTION Hollywire (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/bamcanada-bamca-homeful-us-lg/playlist.m3u8:Homeful (CA) Geo
-#DESCRIPTION Homeful (CA) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bam-homeful-usa-lg-us.amagi.tv/playlist.m3u8:Homeful (US) Geo
-#DESCRIPTION Homeful (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-horizons-lggb/playlist.m3u8:Horizons (GB)
-#DESCRIPTION Horizons (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//horrorfy-lglatam.amagi.tv/playlist.m3u8:Horrorfy latlam Fix
-#DESCRIPTION Horrorfy latlam Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-huippuelokuvat-1-fi.lg.wurl.tv/playlist.m3u8:Huippuelokuvat (Fi)
-#DESCRIPTION Huippuelokuvat (Fi)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimiea-humanity-doc-it-lg/playlist.m3u8:Humanity (IT) FIX
-#DESCRIPTION Humanity (IT) FIX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-humanity-documentaries-fr-lg.amagi.tv/playlist.m3u8:Humanity Documentaries (FR) Geo
-#DESCRIPTION Humanity Documentaries (FR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-fr-lg/playlist.m3u8:Humanity Documentaries alt (FR) Geo
-#DESCRIPTION Humanity Documentaries alt (FR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-humanity-documentaries-it-lg.amagi.tv/playlist.m3u8:Humanity Documentaries (IT) Geo
-#DESCRIPTION Humanity Documentaries (IT) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-humanity-documentaries-uk-lg.amagi.tv/playlist.m3u8:Humanity Documentaries (UK) Geo
-#DESCRIPTION Humanity Documentaries (UK) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-ion-1-us.lg.wurl.tv/playlist.m3u8:ION (US)
-#DESCRIPTION ION (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ion-ion-plus-1-us.lg.wurl.tv/playlist.m3u8:ION Plus (US)
-#DESCRIPTION ION Plus (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-lges/playlist.m3u8%09:Infast (ES)
-#DESCRIPTION Infast (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/insightAA-insighttv-us-lg-mexico/playlist.m3u8:Insight TV alt Mexico (US)
-#DESCRIPTION Insight TV alt Mexico (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-us-lg-mexico.amagi.tv/playlist.m3u8:Insight TV Mexico (US)
-#DESCRIPTION Insight TV Mexico (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-row-lg.amagi.tv/playlist.m3u8:Insight TV ROW
-#DESCRIPTION Insight TV ROW
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-us-lg-spain.amagi.tv/playlist.m3u8:Insight TV Spain (US)
-#DESCRIPTION Insight TV Spain (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itftv-italianfishingtv-1-it.lg.wurl.tv/playlist.m3u8:Italian Fishing TV (IT)
-#DESCRIPTION Italian Fishing TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-juntos-lg-br/playlist.m3u8:Juntos (BR) Fix
-#DESCRIPTION Juntos (BR) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//juntos-lglatam.amagi.tv/playlist.m3u8:Juntos latlam Fix
-#DESCRIPTION Juntos latlam Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-kidspangtv-1-ca.lg.wurl.tv/playlist.m3u8:Kidspang TV (CA)
-#DESCRIPTION Kidspang TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-kidspangtv-1-es.lg.wurl.tv/playlist.m3u8:Kidspang TV (ES)
-#DESCRIPTION Kidspang TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-kidspangtv-1-fr.lg.wurl.tv/playlist.m3u8:Kidspang TV (FR)
-#DESCRIPTION Kidspang TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-kidspangtv-1-gb.lg.wurl.tv/playlist.m3u8:Kidspang TV (GB)
-#DESCRIPTION Kidspang TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-kidspangtv-1-it.lg.wurl.tv/playlist.m3u8:Kidspang TV (IT)
-#DESCRIPTION Kidspang TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8:Kidspang TV (US)
-#DESCRIPTION Kidspang TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimiea-krime-lg-qmiye.amagi.tv/playlist.m3u8:Krime Fix
-#DESCRIPTION Krime Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-krime-lg.amagi.tv/playlist.m3u8:Krime Geo
-#DESCRIPTION Krime Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-lonestar-lg.amagi.tv/playlist.m3u8:Lonestar
+#SERVICE 5002:0:1:eff1:145c:5cad:1010101:0:0:0:https%3a//cinedigm-lonestar-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lonestar
 #DESCRIPTION Lonestar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-lonestar-lg/playlist.m3u8:Lonestar Geo
-#DESCRIPTION Lonestar Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//linear-144.frequency.stream/144/hls/master/playlist.m3u8:Loupe
-#DESCRIPTION Loupe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-lggb/playlist.m3u8:Love Magazine (GB)
-#DESCRIPTION Love Magazine (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineit-lgit/playlist.m3u8:Love Magazine (IT)
-#DESCRIPTION Love Magazine (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8:Love Wine (ES)
-#DESCRIPTION Love Wine (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgfi/playlist.m3u8:Love Wine (FI)
-#DESCRIPTION Love Wine (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bamus-lovenature-lg.amagi.tv/playlist.m3u8:LoveNature
-#DESCRIPTION LoveNature
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8:LoveNature (US)
-#DESCRIPTION LoveNature (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/bamusaAAA-bamus-lovenature-lg/playlist.m3u8:LoveNature alt
-#DESCRIPTION LoveNature alt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-luxeuk-lgau/playlist.m3u8:Luxe UK (AU)
-#DESCRIPTION Luxe UK (AU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-luxetv-fr-lg.amagi.tv/playlist.m3u8:Luxe TV (FR) Geo
-#DESCRIPTION Luxe TV (FR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-luxetv-uk-lg.amagi.tv/playlist.m3u8:Luxe TV (UK) Geo
-#DESCRIPTION Luxe TV (UK) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//magellantv-2-ca.lg.wurl.tv/playlist.m3u8:Magellan TV (CA)
-#DESCRIPTION Magellan TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//magellantv-2-us.lg.wurl.tv/playlist.m3u8:Magellan TV (US)
-#DESCRIPTION Magellan TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lg-majordomo-media-channel-dc-ca.lg.wurl.tv/playlist.m3u8:MajorDomo TV (CA)
-#DESCRIPTION MajorDomo TV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lg-majordomo-media-channel-dc-us.lg.wurl.tv/playlist.m3u8:MajorDomo TV (US)
-#DESCRIPTION MajorDomo TV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//motorpresse-marcopolotv-lg.amagi.tv/playlist.m3u8:Marco Polo TV Geo
-#DESCRIPTION Marco Polo TV Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maverick-maverick-black-cinema-2-ca.lg.wurl.tv/playlist.m3u8:Maverick Black Cinema (CA)
-#DESCRIPTION Maverick Black Cinema (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maverick-maverick-black-cinema-2-us.lg.wurl.tv/playlist.m3u8:Maverick Black Cinema (US)
-#DESCRIPTION Maverick Black Cinema (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01786-themeateater-meateater-lgau/playlist.m3u8:Meat Eater (AU)
-#DESCRIPTION Meat Eater (AU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-mmc-lg-br/playlist.m3u8:MMC (BR) Fix
-#DESCRIPTION MMC (BR) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-mmc-lg-mx-aj9uc.amagi.tv/playlist.m3u8:MMC (MX) Fix
-#DESCRIPTION MMC (MX) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mmc-lglatam.amagi.tv/playlist.m3u8:MMC latlam Fix
-#DESCRIPTION MMC latlam Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgbr/playlist.m3u8:MOB TV (BR)
-#DESCRIPTION MOB TV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lges/playlist.m3u8:MOB TV (ES)
-#DESCRIPTION MOB TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mobtv-lg-eu.amagi.tv/playlist.m3u8:MOB TV (EU)
-#DESCRIPTION MOB TV (EU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgmx/playlist.m3u8:MOB TV (MX)
-#DESCRIPTION MOB TV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/mobtvAAAA-mobtv-lg-eu/playlist.m3u8:MOB TV alt (EU)
-#DESCRIPTION MOB TV alt (EU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-moconomy-3-at.lg.wurl.tv/playlist.m3u8:Moconomy (AT)
-#DESCRIPTION Moconomy (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8:Moconomy (ES)
-#DESCRIPTION Moconomy (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-moconomy-2-gb.lg.wurl.tv/playlist.m3u8:Moconomy (GB)
-#DESCRIPTION Moconomy (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-monthlypick-1-es.lg.wurl.tv/playlist.m3u8:Monthly Pick (ES)
-#DESCRIPTION Monthly Pick (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-monthlypick-1-fr.lg.wurl.tv/playlist.m3u8:Monthly Pick (FR)
-#DESCRIPTION Monthly Pick (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-monthlypick-1-gb.lg.wurl.tv/playlist.m3u8:Monthly Pick (GB)
-#DESCRIPTION Monthly Pick (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-monthlypick-1-it.lg.wurl.tv/playlist.m3u8:Monthly Pick (IT)
-#DESCRIPTION Monthly Pick (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//motorsportnetwork-motor1tv-1-it.lg.wurl.tv/playlist.m3u8:Motor1TV (IT)
-#DESCRIPTION Motor1TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-moviecentralbytvplayer-fr-lg.amagi.tv/playlist.m3u8:Moviecentral by TVplayer (FR) Geo
-#DESCRIPTION Moviecentral by TVplayer (FR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-moviecentralbytvplayer-uk-lg.amagi.tv/playlist.m3u8:Moviecentral by TVplayer (UK) Geo
-#DESCRIPTION Moviecentral by TVplayer (UK) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kochmedia-moviedome-lg.amagi.tv/playlist.m3u8:MovieDome
-#DESCRIPTION MovieDome
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8:MovieDome Family
-#DESCRIPTION MovieDome Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movies4free-lg.amagi.tv/playlist.m3u8:Movies 4 Free
-#DESCRIPTION Movies 4 Free
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/videosolu-movies4free-lg/playlist.m3u8:Movies 4 Free Geo
-#DESCRIPTION Movies 4 Free Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kravemedia-mtrspt1-1-es.lg.wurl.tv/playlist.m3u8:Mtrspt 1 (ES)
-#DESCRIPTION Mtrspt 1 (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kravemedia-mtrspt1-1-fr.lg.wurl.tv/playlist.m3u8:Mtrspt 1 (FR)
-#DESCRIPTION Mtrspt 1 (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kravemedia-mtrspt1-1-gb.lg.wurl.tv/playlist.m3u8:Mtrspt 1 (GB)
-#DESCRIPTION Mtrspt 1 (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kravemedia-mtrspt1-1-it.lg.wurl.tv/playlist.m3u8:Mtrspt 1 (IT)
-#DESCRIPTION Mtrspt 1 (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-br.lg.wurl.tv/playlist.m3u8:Mubeat (BR)
-#DESCRIPTION Mubeat (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-ca.lg.wurl.tv/playlist.m3u8:Mubeat (CA)
-#DESCRIPTION Mubeat (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-es.lg.wurl.tv/playlist.m3u8:Mubeat (ES)
-#DESCRIPTION Mubeat (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-fr.lg.wurl.tv/playlist.m3u8:Mubeat (FR)
-#DESCRIPTION Mubeat (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-gb.lg.wurl.tv/playlist.m3u8:Mubeat (GB)
-#DESCRIPTION Mubeat (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-it.lg.wurl.tv/playlist.m3u8:Mubeat (IT)
-#DESCRIPTION Mubeat (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-mx.lg.wurl.tv/playlist.m3u8:Mubeat (MX)
-#DESCRIPTION Mubeat (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-mubeat-1-us.lg.wurl.tv/playlist.m3u8:Mubeat (US)
-#DESCRIPTION Mubeat (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-fr-lgfr/playlist.m3u8:Museum TV (FR)
-#DESCRIPTION Museum TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-lges/playlist.m3u8:My Padel TV (ES)
-#DESCRIPTION My Padel TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-mytime-lg.amagi.tv/playlist.m3u8:Mytime Movie Network
-#DESCRIPTION Mytime Movie Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovient-lgau/playlist.m3u8:Mytime Movie Network (AU)
-#DESCRIPTION Mytime Movie Network (AU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-mytime-lg/playlist.m3u8:Mytime Movie Network alt Geo
-#DESCRIPTION Mytime Movie Network alt Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lg-ncaachannel-1-aa.lg.wurl.tv/playlist.m3u8:NCAA Channel (AA)
-#DESCRIPTION NCAA Channel (AA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lg-ncaachannel-1-us.lg.wurl.tv/playlist.m3u8:NCAA Channel (US)
-#DESCRIPTION NCAA Channel (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-br.lg.wurl.tv/playlist.m3u8:New K Food (BR)
-#DESCRIPTION New K Food (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-ca.lg.wurl.tv/playlist.m3u8:New K Food (CA)
-#DESCRIPTION New K Food (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-es.lg.wurl.tv/playlist.m3u8:New K Food (ES)
-#DESCRIPTION New K Food (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-fr.lg.wurl.tv/playlist.m3u8:New K Food (FR)
-#DESCRIPTION New K Food (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-gb.lg.wurl.tv/playlist.m3u8:New K Food (GB)
-#DESCRIPTION New K Food (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-it.lg.wurl.tv/playlist.m3u8:New K Food (IT)
-#DESCRIPTION New K Food (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-mx.lg.wurl.tv/playlist.m3u8:New K Food (MX)
-#DESCRIPTION New K Food (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkfood-1-us.lg.wurl.tv/playlist.m3u8:New K Food (US)
-#DESCRIPTION New K Food (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkmovies-2-es.lg.wurl.tv/playlist.m3u8:New K Movies (ES)
-#DESCRIPTION New K Movies (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkmovies-2-fr.lg.wurl.tv/playlist.m3u8:New K Movies (FR)
-#DESCRIPTION New K Movies (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkmovies-2-gb.lg.wurl.tv/playlist.m3u8:New K Movies (GB)
-#DESCRIPTION New K Movies (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkmovies-2-it.lg.wurl.tv/playlist.m3u8:New K Movies (IT)
-#DESCRIPTION New K Movies (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkmovies-1-us.lg.wurl.tv/playlist.m3u8:New K Movies (US)
-#DESCRIPTION New K Movies (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-br.lg.wurl.tv/playlist.m3u8:New Kid (BR)
-#DESCRIPTION New Kid (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8:New Kid (CA)
-#DESCRIPTION New Kid (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-es.lg.wurl.tv/playlist.m3u8:New Kid (ES)
-#DESCRIPTION New Kid (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-fr.lg.wurl.tv/playlist.m3u8:New Kid (FR)
-#DESCRIPTION New Kid (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-gb.lg.wurl.tv/playlist.m3u8:New Kid (GB)
-#DESCRIPTION New Kid (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-it.lg.wurl.tv/playlist.m3u8:New Kid (IT)
-#DESCRIPTION New Kid (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8:New Kid (MX)
-#DESCRIPTION New Kid (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newmovies-1-ca.lg.wurl.tv/playlist.m3u8:New Movies (CA)
-#DESCRIPTION New Movies (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8:New Movies (US)
-#DESCRIPTION New Movies (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newsmax-newsmaxtv-1-ca.lg.wurl.tv/playlist.m3u8:Newsmax (CA)
-#DESCRIPTION Newsmax (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newsmax-newsmaxtv-1-us.lg.wurl.tv/playlist.m3u8:Newsmax (US)
-#DESCRIPTION Newsmax (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nosey-intl-1-lg-ca.amagi.tv/playlist.m3u8:Nosey (CA) Geo
-#DESCRIPTION Nosey (CA) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nosey-intl-1-lg-us.amagi.tv/playlist.m3u8:Nosey (US) Geo
-#DESCRIPTION Nosey (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nosey-intl-1-lg.amagi.tv/playlist.m3u8:Nosey International
-#DESCRIPTION Nosey International
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spt-novelas-1-us.lg.wurl.tv/playlist.m3u8:Novelas (US)
-#DESCRIPTION Novelas (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stormcast-novelas-2-es.lg.wurl.tv/playlist.m3u8:Novelas (ES)
-#DESCRIPTION Novelas (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//oan-lg.amagi.tv/playlist.m3u8:Oan
-#DESCRIPTION Oan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ofive-lg.amagi.tv/playlist.m3u8:Ofive
-#DESCRIPTION Ofive
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/ofiveAAAA-ofive-lg/playlist.m3u8:Ofive Geo
-#DESCRIPTION Ofive Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ondemandchina-1-ca.lg.wurl.tv/playlist.m3u8:Ondemand China (CA)
-#DESCRIPTION Ondemand China (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ondemandchina-1-us.lg.wurl.tv/playlist.m3u8:Ondemand China (US)
-#DESCRIPTION Ondemand China (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raycomsports-originsports-lg.amagi.tv/playlist.m3u8:Origin Sports
-#DESCRIPTION Origin Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8:PBS Nature (US)
-#DESCRIPTION PBS Nature (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-at.lg.wurl.tv/playlist.m3u8:People are Awesome (AT)
-#DESCRIPTION People are Awesome (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-br.lg.wurl.tv/playlist.m3u8:People are Awesome (BR)
-#DESCRIPTION People are Awesome (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-ca.lg.wurl.tv/playlist.m3u8:People are Awesome (CA)
-#DESCRIPTION People are Awesome (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-ch.lg.wurl.tv/playlist.m3u8:People are Awesome (CH)
-#DESCRIPTION People are Awesome (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-es.lg.wurl.tv/playlist.m3u8:People are Awesome (ES)
-#DESCRIPTION People are Awesome (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-fi.lg.wurl.tv/playlist.m3u8:People are Awesome (FI)
-#DESCRIPTION People are Awesome (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-fr.lg.wurl.tv/playlist.m3u8:People are Awesome (FR)
-#DESCRIPTION People are Awesome (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-gb.lg.wurl.tv/playlist.m3u8:People are Awesome (GB)
-#DESCRIPTION People are Awesome (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-ie.lg.wurl.tv/playlist.m3u8:People are Awesome (IE)
-#DESCRIPTION People are Awesome (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-it.lg.wurl.tv/playlist.m3u8:People are Awesome (IT)
-#DESCRIPTION People are Awesome (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-mx.lg.wurl.tv/playlist.m3u8:People are Awesome (MX)
-#DESCRIPTION People are Awesome (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-international-4-pt.lg.wurl.tv/playlist.m3u8:People are Awesome (PT)
-#DESCRIPTION People are Awesome (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-3-us.lg.wurl.tv/playlist.m3u8:People are Awesome (US)
-#DESCRIPTION People are Awesome (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-planet-eat-1-ca.lg.wurl.tv:Planet Eat (CA)
-#DESCRIPTION Planet Eat (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-planet-eat-1-us.lg.wurl.tv:Planet Eat (US)
-#DESCRIPTION Planet Eat (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-at.lg.wurl.tv/playlist.m3u8:Playground TV (AT)
-#DESCRIPTION Playground TV (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-ch.lg.wurl.tv/playlist.m3u8:Playground TV (CH)
-#DESCRIPTION Playground TV (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-es.lg.wurl.tv/playlist.m3u8:Playground TV (ES)
-#DESCRIPTION Playground TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-fi.lg.wurl.tv/playlist.m3u8:Playground TV (FI)
-#DESCRIPTION Playground TV (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-fr.lg.wurl.tv/playlist.m3u8:Playground TV (FR)
-#DESCRIPTION Playground TV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-gb.lg.wurl.tv/playlist.m3u8:Playground TV (GB)
-#DESCRIPTION Playground TV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-ie.lg.wurl.tv/playlist.m3u8:Playground TV (IE)
-#DESCRIPTION Playground TV (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-it.lg.wurl.tv/playlist.m3u8:Playground TV (IT)
-#DESCRIPTION Playground TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playgroundtv-playgroundtv-1-pt.lg.wurl.tv/playlist.m3u8:Playground TV (PT)
-#DESCRIPTION Playground TV (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmtv-powernation-1-ca.lg.wurl.tv/playlist.m3u8:PowerNation (CA)
-#DESCRIPTION PowerNation (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmtv-powernation-1-us.lg.wurl.tv/playlist.m3u8:PowerNation (US)
-#DESCRIPTION PowerNation (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-ar.lg.wurl.tv/playlist.m3u8:Quicktake (AR)
-#DESCRIPTION Quicktake (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-ar.lg.wurl.tv/playlist.m3u8:Quicktake (AR)
-#DESCRIPTION Quicktake (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-at.lg.wurl.tv/playlist.m3u8:Quicktake (AT)
-#DESCRIPTION Quicktake (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-br.lg.wurl.tv/playlist.m3u8:Quicktake (BR)
-#DESCRIPTION Quicktake (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-ca.lg.wurl.tv/playlist.m3u8:Quicktake (CA)
-#DESCRIPTION Quicktake (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-ch.lg.wurl.tv/playlist.m3u8:Quicktake (CH)
-#DESCRIPTION Quicktake (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-cl.lg.wurl.tv/playlist.m3u8:Quicktake (CL)
-#DESCRIPTION Quicktake (CL)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-cl.lg.wurl.tv/playlist.m3u8:Quicktake (CL)
-#DESCRIPTION Quicktake (CL)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-co.lg.wurl.tv/playlist.m3u8:Quicktake (CO)
-#DESCRIPTION Quicktake (CO)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-co.lg.wurl.tv/playlist.m3u8:Quicktake (CO)
-#DESCRIPTION Quicktake (CO)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-es.lg.wurl.tv/playlist.m3u8:Quicktake (ES)
-#DESCRIPTION Quicktake (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-fi.lg.wurl.tv/playlist.m3u8:Quicktake (FI)
-#DESCRIPTION Quicktake (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-fr.lg.wurl.tv/playlist.m3u8:Quicktake (FR)
-#DESCRIPTION Quicktake (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-gb.lg.wurl.tv/playlist.m3u8:Quicktake (GB)
-#DESCRIPTION Quicktake (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-it.lg.wurl.tv/playlist.m3u8:Quicktake (IT)
-#DESCRIPTION Quicktake (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-mx.lg.wurl.tv/playlist.m3u8:Quicktake (MX)
-#DESCRIPTION Quicktake (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-pe.lg.wurl.tv/playlist.m3u8:Quicktake (PE)
-#DESCRIPTION Quicktake (PE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-1-pt.lg.wurl.tv/playlist.m3u8:Quicktake (PT)
-#DESCRIPTION Quicktake (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-quicktake-4-us.lg.wurl.tv/playlist.m3u8:Quicktake (US)
-#DESCRIPTION Quicktake (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qwest-classic-lg.amagi.tv/playlist.m3u8:Qwest Classical
-#DESCRIPTION Qwest Classical
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-lgau/playlist.m3u8:Qwest Classical (AU)
-#DESCRIPTION Qwest Classical (AU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-lgbr/playlist:Qwest Classical (BR)
-#DESCRIPTION Qwest Classical (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassical-lgch/playlist.m3u8:Qwest Classical (CH)
-#DESCRIPTION Qwest Classical (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-lgfi/playlist.m3u8:Qwest Classical (FI)
-#DESCRIPTION Qwest Classical (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-lgmx/playlist.m3u8:Qwest Classical (MX)
-#DESCRIPTION Qwest Classical (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassical-lgpt/playlist.m3u8:Qwest Classical (PT)
-#DESCRIPTION Qwest Classical (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/qwestAAAA-qwest-classic-lg/playlist.m3u8:Qwest Classical alt Geo
-#DESCRIPTION Qwest Classical alt Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qwest-jazz-lg.amagi.tv/playlist.m3u8:Qwest Jazz
-#DESCRIPTION Qwest Jazz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgat/playlist.m3u8:Qwest Jazz (AT)
-#DESCRIPTION Qwest Jazz (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgau/playlist.m3u8:Qwest Jazz (AU)
-#DESCRIPTION Qwest Jazz (AU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbr/playlist.m3u8:Qwest Jazz (BR)
-#DESCRIPTION Qwest Jazz (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgmx/playlist.m3u8:Qwest Jazz (MX)
-#DESCRIPTION Qwest Jazz (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgpt/playlist.m3u8:Qwest Jazz (PT)
-#DESCRIPTION Qwest Jazz (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//qwest-mix-lg.amagi.tv/playlist.m3u8:Qwest Mix
-#DESCRIPTION Qwest Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgar/playlist.m3u8:Qwest Mix (AR)
-#DESCRIPTION Qwest Mix (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgcl/playlist.m3u8:Qwest Mix (CL)
-#DESCRIPTION Qwest Mix (CL)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgpe/playlist.m3u8:Qwest Mix (PE)
-#DESCRIPTION Qwest Mix (PE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/qwestAAAA-qwest-mix-lg/playlist.m3u8:Qwest Mix alt Geo
-#DESCRIPTION Qwest Mix alt Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingamerica-lg.amagi.tv/playlist.m3u8:Racing America
-#DESCRIPTION Racing America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-12-fi.lg.wurl.tv/playlist.m3u8:Rakuten Action (FI)
-#DESCRIPTION Rakuten Action (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-13-ie.lg.wurl.tv/playlist.m3u8:Rakuten Action (IE)
-#DESCRIPTION Rakuten Action (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-action-8-nl.lg.wurl.tv/playlist.m3u8:Rakuten Action (NL)
-#DESCRIPTION Rakuten Action (NL)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-3-at.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies (AT)
-#DESCRIPTION Rakuten Action Movies (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-3-ch.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies (CH)
-#DESCRIPTION Rakuten Action Movies (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies (ES)
-#DESCRIPTION Rakuten Action Movies (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies (FR)
-#DESCRIPTION Rakuten Action Movies (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies (GB)
-#DESCRIPTION Rakuten Action Movies (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-1-ie.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies (IE)
-#DESCRIPTION Rakuten Action Movies (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies (IT)
-#DESCRIPTION Rakuten Action Movies (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-5-at.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies alt (AT)
-#DESCRIPTION Rakuten Action Movies alt (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-4-ch.lg.wurl.tv/playlist.m3u8:Rakuten Action Movies alt (CH)
-#DESCRIPTION Rakuten Action Movies alt (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-british-films-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten British Films (GB)
-#DESCRIPTION Rakuten British Films (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-12-fi.lg.wurl.tv/playlist.m3u8:Rakuten Comedy (FI)
-#DESCRIPTION Rakuten Comedy (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedy-13-fi.lg.wurl.tv/playlist.m3u8:Rakuten Comedy (IE)
-#DESCRIPTION Rakuten Comedy (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-5-at.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (AT)
-#DESCRIPTION Rakuten Comedy Movies (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-3-at.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies alt (AT)
-#DESCRIPTION Rakuten Comedy Movies alt (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-3-ch.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (CH)
-#DESCRIPTION Rakuten Comedy Movies (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (ES)
-#DESCRIPTION Rakuten Comedy Movies (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (FR)
-#DESCRIPTION Rakuten Comedy Movies (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (GB)
-#DESCRIPTION Rakuten Comedy Movies (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-1-ie.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (IE)
-#DESCRIPTION Rakuten Comedy Movies (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies (IT)
-#DESCRIPTION Rakuten Comedy Movies (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-4-ch.lg.wurl.tv/playlist.m3u8:Rakuten Comedy Movies alt (CH)
-#DESCRIPTION Rakuten Comedy Movies alt (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-5-at.lg.wurl.tv/playlist.m3u8:Rakuten Documentaries (AT)
-#DESCRIPTION Rakuten Documentaries (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Documentaries (FR)
-#DESCRIPTION Rakuten Documentaries (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Documentaries (IT)
-#DESCRIPTION Rakuten Documentaries (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-14-pt.lg.wurl.tv/playlist.m3u8:Rakuten Documentaries (PT)
-#DESCRIPTION Rakuten Documentaries (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-drama-12-fi.lg.wurl.tv/playlist.m3u8:Rakuten Drama (FI)
-#DESCRIPTION Rakuten Drama (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-drama-13-ie.lg.wurl.tv/playlist.m3u8:Rakuten Drama (IE)
-#DESCRIPTION Rakuten Drama (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-5-at.lg.wurl.tv/playlist.m3u8:Rakuten Family (AT)
-#DESCRIPTION Rakuten Family (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Family (ES)
-#DESCRIPTION Rakuten Family (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Family (FR)
-#DESCRIPTION Rakuten Family (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Family (GB)
-#DESCRIPTION Rakuten Family (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Family (IT)
-#DESCRIPTION Rakuten Family (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-14-pt.lg.wurl.tv/playlist.m3u8:Rakuten Family (PT)
-#DESCRIPTION Rakuten Family (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-films-francais-1-fr.lg.wurl.tv/playlist.m3u8:Rakuten Films Francais (FR)
-#DESCRIPTION Rakuten Films Francais (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-guardian-1-at.lg.wurl.tv/playlist.m3u8:Rakuten Guardian (AT)
-#DESCRIPTION Rakuten Guardian (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-guardian-1-ch.lg.wurl.tv/playlist.m3u8:Rakuten Guardian (CH)
-#DESCRIPTION Rakuten Guardian (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-guardian-1-es.lg.wurl.tv/playlist.m3u8:Rakuten Guardian (ES)
-#DESCRIPTION Rakuten Guardian (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8:Rakuten Guardian (FR)
-#DESCRIPTION Rakuten Guardian (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-guardian-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Guardian (GB)
-#DESCRIPTION Rakuten Guardian (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-guardian-1-it.lg.wurl.tv/playlist.m3u8:Rakuten Guardian (IT)
-#DESCRIPTION Rakuten Guardian (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Romance (ES)
-#DESCRIPTION Rakuten Romance (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Romance (FR)
-#DESCRIPTION Rakuten Romance (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Romance (GB)
-#DESCRIPTION Rakuten Romance (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-romance-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Romance (IT)
-#DESCRIPTION Rakuten Romance (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-5-at.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (AT)
-#DESCRIPTION Rakuten Spotlight (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-3-ch.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (CH)
-#DESCRIPTION Rakuten Spotlight (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (ES)
-#DESCRIPTION Rakuten Spotlight (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-12-fi.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (FI)
-#DESCRIPTION Rakuten Spotlight (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (FR)
-#DESCRIPTION Rakuten Spotlight (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (GB)
-#DESCRIPTION Rakuten Spotlight (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-1-ie.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (IE)
-#DESCRIPTION Rakuten Spotlight (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight (IT)
-#DESCRIPTION Rakuten Spotlight (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-4-ch.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight alt (CH)
-#DESCRIPTION Rakuten Spotlight alt (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-13-ie.lg.wurl.tv/playlist.m3u8:Rakuten Spotlight alt (IE)
-#DESCRIPTION Rakuten Spotlight alt (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Thriller (ES)
-#DESCRIPTION Rakuten Thriller (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten Thriller (FR)
-#DESCRIPTION Rakuten Thriller (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Thriller (GB)
-#DESCRIPTION Rakuten Thriller (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-thriller-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Thriller (IT)
-#DESCRIPTION Rakuten Thriller (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Top Free (ES)
-#DESCRIPTION Rakuten Top Free (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten Top Free (GB)
-#DESCRIPTION Rakuten Top Free (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-1-ie.lg.wurl.tv/playlist.m3u8:Rakuten Top Free (IE)
-#DESCRIPTION Rakuten Top Free (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-topfree-6-it.lg.wurl.tv/playlist.m3u8:Rakuten Top Free (IT)
-#DESCRIPTION Rakuten Top Free (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-3-at.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (AT)
-#DESCRIPTION Rakuten TV Shows (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-3-ch.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (CH)
-#DESCRIPTION Rakuten TV Shows (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (ES)
-#DESCRIPTION Rakuten TV Shows (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-7-fr.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (FR)
-#DESCRIPTION Rakuten TV Shows (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (GB)
-#DESCRIPTION Rakuten TV Shows (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-1-ie.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (IE)
-#DESCRIPTION Rakuten TV Shows (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-6-it.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows (IT)
-#DESCRIPTION Rakuten TV Shows (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-5-at.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows alt (AT)
-#DESCRIPTION Rakuten TV Shows alt (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-4-ch.lg.wurl.tv/playlist.m3u8:Rakuten TV Shows alt (CH)
-#DESCRIPTION Rakuten TV Shows alt (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-1-de.lg.wurl.tv/playlist.m3u8:Rakuten Viki (DE)
-#DESCRIPTION Rakuten Viki (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-es.lg.wurl.tv/playlist.m3u8:Rakuten Viki (ES)
-#DESCRIPTION Rakuten Viki (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-fr.lg.wurl.tv/playlist.m3u8:Rakuten Viki (FR)
-#DESCRIPTION Rakuten Viki (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-gb.lg.wurl.tv/playlist.m3u8:Rakuten Viki (GB)
-#DESCRIPTION Rakuten Viki (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-1-it.lg.wurl.tv/playlist.m3u8:Rakuten Viki (IT)
-#DESCRIPTION Rakuten Viki (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8:Rakuten Viki (MX)
-#DESCRIPTION Rakuten Viki (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8:Rakuten Viki (US)
-#DESCRIPTION Rakuten Viki (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-3-es.lg.wurl.tv/playlist.m3u8:Rakuten Viki alt (ES)
-#DESCRIPTION Rakuten Viki alt (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-1-fr.lg.wurl.tv/playlist.m3u8:Rakuten Viki alt (FR)
-#DESCRIPTION Rakuten Viki alt (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-rakutenviki-2-it.lg.wurl.tv/playlist.m3u8:Rakuten Viki alt (IT)
-#DESCRIPTION Rakuten Viki alt (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime2-lgfi/playlist.m3u8:Real Crime (FI)
-#DESCRIPTION Real Crime (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimealpha-lggb/playlist.m3u8:Real Crime (GB)
-#DESCRIPTION Real Crime (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime2-lgie/playlist.m3u8:Real Crime (IE)
-#DESCRIPTION Real Crime (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime2-lgpt/playlist.m3u8:Real Crime (PT)
-#DESCRIPTION Real Crime (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-lgat/playlist.m3u8:Real Life (AT)
-#DESCRIPTION Real Life (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-lgfi/playlist.m3u8:Real Life (FI)
-#DESCRIPTION Real Life (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-lggb/playlist.m3u8:Real Life (GB)
-#DESCRIPTION Real Life (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-lgie/playlist.m3u8:Real Life (IE)
-#DESCRIPTION Real Life (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-realmadridtv-lg/playlist.m3u8:Real Madrid TV Geo
-#DESCRIPTION Real Madrid TV Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//realnosey-lg.amagi.tv/playlist.m3u8:Real Nosey
-#DESCRIPTION Real Nosey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//realnosey-lg-us.amagi.tv/playlist.m3u8:Real Nosey (US)
-#DESCRIPTION Real Nosey (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgfi/playlist.m3u8:Real Stories (FI)
-#DESCRIPTION Real Stories (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgie/playlist.m3u8:Real Stories (IE)
-#DESCRIPTION Real Stories (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgpt/playlist.m3u8:Real Stories (PT)
-#DESCRIPTION Real Stories (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgch/playlist.m3u8:Real Wild (CH)
-#DESCRIPTION Real Wild (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lggb/playlist.m3u8:Real Wild (GB)
-#DESCRIPTION Real Wild (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgie/playlist.m3u8:Real Wild (IE)
-#DESCRIPTION Real Wild (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgpt/playlist.m3u8:Real Wild (PT)
-#DESCRIPTION Real Wild (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//redbox-holiday-lg.amagi.tv/playlist.m3u8:Redbox Holiday
-#DESCRIPTION Redbox Holiday
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/redboxAAA-redboxholiday-lg/playlist.m3u8:Redbox Holiday alt
-#DESCRIPTION Redbox Holiday alt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//redbox-rewind-lg.amagi.tv/playlist.m3u8:Redbox Rewind
-#DESCRIPTION Redbox Rewind
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/redboxAAA-redboxrewind-lg/playlist.m3u8:Redbox Rewind alt
-#DESCRIPTION Redbox Rewind alt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//redbox-spotlight-lg.amagi.tv/playlist.m3u8:Redbox Spotlight
-#DESCRIPTION Redbox Spotlight
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//redbox-warandwesterns-lg.amagi.tv/playlist.m3u8:Redbox War and Westerns
-#DESCRIPTION Redbox War and Westerns
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/redboxAAA-redboxspotlight-lg/playlist,m3u8:Redbox War and Westerns alt
-#DESCRIPTION Redbox War and Westerns alt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8:RetroCrush (US)
-#DESCRIPTION RetroCrush (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//reuters-reutersnow-2-us.lg.wurl.tv/playlist.m3u8:Reuters (US)
-#DESCRIPTION Reuters (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-rmtv-lg.amagi.tv/playlist.m3u8:RMTV
+#SERVICE 5002:0:1:275e:473c:3c75:1010101:0:0:0:https%3a//cinedigm-mytime-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime
+#DESCRIPTION Mytime
+#SERVICE 5002:0:1:c7b6:10ec:ec97:1010101:0:0:0:https%3a//cinedigm-rmtv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RMTV
 #DESCRIPTION RMTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sabermas-lglatam.amagi.tv/playlist.m3u8:Sabermas Fix
-#DESCRIPTION Sabermas Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-sbs-1-es.lg.wurl.tv/playlist.m3u8:SBS (ES)
-#DESCRIPTION SBS (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-sbs-1-fr.lg.wurl.tv/playlist.m3u8:SBS (FR)
-#DESCRIPTION SBS (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-sbs-1-gb.lg.wurl.tv/playlist.m3u8:SBS (GB)
-#DESCRIPTION SBS (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-sbs-1-it.lg.wurl.tv/playlist.m3u8:SBS (IT)
-#DESCRIPTION SBS (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zylo-screamin-lg.amagi.tv/playlist.m3u8:Screamin
-#DESCRIPTION Screamin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/zyloAAAAA-zylo-screamin-lg/playlist.m3u8:Screamin Geo
-#DESCRIPTION Screamin Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//scripps-newsy-1-us.lg.wurl.tv/playlist.m3u8:Scripps News (US)
-#DESCRIPTION Scripps News (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shortstv-fast-spain-lg.amagi.tv/playlist.m3u8:Shorts TV (ES)
-#DESCRIPTION Shorts TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shortstv-fast-italy-lg.amagi.tv/playlist.m3u8:Shorts TV (IT)
-#DESCRIPTION Shorts TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shortstv-fast-uk-lg.amagi.tv/playlist.m3u8:Shorts TV (UK)
-#DESCRIPTION Shorts TV (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-soreal-lg.amagi.tv/playlist.m3u8:So real
-#DESCRIPTION So real
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spt-sonykal-1-ca.lg.wurl.tv/playlist.m3u8:SONY Kal (CA)
-#DESCRIPTION SONY Kal (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8:SONY Kal (US)
-#DESCRIPTION SONY Kal (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-soreal-lg/playlist.m3u8:Soreal Geo
-#DESCRIPTION Soreal Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-spannungemo-lgat/playlist.m3u8:Spannungemo (AT)
-#DESCRIPTION Spannungemo (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-spannungemo-lgch/playlist.m3u8:Spannungemo (CH)
-#DESCRIPTION Spannungemo (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spartantv-lg.amagi.tv/playlist.m3u8:Spartan TV
-#DESCRIPTION Spartan TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//speedvision-speedvision-1-at.lg.wurl.tv/playlist.m3u8:Speedvision (AT)
-#DESCRIPTION Speedvision (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//speedvision-speedvision-1-es.lg.wurl.tv/playlist.m3u8:Speedvision (ES)
-#DESCRIPTION Speedvision (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//speedvision-speedvision-1-fr.lg.wurl.tv/playlist.m3u8:Speedvision (FR)
-#DESCRIPTION Speedvision (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//speedvision-speedvision-1-it.lg.wurl.tv/playlist.m3u8:Speedvision (IT)
-#DESCRIPTION Speedvision (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsgrid-lg.amagi.tv/playlist.m3u8:Sportsgrid
-#DESCRIPTION Sportsgrid
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-lgau/playlist.m3u8:Sportsgrid (AU)
-#DESCRIPTION Sportsgrid (AU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsgrid-lg-ca.amagi.tv/playlist.m3u8:Sportsgrid (CA)
-#DESCRIPTION Sportsgrid (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-lgca/playlist.m3u8:Sportsgrid (CA)
-#DESCRIPTION Sportsgrid (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsgrid-lg-us.amagi.tv/playlist.m3u8:Sportsgrid (US)
-#DESCRIPTION Sportsgrid (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-lgus/playlist.m3u8:Sportsgrid (US)
-#DESCRIPTION Sportsgrid (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-starkefrauenat-lgat/playlist.m3u8:Starkefrauen (AT)
-#DESCRIPTION Starkefrauen (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-starkefrauench-lgch/playlist.m3u8:Starkefrauen (CH)
-#DESCRIPTION Starkefrauen (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-starsingefahr-lgat/playlist.m3u8:Starsingefahr (AT)
-#DESCRIPTION Starsingefahr (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-starsingefahr-lgch/playlist.m3u8:Starsingefahr (CH)
-#DESCRIPTION Starsingefahr (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rightsboosterltd-scl-1-ca.lg.wurl.tv/playlist.m3u8:Strong Mans Champion League (CA)
-#DESCRIPTION Strong Mans Champion League (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rightsboosterltd-scl-1-gb.lg.wurl.tv/playlist.m3u8:Strong Mans Champion League (GB)
-#DESCRIPTION Strong Mans Champion League (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rightsboosterltd-scl-1-us.lg.wurl.tv/playlist.m3u8:Strong Mans Champion League (US)
-#DESCRIPTION Strong Mans Champion League (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-surfworldtv-lg-es.amagi.tv/playlist.m3u8:SurfWorld TV (ES) Geo
-#DESCRIPTION SurfWorld TV (ES) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-surfworldtv-lg-it.amagi.tv/playlist.m3u8:SurfWorld TV (IT) Geo
-#DESCRIPTION SurfWorld TV (IT) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-surfworldtv-lg.amagi.tv/playlist.m3u8:SurfWorld TV Geo
-#DESCRIPTION SurfWorld TV Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tastemadept16intl-xumobrazil.amagi.tv/playlist.m3u8:Tastemade Brazil (BR)
-#DESCRIPTION Tastemade Brazil (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tayo-lyd-lg.amagi.tv/playlist.m3u8:Tayo
-#DESCRIPTION Tayo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//television-concientes-lgbr.amagi.tv/playlist.m3u8:Television Concientes (BR) Geo
-#DESCRIPTION Television Concientes (BR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//television-concientes-lges.amagi.tv/playlist.m3u8:Television Concientes (ES)
-#DESCRIPTION Television Concientes (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//television-concientes-lgit.amagi.tv/playlist.m3u8:Television Concientes (IT)
-#DESCRIPTION Television Concientes (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-telezap-lg.amagi.tv/playlist.m3u8:Telezap Geo
-#DESCRIPTION Telezap Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelde-lgde/playlist.m3u8:Tennis Channel (DE)
-#DESCRIPTION Tennis Channel (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lg-thebeverlyhillbillies-1-us.lg.wurl.tv/playlist.m3u8:The Beverly Hillbillies (US)
-#DESCRIPTION The Beverly Hillbillies (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestlooser-lgus/playlist.m3u8:The Biggest Loser (US)
-#DESCRIPTION The Biggest Loser (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-bobross-lg.amagi.tv/playlist.m3u8:The Bob Ross Channel
-#DESCRIPTION The Bob Ross Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-bobross-lg/playlist.m3u8:The Bob Ross Channel alt Geo
-#DESCRIPTION The Bob Ross Channel alt Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8:The Bob Ross Channel Spanish (US)
-#DESCRIPTION The Bob Ross Channel Spanish (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-thecountrynetwork-lg.amagi.tv/playlist.m3u8:The Country Network
+#SERVICE 5002:0:1:a4ba:2bce:ce0e:1010101:0:0:0:https%3a//cinedigm-soreal-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SoReal
+#DESCRIPTION SoReal
+#SERVICE 5002:0:1:9b54:c30b:b63:1010101:0:0:0:https%3a//thecountrynetwork-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Country Network
 #DESCRIPTION The Country Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thecountrynetwork-lg.amagi.tv/playlist.m3u8:The Country Network alt
-#DESCRIPTION The Country Network alt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-thecountrynetwork-lg/playlist.m3u8:The Country Network Geo
-#DESCRIPTION The Country Network Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elvis-lgus/playlist.m3u8:The Elvis Channel (US)
-#DESCRIPTION The Elvis Channel (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thefirst-lg.amagi.tv/playlist.m3u8:The First
-#DESCRIPTION The First
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/thefirstd-thefirst-lg/playlist.m3u8:The First Geo
-#DESCRIPTION The First Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-thehill-lgus/playlist.m3u8%09:The Hill (US)
-#DESCRIPTION The Hill (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lg-nflchannel-1-us.lg.wurl.tv/playlist.m3u8:The NFL Channel (US)
-#DESCRIPTION The NFL Channel (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm-theonlywayisessex-lg.amagi.tv/playlist.m3u8:The only 3way is Essex
-#DESCRIPTION The only 3way is Essex
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-theonlywayisessex-lg/playlist.m3u8:The Only way is Essex Geo
-#DESCRIPTION The Only way is Essex Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-at.lg.wurl.tv/playlist.m3u8:The Pet Collective (AT)
-#DESCRIPTION The Pet Collective (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-br.lg.wurl.tv/playlist.m3u8:The Pet Collective (BR)
-#DESCRIPTION The Pet Collective (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-ca.lg.wurl.tv/playlist.m3u8:The Pet Collective (CA)
-#DESCRIPTION The Pet Collective (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-ch.lg.wurl.tv/playlist.m3u8:The Pet Collective (CH)
-#DESCRIPTION The Pet Collective (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-es.lg.wurl.tv/playlist.m3u8:The Pet Collective (ES)
-#DESCRIPTION The Pet Collective (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-fi.lg.wurl.tv/playlist.m3u8:The Pet Collective (FI)
-#DESCRIPTION The Pet Collective (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-gb.lg.wurl.tv/playlist.m3u8:The Pet Collective (GB)
-#DESCRIPTION The Pet Collective (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-ie.lg.wurl.tv/playlist.m3u8:The Pet Collective (IE)
-#DESCRIPTION The Pet Collective (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-it.lg.wurl.tv/playlist.m3u8:The Pet Collective (IT)
-#DESCRIPTION The Pet Collective (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-mx.lg.wurl.tv/playlist.m3u8:The Pet Collective (MX)
-#DESCRIPTION The Pet Collective (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-pt.lg.wurl.tv/playlist.m3u8:The Pet Collective (PT)
-#DESCRIPTION The Pet Collective (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-us.lg.wurl.tv/playlist.m3u8:The Pet Collective (US)
-#DESCRIPTION The Pet Collective (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//answermedia-theredgreenshow-2-ca.lg.wurl.tv/playlist.m3u8:The Red Green Show (CA)
-#DESCRIPTION The Red Green Show (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thewhistleblower-lg.amagi.tv/playlist.m3u8:The Whistleblower
-#DESCRIPTION The Whistleblower
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-lggb/playlist.m3u8:Timeline (GB)
-#DESCRIPTION Timeline (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//indigenius-toowild-1-ie.lg.wurl.tv/playlist.m3u8:Too Wild (IE)
-#DESCRIPTION Too Wild (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//topcinelatam-lglatam.amagi.tv/playlist.m3u8:Topcine Fix
-#DESCRIPTION Topcine Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bamcanada-bamca-totalcrime-lg/playlist.m3u8:Total Crime (CA) check
-#DESCRIPTION Total Crime (CA) check
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bam-totalcrime-lg-us.amagi.tv/playlist.m3u8:Total Crime (US)
-#DESCRIPTION Total Crime (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-at.amagi.tv/playlist.m3u8:Trace Brazuca (AT)
-#DESCRIPTION Trace Brazuca (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvaa-trace-brazuca-lg-at/playlist.m3u8:Trace Brazuca (AT)
-#DESCRIPTION Trace Brazuca (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvaa-trace-brazuca-lg-br/playlist.m3u8:Trace Brazuca (BR)
-#DESCRIPTION Trace Brazuca (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-br.amagi.tv/playlist.m3u8:Trace Brazuca (BR) Geo
-#DESCRIPTION Trace Brazuca (BR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-ch.amagi.tv/playlist.m3u8:Trace Brazuca (CH)
-#DESCRIPTION Trace Brazuca (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-es.amagi.tv/playlist.m3u8:Trace Brazuca (ES)
-#DESCRIPTION Trace Brazuca (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-fr.amagi.tv/playlist.m3u8:Trace Brazuca (FR)
-#DESCRIPTION Trace Brazuca (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvaa-trace-brazuca-lg-fr/playlist.m3u8:Trace Brazuca (FR)
-#DESCRIPTION Trace Brazuca (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-it.amagi.tv/playlist.m3u8:Trace Brazuca (IT)
-#DESCRIPTION Trace Brazuca (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-mx.amagi.tv/playlist.m3u8:Trace Brazuca (MX)
-#DESCRIPTION Trace Brazuca (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvaa-trace-brazuca-lg-mx/playlist.m3u8:Trace Brazuca (MX)
-#DESCRIPTION Trace Brazuca (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-brazuca-lg-uk.amagi.tv/playlist.m3u8:Trace Brazuca (UK)
-#DESCRIPTION Trace Brazuca (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-latina-lg-at.amagi.tv/playlist.m3u8:Trace Latina (AT)
-#DESCRIPTION Trace Latina (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvaa-trace-latina-lg-at/playlist.m3u8:Trace Latina (AT)
-#DESCRIPTION Trace Latina (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-latina-lg-ch.amagi.tv/playlist.m3u8:Trace Latina (CH)
-#DESCRIPTION Trace Latina (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-latina-lg-es.amagi.tv/playlist.m3u8:Trace Latina (ES)
-#DESCRIPTION Trace Latina (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-es/playlist.m3u8:Trace Latina (ES) Geo
-#DESCRIPTION Trace Latina (ES) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-latina-lg-it.amagi.tv/playlist.m3u8:Trace Latina (IT)
-#DESCRIPTION Trace Latina (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-it/playlist.m3u8:Trace Latina (IT) Geo
-#DESCRIPTION Trace Latina (IT) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-latina-lg-uk.amagi.tv/playlist.m3u8:Trace Latina (UK)
-#DESCRIPTION Trace Latina (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-sportstars-lg-ch.amagi.tv/playlist.m3u8:Trace Sport Stars (CH)
-#DESCRIPTION Trace Sport Stars (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-sportstars-lg-es.amagi.tv/playlist.m3u8:Trace Sport Stars (ES)
-#DESCRIPTION Trace Sport Stars (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-sportstars-lg-it.amagi.tv/playlist.m3u8:Trace Sport Stars (IT)
-#DESCRIPTION Trace Sport Stars (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-sportstars-lg-uk.amagi.tv/playlist.m3u8:Trace Sport Stars (UK)
-#DESCRIPTION Trace Sport Stars (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-urban-lg-it.amagi.tv/playlist.m3u8:Trace Urban (IT)
-#DESCRIPTION Trace Urban (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-urban-lg-mx.amagi.tv/playlist.m3u8:Trace Urban (MX)
-#DESCRIPTION Trace Urban (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trace-urban-lg-uk.amagi.tv/playlist.m3u8:Trace Urban (UK)
-#DESCRIPTION Trace Urban (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-urban-lg-uk/playlist.m3u8:Trace Urban (UK) Geo
-#DESCRIPTION Trace Urban (UK) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//indigenius-truecrime-1-gb.lg.wurl.tv/playlist.m3u8:True Crime (GB)
-#DESCRIPTION True Crime (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//indigenius-truecrime-1-ie.lg.wurl.tv/playlist.m3u8:True Crime (IE)
-#DESCRIPTION True Crime (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tucineeurope-lgspain.amagi.tv/playlist.m3u8:Tucine Europe Spain Fix
-#DESCRIPTION Tucine Europe Spain Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tucinelatam-lglatam.amagi.tv/playlist.m3u8:Tucine Latam Fix
-#DESCRIPTION Tucine Latam Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-tucineeurope-lg-es/playlist.m3u8:Tucin europe (ES) FIX
-#DESCRIPTION Tucin europe (ES) FIX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//olympusat-tucinelatam-lg-mx/playlist.m3u8:tucineeurope (MX) Fix
-#DESCRIPTION tucineeurope (MX) Fix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01328-fractalmedia-tvconcientes-lges/playlist.m3u8:TV Concientes (ES)
-#DESCRIPTION TV Concientes (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01328-fractalmedia-tvconcientes-lgfr/playlist.m3u8:TV Concientes (FR)
-#DESCRIPTION TV Concientes (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01328-fractalmedia-tvconcientes-lggb/playlist.m3u8:TV Concientes (GB)
-#DESCRIPTION TV Concientes (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01328-fractalmedia-lgde/playlist.m3u8:TV Concientes check
-#DESCRIPTION TV Concientes check
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//twistedmirror-twistedmirrorcomedy-1-gb.lg.wurl.tv/playlist.m3u8:Twisted mirror Comedy (GB)
-#DESCRIPTION Twisted mirror Comedy (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lges/playlist.m3u8:Unbeaten (ES)
-#DESCRIPTION Unbeaten (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lgfr/playlist.m3u8:Unbeaten (FR)
-#DESCRIPTION Unbeaten (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeatengb-lggb/playlist.m3u8:Unbeaten (GB)
-#DESCRIPTION Unbeaten (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//extremeinternational-unreel-1-ca.lg.wurl.tv/playlist.m3u8:Unreel (CA)
-#DESCRIPTION Unreel (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//extremeinternational-unreel-1-us.lg.wurl.tv/playlist.m3u8:Unreel (US)
-#DESCRIPTION Unreel (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usatodaynewsinternational-xumo.amagi.tv/playlist.m3u8:USA Today (BR) Geo
-#DESCRIPTION USA Today (BR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vidaprimo-lg.amagi.tv/playlist.m3u8:Vidaprimo
+#SERVICE 5002:0:1:c6ca:1eab:ab82:1010101:0:0:0:https%3a//cinedigm-theonlywayisessex-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Only way is Essex
+#DESCRIPTION The Only way is Essex
+#SERVICE 5002:0:1:8614:fd36:360c:1010101:0:0:0:https%3a//demandafrica-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Demand Africa
+#DESCRIPTION Demand Africa
+#SERVICE 5002:0:1:9916:ada4:a4e5:1010101:0:0:0:https%3a//demandafrica-spanish-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Demand Africa (Spanish)
+#DESCRIPTION Demand Africa (Spanish)
+#SERVICE 5002:0:1:b8f5:61b5:b505:1010101:0:0:0:https%3a//kochmedia-moviedome-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome
+#DESCRIPTION MovieDome
+#SERVICE 5002:0:1:4f1d:5a0:a062:1010101:0:0:0:https%3a//kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome Family
+#DESCRIPTION MovieDome Family
+#SERVICE 5002:0:1:396a:1ba:ba1f:1010101:0:0:0:https%3a//ofive-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ofive
+#DESCRIPTION Ofive
+#SERVICE 5002:0:1:eef9:b892:92ee:1010101:0:0:0:https%3a//palatinmedia-cractiontv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Craction TV
+#DESCRIPTION Craction TV
+#SERVICE 5002:0:1:3108:efc0:c053:1010101:0:0:0:https%3a//racingamerica-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Racing America
+#DESCRIPTION Racing America
+#SERVICE 5002:0:1:60e7:161b:1bc8:1010101:0:0:0:https%3a//raycomsports-originsports-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Origin Sports
+#DESCRIPTION Origin Sports
+#SERVICE 5002:0:1:5d33:5ef:ef35:1010101:0:0:0:https%3a//realnosey-lg-ca.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Nosey
+#DESCRIPTION Real Nosey
+#SERVICE 5002:0:1:fc96:3d9:d946:1010101:0:0:0:https%3a//redbox-rewind-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Rewind
+#DESCRIPTION Redbox Rewind
+#SERVICE 5002:0:1:f8d7:714b:4be4:1010101:0:0:0:https%3a//redbox-warandwesterns-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox War and Westerns
+#DESCRIPTION Redbox War and Westerns
+#SERVICE 5002:0:1:40ea:4577:7736:1010101:0:0:0:https%3a//redbox-spotlight-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Spotlight
+#DESCRIPTION Redbox Spotlight
+#SERVICE 5002:0:1:79bb:407b:7b70:1010101:0:0:0:https%3a//redbox-holiday-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Holiday
+#DESCRIPTION Redbox Holiday
+#SERVICE 5002:0:1:f9d3:99d0:d067:1010101:0:0:0:https%3a//shortstv-fast-italy-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shorts TV (Italy)
+#DESCRIPTION Shorts TV (Italy)
+#SERVICE 5002:0:1:2e0a:2943:43f3:1010101:0:0:0:https%3a//shortstv-fast-spain-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shorts TV (Spain)
+#DESCRIPTION Shorts TV (Spain)
+#SERVICE 5002:0:1:1927:abfa:fa41:1010101:0:0:0:https%3a//shortstv-fast-uk-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shorts TV (U.K)
+#DESCRIPTION Shorts TV (U.K)
+#SERVICE 5002:0:1:c93a:53b5:b5a4:1010101:0:0:0:https%3a//spartantv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spartan TV
+#DESCRIPTION Spartan TV
+#SERVICE 5002:0:1:2a0:5fe9:e92d:1010101:0:0:0:https%3a//sportsgrid-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sportsgrid
+#DESCRIPTION Sportsgrid
+#SERVICE 5002:0:1:a16b:882e:2e55:1010101:0:0:0:https%3a//vidaprimo-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vidaprimo
 #DESCRIPTION Vidaprimo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mezzo-vivalditv-lg.amagi.tv/playlist.m3u8:Vivaldi TV
-#DESCRIPTION Vivaldi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8:Vivaldi TV (BR)
-#DESCRIPTION Vivaldi TV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mezzo-vivalditv-lg-es.amagi.tv/playlist.m3u8:Vivaldi TV (ES)
-#DESCRIPTION Vivaldi TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoaaaa-vivalditv-lg-es/playlist.m3u8:Vivaldi TV (ES)
-#DESCRIPTION Vivaldi TV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mezzo-vivalditv-lg-it.amagi.tv/playlist.m3u8:Vivaldi TV (IT)
-#DESCRIPTION Vivaldi TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mezzo-vivalditv-lg-mx.amagi.tv/playlist.m3u8:Vivaldi TV (MX)
-#DESCRIPTION Vivaldi TV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-br/playlist.m3u8:Vivaldi TV alt (BR)
-#DESCRIPTION Vivaldi TV alt (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-es/playlist.m3u8:Vivaldi TV alt (ES)
-#DESCRIPTION Vivaldi TV alt (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-it/playlist.m3u8:Vivaldi TV alt (IT)
-#DESCRIPTION Vivaldi TV alt (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-mx/playlist.m3u8:Vivaldi TV alt (MX)
-#DESCRIPTION Vivaldi TV alt (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thema-wannasee-lg-br.amagi.tv/playlist.m3u8:Wannasee (BR) Geo
-#DESCRIPTION Wannasee (BR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/themawann-wannasee-lg-es/playlist.m3u8:Wannasee (ES) Geo
-#DESCRIPTION Wannasee (ES) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thema-wannasee-lg-fr.amagi.tv/playlist.m3u8:Wannasee (FR) Geo
-#DESCRIPTION Wannasee (FR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/themawann-wannasee-lg-fr/playlist.m3u8:Wannasee alt (FR) Geo
-#DESCRIPTION Wannasee alt (FR) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thema-wannasee-lg-it.amagi.tv/playlist.m3u8:Wannasee (IT) Geo
-#DESCRIPTION Wannasee (IT) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thema-wannasee-lg-mx.amagi.tv/playlist.m3u8:Wannasee (MX) Geo
-#DESCRIPTION Wannasee (MX) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thema-wannasee-lg-uk.amagi.tv/playlist.m3u8:Wannasee (UK) Geo
-#DESCRIPTION Wannasee (UK) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/themawann-wannasee-lg-it/playlist.m3u8:Wannasee alt (IT)
-#DESCRIPTION Wannasee alt (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watch4movies-lg.amagi.tv/playlist.m3u8:Watch4Movies
-#DESCRIPTION Watch4Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/videosolu-watch4movies-lg/playlist.m3u8:Watch4Movies Geo
-#DESCRIPTION Watch4Movies Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-lggb/playlist.m3u8:Waterbear Network (GB)
-#DESCRIPTION Waterbear Network (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watchmojo-1-es.lg.wurl.tv/playlist.m3u8:Watchmojo (ES)
-#DESCRIPTION Watchmojo (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watchmojo-1-fr.lg.wurl.tv/playlist.m3u8:Watchmojo (FR)
-#DESCRIPTION Watchmojo (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watchmojo-1-gb.lg.wurl.tv/playlist.m3u8:Watchmojo (GB)
-#DESCRIPTION Watchmojo (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//watchmojo-1-it.lg.wurl.tv/playlist.m3u8:Watchmojo (IT)
-#DESCRIPTION Watchmojo (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//waypointtv-lg-ca.amagi.tv/playlist.m3u8:Waypoint TV (CA) Geo
-#DESCRIPTION Waypoint TV (CA) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//waypointtv-lg-us.amagi.tv/playlist.m3u8:Waypoint TV (US) Geo
-#DESCRIPTION Waypoint TV (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-at.lg.wurl.tv/playlist.m3u8:WeatherSpy (AT)
-#DESCRIPTION WeatherSpy (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8:WeatherSpy (BR)
-#DESCRIPTION WeatherSpy (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-ca.lg.wurl.tv/playlist.m3u8:WeatherSpy (CA)
-#DESCRIPTION WeatherSpy (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-es.lg.wurl.tv/playlist.m3u8:WeatherSpy (ES)
-#DESCRIPTION WeatherSpy (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-fi.lg.wurl.tv/playlist.m3u8:WeatherSpy (FI)
-#DESCRIPTION WeatherSpy (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-fr.lg.wurl.tv/playlist.m3u8:WeatherSpy (FR)
-#DESCRIPTION WeatherSpy (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-gb.lg.wurl.tv/playlist.m3u8:WeatherSpy (GB)
-#DESCRIPTION WeatherSpy (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-it.lg.wurl.tv/playlist.m3u8:WeatherSpy (IT)
-#DESCRIPTION WeatherSpy (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-mx.lg.wurl.tv/playlist.m3u8:WeatherSpy (MX)
-#DESCRIPTION WeatherSpy (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-4-pt.lg.wurl.tv/playlist.m3u8:WeatherSpy (PT)
-#DESCRIPTION WeatherSpy (PT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-weatherspy-3-us.lg.wurl.tv/playlist.m3u8:WeatherSpy (US)
-#DESCRIPTION WeatherSpy (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocsat-lgat/playlist.m3u8:Wedo Big Docs (AT)
-#DESCRIPTION Wedo Big Docs (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wildearth-lg.amagi.tv/playlist.m3u8:Wild Earth
-#DESCRIPTION Wild Earth
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wildearth-wildearth-lg-ar/playlist.m3u8:Wild Earth (AR)
-#DESCRIPTION Wild Earth (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wildearth-wildearth-lg-ca/playlist.m3u8:Wild Earth (CA)
-#DESCRIPTION Wild Earth (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wildearth-wildearth-lg-cl/playlist.m3u8:Wild Earth (CL)
-#DESCRIPTION Wild Earth (CL)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wildearth-wildearth-lg-co/playlist.m3u8:Wild Earth (CO)
-#DESCRIPTION Wild Earth (CO)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wildearth-wildearth-lg-pe/playlist.m3u8:Wild Earth (PE)
-#DESCRIPTION Wild Earth (PE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wildearth-lg-us.amagi.tv/playlist.m3u8:Wild Earth (US)
-#DESCRIPTION Wild Earth (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-lgca/playlist.m3u8:Wipeout Xtra (CA)
-#DESCRIPTION Wipeout Xtra (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//banijay-wipeoutxtra-lg-us.amagi.tv/playlist.m3u8:Wipeout Xtra (US) Geo
-#DESCRIPTION Wipeout Xtra (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-lg-us/playlist.m3u8:Wipeout Xtra alt (US) Geo
-#DESCRIPTION Wipeout Xtra alt (US) Geo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//womensnetwork-lg.amagi.tv/playlist.m3u8:Womens Network
-#DESCRIPTION Womens Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lgat/playlist.m3u8:Wonder (AT)
-#DESCRIPTION Wonder (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lgfi/playlist.m3u8:Wonder (FI)
-#DESCRIPTION Wonder (FI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lggb/playlist.m3u8:Wonder (GB)
-#DESCRIPTION Wonder (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lgie/playlist.m3u8:Wonder (IE)
-#DESCRIPTION Wonder (IE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgat/playlist.m3u8:World Of Free sport (AT)
-#DESCRIPTION World Of Free sport (AT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgch/playlist.m3u8:World of Free Sport (CH)
-#DESCRIPTION World of Free Sport (CH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-wp-1-it.lg.wurl.tv/playlist.m3u8:WP (IT)
-#DESCRIPTION WP (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xite-hitsuk-lg.amagi.tv/playlist.m3u8:Xite Hits (UK)
-#DESCRIPTION Xite Hits (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-hitsuk-lg/playlist.m3u8:Xite Hits alt (UK)
-#DESCRIPTION Xite Hits alt (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xite-rockoneu-lg.amagi.tv/playlist.m3u8:Xite Rock on (EU)
-#DESCRIPTION Xite Rock on (EU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-rockoneu-lg/playlist.m3u8:Xite Rock on alt (EU)
-#DESCRIPTION Xite Rock on alt (EU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xplorationstation-lg.amagi.tv/playlist.m3u8:Xploration Station
+#SERVICE 5002:0:1:5cb9:7ad2:d2d6:1010101:0:0:0:https%3a//wildearth-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wildearth
+#DESCRIPTION Wildearth
+#SERVICE 5002:0:1:ff2:668d:8da3:1010101:0:0:0:https%3a//xite-germany-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xite (Germany)
+#DESCRIPTION Xite (Germany)
+#SERVICE 5002:0:1:25f4:53e2:e2a0:1010101:0:0:0:https%3a//xite-hitsuk-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xite Hits UK
+#DESCRIPTION Xite Hits UK
+#SERVICE 5002:0:1:442b:994c:4ce7:1010101:0:0:0:https%3a//xite-rockoneu-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xite Rock on EU
+#DESCRIPTION Xite Rock on EU
+#SERVICE 5002:0:1:13d9:b8af:afb3:1010101:0:0:0:https%3a//xplorationstation-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xploration Station
 #DESCRIPTION Xploration Station
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-br.lg.wurl.tv/playlist.m3u8:YGTV (BR)
-#DESCRIPTION YGTV (BR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-ca.lg.wurl.tv/playlist.m3u8:YGTV (CA)
-#DESCRIPTION YGTV (CA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-es.lg.wurl.tv/playlist.m3u8:YGTV (ES)
-#DESCRIPTION YGTV (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-fr.lg.wurl.tv/playlist.m3u8:YGTV (FR)
-#DESCRIPTION YGTV (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-gb.lg.wurl.tv/playlist.m3u8:YGTV (GB)
-#DESCRIPTION YGTV (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-it.lg.wurl.tv/playlist.m3u8:YGTV (IT)
-#DESCRIPTION YGTV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-mx.lg.wurl.tv/playlist.m3u8:YGTV (MX)
-#DESCRIPTION YGTV (MX)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newidco-ygtv-1-us.lg.wurl.tv/playlist.m3u8:YGTV (US)
-#DESCRIPTION YGTV (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//younghollywood-lg.amagi.tv/playlist.m3u8:Young Hollywood
+#SERVICE 5002:0:1:963a:35fc:fc49:1010101:0:0:0:https%3a//tayo-lyd-lg.amagi.tv#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tayo
+#DESCRIPTION Tayo
+#SERVICE 5002:0:1:b71a:aa12:1261:1010101:0:0:0:https%3a//qwest-classic-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Classic
+#DESCRIPTION Qwest Classic
+#SERVICE 5002:0:1:5982:61ed:ed83:1010101:0:0:0:https%3a//qwest-jazz-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz
+#DESCRIPTION Qwest Jazz
+#SERVICE 5002:0:1:6091:e8e2:e21f:1010101:0:0:0:https%3a//estv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ESTV
+#DESCRIPTION ESTV
+#SERVICE 5002:0:1:42a4:be12:1284:1010101:0:0:0:https%3a//hncfree-lg-uk.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HNC Free (UK) Geo
+#DESCRIPTION HNC Free (UK) Geo
+#SERVICE 5002:0:1:d4a3:18ab:ab70:1010101:0:0:0:https%3a//hncfree-lg-de.amagi.tv/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HNCFree (DE) Geo
+#DESCRIPTION HNCFree (DE) Geo
+#SERVICE 5002:0:1:62c1:dfaf:afb5:1010101:0:0:0:https%3a//watch4movies-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Watch4Movies
+#DESCRIPTION Watch4Movies
+#SERVICE 5002:0:1:ac6d:1898:9820:1010101:0:0:0:https%3a//img-edgesport-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Edgesport
+#DESCRIPTION Edgesport
+#SERVICE 5002:0:1:2a3d:ee9e:9e88:1010101:0:0:0:https%3a//insighttv-row-lg-germany.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Insight TV ROW
+#DESCRIPTION Insight TV ROW
+#SERVICE 5002:0:1:3819:99a:9a82:1010101:0:0:0:https%3a//insighttv-us-lg-mexico.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Insight TV US Mexico
+#DESCRIPTION Insight TV US Mexico
+#SERVICE 5002:0:1:85b8:128b:8bb9:1010101:0:0:0:https%3a//atmosphere-chivetv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chive TV
+#DESCRIPTION Chive TV
+#SERVICE 5002:0:1:4621:2aea:ea15:1010101:0:0:0:https%3a//crackle-crackle-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle
+#DESCRIPTION Crackle
+#SERVICE 5002:0:1:b34d:c275:7536:1010101:0:0:0:https%3a//crackle-chickensoupforthesoul-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chicken Soup for the Soul
+#DESCRIPTION Chicken Soup for the Soul
+#SERVICE 5002:0:1:1200:d909:9a5:1010101:0:0:0:https%3a//alchimie-euronews-uk-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (UK) Geo
+#DESCRIPTION Euronews (UK) Geo
+#SERVICE 5002:0:1:596e:b369:69b3:1010101:0:0:0:https%3a//alchimie-euronews-de-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (DE) Geo
+#DESCRIPTION Euronews (DE) Geo
+#SERVICE 5002:0:1:89c3:f7b1:b1a4:1010101:0:0:0:https%3a//alchimie-euronews-fr-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (FR) Geo
+#DESCRIPTION Euronews (FR) Geo
+#SERVICE 5002:0:1:231b:8f2c:2cf0:1010101:0:0:0:https%3a//alchimie-euronews-it-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (IT) Geo
+#DESCRIPTION Euronews (IT) Geo
+#SERVICE 5002:0:1:db:e2f8:f850:1010101:0:0:0:https%3a//alchimie-explorebytvplayer-uk-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Explore by TVplayer (UK) Geo
+#DESCRIPTION Explore by TVplayer (UK) Geo
+#SERVICE 5002:0:1:dc45:8fbe:beeb:1010101:0:0:0:https%3a//alchimie-explorebytvplayer-es-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Explore by TVplayer (ES) Geo
+#DESCRIPTION Explore by TVplayer (ES) Geo
+#SERVICE 5002:0:1:ac52:d741:416e:1010101:0:0:0:https%3a//alchimie-humanity-documentaries-uk-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Humanity Documentaries (UK) Geo
+#DESCRIPTION Humanity Documentaries (UK) Geo
+#SERVICE 5002:0:1:67af:a3ef:ef13:1010101:0:0:0:https%3a//alchimie-humanity-documentaries-fr-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Humanity Documentaries (FR) Geo
+#DESCRIPTION Humanity Documentaries (FR) Geo
+#SERVICE 5002:0:1:7639:d455:55f5:1010101:0:0:0:https%3a//alchimie-humanity-documentaries-it-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Humanity Documentaries (IT) Geo
+#DESCRIPTION Humanity Documentaries (IT) Geo
+#SERVICE 5002:0:1:6e53:d85d:5df6:1010101:0:0:0:https%3a//alchimie-luxetv-uk-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Luxe TV (UK) Geo
+#DESCRIPTION Luxe TV (UK) Geo
+#SERVICE 5002:0:1:2865:e765:652b:1010101:0:0:0:https%3a//alchimie-moviecentralbytvplayer-uk-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Moviecentral by TVplayer (UK) Geo
+#DESCRIPTION Moviecentral by TVplayer (UK) Geo
+#SERVICE 5002:0:1:1df:271b:1ba1:1010101:0:0:0:https%3a//alchimie-surfworldtv-lg-es.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SurfWorld TV (ES) Geo
+#DESCRIPTION SurfWorld TV (ES) Geo
+#SERVICE 5002:0:1:12bf:f90a:acf:1010101:0:0:0:https%3a//alchimie-telezap-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Telezap (UK) Geo
+#DESCRIPTION Telezap (UK) Geo
+#SERVICE 5002:0:1:60b2:358f:8f97:1010101:0:0:0:https%3a//awe-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AWE
+#DESCRIPTION AWE
+#SERVICE 5002:0:1:5a4e:8bbe:be33:1010101:0:0:0:https%3a//bite-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bite
+#DESCRIPTION Bite
+#SERVICE 5002:0:1:fadc:e9a1:a1c3:1010101:0:0:0:https%3a//mezzo-vivalditv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vivaldi TV Geo
+#DESCRIPTION Vivaldi TV Geo
+#SERVICE 5002:0:1:2a91:3fc8:c805:1010101:0:0:0:https%3a//mezzo-vivalditv-lg-es.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vivaldi TV (ES) Geo
+#DESCRIPTION Vivaldi TV (ES) Geo
+#SERVICE 5002:0:1:b182:ee0d:da8:1010101:0:0:0:https%3a//motorpresse-automotorundsport-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Automotorundsport Geo
+#DESCRIPTION Automotorundsport Geo
+#SERVICE 5002:0:1:adf8:60e0:e080:1010101:0:0:0:https%3a//motorpresse-marcopolotv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MarcoPolo TV Geo
+#DESCRIPTION MarcoPolo TV Geo
+#SERVICE 5002:0:1:d76d:c35f:5f8c:1010101:0:0:0:https%3a//movies4free-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movies 4 Free
+#DESCRIPTION Movies 4 Free
+#SERVICE 5002:0:1:36cc:b6e1:e168:1010101:0:0:0:https%3a//nosey-intl-1-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey
+#DESCRIPTION Nosey
+#SERVICE 5002:0:1:c228:799a:9a05:1010101:0:0:0:https%3a//oan-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Oan
+#DESCRIPTION Oan
+#SERVICE 5002:0:1:63cf:65da:dae0:1010101:0:0:0:https%3a//thewhistleblower-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Whistleblower
+#DESCRIPTION The Whistleblower
+#SERVICE 5002:0:1:b044:5de:decd:1010101:0:0:0:https%3a//younghollywood-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Young Hollywood
 #DESCRIPTION Young Hollywood
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/youngholl-younghollywood-lg/playlist.m3u8:Young Hollywood alt Geo
-#DESCRIPTION Young Hollywood alt Geo
+#SERVICE 5002:0:1:f05:4765:65bb:1010101:0:0:0:https%3a//bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV 4K
+#DESCRIPTION Bloomberg TV 4K
+#SERVICE 5002:0:1:dc96:58ea:ea57:1010101:0:0:0:https%3a//bloomberg-quicktake-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Quicktake
+#DESCRIPTION Bloomberg Quicktake
+#SERVICE 5002:0:1:4ba0:dd2d:2da9:1010101:0:0:0:https%3a//digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RetroCrush
+#DESCRIPTION RetroCrush
+#SERVICE 5002:0:1:6de9:a799:9943:1010101:0:0:0:https%3a//extremeinternational-unreel-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unreel
+#DESCRIPTION Unreel
+#SERVICE 5002:0:1:8be3:d422:2272:1010101:0:0:0:https%3a//hollywire-samsung-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hollywire
+#DESCRIPTION Hollywire
+#SERVICE 5002:0:1:2640:e0b7:b744:1010101:0:0:0:https%3a//jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Failarmy
+#DESCRIPTION Failarmy
+#SERVICE 5002:0:1:48ec:3c62:6282:1010101:0:0:0:https%3a//jukin-peopleareawesome-3-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People are Awesome
+#DESCRIPTION People are Awesome
+#SERVICE 5002:0:1:15ef:b0dd:dda7:1010101:0:0:0:https%3a//jukin-thepetcollective-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective
+#DESCRIPTION The Pet Collective
+#SERVICE 5002:0:1:80b7:a3bf:bf2a:1010101:0:0:0:https%3a//jukin-weatherspy-3-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Weatherspy
+#DESCRIPTION Weatherspy
+#SERVICE 5002:0:1:3284:7b13:1333:1010101:0:0:0:https%3a//lg-ncaachannel-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NCAA Channel
+#DESCRIPTION NCAA Channel
+#SERVICE 5002:0:1:a553:88c5:c572:1010101:0:0:0:https%3a//lg-ncaachannel-1-aa.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NCAA Channel (AA)
+#DESCRIPTION NCAA Channel (AA)
+#SERVICE 5002:0:1:5e01:1dd:dd42:1010101:0:0:0:https%3a//spt-comedias-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedias (US)
+#DESCRIPTION Comedias (US)
+#SERVICE 5002:0:1:e79b:2ef2:f21a:1010101:0:0:0:https%3a//spt-competencias-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Competencias (US)
+#DESCRIPTION Competencias (US)
+#SERVICE 5002:0:1:4f73:ddaf:af7a:1010101:0:0:0:https%3a//spt-novelas-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Novelas (US)
+#DESCRIPTION Novelas (US)
+#SERVICE 5002:0:1:1036:8977:776b:1010101:0:0:0:https%3a//spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SONY Kal (US)
+#DESCRIPTION SONY Kal (US)
+#SERVICE 5002:0:1:4e48:67a3:a382:1010101:0:0:0:https%3a//newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (US)
+#DESCRIPTION Baby Shark TV (US)
+#SERVICE 5002:0:1:c33f:f59c:9c72:1010101:0:0:0:https%3a//newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (US)
+#DESCRIPTION Billiards TV (US)
+#SERVICE 5002:0:1:a865:99f5:f562:1010101:0:0:0:https%3a//newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidspang TV (US)
+#DESCRIPTION Kidspang TV (US)
+#SERVICE 5002:0:1:2a4b:6291:91e8:1010101:0:0:0:https%3a//newidco-newkmovies-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:New K movies (US)
+#DESCRIPTION New K movies (US)
+#SERVICE 5002:0:1:7573:41f6:f681:1010101:0:0:0:https%3a//newidco-ygtv-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YGTV (US)
+#DESCRIPTION YGTV (US)
+#SERVICE 5002:0:1:9d0f:31a9:a9df:1010101:0:0:0:https%3a//newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (US)
+#DESCRIPTION Rakuten Viki (US)
+#SERVICE 5002:0:1:4287:6a40:40b8:1010101:0:0:0:https%3a//newidco-ondemandchina-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ondemand China (US)
+#DESCRIPTION Ondemand China (US)
+#SERVICE 5002:0:1:e0f6:ac8c:8c22:1010101:0:0:0:https%3a//hollywire-samsung-2-mx.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hollywire (MX)
+#DESCRIPTION Hollywire (MX)
+#SERVICE 5002:0:1:9b5c:affd:fd8b:1010101:0:0:0:https%3a//newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (GB)
+#DESCRIPTION Baby Shark TV (GB)
+#SERVICE 5002:0:1:e09:20da:daa3:1010101:0:0:0:https%3a//newidco-billiardstv-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (GB)
+#DESCRIPTION Billiards TV (GB)
+#SERVICE 5002:0:1:dc9f:e87e:7e7f:1010101:0:0:0:https%3a//newidco-kidspangtv-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidspang TV (GB)
+#DESCRIPTION Kidspang TV (GB)
+#SERVICE 5002:0:1:d0e5:704c:4cac:1010101:0:0:0:https%3a//newidco-monthlypick-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Monthly Pick (GB)
+#DESCRIPTION Monthly Pick (GB)
+#SERVICE 5002:0:1:eeff:46b0:b01a:1010101:0:0:0:https%3a//newidco-newkid-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NewKid (GB)
+#DESCRIPTION NewKid (GB)
+#SERVICE 5002:0:1:650e:62b8:b81b:1010101:0:0:0:https%3a//newidco-newkmovies-2-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:New K movies (GB)
+#DESCRIPTION New K movies (GB)
+#SERVICE 5002:0:1:5fb6:a905:5e0:1010101:0:0:0:https%3a//newidco-ygtv-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YGTV (GB)
+#DESCRIPTION YGTV (GB)
+#SERVICE 5002:0:1:6685:e3b8:b807:1010101:0:0:0:https%3a//newidco-rakutenviki-2-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (GB)
+#DESCRIPTION Rakuten Viki (GB)
+#SERVICE 5002:0:1:63ef:6b1d:1dfd:1010101:0:0:0:https%3a//newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (DE)
+#DESCRIPTION Baby Shark TV (DE)
+#SERVICE 5002:0:1:cc31:9595:9552:1010101:0:0:0:https%3a//newidco-billiardstv-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (DE)
+#DESCRIPTION Billiards TV (DE)
+#SERVICE 5002:0:1:a107:b732:3211:1010101:0:0:0:https%3a//newidco-kidspangtv-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidspang TV (DE)
+#DESCRIPTION Kidspang TV (DE)
+#SERVICE 5002:0:1:ca99:87a7:a730:1010101:0:0:0:https%3a//newidco-monthlypick-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Monthly Pick (DE)
+#DESCRIPTION Monthly Pick (DE)
+#SERVICE 5002:0:1:4713:c779:79a5:1010101:0:0:0:https%3a//newidco-newkid-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NewKid (DE)
+#DESCRIPTION NewKid (DE)
+#SERVICE 5002:0:1:a8b:b499:99fb:1010101:0:0:0:https%3a//newidco-newkmovies-2-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:New K movies (DE)
+#DESCRIPTION New K movies (DE)
+#SERVICE 5002:0:1:af4d:7a11:118e:1010101:0:0:0:https%3a//newidco-rakutenviki-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (DE)
+#DESCRIPTION Rakuten Viki (DE)
+#SERVICE 5002:0:1:3492:15a9:a9e8:1010101:0:0:0:https%3a//newidco-ygtv-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YGTV (DE)
+#DESCRIPTION YGTV (DE)
+#SERVICE 5002:0:1:7df6:6b7a:7aa5:1010101:0:0:0:https%3a//newidco-babysharktv-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (ES)
+#DESCRIPTION Baby Shark TV (ES)
+#SERVICE 5002:0:1:4a14:2b12:1212:1010101:0:0:0:https%3a//newidco-billiardstv-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (ES)
+#DESCRIPTION Billiards TV (ES)
+#SERVICE 5002:0:1:19a6:e683:83a6:1010101:0:0:0:https%3a//newidco-kidspangtv-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidspang TV (ES)
+#DESCRIPTION Kidspang TV (ES)
+#SERVICE 5002:0:1:6542:882e:2edb:1010101:0:0:0:https%3a//newidco-newkid-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NewKid (ES)
+#DESCRIPTION NewKid (ES)
+#SERVICE 5002:0:1:d263:e67f:7f12:1010101:0:0:0:https%3a//newidco-newkmovies-2-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:New K movies (ES)
+#DESCRIPTION New K movies (ES)
+#SERVICE 5002:0:1:d4bb:bd82:82ed:1010101:0:0:0:https%3a//newidco-monthlypick-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Monthly Pick (ES)
+#DESCRIPTION Monthly Pick (ES)
+#SERVICE 5002:0:1:cf1:c6a8:a8b8:1010101:0:0:0:https%3a//newidco-rakutenviki-2-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (ES)
+#DESCRIPTION Rakuten Viki (ES)
+#SERVICE 5002:0:1:d867:b274:74c5:1010101:0:0:0:https%3a//newidco-ygtv-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YGTV (ES)
+#DESCRIPTION YGTV (ES)
+#SERVICE 5002:0:1:b7b2:8e8:e85e:1010101:0:0:0:https%3a//newidco-babysharktv-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (FR)
+#DESCRIPTION Baby Shark TV (FR)
+#SERVICE 5002:0:1:f3da:afa5:a5c9:1010101:0:0:0:https%3a//newidco-kidspangtv-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidspang TV (FR)
+#DESCRIPTION Kidspang TV (FR)
+#SERVICE 5002:0:1:6fce:7344:44dc:1010101:0:0:0:https%3a//newidco-billiardstv-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (FR)
+#DESCRIPTION Billiards TV (FR)
+#SERVICE 5002:0:1:b705:3780:8097:1010101:0:0:0:https%3a//newidco-newkmovies-2-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:New K movies (FR)
+#DESCRIPTION New K movies (FR)
+#SERVICE 5002:0:1:3318:b8bb:bb7d:1010101:0:0:0:https%3a//newidco-monthlypick-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Monthly Pick (FR)
+#DESCRIPTION Monthly Pick (FR)
+#SERVICE 5002:0:1:cac0:3d50:501b:1010101:0:0:0:https%3a//newidco-rakutenviki-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (FR)
+#DESCRIPTION Rakuten Viki (FR)
+#SERVICE 5002:0:1:5f0c:268:688b:1010101:0:0:0:https%3a//newidco-ygtv-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YGTV (FR)
+#DESCRIPTION YGTV (FR)
+#SERVICE 5002:0:1:8cb8:2221:2133:1010101:0:0:0:https%3a//newidco-babysharktv-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (IT)
+#DESCRIPTION Baby Shark TV (IT)
+#SERVICE 5002:0:1:1226:6cfa:fa93:1010101:0:0:0:https%3a//newidco-billiardstv-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiards TV (IT)
+#DESCRIPTION Billiards TV (IT)
+#SERVICE 5002:0:1:4645:3fd3:d36f:1010101:0:0:0:https%3a//newidco-newkmovies-2-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:New K movies (IT)
+#DESCRIPTION New K movies (IT)
+#SERVICE 5002:0:1:d1e1:a61a:1ab1:1010101:0:0:0:https%3a//newidco-monthlypick-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Monthly Pick (IT)
+#DESCRIPTION Monthly Pick (IT)
+#SERVICE 5002:0:1:44bf:2849:491b:1010101:0:0:0:https%3a//newidco-newkid-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NewKid (IT)
+#DESCRIPTION NewKid (IT)
+#SERVICE 5002:0:1:49d3:7b0c:c38:1010101:0:0:0:https%3a//newidco-rakutenviki-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (IT)
+#DESCRIPTION Rakuten Viki (IT)
+#SERVICE 5002:0:1:1a39:8a14:141d:1010101:0:0:0:https%3a//newidco-ygtv-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YGTV (IT)
+#DESCRIPTION YGTV (IT)
+#SERVICE 5002:0:1:a9cb:34dd:dd27:1010101:0:0:0:https%3a//answermedia-fite-tv-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fite TV
+#DESCRIPTION Fite TV
+#SERVICE 5002:0:1:de84:5ff4:f454:1010101:0:0:0:https%3a//answermedia-planet-eat-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Planet Eat
+#DESCRIPTION Planet Eat
+#SERVICE 5002:0:1:8297:2c5c:5c72:1010101:0:0:0:https%3a//fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV (GB)
+#DESCRIPTION Fashion TV (GB)
+#SERVICE 5002:0:1:2db0:b74:74df:1010101:0:0:0:https%3a//fashiontv-fashiontv-5-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV (IT)
+#DESCRIPTION Fashion TV (IT)
+#SERVICE 5002:0:1:f868:d9d6:d619:1010101:0:0:0:https%3a//fashiontv-fashiontv-5-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV (DE)
+#DESCRIPTION Fashion TV (DE)
+#SERVICE 5002:0:1:c5b2:cf43:4335:1010101:0:0:0:https%3a//fashiontv-fashiontv-5-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV (ES)
+#DESCRIPTION Fashion TV (ES)
+#SERVICE 5002:0:1:dd8:a189:8961:1010101:0:0:0:https%3a//fashiontv-fashiontv-5-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV (FR)
+#DESCRIPTION Fashion TV (FR)
+#SERVICE 5002:0:1:e0f6:ac8c:8c22:1010101:0:0:0:https%3a//hollywire-samsung-2-mx.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hollywire (MX)
+#DESCRIPTION Hollywire (MX)
+#SERVICE 5002:0:1:1eb4:d315:152f:1010101:0:0:0:https%3a//hollywire-samsung-3-br.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hollywire (BR)
+#DESCRIPTION Hollywire (BR)
+#SERVICE 5002:0:1:43ed:aafd:fd3f:1010101:0:0:0:https%3a//hollywire-samsung-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hollywire (CA)
+#DESCRIPTION Hollywire (CA)
+#SERVICE 5002:0:1:c074:8add:dd8b:1010101:0:0:0:https%3a//magellantv-2-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Magellan TV (US)
+#DESCRIPTION Magellan TV (US)
+#SERVICE 5002:0:1:14e3:25a8:a8fb:1010101:0:0:0:https%3a//mmm-ducktv-2-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Duck TV (IT)
+#DESCRIPTION Duck TV (IT)
+#SERVICE 5002:0:1:8072:d328:28dc:1010101:0:0:0:https%3a//mmm-ducktv-3-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Duck TV (ES)
+#DESCRIPTION Duck TV (ES)
+#SERVICE 5002:0:1:f4c4:a919:1993:1010101:0:0:0:https%3a//mmm-ducktv-4-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Duck TV (GB)
+#DESCRIPTION Duck TV (GB)
+#SERVICE 5002:0:1:9636:6637:379f:1010101:0:0:0:https%3a//mmm-ducktv-6-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Duck TV (FR)
+#DESCRIPTION Duck TV (FR)
+#SERVICE 5002:0:1:513b:7468:6887:1010101:0:0:0:https%3a//rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (GB) Geo
+#DESCRIPTION Rakuten Action Movies (GB) Geo
+#SERVICE 5002:0:1:c3ad:5dcd:cd64:1010101:0:0:0:https%3a//rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (ES) Geo
+#DESCRIPTION Rakuten Action Movies (ES) Geo
+#SERVICE 5002:0:1:638:267c:7c0e:1010101:0:0:0:https%3a//rakuten-actionmovies-3-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (DE) Geo
+#DESCRIPTION Rakuten Action Movies (DE) Geo
+#SERVICE 5002:0:1:516b:32ba:baca:1010101:0:0:0:https%3a//rakuten-actionmovies-6-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (IT) Geo
+#DESCRIPTION Rakuten Action Movies (IT) Geo
+#SERVICE 5002:0:1:eded:8728:28b1:1010101:0:0:0:https%3a//rakuten-actionmovies-7-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (FR) Geo
+#DESCRIPTION Rakuten Action Movies (FR) Geo
+#SERVICE 5002:0:1:d955:9761:6165:1010101:0:0:0:https%3a//rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN International (DE)
+#DESCRIPTION CNN International (DE)
+#SERVICE 5002:0:1:57b6:f956:5636:1010101:0:0:0:https%3a//rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN International (GB)
+#DESCRIPTION CNN International (GB)
+#SERVICE 5002:0:1:4ccf:e629:29e2:1010101:0:0:0:https%3a//rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (GB) Geo
+#DESCRIPTION Rakuten Comedy Movies (GB) Geo
+#SERVICE 5002:0:1:47f3:f60:609c:1010101:0:0:0:https%3a//rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (ES) Geo
+#DESCRIPTION Rakuten Comedy Movies (ES) Geo
+#SERVICE 5002:0:1:93eb:a869:697c:1010101:0:0:0:https%3a//rakuten-comedymovies-3-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (DE) Geo
+#DESCRIPTION Rakuten Comedy Movies (DE) Geo
+#SERVICE 5002:0:1:fa32:1482:8297:1010101:0:0:0:https%3a//rakuten-comedymovies-6-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (IT) Geo
+#DESCRIPTION Rakuten Comedy Movies (IT) Geo
+#SERVICE 5002:0:1:5517:b04b:4ba1:1010101:0:0:0:https%3a//rakuten-comedymovies-7-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Comedy Movies (FR) Geo
+#DESCRIPTION Rakuten Comedy Movies (FR) Geo
+#SERVICE 5002:0:1:c1bd:d43f:3f28:1010101:0:0:0:https%3a//rakuten-hola-2-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hola (ES) Geo
+#DESCRIPTION Hola (ES) Geo
+#SERVICE 5002:0:1:eed5:b791:918c:1010101:0:0:0:https%3a//rakuten-spotlight-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (GB) Geo
+#DESCRIPTION Rakuten Spotlight (GB) Geo
+#SERVICE 5002:0:1:29a5:cdb9:b924:1010101:0:0:0:https%3a//rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (ES) Geo
+#DESCRIPTION Rakuten Spotlight (ES) Geo
+#SERVICE 5002:0:1:2c21:5ad9:d928:1010101:0:0:0:https%3a//rakuten-spotlight-3-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (DE) Geo
+#DESCRIPTION Rakuten Spotlight (DE) Geo
+#SERVICE 5002:0:1:a359:a3c5:c569:1010101:0:0:0:https%3a//rakuten-spotlight-6-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (IT) Geo
+#DESCRIPTION Rakuten Spotlight (IT) Geo
+#SERVICE 5002:0:1:5229:bf4e:4e7b:1010101:0:0:0:https%3a//rakuten-spotlight-7-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Spotlight (FR) Geo
+#DESCRIPTION Rakuten Spotlight (FR) Geo
+#SERVICE 5002:0:1:45f4:b22e:2ee9:1010101:0:0:0:https%3a//rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (GB) Geo
+#DESCRIPTION Rakuten TV Shows (GB) Geo
+#SERVICE 5002:0:1:c163:f644:4416:1010101:0:0:0:https%3a//rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (ES) Geo
+#DESCRIPTION Rakuten TV Shows (ES) Geo
+#SERVICE 5002:0:1:c5fd:5dd0:d044:1010101:0:0:0:https%3a//rakuten-tvshows-3-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (DE) Geo
+#DESCRIPTION Rakuten TV Shows (DE) Geo
+#SERVICE 5002:0:1:c803:b79:7928:1010101:0:0:0:https%3a//rakuten-tvshows-6-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (IT) Geo
+#DESCRIPTION Rakuten TV Shows (IT) Geo
+#SERVICE 5002:0:1:8613:f7b5:b5a2:1010101:0:0:0:https%3a//rakuten-tvshows-7-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten TV Shows (FR) Geo
+#DESCRIPTION Rakuten TV Shows (FR) Geo
+#SERVICE 5002:0:1:5e01:1dd:dd42:1010101:0:0:0:https%3a//spt-comedias-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedias (US)
+#DESCRIPTION Comedias (US)
+#SERVICE 5002:0:1:204:62f7:f7ce:1010101:0:0:0:https%3a//spt-competencias-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Compentencias (US)
+#DESCRIPTION Compentencias (US)
+#SERVICE 5002:0:1:4f73:ddaf:af7a:1010101:0:0:0:https%3a//spt-novelas-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Novelas (US)
+#DESCRIPTION Novelas (US)
+#SERVICE 5002:0:1:7491:754a:4a5a:1010101:0:0:0:https%3a//spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Kal (US)
+#DESCRIPTION Sony Kal (US)
+#SERVICE 5002:0:1:613:f06e:6e5c:1010101:0:0:0:https%3a//twistedmirror-twistedmirrorcomedy-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Twisted mirror Comedy (GB)
+#DESCRIPTION Twisted mirror Comedy (GB)
