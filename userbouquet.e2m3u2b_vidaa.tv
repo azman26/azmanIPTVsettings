@@ -1,0 +1,165 @@
+#NAME Vidaa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3075:Accion Mexicano
+#DESCRIPTION Accion Mexicano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//extremeinternational-autoallstars-1-eu.vidaa.wurl.tv/playlist.m3u8:Auto Allstars (EU)
+#DESCRIPTION Auto Allstars (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-aweencore-vidaa/playlist.m3u8:Awe Encore
+#DESCRIPTION Awe Encore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//isgmedia-balleballe-1-eu.vidaa.wurl.tv/playlist.m3u8:BalleBalle (EU)
+#DESCRIPTION BalleBalle (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofast.g-mana.live/media/3c31808d-b141-45ad-a33d-edd5866824f6/mainManifest.m3u8:Best Classics Geo
+#DESCRIPTION Best Classics Geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-besttvever-1-eu.vidaa.wurl.tv/playlist.m3u8:Best TV Ever (EU)
+#DESCRIPTION Best TV Ever (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//isgmedia-bollywoodclassic-1-eu.vidaa.wurl.tv/playlist.m3u8:Bollywood Classic (EU)
+#DESCRIPTION Bollywood Classic (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3445:Boonie Cubs TV
+#DESCRIPTION Boonie Cubs TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3078:Canela TeleNovelas
+#DESCRIPTION Canela TeleNovelas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-cinemalibre-1-eu.vidaa.wurl.tv/playlist.m3u8:Cinema Libre (EU)
+#DESCRIPTION Cinema Libre (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3351:Just.Classical
+#DESCRIPTION Just.Classical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-vidaa/playlist.m3u8:Johnny Carson TV
+#DESCRIPTION Johnny Carson TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-vidaa/playlist.m3u8:Crackle
+#DESCRIPTION Crackle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassic-vidaa/playlist.m3u8:Crackle Classics
+#DESCRIPTION Crackle Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//memphisstudios-dittytv-1-eu.vidaa.wurl.tv/playlist.m3u8:Ditty TV (EU)
+#DESCRIPTION Ditty TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8:Drone TV (EU)
+#DESCRIPTION Drone TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-vidaa/playlist.m3u8:ESTV
+#DESCRIPTION ESTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-euronewsau-vidaa/playlist.m3u8:EuroNews (AU)
+#DESCRIPTION EuroNews (AU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-explorebytvplyr-vidaa/playlist.m3u8:Explore by TVPlayer
+#DESCRIPTION Explore by TVPlayer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-failarmy-1-us.vidaa.wurl.tv/playlist.m3u8:Fail Army (US)
+#DESCRIPTION Fail Army (US)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3084:Family Time
+#DESCRIPTION Family Time
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canyonproductions-figtreetv-2-us.vidaa.wurl.tv/playlist.m3u8:Fig Tree TV (US)
+#DESCRIPTION Fig Tree TV (US)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//food-eu.vidaa.wurl.tv/playlist.m3u8:Food (EU)
+#DESCRIPTION Food (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ottstudio-freemoviesplus-1-us.vidaa.wurl.tv/playlist.m3u8:Free Movies Plus (US)
+#DESCRIPTION Free Movies Plus (US)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/vidaa-sports-us/master.m3u8?ads.partner=vidaa-sports-us&ads.dnt={DNT}&ads.us_privacy={US_PRIVACY}&ads.app_name={APP_NAME}&ads.vauth={VAUTH}&ads.bundle_id={APPBUNDLE}&ads.did={IFA}&ads.client_id={CLIENT_ID}&ads.gdpr={GDPR}&ads.gdpr_consent={GDPR_CONSENT}&ads.ua={UA}&ads.coppa={COPPA}&ads.vidaa_ads_param=1191211667:Fubo Geo
+#DESCRIPTION Fubo Geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536:Go See Westerns
+#DESCRIPTION Go See Westerns
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3082:Go Traveler
+#DESCRIPTION Go Traveler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gravitas-movies-eu.vidaa.wurl.tv/playlist.m3u8:Gravitas Movies (EU)
+#DESCRIPTION Gravitas Movies (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-grjngo-3-eu.vidaa.wurl.tv/playlist.m3u8:Grjngo (EU)
+#DESCRIPTION Grjngo (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-vidaa/playlist.m3u8:Gusto TV
+#DESCRIPTION Gusto TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//janson-gigglemug-1-eu.vidaa.wurl.tv/playlist.m3u8:Giggle Mug (EU)
+#DESCRIPTION Giggle Mug (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofast.g-mana.live/media/d6847ba3-6503-4e60-8178-dcdacf33879b/mainManifest.m3u8:Heartfelt TV (ES) Geo
+#DESCRIPTION Heartfelt TV (ES) Geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//baktilp-intipacha-1-eu.vidaa.wurl.tv/playlist.m3u8:Intipacha (EU)
+#DESCRIPTION Intipacha (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-juntos-hisense/playlist.m3u8?did=&dnt=&gender=&app_bundle=&app_name=&app_store_url=&url=&genre=&ic=&us_privacy=&gdpr=&gdpr_consent=&coppa=&schain=&ads.vidaa_ads_param=1190602996:Juntos
+#DESCRIPTION Juntos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distributionsjustepourrire-justforlaughsgags-1-eu.vidaa.wurl.tv/playlist.m3u8:Just for Laughs gags (EU)
+#DESCRIPTION Just for Laughs gags (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-luxetvau-vidaa/playlist.m3u8:Luxe TV (AU)
+#DESCRIPTION Luxe TV (AU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-luxeuk-vidaa/playlist.m3u8:Luxe (UK)
+#DESCRIPTION Luxe (UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d61d93d76b134f6988004baf3b3c6046.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vidaa_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.coppa=0&ads.device_id=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=%2522:Magellan TV
+#DESCRIPTION Magellan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kdmg-manifesttv-1-eu.vidaa.wurl.tv/playlist.m3u8:Manifest TV (EU)
+#DESCRIPTION Manifest TV (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maverick-maverick-black-cinema-2-eu.vidaa.wurl.tv/playlist.m3u8:Maverick Black Cinema (EU)
+#DESCRIPTION Maverick Black Cinema (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pctv-meganoticias-1-eu.vidaa.wurl.tv/playlist.m3u8:MegaNoticias (EU)
+#DESCRIPTION MegaNoticias (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofast.g-mana.live/media/abda81e3-2ef0-4ea7-a937-9baf8289f375/mainManifest.m3u8:Mercury plus
+#DESCRIPTION Mercury plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3369:Minute Shorts
+#DESCRIPTION Minute Shorts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-moreu-1-eu.vidaa.wurl.tv/playlist.m3u8:More U (EU)
+#DESCRIPTION More U (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2378:Motorvision.TV
+#DESCRIPTION Motorvision.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nosey-casos-2-eu.vidaa.wurl.tv/playlist.m3u8:Nosey Casos (EU)
+#DESCRIPTION Nosey Casos (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playworksdigital-ninjakidztv-1-eu.vidaa.wurl.tv/playlist.m3u8:Ninja Kidz
+#DESCRIPTION Ninja Kidz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-oan-vidaa/playlist.m3u8:OAN Plus
+#DESCRIPTION OAN Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofast.g-mana.live/media/2d617a5c-a48f-4b3d-af01-349a6072fb33/mainManifest.m3u8:Outer Vision Channel Geo
+#DESCRIPTION Outer Vision Channel Geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//telecine-pelimex-1-eu.vidaa.wurl.tv/playlist.m3u8:Pelimex (EU)
+#DESCRIPTION Pelimex (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-3-us.vidaa.wurl.tv/playlist.m3u8:People are Awesome (US)
+#DESCRIPTION People are Awesome (US)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//0a8aab349126402a95e24747b0405861.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vidaa_Popflix/playlist.m3u8?ads.wurl_channel=1068&ads.wurl_name=Popflix&ads.coppa=0&ads.device_id=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=%2522:Popcorn Flix
+#DESCRIPTION Popcorn Flix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3117:Pro Wrestling TV
+#DESCRIPTION Pro Wrestling TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rcntv-rcnmas-1-eu.vidaa.wurl.tv/playlist.m3u8:Rcnmas+ (EU)
+#DESCRIPTION Rcnmas+ (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rise-financial-roi-tv-1-eu.vidaa.wurl.tv/playlist.m3u8:Roi (EU)
+#DESCRIPTION Roi (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rightsboosterltd-scl-1-eu.vidaa.wurl.tv/playlist.m3u8:Strongman Champions League (EU)
+#DESCRIPTION Strongman Champions League (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-vidaa/playlist.m3u8:Sportsgrid
+#DESCRIPTION Sportsgrid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//janson-supersimplesongs-1-eu.vidaa.wurl.tv/playlist.m3u8:Super Simple Songs (EU)
+#DESCRIPTION Super Simple Songs (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thedesignnetwork-tdn-6-eu.vidaa.wurl.tv/playlist.m3u8:The Design Network (EU)
+#DESCRIPTION The Design Network (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-thegrid-1-eu.vidaa.wurl.tv/playlist.m3u8:The Grid (EU)
+#DESCRIPTION The Grid (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-thepetcollective-1-eu.vidaa.wurl.tv/playlist.m3u8:The Pet Collective (EU)
+#DESCRIPTION The Pet Collective (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//janson-todayshomeowner-1-eu.vidaa.wurl.tv/playlist.m3u8:Todays Home Owner (EU)
+#DESCRIPTION Todays Home Owner (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=143:Toon Goggles
+#DESCRIPTION Toon Goggles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bec-trailersfromhell-1-eu.vidaa.wurl.tv/playlist.m3u8:Trailers from Hell (EU)
+#DESCRIPTION Trailers from Hell (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alliantcontent-truecrimenow-1-eu.vidaa.wurl.tv/playlist.m3u8:True Crime Now
+#DESCRIPTION True Crime Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-truli-vidaa/playlist.m3u8:Truli
+#DESCRIPTION Truli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-tucinelatam-hisense/playlist.m3u8:Tu Cine
+#DESCRIPTION Tu Cine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//twistedmirror-twistedmirrorcomedy-2-us.vidaa.wurl.tv/playlist.m3u8:Twisted mirror Comedy (US)
+#DESCRIPTION Twisted mirror Comedy (US)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gravitas-unexplained-1-eu.vidaa.wurl.tv/playlist.m3u8:Unexplained (EU)
+#DESCRIPTION Unexplained (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//extremeinternational-unreel-1-eu.vidaa.wurl.tv/playlist.m3u8:Unreel (EU)
+#DESCRIPTION Unreel (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chestnut-vintagetv-1-us.vidaa.wurl.tv/playlist.m3u8:Vintage TV (US)
+#DESCRIPTION Vintage TV (US)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofast.g-mana.live/media/18c7b668-3bce-4037-a31b-f484616a7771/mainManifest.m3u8:Wildest wish Geo
+#DESCRIPTION Wildest wish Geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//world-poker-tour-samsung-eu.vidaa.wurl.tv/playlist.m3u8:World Poker Tour (EU)
+#DESCRIPTION World Poker Tour (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887620&ads.csid=vidaa_us_xumofreewesterns_ssai&ads.caid=XUMOFreeWesterns&ads.appName=%257BAPP_NAME%257D&ads.appVersion=1&ads._fw_app_bundle=%257BAPP_BUNDLE%257D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%257BBRAND_NAME%257D&ads._fw_device_model=%257BDEVICE_OSV%257D&ads._fw_devicetype=%257BDEVICE_TYPE%257D&ads._fw_coppa=0&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads._fw_is_lat=%257BDNT%257D&ads._fw_us_privacy=%257BUS_PRIVACY%257D&ads._fw_h_x_country=%257BDEVICE_COUNTRY%257D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads.vauth=%257BVAUTH%257D&ads.xumo_contentId=5&ads.xumo_contentName=Xumo&ads.xumo_ifa=%257BIFA%257D&ads.xumo_ifaType=%257BIFA_TYPE%257D&ads.xumo_providerId=5&ads.xumo_providerName=Xumo&ads._fw_app_store_url=%257BAPP_STORE_URL%257D&ads.vidaa_ads_param=1188362017:Xumo Westerns
+#DESCRIPTION Xumo Westerns
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-vidaa/playlist.m3u8:Young Hollywood
+#DESCRIPTION Young Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-moconomy-2-eu.vidaa.wurl.tv/playlist.m3u8:Moconomy (EU)
+#DESCRIPTION Moconomy (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amogonetworx-artflix-1-eu.vidaa.wurl.tv/playlist.m3u8:Artflix (EU)
+#DESCRIPTION Artflix (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glovodlimited-irisheyestv-1-us.vidaa.wurl.tv/playlist.m3u8:Irish Eyes TV (US)
+#DESCRIPTION Irish Eyes TV (US)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tedconferences-ted-1-eu.vidaa.wurl.tv/playlist.m3u8:TED Conferences (EU)
+#DESCRIPTION TED Conferences (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccbm-broadcasting-1-eu.vidaa.wurl.tv/playlist.m3u8:CCBM Broadcasting (EU)
+#DESCRIPTION CCBM Broadcasting (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//glorykickboxing-glorykickboxing-1-eu.vidaa.wurl.tv/playlist.m3u8:Glory Kick Boxing (EU)
+#DESCRIPTION Glory Kick Boxing (EU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newsmax-newsmaxtv-2-eu.vidaa.wurl.tv/playlist.m3u8:NewsMax (EU)
+#DESCRIPTION NewsMax (EU)
