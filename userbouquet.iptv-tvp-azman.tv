@@ -93,8 +93,6 @@
 #DESCRIPTION TVP World
 #SERVICE 4097:0:16:5F:7001:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=58759123:UA%3aPershyj
 #DESCRIPTION UA:Pershyj
-#SERVICE 4097:0:1:FB68:E26:EC:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=53415886:TVP Msze
-#DESCRIPTION TVP Msze
 #SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=745680:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
 #SERVICE 4097:0:1:8:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1634239:TVP3 Bydgoszcz
@@ -127,13 +125,13 @@
 #DESCRIPTION TVP3 Warszawa
 #SERVICE 4097:0:16:16:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1634331:TVP3 Wrocław
 #DESCRIPTION TVP3 Wrocław
-#SERVICE 4097:0:1:51BF:C1DA:EC:0:0:0:0:streamlink%3a//https//tvpstream.vod.tvp.pl/?channel_id=4359520:TVP Sejm
+#SERVICE 4097:0:1:51BF:C1DA:EC:0:0:0:0:streamlink%3a//https%3a//tvpstream.vod.tvp.pl/?channel_id=4359520:TVP Sejm
 #DESCRIPTION TVP Sejm
-#SERVICE 4097:0:1:86A4:27E1:EC:0:0:0:0:streamlink%3a//https//tvpstream.vod.tvp.pl/?channel_id=14660873:TVP Senat
+#SERVICE 4097:0:1:86A4:27E1:EC:0:0:0:0:streamlink%3a//https%3a//tvpstream.vod.tvp.pl/?channel_id=14660873:TVP Senat
 #DESCRIPTION TVP Senat
-#SERVICE 4097:0:1:515A:9133:EC:0:0:0:0:streamlink%3a//https//tvpstream.vod.tvp.pl/?channel_id=16756563:TVP Parlament 1
+#SERVICE 4097:0:1:515A:9133:EC:0:0:0:0:streamlink%3a//https%3a//tvpstream.vod.tvp.pl/?channel_id=16756563:TVP Parlament 1
 #DESCRIPTION TVP Parlament 1
-#SERVICE 4097:0:1:5428:8E8A:EC:0:0:0:0:streamlink%3a//https//tvpstream.vod.tvp.pl/?channel_id=16756568:TVP Parlament 2
+#SERVICE 4097:0:1:5428:8E8A:EC:0:0:0:0:streamlink%3a//https%3a//tvpstream.vod.tvp.pl/?channel_id=16756568:TVP Parlament 2
 #DESCRIPTION TVP Parlament 2
 #SERVICE 1:64:A:0:0:0:0:0:0:0::--- HbbTV ---
 #DESCRIPTION --- HbbTV ---
