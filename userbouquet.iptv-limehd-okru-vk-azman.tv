@@ -1,0 +1,319 @@
+#NAME LimeHD OK.RU VK (azman)
+#SERVICE 1:64:26:0:0:0:0:0:0:0::--- VK Music ---
+#DESCRIPTION --- VK Music ---
+#SERVICE 4097:0:1:1F5A:454B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-122792749_456241910:Ritsa TV
+#DESCRIPTION Ritsa TV
+#SERVICE 4097:0:1:A3C7:3A78:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-177948463_456239339:VIVA Russia
+#DESCRIPTION VIVA Russia
+#SERVICE 4097:0:1:D429:C2D2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-339767_456243729:THT Music
+#DESCRIPTION THT Music
+#SERVICE 4097:0:1:4868:132C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-6246566_456246663:MUZ TV
+#DESCRIPTION MUZ TV
+#SERVICE 4097:0:1:B0CA:6549:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-27873200_456244784:Music History Radio
+#DESCRIPTION Music History Radio
+#SERVICE 1:0:1:F1A7:A24F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-72137419_456240199:BACKUSTV Music
+#DESCRIPTION BACKUSTV Music
+#SERVICE 4097:0:1:C3B9:2CBE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-89493_456243668:DFM
+#DESCRIPTION DFM
+#SERVICE 4097:0:1:120:5F28:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-16487904_456240399:9 Volna
+#DESCRIPTION 9 Volna
+#SERVICE 4097:0:1:80FA:180C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-9693056_456247043:Радио ENERGY (NRJ)
+#DESCRIPTION Радио ENERGY (NRJ)
+#SERVICE 1:64:27:0:0:0:0:0:0:0::--- OK.RU Music ---
+#DESCRIPTION --- OK.RU Music ---
+#SERVICE 4097:0:1:5C7F:F799:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/3099174903444:Mafi2a TV
+#DESCRIPTION Mafi2a TV
+#SERVICE 4097:0:1:5924:14FB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3080585092846:V2BEAT TV
+#DESCRIPTION V2BEAT TV
+#SERVICE 4097:0:1:9A16:D3DD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3452595281646:91 NRG
+#DESCRIPTION 91 NRG
+#SERVICE 4097:0:1:4D5E:BFCE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/3134774517334:Retro Plus TV
+#DESCRIPTION Retro Plus TV
+#SERVICE 4097:0:1:19B2:BB34:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/4092622806614:RADIO 80 Forever Young
+#DESCRIPTION RADIO 80 Forever Young
+#SERVICE 4097:0:1:EEBD:9DF1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/1041687977527:AIVA
+#DESCRIPTION AIVA
+#SERVICE 4097:0:1:1C70:C164:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/363045854829:HITTV
+#DESCRIPTION HITTV
+#SERVICE 4097:0:1:9C15:A2F8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3478669237998:FIRST MUSIC CHANNEL (RU)
+#DESCRIPTION FIRST MUSIC CHANNEL (RU)
+#SERVICE 4097:0:1:B4E:E723:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3556041367278:NG RADIO
+#DESCRIPTION NG RADIO
+#SERVICE 4097:0:1:6807:CDDE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/3131146378838:GO TV
+#DESCRIPTION GO TV
+#SERVICE 4097:0:1:44D2:80C1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3402887732822:RADIO NORBA TV
+#DESCRIPTION RADIO NORBA TV
+#SERVICE 4097:0:1:37C8:34E7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3142326492758:RELOAD TV
+#DESCRIPTION RELOAD TV
+#SERVICE 4097:0:1:9A16:D3DD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3516403293934:PLAY TV
+#DESCRIPTION PLAY TV
+#SERVICE 4097:0:1:B6EC:411D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3719557029554:BackusTV Music
+#DESCRIPTION BackusTV Music
+#SERVICE 4097:0:1:A017:C213:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/3149414997590:Kpop Channel TV
+#DESCRIPTION Kpop Channel TV
+#SERVICE 4097:0:1:9F90:70E7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/4168802311822:SKYMUSIC RADIO
+#DESCRIPTION SKYMUSIC RADIO
+#SERVICE 4097:0:1:E018:80E9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3942760193644:VOICE OVER RADIO
+#DESCRIPTION VOICE OVER RADIO
+#SERVICE 4097:0:1:A14:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/2500581596714:MUZ TV
+#DESCRIPTION MUZ TV
+#SERVICE 4097:0:1:48CA:BE75:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/4092636372566:Radio Stereocittà
+#DESCRIPTION Radio Stereocittà
+#SERVICE 4097:0:1:832:4BC4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/4092614942294:Radio Italia Cina
+#DESCRIPTION Radio Italia Cina
+#SERVICE 4097:0:1:5B4B:C43D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3452637880046:TOP MUSIC
+#DESCRIPTION TOP MUSIC
+#SERVICE 4097:0:1:EAAB:1D77:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3516400082670:MESSINIA WEB TV
+#DESCRIPTION MESSINIA WEB TV
+#SERVICE 4097:0:1:E50:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/1488951909894:TNT MUSIC
+#DESCRIPTION TNT MUSIC
+#SERVICE 4097:0:1:96AA:D004:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/live/4092649152086:KISS KISS TV
+#DESCRIPTION KISS KISS TV
+#SERVICE 4097:0:1:B158:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/230273326594:RU.TV
+#DESCRIPTION RU.TV
+#SERVICE 4097:0:1:ECE4:7E5A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/1643385658936:KAVKAZ MUSIC TV
+#DESCRIPTION KAVKAZ MUSIC TV
+#SERVICE 4097:0:1:F308:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/260233305722:STRANA FM
+#DESCRIPTION STRANA FM
+#SERVICE 4097:0:1:50:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/924131000:SHANSON TV
+#DESCRIPTION SHANSON TV
+#SERVICE 4097:0:1:504B:3244:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/418029772340:RADIO SHANSON
+#DESCRIPTION RADIO SHANSON
+#SERVICE 1:64:25:0:0:0:0:0:0:0::--- LimeHD TV Music ---
+#DESCRIPTION --- LimeHD TV Music ---
+#SERVICE 4097:0:1:F413:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/musicbox:MUSIC BOX RUSSIA
+#DESCRIPTION MUSIC BOX RUSSIA
+#SERVICE 5002:0:1:E50:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tntmusic:ТNТ MUSIC
+#DESCRIPTION ТNТ MUSIC
+#SERVICE 4097:0:1:56E:CE5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/muz.play:MIXM TV
+#DESCRIPTION MIXM TV
+#SERVICE 4097:0:1:F302:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/clubbingtv:CLUBBING TV
+#DESCRIPTION CLUBBING TV
+#SERVICE 4097:0:1:F178:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tmb:VOSTOK TV
+#DESCRIPTION VOSTOK TV
+#SERVICE 4097:0:1:A39:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/bridgetv:BRIDGE TV
+#DESCRIPTION BRIDGE TV
+#SERVICE 4097:0:1:A101:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/br.dance:BRIDGE TV HITS
+#DESCRIPTION BRIDGE TV HITS
+#SERVICE 4097:0:1:B206:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/br.classic:BRIDGE TV CLASSIC
+#DESCRIPTION BRIDGE TV CLASSIC
+#SERVICE 4097:0:1:B158:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/rutv:RU.TV
+#DESCRIPTION RU.TV
+#SERVICE 4097:0:1:57:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/evropaplus:EUROPA PLUS TV
+#DESCRIPTION EUROPA PLUS TV
+#SERVICE 4097:0:1:A13:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/br.rushit:BRIDGE TV RUSSIAN HIT
+#DESCRIPTION BRIDGE TV RUSSIAN HIT
+#SERVICE 4097:0:1:B312:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/o2tv:O2TV
+#DESCRIPTION O2TV
+#SERVICE 4097:0:1:A11:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/myhouse:ЖАРА
+#DESCRIPTION ЖАРА
+#SERVICE 4097:0:1:F240:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/songtvru:SONGTV Russia
+#DESCRIPTION SONGTV Russia
+#SERVICE 4097:0:1:680:2147:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/songtvam:SONGTV Armenia
+#DESCRIPTION SONGTV Armenia
+#SERVICE 4097:0:1:F308:521:D:0:0:0:0:https%3a//live-stranafm.cdnvideo.ru/stranafm/smil%3astranafm.smil/chunklist_b1628000.m3u8:STRANA FM
+#DESCRIPTION STRANA FM
+#SERVICE 4097:0:1:F377:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/maidan:МАЙДАН
+#DESCRIPTION МАЙДАН
+#SERVICE 4097:0:1:50:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/shanson:SHANSON TV
+#DESCRIPTION SHANSON TV
+#SERVICE 4097:0:1:D226:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/muzsouz:МUZ SOUZ
+#DESCRIPTION МUZ SOUZ
+#SERVICE 4097:0:1:EA15:C53D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/folk_music:FOLK MUSIC TV
+#DESCRIPTION FOLK MUSIC TV
+#SERVICE 4097:0:1:6312:2E98:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/muzzone:MUZZONE
+#DESCRIPTION MUZZONE
+#SERVICE 4097:0:1:A14:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/muztv:MUZ TV
+#DESCRIPTION MUZ TV
+#SERVICE 1:64:28:0:0:0:0:0:0:0::--- LimeHD TV ---
+#DESCRIPTION --- LimeHD TV ---
+#SERVICE 4097:0:1:82EB:9862:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/otr:ОТР
+#DESCRIPTION ОТР
+#SERVICE 4097:0:1:C83A:7E6E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tvc:ТВ ЦЕНТР
+#DESCRIPTION ТВ ЦЕНТР
+#SERVICE 4097:0:1:F92:1199:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/spas:СПАС
+#DESCRIPTION СПАС
+#SERVICE 4097:0:1:EE87:E207:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/zvezda:ЗВЕЗДА
+#DESCRIPTION ЗВЕЗДА
+#SERVICE 4097:0:1:85B9:9577:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/mir:МИР
+#DESCRIPTION МИР
+#SERVICE 4097:0:1:9E50:AFD7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/euronews:ЕВРОНОВОСТИ
+#DESCRIPTION ЕВРОНОВОСТИ
+#SERVICE 4097:0:1:57C3:E3D1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/mir24:МИР-24
+#DESCRIPTION МИР-24
+#SERVICE 4097:0:1:32F7:E83:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/channelu:Ю
+#DESCRIPTION Ю
+#SERVICE 4097:0:1:406A:AB4E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/ege:ЕГЭ
+#DESCRIPTION ЕГЭ
+#SERVICE 4097:0:1:7BA2:CE08:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/vmeste-rf:ВМЕСТЕ-РФ
+#DESCRIPTION ВМЕСТЕ-РФ
+#SERVICE 4097:0:1:641A:6F28:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/detmir:ДЕТСКИЙ МИР
+#DESCRIPTION ДЕТСКИЙ МИР
+#SERVICE 4097:0:1:2A26:151B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/rt:RUSSIA TODAY
+#DESCRIPTION RUSSIA TODAY
+#SERVICE 4097:0:1:9CE7:1B84:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/redline:КРАСНАЯ ЛИНИЯ
+#DESCRIPTION КРАСНАЯ ЛИНИЯ
+#SERVICE 4097:0:1:8E69:9934:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/firstvegan:ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
+#DESCRIPTION ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
+#SERVICE 4097:0:1:6682:584B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/openmir:ОТКРЫТЫЙ МИР
+#DESCRIPTION ОТКРЫТЫЙ МИР
+#SERVICE 4097:0:1:83A:AC89:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/ldprlive:ЛДПР LIVE
+#DESCRIPTION ЛДПР LIVE
+#SERVICE 4097:0:1:E922:DD0E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tnomer:ТНОМЕР
+#DESCRIPTION ТНОМЕР
+#SERVICE 4097:0:1:1E7:1CFB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/kaleidoskop:КАЛЕЙДОСКОП ТВ
+#DESCRIPTION КАЛЕЙДОСКОП ТВ
+#SERVICE 4097:0:1:BD98:28DC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/8kanal:8 КАНАЛ
+#DESCRIPTION 8 КАНАЛ
+#SERVICE 4097:0:1:4BA6:62FC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/dumatv:ДУМА ТВ
+#DESCRIPTION ДУМА ТВ
+#SERVICE 4097:0:1:9B1:572C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/ratnik:РАТНИК
+#DESCRIPTION РАТНИК
+#SERVICE 4097:0:1:4729:B615:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/travelguidetv:TRAVELGUIDE TV
+#DESCRIPTION TRAVELGUIDE TV
+#SERVICE 4097:0:1:817F:9613:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/kinosezon:КИНОСЕЗОН
+#DESCRIPTION КИНОСЕЗОН
+#SERVICE 4097:0:1:F9A2:21D1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/pmobile:ПЕРПЕТУУМ МОБИЛЕ
+#DESCRIPTION ПЕРПЕТУУМ МОБИЛЕ
+#SERVICE 4097:0:1:CF8E:3F59:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/terra:ТЕРРА ИНКОГНИТА
+#DESCRIPTION ТЕРРА ИНКОГНИТА
+#SERVICE 4097:0:1:9F88:42C3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/np:НЕИЗВЕСТНАЯ ПЛАНЕТА
+#DESCRIPTION НЕИЗВЕСТНАЯ ПЛАНЕТА
+#SERVICE 4097:0:1:ADD2:C42D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/joycook:JOY COOK
+#DESCRIPTION JOY COOK
+#SERVICE 4097:0:1:F335:5FDB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/rictv:КРИК ТВ
+#DESCRIPTION КРИК ТВ
+#SERVICE 4097:0:1:F6C7:4DC7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tochka:ТОЧКА ТВ
+#DESCRIPTION ТОЧКА ТВ
+#SERVICE 4097:0:1:7687:CF8F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/cgtn:CGTN
+#DESCRIPTION CGTN
+#SERVICE 4097:0:1:6750:18AC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/cgtn-rus:CGTN Русский
+#DESCRIPTION CGTN Русский
+#SERVICE 4097:0:1:5F99:C197:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/teledom:ТЕЛЕДОМ
+#DESCRIPTION ТЕЛЕДОМ
+#SERVICE 4097:0:1:89EB:4AF4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/multsezon:МУЛЬТСЕЗОН
+#DESCRIPTION МУЛЬТСЕЗОН
+#SERVICE 4097:0:1:B11A:3521:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/okino:О!КИНО
+#DESCRIPTION О!КИНО
+#SERVICE 4097:0:1:1AC9:136A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/pesiko:ПЕС И КО
+#DESCRIPTION ПЕС И КО
+#SERVICE 4097:0:1:42F3:6E6C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/radost:РАДОСТЬ МОЯ
+#DESCRIPTION РАДОСТЬ МОЯ
+#SERVICE 4097:0:1:527B:558B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/nano:НАНО
+#DESCRIPTION НАНО
+#SERVICE 4097:0:1:9304:2BC6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/vkusnoe:ВКУСНОЕ ТВ
+#DESCRIPTION ВКУСНОЕ ТВ
+#SERVICE 4097:0:1:132:5632:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/rbk:РБК
+#DESCRIPTION РБК
+#SERVICE 4097:0:1:F7AA:2D18:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/oribalke:ДИАЛОГИ О РЫБАЛКЕ
+#DESCRIPTION ДИАЛОГИ О РЫБАЛКЕ
+#SERVICE 4097:0:1:BDD5:DFE2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/souz:СОЮЗ
+#DESCRIPTION СОЮЗ
+#SERVICE 4097:0:1:25AD:2348:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/uspeh:УСПЕХ
+#DESCRIPTION УСПЕХ
+#SERVICE 4097:0:1:D8E:4E3E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/belros:БЕЛРОС
+#DESCRIPTION БЕЛРОС
+#SERVICE 4097:0:1:2E7B:DCBA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/universmotri:UNIVER TV
+#DESCRIPTION UNIVER TV
+#SERVICE 4097:0:1:2F42:1F21:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/fashion:FASHION TV
+#DESCRIPTION FASHION TV
+#SERVICE 4097:0:1:608E:4B12:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/nadejda:НАДЕЖДА
+#DESCRIPTION НАДЕЖДА
+#SERVICE 4097:0:1:587:44B9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tdk:ТДК
+#DESCRIPTION ТДК
+#SERVICE 4097:0:1:707D:EF7C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/zaj:СКАЗКИ ЗАЙКИ
+#DESCRIPTION СКАЗКИ ЗАЙКИ
+#SERVICE 4097:0:1:AF50:2C8D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/rusmult:СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+#DESCRIPTION СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+#SERVICE 4097:0:1:9145:E6A3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/soviet_movs:СОВЕТСКОЕ КИНО
+#DESCRIPTION СОВЕТСКОЕ КИНО
+#SERVICE 4097:0:1:ECF5:C837:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/bigasia:БОЛЬШАЯ АЗИЯ
+#DESCRIPTION БОЛЬШАЯ АЗИЯ
+#SERVICE 4097:0:1:82EB:9D2E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/7tv:7 TV
+#DESCRIPTION 7 TV
+#SERVICE 4097:0:1:6CA0:84A1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tvextra:ТВ ЭКСТРА
+#DESCRIPTION ТВ ЭКСТРА
+#SERVICE 4097:0:1:2920:5A68:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/rodnoy-kanal:РОДНОЙ КАНАЛ
+#DESCRIPTION РОДНОЙ КАНАЛ
+#SERVICE 4097:0:1:6292:754C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/briks:TV BRICS
+#DESCRIPTION TV BRICS
+#SERVICE 4097:0:1:5874:53BD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/7d7:7D7
+#DESCRIPTION 7D7
+#SERVICE 4097:0:1:5684:CCD8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/cna_eu:CNA
+#DESCRIPTION CNA
+#SERVICE 4097:0:1:6653:27A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/france24:FRANCE 24
+#DESCRIPTION FRANCE 24
+#SERVICE 4097:0:1:9519:7B93:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/angel-tv:ANGEL TV
+#DESCRIPTION ANGEL TV
+#SERVICE 4097:0:1:D9A9:7A6C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/new_world:НОВЫЙ МИР
+#DESCRIPTION НОВЫЙ МИР
+#SERVICE 4097:0:1:A0AB:65F3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/rtdhd:RTД HD
+#DESCRIPTION RTД HD
+#SERVICE 4097:0:1:9300:1813:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/360sd:360
+#DESCRIPTION 360
+#SERVICE 4097:0:1:3219:7207:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/polet:ПОЛЁТ ТВ
+#DESCRIPTION ПОЛЁТ ТВ
+#SERVICE 4097:0:1:E6B3:73CD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/aqua:АКВА ТВ
+#DESCRIPTION АКВА ТВ
+#SERVICE 4097:0:1:BF3A:32DD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/svetloetv:СВЕТЛОЕ ТВ
+#DESCRIPTION СВЕТЛОЕ ТВ
+#SERVICE 4097:0:1:460E:760E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/luxury:LUXURY
+#DESCRIPTION LUXURY
+#SERVICE 4097:0:1:1325:625D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tbn:ТБН
+#DESCRIPTION ТБН
+#SERVICE 4097:0:1:7C9E:E8DF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/smile:СМАЙЛИК
+#DESCRIPTION СМАЙЛИК
+#SERVICE 4097:0:1:AE59:1E08:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/probusiness:ПРО БИЗНЕС
+#DESCRIPTION ПРО БИЗНЕС
+#SERVICE 4097:0:1:9906:431A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/prodvijenie:ПРОДВИЖЕНИЕ
+#DESCRIPTION ПРОДВИЖЕНИЕ
+#SERVICE 4097:0:1:7108:86B7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/3angel:ТРИ АНГЕЛА
+#DESCRIPTION ТРИ АНГЕЛА
+#SERVICE 4097:0:1:C1E8:D7D9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/nasa_tv:NASA TV
+#DESCRIPTION NASA TV
+#SERVICE 4097:0:1:B851:99E2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/nasa_tv_media:NASA TV MEDIA (ENG)
+#DESCRIPTION NASA TV MEDIA (ENG)
+#SERVICE 4097:0:1:D01F:99FA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/minidei:МИНИСТЕРСТВО ИДЕЙ
+#DESCRIPTION МИНИСТЕРСТВО ИДЕЙ
+#SERVICE 4097:0:1:FF15:46A1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/centrtv:ЦЕНТРАЛЬНОЕ ТВ
+#DESCRIPTION ЦЕНТРАЛЬНОЕ ТВ
+#SERVICE 4097:0:1:5EC:97D9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/ictv_ua:ICTV (UA)
+#DESCRIPTION ICTV (UA)
+#SERVICE 4097:0:1:C7FF:3BC9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/rusamerica:RUSSIAN AMERICA TV
+#DESCRIPTION RUSSIAN AMERICA TV
+#SERVICE 4097:0:1:E8D4:808E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/fenixkino:ФЕНИКС+ КИНО
+#DESCRIPTION ФЕНИКС+ КИНО
+#SERVICE 4097:0:1:AC64:3085:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/moscow24:МОСКВА 24
+#DESCRIPTION МОСКВА 24
+#SERVICE 4097:0:1:B2FE:D9A9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/tnv:ТНВ ТАТАРСТАН
+#DESCRIPTION ТНВ ТАТАРСТАН
+#SERVICE 4097:0:1:9995:A9A7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/volga-nn:ВОЛГА
+#DESCRIPTION ВОЛГА
+#SERVICE 4097:0:1:B90:3BE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/otvekb:ОТВ ЕКАТЕРИНБУРГ
+#DESCRIPTION ОТВ ЕКАТЕРИНБУРГ
+#SERVICE 4097:0:1:9694:7269:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/1crimea:ПЕРВЫЙ КРЫМСКИЙ
+#DESCRIPTION ПЕРВЫЙ КРЫМСКИЙ
+#SERVICE 4097:0:1:63A4:FF42:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/lentv24:ЛЕН ТВ24 (Санкт-Петербург)
+#DESCRIPTION ЛЕН ТВ24 (Санкт-Петербург)
+#SERVICE 4097:0:1:D01F:7C5F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/grozniy:ГРОЗНЫЙ
+#DESCRIPTION ГРОЗНЫЙ
+#SERVICE 4097:0:1:4F60:B04:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/kaskad:КАСКАД 24
+#DESCRIPTION КАСКАД 24
+#SERVICE 4097:0:1:C790:498:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/solnechnogorsk:СОЛНЕЧНОГОРСК ТВ
+#DESCRIPTION СОЛНЕЧНОГОРСК ТВ
+#SERVICE 4097:0:1:FABA:D3AF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/nntv:ННТВ (Нижний Новгород)
+#DESCRIPTION ННТВ (Нижний Новгород)
+#SERVICE 4097:0:1:5B48:A566:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/chavashen:ЧАВАШ ЕН
+#DESCRIPTION ЧАВАШ ЕН
+#SERVICE 4097:0:1:F7CD:6685:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/shayan:ШАЯН ТВ
+#DESCRIPTION ШАЯН ТВ
+#SERVICE 4097:0:1:8F0B:E2BD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/vgtrkbash:БАШКОРТОСТАН 24
+#DESCRIPTION БАШКОРТОСТАН 24
+#SERVICE 4097:0:1:3EC4:FDBE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/aris24:АРИС 24 (Башкортостан)
+#DESCRIPTION АРИС 24 (Башкортостан)
+#SERVICE 4097:0:1:45B0:409:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/allufaru:ВСЯ УФА
+#DESCRIPTION ВСЯ УФА
+#SERVICE 4097:0:1:7F0E:CDC4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/8channelnsk:8 КАНАЛ (Новосибирск)
+#DESCRIPTION 8 КАНАЛ (Новосибирск)
+#SERVICE 4097:0:1:9D84:A1DD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/stv.limehd.tv/maksmedia:СОЧИ 24
+#DESCRIPTION СОЧИ 24
