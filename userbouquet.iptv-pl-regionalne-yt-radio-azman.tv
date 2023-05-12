@@ -93,10 +93,12 @@
 #DESCRIPTION TVK Stella (Serwis Inf.)
 #SERVICE 5002:0:1:3A18:54AC:EC:0:0:0:0:https%3a//informacje.kolobrzeg.pl/video/wydarzenia.mp4:TV Kablowa Kołobrzeg (Serwis Inf)
 #DESCRIPTION TV Kablowa Kołobrzeg (Serwis Inf)
-#SERVICE 5002:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
-#DESCRIPTION TVK Nowy Tomyśl
+#SERVICE 4097:0:1:E713:D5DF:EC:0:0:0:0:https%3a//webcam.box3.pl/box3/zachodnia/playlist.m3u8:Zachodnia TV
+#DESCRIPTION Zachodnia TV
 #SERVICE 5002:0:1:B0AF:C4F3:EC:0:0:0:0:https%3a//bsmbialogard.pl/live/index.m3u8:BTK
 #DESCRIPTION BTK
+#SERVICE 5002:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
+#DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 4097:0:1:C5B:918F:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LPUTVpl/live:LPU TV  (YT)
 #DESCRIPTION LPU TV  (YT)
 #SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV  (YT)
