@@ -97,7 +97,7 @@
 #DESCRIPTION Zachodnia TV
 #SERVICE 5002:0:1:B0AF:C4F3:EC:0:0:0:0:https%3a//bsmbialogard.pl/live/index.m3u8:BTK
 #DESCRIPTION BTK
-#SERVICE 5002:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/11bccc1e-dba3-4a0c-984b-540b7610e295.m3u8:TVK Nowy Tomyśl
+#SERVICE 5002:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl%3a8080/video/memfs/d546713a-25d2-4343-ba10-baea670debd9.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 4097:0:1:C5B:918F:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LPUTVpl/live:LPU TV  (YT)
 #DESCRIPTION LPU TV  (YT)
@@ -161,14 +161,12 @@
 #DESCRIPTION --- CHWILOWO OFFLINE ---
 #SERVICE 5002:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
+#SERVICE 5002:0:1:32D2:190:13E:820000:0:0:0:http%3a//5.254.16.186/NutaTV/index.m3u8:NUTA TV
+#DESCRIPTION NUTA TV
 #SERVICE 5002:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag2/myStream/playlist.m3u8:TV Kaszuby
 #DESCRIPTION TV Kaszuby
 #SERVICE 4097:0:1:A648:C711:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Roland-gazetaPl/live:TVi Roland  (YT)
 #DESCRIPTION TVi Roland  (YT)
-#SERVICE 4097:0:1:42:1:48:0:0:0:0:https%3a//tvsm.pl/live/hls/A3kaoVpwSNKVHHDybpTHjg/1647800785/video.m3u8:TVK SM Grudziądz
-#DESCRIPTION TVK SM Grudziądz
-#SERVICE 4097:0:1:94:1:48:0:0:0:0:http%3a//91.231.169.250%3a19380/media_server/tvl_low/index.m3u8:TVL Tarnobrzeg
-#DESCRIPTION TVL Tarnobrzeg
 #SERVICE 4097:0:1:9908:338A:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LokalnaTV2009/live:Lokalna TV  (YT)
 #DESCRIPTION Lokalna TV  (YT)
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
@@ -183,8 +181,8 @@
 #DESCRIPTION Czwórka - PR
 #SERVICE 4097:0:2:3:A22A:2268:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24/pr24.sdp/chunklist_w544058526.m3u8:Polskie Radio 24
 #DESCRIPTION Polskie Radio 24
-#SERVICE 4097:0:2:4:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968/:Polskie Radio Kierowców
-#DESCRIPTION Polskie Radio Kierowców
+#SERVICE 4097:0:2:4:A22A:2268:0:0:0:0:http%3a//rtmp.one.by%3a2200:First Music Channel (RU)
+#DESCRIPTION First Music Channel (RU)
 #SERVICE 4097:0:2:5:A22A:2268:0:0:0:0:https%3a//stream85.polskieradio.pl/live/rytm.sdp/chunklist_w1163479695.m3u8:Polskie Radio Chopin
 #DESCRIPTION Polskie Radio Chopin
 #SERVICE 4097:0:2:6:A22A:2268:0:0:0:0:https%3a//stream85.polskieradio.pl/live/radio_dzieciom.sdp/chunklist_w1840082260.m3u8:Polskie Radio Dzieciom
@@ -223,8 +221,8 @@
 #DESCRIPTION Meloradio
 #SERVICE 4097:0:2:A:A22A:2268:0:0:0:0:http%3a//stream3.nadaje.com%3a9000/:MUZYCZNE Radio
 #DESCRIPTION MUZYCZNE Radio
-#SERVICE 4097:0:2:B:A22A:2268:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:NASZE Radio
-#DESCRIPTION NASZE Radio
+#SERVICE 4097:0:2:B:A22A:2268:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:Radio SIERADZ
+#DESCRIPTION Radio SIERADZ
 #SERVICE 4097:0:2:C:A22A:2268:0:0:0:0:http%3a//91.232.4.33%3a9680/stream:Polskie Radio Koszalin
 #DESCRIPTION Polskie Radio Koszalin
 #SERVICE 4097:0:2:E:A22A:2268:0:0:0:0:http%3a//stream.open.fm/357:Radio 357
