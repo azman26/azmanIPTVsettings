@@ -13,6 +13,8 @@
 #DESCRIPTION Rakuten Viki
 #SERVICE 5002:0:1:F820:47CF:CF5A:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=ottpri_sl_cc:Christmas Classics
 #DESCRIPTION Christmas Classics
+#SERVICE 5002:0:1:380:CB59:EC:0:0:0:0:https%3a//bold-tv-corp-pecan-tv-1-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pecan
+#DESCRIPTION Pecan
 #SERVICE 4097:0:1:C89C:B539:394C:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eBR2z3PwZMCCQeoh8-Lx#sapp_tvgid=5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a:Space Channel
 #DESCRIPTION Space Channel
 #SERVICE 5002:0:1:EB8:5C3A:EC:0:0:0:0:https%3a//s-plus-vivalive.evrideo.tv/91cf8e90-ebe5-48b4-a0ad-6d001d27d479_1000012093_HLS/master.m3u8:S+
