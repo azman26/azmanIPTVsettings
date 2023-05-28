@@ -1,0 +1,35 @@
+#NAME Free Movies Plus
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 5002:0:1:b5e7:f8c4:c446:1010101:0:0:0:https%3a//alliantcontent-truecrimenow-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True Crime Now -US
+#DESCRIPTION True Crime Now -US
+#SERVICE 5002:0:1:dc1c:8f70:70f6:1010101:0:0:0:https%3a//alliantcontent-warandmilitarynow-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:War and Military Now -US
+#DESCRIPTION War and Military Now -US
+#SERVICE 5002:0:1:effa:1030:3089:1010101:0:0:0:https%3a//bold-tv-corp-pecan-tv-1-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pecan -EU
+#DESCRIPTION Pecan -EU
+#SERVICE 5002:0:1:61d6:5d91:91f7:1010101:0:0:0:https%3a//bonudiemsa-intipacha-2-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Intipacha -EU
+#DESCRIPTION Intipacha -EU
+#SERVICE 5002:0:1:fe85:e150:5042:1010101:0:0:0:https%3a//chestnut-vintagetv-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vintage TV -US
+#DESCRIPTION Vintage TV -US
+#SERVICE 5002:0:1:7279:c142:42af:1010101:0:0:0:https%3a//distributionsjustepourrire-justforlaughsgags-1-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just for Laughs Gags -EU
+#DESCRIPTION Just for Laughs Gags -EU
+#SERVICE 5002:0:1:f6bf:c7fa:fa0a:1010101:0:0:0:https%3a//food-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Food -US
+#DESCRIPTION Food -US
+#SERVICE 5002:0:1:78f8:19e1:e1cc:1010101:0:0:0:https%3a//glorykickboxing-glorykickboxing-1-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Glory Kick Boxing -EU
+#DESCRIPTION Glory Kick Boxing -EU
+#SERVICE 5002:0:1:acc5:e901:12d:1010101:0:0:0:https%3a//janson-todayshomeowner-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Todays Homeowner -US
+#DESCRIPTION Todays Homeowner -US
+#SERVICE 5002:0:1:dd57:dff1:f19f:1010101:0:0:0:https%3a//magellan-space-science-now-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Space Science Now -US
+#DESCRIPTION Space Science Now -US
+#SERVICE 5002:0:1:34d0:323f:3fe2:1010101:0:0:0:https%3a//memphisstudios-dittytv-1-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ditty TV -EU
+#DESCRIPTION Ditty TV -EU
+#SERVICE 5002:0:1:db37:110b:b43:1010101:0:0:0:https%3a//nosey-2-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey 2 -US
+#DESCRIPTION Nosey 2 -US
+#SERVICE 5002:0:1:ca73:c91:91d2:1010101:0:0:0:https%3a//nosey-realnosey-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Nosey -US
+#DESCRIPTION Real Nosey -US
+#SERVICE 5002:0:1:ca01:c750:5028:1010101:0:0:0:https%3a//telecine-pelimex-1-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pelimex -EU
+#DESCRIPTION Pelimex -EU
+#SERVICE 5002:0:1:737a:41bb:bba7:1010101:0:0:0:https%3a//topic-crimeandthrillers-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime and Thrillers -US
+#DESCRIPTION Crime and Thrillers -US
+#SERVICE 5002:0:1:e25d:12d0:d00e:1010101:0:0:0:https%3a//watchmojo-1-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WatchMojo -EU
+#DESCRIPTION WatchMojo -EU
