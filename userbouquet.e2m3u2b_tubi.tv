@@ -1,0 +1,479 @@
+#NAME Tubi
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 5002:0:1:bd30:a292:927c:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ABC-News.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC News Live
+#DESCRIPTION ABC News Live
+#SERVICE 5002:0:1:77fd:f197:9713:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NBC-SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC News NOW
+#DESCRIPTION NBC News NOW
+#SERVICE 5002:0:1:f5a3:3627:27d9:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Live Now From Fox
+#DESCRIPTION Live Now From Fox
+#SERVICE 5002:0:1:99bb:a5ea:ead5:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Localish.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC Localish
+#DESCRIPTION ABC Localish
+#SERVICE 5002:0:1:1c7e:7387:8703:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Today.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Today All day
+#DESCRIPTION Today All day
+#SERVICE 5002:0:1:ef8e:e705:5c7:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:USA Today
+#DESCRIPTION USA Today
+#SERVICE 5002:0:1:5592:bddc:dc7a:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Cheddar.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cheddar News
+#DESCRIPTION Cheddar News
+#SERVICE 5002:0:1:9aeb:f488:88b4:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Grio
+#DESCRIPTION The Grio
+#SERVICE 5002:0:1:cd96:8aef:ef6b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Scripps-News.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scripps News
+#DESCRIPTION Scripps News
+#SERVICE 5002:0:1:ce6c:a8c:8ca4:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Estrella.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Estrella News
+#DESCRIPTION Estrella News
+#SERVICE 5002:0:1:3796:ca4b:4b6c:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV
+#DESCRIPTION Bloomberg TV
+#SERVICE 5002:0:1:3f05:1445:45a1:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Quicktake-Relative.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Quicktake
+#DESCRIPTION Bloomberg Quicktake
+#SERVICE 5002:0:1:df3d:8aa3:a35b:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-CBC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBC News Canada
+#DESCRIPTION CBC News Canada
+#SERVICE 5002:0:1:1a12:4ca:ca32:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Euronews.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews
+#DESCRIPTION Euronews
+#SERVICE 5002:0:1:8612:344:44fc:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Weather
+#DESCRIPTION Fox Weather
+#SERVICE 5002:0:1:e9b9:387:87c8:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Weather Nation
+#DESCRIPTION Weather Nation
+#SERVICE 5002:0:1:b699:3179:7900:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pattrn
+#DESCRIPTION Pattrn
+#SERVICE 5002:0:1:3011:4b0a:ae0:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TMZ
+#DESCRIPTION TMZ
+#SERVICE 5002:0:1:61b2:adca:cac6:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Soul-SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Soul
+#DESCRIPTION Fox Soul
+#SERVICE 5002:0:1:ecbd:a2a3:a3be:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-People-TV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People TV
+#DESCRIPTION People TV
+#SERVICE 5002:0:1:3672:2f83:832d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tubi Originals
+#DESCRIPTION Tubi Originals
+#SERVICE 5002:0:1:4b3a:6920:2058:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Gordon-Ramsey.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gordon Ramsey
+#DESCRIPTION Gordon Ramsey
+#SERVICE 5002:0:1:8168:5370:70f0:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Masked-Singer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Masked Singer
+#DESCRIPTION The Masked Singer
+#SERVICE 5002:0:1:7fce:9206:645:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cosmos
+#DESCRIPTION Cosmos
+#SERVICE 5002:0:1:7889:a2b9:b903:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Watch-List.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Watchlist
+#DESCRIPTION WBTV Watchlist
+#SERVICE 5002:0:1:c0f3:1217:1725:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Keeping-It-Real.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Keeping It Real
+#DESCRIPTION WBTV Keeping It Real
+#SERVICE 5002:0:1:786:f5be:be1a:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-All-Together-Now.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV All Together
+#DESCRIPTION WBTV All Together
+#SERVICE 5002:0:1:3080:6c3a:3aac:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-At-The-Movies.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV At the Movies
+#DESCRIPTION WBTV At the Movies
+#SERVICE 5002:0:1:5a59:2a09:9da:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Supernatural
+#DESCRIPTION WBTV Supernatural
+#SERVICE 5002:0:1:952b:8986:86d4:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-How-To.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV How To
+#DESCRIPTION WBTV How To
+#SERVICE 5002:0:1:a19f:c3b6:b6b0:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Mysteries
+#DESCRIPTION WBTV Mysteries
+#SERVICE 5002:0:1:a38f:fcff:ff80:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Crime-Scenes.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Crime scenes
+#DESCRIPTION WBTV Crime scenes
+#SERVICE 5002:0:1:426b:d690:903e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Slice-Life.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Slice of Life
+#DESCRIPTION WBTV Slice of Life
+#SERVICE 5002:0:1:b37b:5a92:925b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Love-Marriage.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Love and Marriage
+#DESCRIPTION WBTV Love and Marriage
+#SERVICE 5002:0:1:5b07:bcec:ec7d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Family-Rules.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Family Rules
+#DESCRIPTION WBTV Family Rules
+#SERVICE 5002:0:1:b008:af64:64c6:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Welcome-Home.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Welcome Home
+#DESCRIPTION WBTV Welcome Home
+#SERVICE 5002:0:1:b917:3d7c:7cf3:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Sweet-Escapes.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Sweet Escapes
+#DESCRIPTION WBTV Sweet Escapes
+#SERVICE 5002:0:1:db6e:8d66:661b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Paws-Claws.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Paws and Claws
+#DESCRIPTION WBTV Paws and Claws
+#SERVICE 5002:0:1:e20a:7d73:73d6:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Midsomer-Murders.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midsomer Murders
+#DESCRIPTION Midsomer Murders
+#SERVICE 5002:0:1:4a2f:ef2:f2ad:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Hunter-Filmrise.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hunter
+#DESCRIPTION Hunter
+#SERVICE 5002:0:1:264:97b4:b425:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dr-G-Filmrise.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DR. G Medical Examiner
+#DESCRIPTION DR. G Medical Examiner
+#SERVICE 5002:0:1:2a9e:528:28bd:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Rifleman-Filmrise.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Rifleman
+#DESCRIPTION The Rifleman
+#SERVICE 5002:0:1:6d80:6087:872a:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Samuel-Goldwyn-Classics.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Samuel Goldwyn Classics
+#DESCRIPTION Samuel Goldwyn Classics
+#SERVICE 5002:0:1:e621:c9da:daa7:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jack-Hannah.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jack Hanna Channel
+#DESCRIPTION The Jack Hanna Channel
+#SERVICE 5002:0:1:168a:b8d:8dfd:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Xplore.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xplore
+#DESCRIPTION Xplore
+#SERVICE 5002:0:1:c075:b55c:5ce9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dateline.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dateline 24/7
+#DESCRIPTION Dateline 24/7
+#SERVICE 5002:0:1:57d1:a3f7:f775:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Total-Crime.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Total Crime
+#DESCRIPTION Total Crime
+#SERVICE 5002:0:1:61a9:a459:59fa:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Love-Nature.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Nature
+#DESCRIPTION Love Nature
+#SERVICE 5002:0:1:b8a9:8160:60a7:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Homeful.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homeful
+#DESCRIPTION Homeful
+#SERVICE 5002:0:1:3088:62ff:ffb5:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Four-in-a-Bed.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Four in Bed
+#DESCRIPTION Four in Bed
+#SERVICE 5002:0:1:a562:85b1:b115:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Great-British-Menu.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Great British Menu
+#DESCRIPTION Great British Menu
+#SERVICE 5002:0:1:f3f1:d12d:2d89:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Gardening-Monty-Don.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gardening with Monty Don
+#DESCRIPTION Gardening with Monty Don
+#SERVICE 5002:0:1:cf20:7ba9:a998:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HauntTV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Haunt TV
+#DESCRIPTION Haunt TV
+#SERVICE 5002:0:1:7426:749f:9fd4:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Maverick-Black-Cinema.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Maverick Black Cinema
+#DESCRIPTION Maverick Black Cinema
+#SERVICE 5002:0:1:175a:32d6:d6b9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,LOL-Stand-Up.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lol Standup
+#DESCRIPTION Lol Standup
+#SERVICE 5002:0:1:2c79:5563:6346:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,LOL-Network.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lol Network
+#DESCRIPTION Lol Network
+#SERVICE 5002:0:1:ec3:e2e:2e7b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alter Horror
+#DESCRIPTION Alter Horror
+#SERVICE 5002:0:1:5046:a1d6:d61c:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dust.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dust Sci-Fi
+#DESCRIPTION Dust Sci-Fi
+#SERVICE 5002:0:1:7d1c:85b2:b24f:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Americas-Dumbest-Criminals.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Americas Dumbest Criminals
+#DESCRIPTION Americas Dumbest Criminals
+#SERVICE 5002:0:1:fecf:9c01:161:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-SciFi.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Sci-Fi
+#DESCRIPTION Filmrise Sci-Fi
+#SERVICE 5002:0:1:ad02:1135:3589:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Black TV
+#DESCRIPTION Filmrise Black TV
+#SERVICE 5002:0:1:9419:6059:59fa:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Comedy.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Comedy
+#DESCRIPTION Filmrise Comedy
+#SERVICE 5002:0:1:d0b:9f1d:1d1a:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Horror
+#DESCRIPTION Filmrise Horror
+#SERVICE 5002:0:1:25f2:3e52:52aa:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise True Crime
+#DESCRIPTION Filmrise True Crime
+#SERVICE 5002:0:1:387d:19bf:bf16:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Americas-Test-Kitchen.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Americas Test Kitchen
+#DESCRIPTION Americas Test Kitchen
+#SERVICE 5002:0:1:c056:97b7:b75d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tastemade-Spanish.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade en Espanol
+#DESCRIPTION Tastemade en Espanol
+#SERVICE 5002:0:1:ce09:1894:9441:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management-Espanol.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Anger Management en Espanol
+#DESCRIPTION Anger Management en Espanol
+#SERVICE 5002:0:1:ba9d:b5cd:cde7:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Hi-YAH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HI-Yah!
+#DESCRIPTION HI-Yah!
+#SERVICE 5002:0:1:1a93:e9be:be1c:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Places-Spaces.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Places and Spaces
+#DESCRIPTION Places and Spaces
+#SERVICE 5002:0:1:1c1f:2778:78e2:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jamie-Oliver.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jamie Oliver Channel
+#DESCRIPTION The Jamie Oliver Channel
+#SERVICE 5002:0:1:9195:7bf0:f0bc:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Are-We-There-Yet.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Are we there yet?
+#DESCRIPTION Are we there yet?
+#SERVICE 5002:0:1:b03f:946:4679:1010101:0:0:0:https%3a//csm-e-cetubiausw2live204-0b920bc542e4c8363.csm.tubi.video/csm/extlive/tubiprd01,ION-Mystery.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ION Mystery
+#DESCRIPTION ION Mystery
+#SERVICE 5002:0:1:cac1:dc92:92b9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Grit-Extra.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Grit Xtra
+#DESCRIPTION Grit Xtra
+#SERVICE 5002:0:1:cae1:ba5a:5a05:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ION Plus
+#DESCRIPTION ION Plus
+#SERVICE 5002:0:1:cd50:d90e:eac:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bounce-XL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bounce XL
+#DESCRIPTION Bounce XL
+#SERVICE 5002:0:1:c017:bb13:136e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ION
+#DESCRIPTION ION
+#SERVICE 5002:0:1:553d:fc31:3177:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Court-TV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV
+#DESCRIPTION Court TV
+#SERVICE 5002:0:1:5a8a:a047:4703:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cowboy-Way.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cowboy Way
+#DESCRIPTION Cowboy Way
+#SERVICE 5002:0:1:a53e:b51:515e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Anger Management Channel
+#DESCRIPTION Anger Management Channel
+#SERVICE 5002:0:1:a589:cfb7:b747:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wanted-Dead-Or-Alive.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wanted Dead or Alive
+#DESCRIPTION Wanted Dead or Alive
+#SERVICE 5002:0:1:dd23:1709:9c4:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Caught-In-Providence.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Caught in Providence
+#DESCRIPTION Caught in Providence
+#SERVICE 5002:0:1:cef3:3a35:35e3:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tastemade-English.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
+#DESCRIPTION Tastemade
+#SERVICE 5002:0:1:f2a:23e1:e113:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tastemade-Travel.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade Travel
+#DESCRIPTION Tastemade Travel
+#SERVICE 5002:0:1:3e4b:5f4e:4ea7:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tastemade-Home.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade Home
+#DESCRIPTION Tastemade Home
+#SERVICE 5002:0:1:85b2:ac5f:5faa:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Biggest-Loser.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Biggest Loser
+#DESCRIPTION The Biggest Loser
+#SERVICE 5002:0:1:f757:a237:3752:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,My-Time.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime Movie Network
+#DESCRIPTION Mytime Movie Network
+#SERVICE 5002:0:1:492f:6de7:e732:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault Classics
+#DESCRIPTION Cinevault Classics
+#SERVICE 5002:0:1:1e98:ef06:6db:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault 80's
+#DESCRIPTION Cinevault 80's
+#SERVICE 5002:0:1:324:3df1:f146:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Westerns.m3u8?#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault Westerns
+#DESCRIPTION Cinevault Westerns
+#SERVICE 5002:0:1:134:c47d:7d2c:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Game-Show-Central.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gameshow Central
+#DESCRIPTION Gameshow Central
+#SERVICE 5002:0:1:566f:5bdc:dcbd:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,21-Jump-Street.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise 21 Jump Street
+#DESCRIPTION Filmrise 21 Jump Street
+#SERVICE 5002:0:1:e276:f5ba:bae1:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Dynamics
+#DESCRIPTION Comedy Dynamics
+#SERVICE 5002:0:1:dcc0:b9aa:aa94:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,So-Real.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:So...Real
+#DESCRIPTION So...Real
+#SERVICE 5002:0:1:8d43:a63d:3dc5:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Heartland.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Heartland
+#DESCRIPTION Filmrise Heartland
+#SERVICE 5002:0:1:e219:ac99:994e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wipeout-Xtra.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra
+#DESCRIPTION Wipeout Xtra
+#SERVICE 5002:0:1:8d08:94ed:ed1d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fear-Factor.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fear Factor USA
+#DESCRIPTION Fear Factor USA
+#SERVICE 5002:0:1:d784:7d1e:1ef5:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,All-Real.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Real
+#DESCRIPTION All Real
+#SERVICE 5002:0:1:af1b:237d:7d23:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Unsolved Mysterys
+#DESCRIPTION Filmrise Unsolved Mysterys
+#SERVICE 5002:0:1:7f01:9830:30e1:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Forensic-Files.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Forensic Files
+#DESCRIPTION Filmrise Forensic Files
+#SERVICE 5002:0:1:783e:d9b6:b621:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Deal-or-No-Deal.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deal or no Deal
+#DESCRIPTION Deal or no Deal
+#SERVICE 5002:0:1:57ec:2b2c:2cd3:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Moviesphere
+#DESCRIPTION Moviesphere
+#SERVICE 5002:0:1:8dd2:d557:57d9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Western.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Western
+#DESCRIPTION Filmrise Western
+#SERVICE 5002:0:1:ef91:4e8f:8fa0:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,VICE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vice
+#DESCRIPTION Vice
+#SERVICE 5002:0:1:5aff:6d9b:9b63:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Brat.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brat Tv
+#DESCRIPTION Brat Tv
+#SERVICE 5002:0:1:84:8aab:abe5:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,El-Rey.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:El Rey Network
+#DESCRIPTION El Rey Network
+#SERVICE 5002:0:1:ebad:ac54:541f:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dove-Now.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dove Channel
+#DESCRIPTION Dove Channel
+#SERVICE 5002:0:1:871a:3b9d:9d89:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bob-Ross.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Bob Ross Channel
+#DESCRIPTION The Bob Ross Channel
+#SERVICE 5002:0:1:d327:5c90:906f:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Essex.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The only Way is Essex
+#DESCRIPTION The only Way is Essex
+#SERVICE 5002:0:1:c266:6dd8:d833:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Lone-Star.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lonestar
+#DESCRIPTION Lonestar
+#SERVICE 5002:0:1:6441:a6a7:a71f:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Supermarket.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Supermarket Sweep
+#DESCRIPTION Supermarket Sweep
+#SERVICE 5002:0:1:3792:fea7:a7d9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Johnny-Carson.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Johnny Carson Show
+#DESCRIPTION The Johnny Carson Show
+#SERVICE 5002:0:1:dc41:3992:92d0:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Buzzr.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BUZZR
+#DESCRIPTION BUZZR
+#SERVICE 5002:0:1:5365:2dc2:c2aa:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,AFV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alway Funny Videos
+#DESCRIPTION Alway Funny Videos
+#SERVICE 5002:0:1:ef1e:92b2:b2da:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Carol-Burnett.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Carol Burnett Show
+#DESCRIPTION The Carol Burnett Show
+#SERVICE 5002:0:1:2c45:c118:18be:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MST3K.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MST3K
+#DESCRIPTION MST3K
+#SERVICE 5002:0:1:733c:594d:4d26:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Filmrise.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Classic TV
+#DESCRIPTION Filmrise Classic TV
+#SERVICE 5002:0:1:a23:96b2:b2ea:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,DVDS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Dick Van Dyke Show
+#DESCRIPTION The Dick Van Dyke Show
+#SERVICE 5002:0:1:ef5f:8edb:dbf9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Baywatch.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
+#DESCRIPTION Baywatch
+#SERVICE 5002:0:1:4c4:33bc:bc43:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reelz
+#DESCRIPTION Reelz
+#SERVICE 5002:0:1:e694:f00e:e02:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Circle.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle
+#DESCRIPTION Circle
+#SERVICE 5002:0:1:324e:1e79:79bf:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Nosey.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey
+#DESCRIPTION Nosey
+#SERVICE 5002:0:1:b369:8c5d:5d4e:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Sports
+#DESCRIPTION Fox Sports
+#SERVICE 5002:0:1:d0b0:fbd:bd26:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NFL
+#DESCRIPTION NFL
+#SERVICE 5002:0:1:777:c9e8:e815:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MLB
+#DESCRIPTION MLB
+#SERVICE 5002:0:1:253d:c11c:1cd3:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Womens Sports Network
+#DESCRIPTION Womens Sports Network
+#SERVICE 5002:0:1:c6b:ed6f:6f68:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Racing-America.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Racing America
+#DESCRIPTION Racing America
+#SERVICE 5002:0:1:c8ef:5df2:f221:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Sports XTRA
+#DESCRIPTION Bein Sports XTRA
+#SERVICE 5002:0:1:fb94:2d02:2f6:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fubo Sports Network (GEO)
+#DESCRIPTION Fubo Sports Network (GEO)
+#SERVICE 5002:0:1:867c:e202:269:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stadium
+#DESCRIPTION Stadium
+#SERVICE 5002:0:1:1400:b2d2:d23e:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Pac12.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PAC-12 Insider
+#DESCRIPTION PAC-12 Insider
+#SERVICE 5002:0:1:e6f4:3956:56ea:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Madrid TV
+#DESCRIPTION Real Madrid TV
+#SERVICE 5002:0:1:9405:1527:2789:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Sportswire.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:USA Today Sportswire
+#DESCRIPTION USA Today Sportswire
+#SERVICE 5002:0:1:fc4f:7f57:5734:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Sports Desportes
+#DESCRIPTION Fox Sports Desportes
+#SERVICE 5002:0:1:821b:3ec2:c28e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Sports Xtra En Espanol
+#DESCRIPTION Bein Sports Xtra En Espanol
+#SERVICE 5002:0:1:4fd9:871e:1ecc:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ACCDN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ACCDN
+#DESCRIPTION ACCDN
+#SERVICE 5002:0:1:d2c1:7ee6:e69d:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NHRA TV
+#DESCRIPTION NHRA TV
+#SERVICE 5002:0:1:a986:b41f:1f14:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Waypoint.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waypoint TV
+#DESCRIPTION Waypoint TV
+#SERVICE 5002:0:1:ad73:e486:866e:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WNYW Fox 5 New York
+#DESCRIPTION WNYW Fox 5 New York
+#SERVICE 5002:0:1:47f2:4dc2:c289:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:News 12 New York
+#DESCRIPTION News 12 New York
+#SERVICE 5002:0:1:7d5f:9bfe:fe38:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFLD FOX 32 Chicago
+#DESCRIPTION WFLD FOX 32 Chicago
+#SERVICE 5002:0:1:8cd2:9bb4:b48b:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WTXF Fox 29 Philadelphia
+#DESCRIPTION WTXF Fox 29 Philadelphia
+#SERVICE 5002:0:1:bde4:3a9c:9c04:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KDFW Fox 4 Dallas-Fort-Worth
+#DESCRIPTION KDFW Fox 4 Dallas-Fort-Worth
+#SERVICE 5002:0:1:35b:de0e:ed5:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WFAA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFAA ABC 8 Dallas-Fort-Worth
+#DESCRIPTION WFAA ABC 8 Dallas-Fort-Worth
+#SERVICE 5002:0:1:55a5:3690:900a:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KTVU Fox 2 San Francisco
+#DESCRIPTION KTVU Fox 2 San Francisco
+#SERVICE 5002:0:1:a1ed:ef95:951c:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WAGA Fox 5 Atlanta
+#DESCRIPTION WAGA Fox 5 Atlanta
+#SERVICE 5002:0:1:87b9:f990:905c:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WXIA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WXIA NBC 11 Atlanta
+#DESCRIPTION WXIA NBC 11 Atlanta
+#SERVICE 5002:0:1:30db:8ba2:a27e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WSB2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WSB ABC 2 Atlanta
+#DESCRIPTION WSB ABC 2 Atlanta
+#SERVICE 5002:0:1:cf5d:4e2d:2dcc:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KRIV Fox 26 Houston
+#DESCRIPTION KRIV Fox 26 Houston
+#SERVICE 5002:0:1:390e:342a:2a39:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KHOU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KHOU CBS 11 Houston
+#DESCRIPTION KHOU CBS 11 Houston
+#SERVICE 5002:0:1:46ce:d54b:4bda:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WUSA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WUSA CBS 9 Washington DC
+#DESCRIPTION WUSA CBS 9 Washington DC
+#SERVICE 5002:0:1:42c1:392c:2c99:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WTTG Fox 5 Washington DC
+#DESCRIPTION WTTG Fox 5 Washington DC
+#SERVICE 5002:0:1:8d1a:4e07:715:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFXT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFXT Fox 25 Boston
+#DESCRIPTION WFXT Fox 25 Boston
+#SERVICE 5002:0:1:749:7605:5ec:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KSAZ Fox 10 Phoenix
+#DESCRIPTION KSAZ Fox 10 Phoenix
+#SERVICE 5002:0:1:a93e:2ebf:bfae:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KNXV2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KNXV ABC 15 Phoenix
+#DESCRIPTION KNXV ABC 15 Phoenix
+#SERVICE 5002:0:1:c913:5ba:ba9b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KPNX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KPNX NBC 12 Phoenix
+#DESCRIPTION KPNX NBC 12 Phoenix
+#SERVICE 5002:0:1:ea99:df36:3600:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KCPQ Fox 13 Seattle
+#DESCRIPTION KCPQ Fox 13 Seattle
+#SERVICE 5002:0:1:4a48:c80a:a7e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KING.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KING NBC 5 Seattle
+#DESCRIPTION KING NBC 5 Seattle
+#SERVICE 5002:0:1:987d:3606:66f:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WTVT Fox 13 Tampa Bay
+#DESCRIPTION WTVT Fox 13 Tampa Bay
+#SERVICE 5002:0:1:b06e:e8b9:b9bd:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTS2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFTS ABC 39 Tampa Bay
+#DESCRIPTION WFTS ABC 39 Tampa Bay
+#SERVICE 5002:0:1:24ad:eedd:dd55:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KMSP FOX 9 Minneapolis-ST-Paul
+#DESCRIPTION KMSP FOX 9 Minneapolis-ST-Paul
+#SERVICE 5002:0:1:5bb2:7d95:9588:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KARE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KARE NBC 11 Minneapolis-ST-Paul
+#DESCRIPTION KARE NBC 11 Minneapolis-ST-Paul
+#SERVICE 5002:0:1:d97a:b11b:1b86:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WJBK Fox 2 Detroit
+#DESCRIPTION WJBK Fox 2 Detroit
+#SERVICE 5002:0:1:31ee:34a9:a9bc:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXYZ2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WXYZ ABC 7 Detroit
+#DESCRIPTION WXYZ ABC 7 Detroit
+#SERVICE 5002:0:1:e129:721c:1ca3:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KUSA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KUSA NBC 9 News Denver
+#DESCRIPTION KUSA NBC 9 News Denver
+#SERVICE 5002:0:1:8e31:db26:263f:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WOFL Fox 35 Orlando
+#DESCRIPTION WOFL Fox 35 Orlando
+#SERVICE 5002:0:1:4df3:550e:ec0:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFTV ABC 9 Orlando
+#DESCRIPTION WFTV ABC 9 Orlando
+#SERVICE 5002:0:1:def2:c76c:6c00:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WEWS2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WEWS ABC 5 Cleveland
+#DESCRIPTION WEWS ABC 5 Cleveland
+#SERVICE 5002:0:1:1efb:d22e:2e64:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WKYC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WKYC NBC 3 Cleveland
+#DESCRIPTION WKYC NBC 3 Cleveland
+#SERVICE 5002:0:1:d3df:5a21:213c:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KXTV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KXTV ABC 10 Sacramento
+#DESCRIPTION KXTV ABC 10 Sacramento
+#SERVICE 5002:0:1:1738:b417:1703:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KGW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KGW NBC 8 Portland Oregon
+#DESCRIPTION KGW NBC 8 Portland Oregon
+#SERVICE 5002:0:1:35b8:f48a:8a6c:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KSDK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KSDK NBC 5 St Louis
+#DESCRIPTION KSDK NBC 5 St Louis
+#SERVICE 5002:0:1:3eaf:8872:7220:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WSOC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WSOC ABC 9 Charlotte
+#DESCRIPTION WSOC ABC 9 Charlotte
+#SERVICE 5002:0:1:83de:fb27:27a0:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WPXI2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WPXI NBC 11 Pittsburgh
+#DESCRIPTION WPXI NBC 11 Pittsburgh
+#SERVICE 5002:0:1:c3d2:91e2:e28e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTHR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WTHR NBC 13 Indianapolis
+#DESCRIPTION WTHR NBC 13 Indianapolis
+#SERVICE 5002:0:1:fd1d:cffc:fc86:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KGTV2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KGTV ABC 10 San Diego
+#DESCRIPTION KGTV ABC 10 San Diego
+#SERVICE 5002:0:1:85f:821b:1b48:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSTU2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KSTU Fox 13 Salt Lake City
+#DESCRIPTION KSTU Fox 13 Salt Lake City
+#SERVICE 5002:0:1:55b2:4295:9502:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTIC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WTIC Fox 61 Hartford
+#DESCRIPTION WTIC Fox 61 Hartford
+#SERVICE 5002:0:1:a750:5692:92d1:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WBNS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBNS CBS 10 Columbus
+#DESCRIPTION WBNS CBS 10 Columbus
+#SERVICE 5002:0:1:d7a:3b01:1ec:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WITI-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WITI Fox 6 Milwaukee
+#DESCRIPTION WITI Fox 6 Milwaukee
+#SERVICE 5002:0:1:3e98:8fb4:b4db:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXMI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WXMI Fox 17 Grand Rapids
+#DESCRIPTION WXMI Fox 17 Grand Rapids
+#SERVICE 5002:0:1:9e9f:a4d0:d0bc:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTBC-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KTBC Fox 7 Austin
+#DESCRIPTION KTBC Fox 7 Austin
+#SERVICE 5002:0:1:53ec:e667:675e:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WFMY.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFMY CBS 2 Greensboro NC
+#DESCRIPTION WFMY CBS 2 Greensboro NC
+#SERVICE 5002:0:1:a343:8dd0:d0d7:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WJAX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WJAX CBS 47 Jacksonville
+#DESCRIPTION WJAX CBS 47 Jacksonville
+#SERVICE 5002:0:1:e96:fa39:398b:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WHBQ FOX 13 Memphis NO
+#DESCRIPTION WHBQ FOX 13 Memphis NO
+#SERVICE 5002:0:1:99bd:537c:7c6a:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOKI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KOKI FOX 23 Tulsa
+#DESCRIPTION KOKI FOX 23 Tulsa
+#SERVICE 5002:0:1:83b3:47c1:c1c9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WHIO2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WHIO CBS 7 Dayton NO
+#DESCRIPTION WHIO CBS 7 Dayton NO
+#SERVICE 5002:0:1:ac42:5df:df9f:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WMUR 9 New Hampshire
+#DESCRIPTION WMUR 9 New Hampshire
+#SERVICE 5002:0:1:9516:3cd1:d106:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Boston WCVB
+#DESCRIPTION Very Boston WCVB
+#SERVICE 5002:0:1:bdf3:e0a:a2a:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KTTV Fox 11 Los Angeles
+#DESCRIPTION KTTV Fox 11 Los Angeles
+#SERVICE 5002:0:1:3a3d:5008:8e6:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMGH2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC Denver KMGH
+#DESCRIPTION ABC Denver KMGH
+#SERVICE 5002:0:1:f9ab:bcae:aef0:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KERO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 23 Bakersfield KERO
+#DESCRIPTION ABC 23 Bakersfield KERO
+#SERVICE 5002:0:1:af7f:b298:988f:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WRTV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 6 Indianapolis WRTV
+#DESCRIPTION ABC 6 Indianapolis WRTV
+#SERVICE 5002:0:1:a1d1:e3ad:ad5b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WMAR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 2 Baltimore WMAR
+#DESCRIPTION ABC 2 Baltimore WMAR
+#SERVICE 5002:0:1:a0dc:e9a2:a28f:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KXXV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 25 Waco KXXV
+#DESCRIPTION ABC 25 Waco KXXV
+#SERVICE 5002:0:1:ecea:fe4f:4f11:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSHB2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC 41 Kansas City KSHB
+#DESCRIPTION NBC 41 Kansas City KSHB
+#SERVICE 5002:0:1:4dae:1be1:e142:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KOAA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC 5 Colorado Springs KOAA
+#DESCRIPTION NBC 5 Colorado Springs KOAA
+#SERVICE 5002:0:1:a6eb:f2bb:bbdd:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTNV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 13 Las Vegas KTNV
+#DESCRIPTION ABC 13 Las Vegas KTNV
+#SERVICE 5002:0:1:dde4:ea1:a101:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WPTV2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC 5 West Palm Beach WPTV
+#DESCRIPTION NBC 5 West Palm Beach WPTV
+#SERVICE 5002:0:1:a731:4503:3e1:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KJRH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC 2 Tulsa KJRH
+#DESCRIPTION NBC 2 Tulsa KJRH
+#SERVICE 5002:0:1:a49e:8931:3193:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTKR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS 3 Norfolk WTKR
+#DESCRIPTION CBS 3 Norfolk WTKR
+#SERVICE 5002:0:1:1c0c:1f1:f1ba:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox 4 Fort Myers WFTX
+#DESCRIPTION Fox 4 Fort Myers WFTX
+#SERVICE 5002:0:1:494f:b5a3:a3af:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WKBW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 7 Buffalo WKBW
+#DESCRIPTION ABC 7 Buffalo WKBW
+#SERVICE 5002:0:1:141b:6c88:882d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTVR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS 6 Richmond WTVR
+#DESCRIPTION CBS 6 Richmond WTVR
+#SERVICE 5002:0:1:738:9c98:9897:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WLEX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC 18 Lexington WLEX
+#DESCRIPTION NBC 18 Lexington WLEX
+#SERVICE 5002:0:1:8d4b:c17e:7e9e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KGUN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 9 Tucson KGUN
+#DESCRIPTION ABC 9 Tucson KGUN
+#SERVICE 5002:0:1:60bb:11dc:dc05:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMTV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS 3 Omaha KMTV
+#DESCRIPTION CBS 3 Omaha KMTV
+#SERVICE 5002:0:1:f17a:1f99:999c:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KIVI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 6 Boise KIVI
+#DESCRIPTION ABC 6 Boise KIVI
+#SERVICE 5002:0:1:2be6:30e1:e143:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WSYM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox 47 Lansing WSYM
+#DESCRIPTION Fox 47 Lansing WSYM
+#SERVICE 5002:0:1:26a5:6811:115c:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KRIS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC 6 Corpus Christi KRIS
+#DESCRIPTION NBC 6 Corpus Christi KRIS
+#SERVICE 5002:0:1:f728:22b9:b932:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KBZK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS 7 Butte KBZK
+#DESCRIPTION CBS 7 Butte KBZK
+#SERVICE 5002:0:1:2b4b:4274:746d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTXL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC 27 Tallahassee WTXL
+#DESCRIPTION ABC 27 Tallahassee WTXL
+#SERVICE 5002:0:1:9053:6817:17f9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KRTV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS 3 Great Falls KRTV
+#DESCRIPTION CBS 3 Great Falls KRTV
+#SERVICE 5002:0:1:1b13:275c:5c5e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTVH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC 12 Helena KTVH
+#DESCRIPTION NBC 12 Helena KTVH
+#SERVICE 5002:0:1:da10:21a6:a61b:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Tampa Bay WMOR
+#DESCRIPTION Very Tampa Bay WMOR
+#SERVICE 5002:0:1:6ed4:a442:424c:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Orlando by WESH
+#DESCRIPTION Very Orlando by WESH
+#SERVICE 5002:0:1:ef76:c968:68da:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Sacramento KCRA
+#DESCRIPTION Very Sacramento KCRA
+#SERVICE 5002:0:1:5f37:6143:43d2:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Pittsburgh by WTAE
+#DESCRIPTION Very Pittsburgh by WTAE
+#SERVICE 5002:0:1:85cf:e09f:9f0d:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Baltimore by WBAL
+#DESCRIPTION Very Baltimore by WBAL
+#SERVICE 5002:0:1:7a73:94d7:d780:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Kansas City KMBC
+#DESCRIPTION Very Kansas City KMBC
+#SERVICE 5002:0:1:ea61:c6c1:c13e:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WYFF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very S. Carolina WYFF
+#DESCRIPTION Very S. Carolina WYFF
+#SERVICE 5002:0:1:d783:f2a2:a28e:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Cincinnati by WLWT
+#DESCRIPTION Very Cincinnati by WLWT
+#SERVICE 5002:0:1:6d59:f9bb:bbbd:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Milwaukee by WISN
+#DESCRIPTION Very Milwaukee by WISN
+#SERVICE 5002:0:1:8c9d:9a8a:8afa:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very South Florida WPBF
+#DESCRIPTION Very South Florida WPBF
+#SERVICE 5002:0:1:caf1:cce3:e3e9:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Lancaster WGAL
+#DESCRIPTION Very Lancaster WGAL
+#SERVICE 5002:0:1:1050:7665:6515:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Oklahoma by KOCO
+#DESCRIPTION Very Oklahoma by KOCO
+#SERVICE 5002:0:1:d7f8:17cc:cc42:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Alabama by WVTM
+#DESCRIPTION Very Alabama by WVTM
+#SERVICE 5002:0:1:4914:71b0:b080:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Carolina WXII
+#DESCRIPTION Very Carolina WXII
+#SERVICE 5002:0:1:179d:f94f:4fb8:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very New Mexico KOAT
+#DESCRIPTION Very New Mexico KOAT
+#SERVICE 5002:0:1:565f:a575:752f:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Louisville by WLKY
+#DESCRIPTION Very Louisville by WLKY
+#SERVICE 5002:0:1:d4f6:a0f2:f20b:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Nola by WDSU
+#DESCRIPTION Very Nola by WDSU
+#SERVICE 5002:0:1:c4df:a0d7:d751:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KCCI Iowa Des Moines
+#DESCRIPTION KCCI Iowa Des Moines
+#SERVICE 5002:0:1:4946:de5:e53d:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Omaha by KETV7
+#DESCRIPTION Very Omaha by KETV7
+#SERVICE 5002:0:1:7796:1fcf:cf93:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Maine WMTW
+#DESCRIPTION Very Maine WMTW
+#SERVICE 5002:0:1:e9e4:8c81:81c9:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Savannah WJCD
+#DESCRIPTION Very Savannah WJCD
+#SERVICE 5002:0:1:bec6:fd9f:9fa9:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Arkansas by KHBS
+#DESCRIPTION Very Arkansas by KHBS
+#SERVICE 5002:0:1:213:287a:7afb:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Champlain WPTZ
+#DESCRIPTION Very Champlain WPTZ
+#SERVICE 5002:0:1:d09a:9979:79da:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Jackson WAPT
+#DESCRIPTION Very Jackson WAPT
+#SERVICE 5002:0:1:a627:4d20:2060:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Very Monterey by KSBW
+#DESCRIPTION Very Monterey by KSBW
