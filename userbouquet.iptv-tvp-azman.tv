@@ -57,7 +57,7 @@
 #DESCRIPTION TVP3 Kraków
 #SERVICE 4097:0:1:E:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813060:TVP3 Lublin
 #DESCRIPTION TVP3 Lublin
-#SERVICE 4097:0:16:F:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813056:TVP3 Łódź
+#SERVICE 4097:0:1:F:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813056:TVP3 Łódź
 #DESCRIPTION TVP3 Łódź
 #SERVICE 4097:0:1:10:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813089:TVP3 Olsztyn
 #DESCRIPTION TVP3 Olsztyn
@@ -93,6 +93,8 @@
 #DESCRIPTION TVP World
 #SERVICE 4097:0:16:5F:7001:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=58759123:UA%3aPershyj
 #DESCRIPTION UA:Pershyj
+#SERVICE 4097:0:1:FB68:E26:EC:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=53415886:TVP Msze
+#DESCRIPTION TVP Msze
 #SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=745680:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
 #SERVICE 4097:0:1:8:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1634239:TVP3 Bydgoszcz
@@ -153,17 +155,17 @@
 #DESCRIPTION TVP 3 Kraków
 #SERVICE 4097:0:16:E:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin:TVP 3 Lublin
 #DESCRIPTION TVP 3 Lublin
-#SERVICE 4097:0:16:F:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz:TVP 3 Łódź
+#SERVICE 4097:0:1:F:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz:TVP 3 Łódź
 #DESCRIPTION TVP 3 Łódź
-#SERVICE 4097:0:16:10:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn:TVP 3 Olsztyn
+#SERVICE 4097:0:1:10:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn:TVP 3 Olsztyn
 #DESCRIPTION TVP 3 Olsztyn
 #SERVICE 4097:0:16:11:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole:TVP 3 Opole
 #DESCRIPTION TVP 3 Opole
 #SERVICE 4097:0:16:12:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan:TVP 3 Poznań
 #DESCRIPTION TVP 3 Poznań
-#SERVICE 4097:0:16:13:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow:TVP 3 Rzeszów
+#SERVICE 4097:0:1:13:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow:TVP 3 Rzeszów
 #DESCRIPTION TVP 3 Rzeszów
-#SERVICE 4097:0:16:14:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin:TVP 3 Szczecin
+#SERVICE 4097:0:1:14:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin:TVP 3 Szczecin
 #DESCRIPTION TVP 3 Szczecin
 #SERVICE 4097:0:16:15:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa:TVP 3 Warszawa
 #DESCRIPTION TVP 3 Warszawa
