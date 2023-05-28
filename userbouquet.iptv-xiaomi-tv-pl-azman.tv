@@ -19,6 +19,8 @@
 #DESCRIPTION Space Channel
 #SERVICE 5002:0:1:EB8:5C3A:EC:0:0:0:0:https%3a//s-plus-vivalive.evrideo.tv/91cf8e90-ebe5-48b4-a0ad-6d001d27d479_1000012093_HLS/master.m3u8:S+
 #DESCRIPTION S+
+#SERVICE 4097:0:1:853D:A978:EC:0:0:0:0:https%3a//api-ott.docubay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=any:DocuBay
+#DESCRIPTION DocuBay
 #SERVICE 5002:0:1:BE3A:88B7:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8:Quietude 4K
 #DESCRIPTION Quietude 4K
 #SERVICE 5002:0:1:2DF4:D31B:EC:0:0:0:0:https%3a//escape-vivalive.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8:Escape TV
