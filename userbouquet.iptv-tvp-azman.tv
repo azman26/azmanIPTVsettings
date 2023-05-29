@@ -35,7 +35,7 @@
 #DESCRIPTION TVP Info HD
 #SERVICE 4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51590674:TVP World
 #DESCRIPTION TVP World
-#SERVICE 4097:0:1:64:A11A:2268:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53933410:TVP Wilno
+#SERVICE 5002:0:1:64:A11A:2268:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53933410:TVP Wilno
 #DESCRIPTION TVP Wilno
 #SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=17251711:Belsat Tv
 #DESCRIPTION Belsat Tv
@@ -85,7 +85,7 @@
 #DESCRIPTION Alfa TVP
 #SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1773:TVP Polonia
 #DESCRIPTION TVP Polonia
-#SERVICE 4097:0:1:64:A11A:2268:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=44418549:TVP Wilno
+#SERVICE 5002:0:1:64:A11A:2268:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=44418549:TVP Wilno
 #DESCRIPTION TVP Wilno
 #SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1455:TVP Info
 #DESCRIPTION TVP Info
@@ -93,8 +93,6 @@
 #DESCRIPTION TVP World
 #SERVICE 4097:0:16:5F:7001:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=58759123:UA%3aPershyj
 #DESCRIPTION UA:Pershyj
-#SERVICE 4097:0:1:FB68:E26:EC:0:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=53415886:TVP Msze
-#DESCRIPTION TVP Msze
 #SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=745680:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
 #SERVICE 4097:0:1:8:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1634239:TVP3 Bydgoszcz
