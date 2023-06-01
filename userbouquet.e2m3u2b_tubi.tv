@@ -49,34 +49,34 @@
 #DESCRIPTION The Masked Singer
 #SERVICE 5002:0:1:7fce:9206:645:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cosmos
 #DESCRIPTION Cosmos
-#SERVICE 5002:0:1:7889:a2b9:b903:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Watch-List.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Watchlist
-#DESCRIPTION WBTV Watchlist
-#SERVICE 5002:0:1:c0f3:1217:1725:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Keeping-It-Real.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Keeping It Real
-#DESCRIPTION WBTV Keeping It Real
-#SERVICE 5002:0:1:786:f5be:be1a:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-All-Together-Now.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV All Together
-#DESCRIPTION WBTV All Together
-#SERVICE 5002:0:1:3080:6c3a:3aac:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-At-The-Movies.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV At the Movies
-#DESCRIPTION WBTV At the Movies
-#SERVICE 5002:0:1:5a59:2a09:9da:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Supernatural
-#DESCRIPTION WBTV Supernatural
-#SERVICE 5002:0:1:952b:8986:86d4:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-How-To.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV How To
-#DESCRIPTION WBTV How To
-#SERVICE 5002:0:1:a19f:c3b6:b6b0:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Mysteries
-#DESCRIPTION WBTV Mysteries
-#SERVICE 5002:0:1:a38f:fcff:ff80:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Crime-Scenes.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Crime scenes
-#DESCRIPTION WBTV Crime scenes
-#SERVICE 5002:0:1:426b:d690:903e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Slice-Life.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Slice of Life
-#DESCRIPTION WBTV Slice of Life
-#SERVICE 5002:0:1:b37b:5a92:925b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Love-Marriage.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Love and Marriage
-#DESCRIPTION WBTV Love and Marriage
-#SERVICE 5002:0:1:5b07:bcec:ec7d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Family-Rules.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Family Rules
-#DESCRIPTION WBTV Family Rules
-#SERVICE 5002:0:1:b008:af64:64c6:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Welcome-Home.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Welcome Home
-#DESCRIPTION WBTV Welcome Home
-#SERVICE 5002:0:1:b917:3d7c:7cf3:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Sweet-Escapes.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Sweet Escapes
-#DESCRIPTION WBTV Sweet Escapes
-#SERVICE 5002:0:1:db6e:8d66:661b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Paws-Claws.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Paws and Claws
-#DESCRIPTION WBTV Paws and Claws
+#SERVICE 5002:0:1:6b39:15fb:fb6f:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Watch-List.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Watchlist (Geo)
+#DESCRIPTION WBTV Watchlist (Geo)
+#SERVICE 5002:0:1:4fac:b1fc:fcac:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Keeping-It-Real.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Keeping It Real (Geo)
+#DESCRIPTION WBTV Keeping It Real (Geo)
+#SERVICE 5002:0:1:6c6c:16d:6d9e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-All-Together-Now.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV All Together (Geo)
+#DESCRIPTION WBTV All Together (Geo)
+#SERVICE 5002:0:1:27fc:7803:347:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-At-The-Movies.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV At the Movies (Geo)
+#DESCRIPTION WBTV At the Movies (Geo)
+#SERVICE 5002:0:1:7817:5bda:daa5:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Supernatural (Geo)
+#DESCRIPTION WBTV Supernatural (Geo)
+#SERVICE 5002:0:1:8a46:d172:72cb:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-How-To.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV How To (Geo)
+#DESCRIPTION WBTV How To (Geo)
+#SERVICE 5002:0:1:2d8c:84d2:d282:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Mysteries (Geo)
+#DESCRIPTION WBTV Mysteries (Geo)
+#SERVICE 5002:0:1:e4e9:20f1:f104:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Crime-Scenes.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Crime scenes (Geo)
+#DESCRIPTION WBTV Crime scenes (Geo)
+#SERVICE 5002:0:1:1e70:b421:214a:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Slice-Life.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Slice of Life (Geo)
+#DESCRIPTION WBTV Slice of Life (Geo)
+#SERVICE 5002:0:1:2d0d:918a:8aae:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Love-Marriage.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Love and Marriage (Geo)
+#DESCRIPTION WBTV Love and Marriage (Geo)
+#SERVICE 5002:0:1:4911:ba4d:4d2d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Family-Rules.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Family Rules (Geo)
+#DESCRIPTION WBTV Family Rules (Geo)
+#SERVICE 5002:0:1:f6ff:2b3f:3f79:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Welcome-Home.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Welcome Home (Geo)
+#DESCRIPTION WBTV Welcome Home (Geo)
+#SERVICE 5002:0:1:d62d:824:24dd:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Sweet-Escapes.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Sweet Escapes (Geo)
+#DESCRIPTION WBTV Sweet Escapes (Geo)
+#SERVICE 5002:0:1:d7d:6122:2203:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Paws-Claws.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WBTV Paws and Claws (Geo)
+#DESCRIPTION WBTV Paws and Claws (Geo)
 #SERVICE 5002:0:1:e20a:7d73:73d6:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Midsomer-Murders.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midsomer Murders
 #DESCRIPTION Midsomer Murders
 #SERVICE 5002:0:1:4a2f:ef2:f2ad:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Hunter-Filmrise.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hunter
