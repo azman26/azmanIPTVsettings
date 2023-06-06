@@ -107,8 +107,8 @@
 #DESCRIPTION TV Gorzów
 #SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@infoPlockTV/live:info PŁOCK  (YT)
 #DESCRIPTION info PŁOCK  (YT)
-#SERVICE 4097:0:1:43:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw.m3u8:info PŁOCK 
-#DESCRIPTION info PŁOCK 
+#SERVICE 4097:0:1:43:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw.m3u8:info PŁOCK
+#DESCRIPTION info PŁOCK
 #SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ztv-live/live:Zachodniopomorska TV  (YT)
 #DESCRIPTION Zachodniopomorska TV  (YT)
 #SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8:Zachodniopomorska TV
