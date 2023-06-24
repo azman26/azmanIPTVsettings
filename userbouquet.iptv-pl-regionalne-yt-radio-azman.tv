@@ -63,6 +63,10 @@
 #DESCRIPTION TV JASŁO
 #SERVICE 5002:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
 #DESCRIPTION TV Lubań
+#SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ArcadiaTVWorld/live:Arcadia TV World  (YT)
+#DESCRIPTION Arcadia TV World  (YT)
+#SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCySoNg54OYL6oImf7XhJaUA.m3u8:Arcadia TV World
+#DESCRIPTION Arcadia TV World
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvsowianin-on-line9194/live:TV Słowianin  (YT)
 #DESCRIPTION TV Słowianin  (YT)
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8:TV Słowianin
