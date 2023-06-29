@@ -1,7 +1,6 @@
 #NAME IPTV PL REGIONALNE YT RADIO (azman)
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- Tv Online & Megogo ---
 #DESCRIPTION --- Tv Online & Megogo ---
-
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp1hd/Ryne8xhYKhfTAQAA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
 #SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp2hd/6KT2fDpYKhe5AQCA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 2 HD
