@@ -1,10 +1,7 @@
 #NAME IPTV PL REGIONALNE YT RADIO (azman)
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- Tv Online & Megogo ---
 #DESCRIPTION --- Tv Online & Megogo ---
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of a3280a0 (Update userbouquet.iptv-pl-regionalne-yt-radio-azman.tv)
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp1hd/Ryne8xhYKhfTAQAA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
 #SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp2hd/6KT2fDpYKhe5AQCA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 2 HD
@@ -49,7 +46,11 @@
 #DESCRIPTION TV DAMI  (YT)
 #SERVICE 4097:0:1:58:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8:TV Dami
 #DESCRIPTION TV Dami
+#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UC5Z6rlfp5ZEsqgxUmjfZCDA.m3u8:TV MAZOWSZE  (YT)
+#DESCRIPTION TV MAZOWSZE  (YT)
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:http%3a//stream.tvmazowsze.pl%3a5920/tmp_hls/stream/index.m3u8:TV Mazowsze
+#DESCRIPTION TV Mazowsze
+#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UC5Z6rlfp5ZEsqgxUmjfZCDA.m3u8:TV Mazowsze
 #DESCRIPTION TV Mazowsze
 #SERVICE 5002:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
 #DESCRIPTION Imperium TV Gliwice
