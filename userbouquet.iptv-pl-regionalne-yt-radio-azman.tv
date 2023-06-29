@@ -1,10 +1,54 @@
 #NAME IPTV PL REGIONALNE YT RADIO (azman)
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- Tv Online & Megogo ---
 #DESCRIPTION --- Tv Online & Megogo ---
+#SERVICE 4097:0:1:427B:2BC0:13E:820000:0:0:0:https%3a//vs829.vcdn.biz/d12800f6a6d3c30b8637ca91afc17688_megogo/live/hls/b/700_2490/u_sid/0/o/157764851/rsid/36be68e1-62f4-473b-880a-fe4368b89ca7/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid601693930843452690-b2490000.m3u8:Stopklatka
+#DESCRIPTION Stopklatka
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp1hd/Ryne8xhYKhfTAQAA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
 #SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp2hd/6KT2fDpYKhe5AQCA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 2 HD
 #DESCRIPTION TVP 2 HD
+#SERVICE 4097:0:1:3391:3390:71:820000:0:0:0:https%3a//vs829.vcdn.biz/c6189d8ba813c4de728ef6be1257e265_megogo/live/hls/b/700_2490/u_sid/0/o/160222531/rsid/b74d65a9-39b1-475e-8bc2-3ecfdc629352/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid7843755447209899965-b2490000.m3u8:Polsat
+#DESCRIPTION Polsat
+#SERVICE 4097:0:1:3393:3390:71:820000:0:0:0:https%3a//vs829.vcdn.biz/71bdd4dbaedfd2f2cf29f02427bc35d6_megogo/live/hls/b/700_2490/u_sid/0/o/160168951/rsid/37bd1b54-9786-434c-8652-46040a93be47/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid3465305867070378056-b2490000.m3u8:TV 4 HD
+#DESCRIPTION TV 4 HD
+#SERVICE 4097:0:1:3D66:2C88:13E:820000:0:0:0:https%3a//vs822.vcdn.biz/d9fb055c5c9a3227a7b645a89c6f7b1a_megogo/live/hls/b/700_2490/u_sid/0/o/157324701/rsid/e8b8c87f-1d5f-494c-beb7-86afa029df29/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid1310172249719881865-b2490000.m3u8:TV Puls HD
+#DESCRIPTION TV Puls HD
+#SERVICE 4097:0:1:3D5E:2C88:13E:820000:0:0:0:https%3a//vs841.vcdn.biz/206896be51c686fbd2498a87fa7a4102_megogo/live/hls/b/700_2490/u_sid/0/o/157766541/rsid/19988d52-4deb-4fa3-8a12-d6a9e6c9e8d3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid9089361715572244239-b2490000.m3u8:Puls 2 HD
+#DESCRIPTION Puls 2 HD
+#SERVICE 4097:0:1:3D5A:2C88:13E:820000:0:0:0:https%3a//vs822.vcdn.biz/bda76b5d83004e4dfe950cd0dda7ce8b_megogo/live/hls/b/700_2490/u_sid/0/o/160416841/rsid/e3969641-c7f5-48f1-8fb8-13eb0cf510ab/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid6867906602155020930-b2490000.m3u8:WP
+#DESCRIPTION WP
+#SERVICE 4097:0:1:4291:2BC0:13E:820000:0:0:0:https%3a//vs826.vcdn.biz/e8e67d1f090c4da3a8022251838355b9_megogo/live/hls/b/700_2490/u_sid/0/o/157764221/rsid/7a9153ab-dc74-47a3-8c2b-9a98624052a8/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid1078411000706154699-b2490000.m3u8:Zoom TV
+#DESCRIPTION Zoom TV
+#SERVICE 4097:0:1:423B:3DB8:13E:820000:0:0:0:https%3a//vs823.vcdn.biz/1fd7084daa1b2ad768dcd78aba746176_megogo/live/hls/b/700_2490/u_sid/0/o/159818871/rsid/6f022d14-14ff-4ef2-b72a-89d9948262b4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid7537579540906597374-b2490000.m3u8:Tele 5
+#DESCRIPTION Tele 5
+#SERVICE 4097:0:1:423C:3DB8:13E:820000:0:0:0:https%3a//vs836.vcdn.biz/1a26f6e58676e0699e0733c13157d910_megogo/live/hls/b/700_2490/u_sid/0/o/159818621/rsid/e6554b8f-b10a-42a6-97a1-0a1651b6dd0a/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid6990511459611964085-b2490000.m3u8:Polonia 1
+#DESCRIPTION Polonia 1
+#SERVICE 4097:0:1:3D58:2C88:13E:820000:0:0:0:https%3a//vs829.vcdn.biz/47c54dbec90f3cff5261720a8fe079b3_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/e5f95308-faa7-415c-b460-5afe8e4f657c/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid5015180203978699580-b2490000.m3u8:TVS
+#DESCRIPTION TVS
+#SERVICE 4097:0:1:DB7:2D50:13E:820000:0:0:0:https%3a//vs822.vcdn.biz/0ccd669768592b24d20da9bad17d4235_megogo/live/hls/b/700_2490/u_sid/0/o/156751011/rsid/87c8d77d-09d7-4493-acb7-8f05d7183599/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid820414021985728361-b2490000.m3u8:Music Box Polska
+#DESCRIPTION Music Box Polska
+#SERVICE 4097:0:1:427F:2BC0:13E:820000:0:0:0:https%3a//vs836.vcdn.biz/0b0ccbe55a18d417a2d220933ad3b0ac_megogo/live/hls/b/700_2490/u_sid/0/o/157933561/rsid/178b7b93-a3e7-4d2f-afbf-fde1b64a43da/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid1663389228881265793-b2490000.m3u8:Stars TV
+#DESCRIPTION Stars TV
+#SERVICE 4097:0:1:391F:42F:EC:0:0:0:0:https%3a//vs836.vcdn.biz/4ff7f58c541cb9edb984555b419587bd_megogo/live/hls/b/700_2490/u_sid/0/o/170629591/rsid/e374e15c-20be-4e8e-89c9-1b0e16b5ba37/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid1759639294064713332-b2490000.m3u8:Sportowa TV
+#DESCRIPTION Sportowa TV
+#SERVICE 4097:0:1:22:3A2:2268:EEEE0000:0:0:0:https%3a//vs829.vcdn.biz/a5af491e4f2c157ac03dd42dd5a3e790_megogo/live/hls/b/700_2490/u_sid/0/o/150446381/rsid/512b91ca-f96f-431a-a569-0a0786e099aa/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid6842844218080923373-b2490000.m3u8:TVP World
+#DESCRIPTION TVP World
+#SERVICE 4097:0:1:646E:A543:EC:0:0:0:0:https%3a//vs839.vcdn.biz/b03531475bf4aacb76f14f0f6c97707b_megogo/live/hls/b/700_2490/u_sid/0/o/144868651/rsid/0c486b96-be49-49d1-aa38-24cb3750de49/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid427609169155551987-b2490000.m3u8:DW Deutsch
+#DESCRIPTION DW Deutsch
+#SERVICE 4097:0:1:327:3BC4:13E:820000:0:0:0:https%3a//vs848.vcdn.biz/dc8fff8aced2ceacd60450286d620f5a_megogo/live/hls/b/700_2490/u_sid/0/o/77935971/rsid/d4887565-ce9b-47ee-9bc8-4919410cbe46/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid6975902811245744863-b2490000.m3u8:France 24 HD (en Francais)
+#DESCRIPTION France 24 HD (en Francais)
+#SERVICE 4097:0:1:421C:2F44:13E:820000:0:0:0:https%3a//vs833.vcdn.biz/bc74a3bcc8c0be70056bc10ae639c58f_megogo/live/hls/b/700_2490/u_sid/0/o/22814441/rsid/6de1b6fd-6577-4bfd-a805-6bc872bd57c9/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.222.92.58*asn/u_srvc/81255/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/type.live/chunklist-sid4688710809877952316-b2490000.m3u8:Freedom TV
+#DESCRIPTION Freedom TV
+#SERVICE 4097:0:1:A09:94C2:EC:0:0:0:0:https%3a//vs40.vcdn.biz/b1ddca34fd52f570b90548c3f007cd3b_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/u_mch/18503926/o/136296451/rsid/74480a02-fc15-4b13-8709-0c5abd60cdde/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/a/0/type.amlst/chunklist-sid1124780527094474897-b2000000.m3u8:Blog for kids in English HD
+#DESCRIPTION Blog for kids in English HD
+#SERVICE 4097:0:1:9C15:225A:EC:0:0:0:0:https%3a//vs35.vcdn.biz/e29a2217eb02e5c11a8e397b4e3816ef_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/u_mch/19318156/o/158082781/rsid/adcb3cfd-1813-4082-9dc5-56249739a696/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/u_did/web_4DossgusM3DOEj2EotzUR0vgTUTMJLtV/a/0/type.amlst/chunklist-sid2975307428173545199-b2000000.m3u8:Blog DIY in English HD
+#DESCRIPTION Blog DIY in English HD
+#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp1hd/2DRTDfl4ahfOCAAA.uADwAcwL7866Q0UC8wJULhoc2Maaw/index.m3u8?session=2DRTDfl4ahfOCAAA.uADwAcwL7866Q0UC8wJULhoc2Maaw:TVP 1 HD
+#DESCRIPTION TVP 1 HD
+#SERVICE 4097:0:1:C22:1E78:71:820000:0:0:0:https%3a//ec05-ktw3.cache.orange.pl/dai/org1/vb/tvp2hd/iw8hj8xNahcaAQCA.uADwAcwL7866Q0UC8wJULhoc2Maaw/v4-121.m3u8:TVP 2 HD
+#DESCRIPTION TVP 2 HD
+#SERVICE 4097:0:1:13F7:5DC:13E:820000:0:0:0:https%3a//ec33-waw3.cache.orange.pl/dai/org1/vb/tvp3warszawasd/YL-1FQK8ahdCAQgA.uADwAcwL7866Q0UC8wJULhoc2Maaw/index.m3u8?session=YL-1FQK8ahdCAQgA.uADwAcwL7866Q0UC8wJULhoc2Maaw:TVP 3 Warszawa
+#DESCRIPTION TVP 3 Warszawa
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- Rakuten TV PL ---
 #DESCRIPTION --- Rakuten TV PL ---
 #SERVICE 5002:0:1:239:A11A:2268:0:0:0:0:https%3a//103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/7fe0406a-552d-4457-96ee-bffacdcb3462/2.m3u8:BjgTjme
@@ -45,7 +89,11 @@
 #DESCRIPTION TV DAMI  (YT)
 #SERVICE 4097:0:1:58:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8:TV Dami
 #DESCRIPTION TV Dami
+#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UC5Z6rlfp5ZEsqgxUmjfZCDA.m3u8:TV MAZOWSZE  (YT)
+#DESCRIPTION TV MAZOWSZE  (YT)
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:http%3a//stream.tvmazowsze.pl%3a5920/tmp_hls/stream/index.m3u8:TV Mazowsze
+#DESCRIPTION TV Mazowsze
+#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UC5Z6rlfp5ZEsqgxUmjfZCDA.m3u8:TV Mazowsze
 #DESCRIPTION TV Mazowsze
 #SERVICE 5002:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
 #DESCRIPTION Imperium TV Gliwice
