@@ -69,8 +69,6 @@
 #DESCRIPTION Autoallstars (PT)
 #SERVICE 5002:0:1:a6f4:302:2e2:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autoallstars (US)
 #DESCRIPTION Autoallstars (US)
-#SERVICE 5002:0:1:b182:ee0d:da8:1010101:0:0:0:https%3a//motorpresse-automotorundsport-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Automotorundsport Geo
-#DESCRIPTION Automotorundsport Geo
 #SERVICE 5002:0:1:60b2:358f:8f97:1010101:0:0:0:https%3a//awe-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AWE
 #DESCRIPTION AWE
 #SERVICE 5002:0:1:483e:1bbe:beec:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AWE (AU)
@@ -81,7 +79,7 @@
 #DESCRIPTION Baby Shark TV (CA)
 #SERVICE 5002:0:1:63ef:6b1d:1dfd:1010101:0:0:0:https%3a//newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (DE)
 #DESCRIPTION Baby Shark TV (DE)
-#SERVICE 5002:0:1:7df6:6b7a:7aa5:1010101:0:0:0:https%3a//newidco-babysharktv-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (ES)
+#SERVICE 5002:0:1:7df6:6b7a:7aa5:1010101:0:0:0:https%3a//newidco-babysharktv-2-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (ES)
 #DESCRIPTION Baby Shark TV (ES)
 #SERVICE 5002:0:1:b7b2:8e8:e85e:1010101:0:0:0:https%3a//newidco-babysharktv-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (FR)
 #DESCRIPTION Baby Shark TV (FR)
@@ -129,8 +127,6 @@
 #DESCRIPTION Billiards TV (US)
 #SERVICE 5002:0:1:1c6d:40a2:a260:1010101:0:0:0:https%3a//minerva-bizzarromovies-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bizzarro Movies (IT)
 #DESCRIPTION Bizzarro Movies (IT)
-#SERVICE 5002:0:1:bc3f:93ec:ec1d:1010101:0:0:0:https%3a//bloomberg-quicktake-1-ar.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (AR)
-#DESCRIPTION Bloomberg Originals (AR)
 #SERVICE 5002:0:1:bc3f:93ec:ec1d:1010101:0:0:0:https%3a//bloomberg-quicktake-4-ar.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (AR)
 #DESCRIPTION Bloomberg Originals (AR)
 #SERVICE 5002:0:1:f304:4e9c:9caa:1010101:0:0:0:https%3a//bloomberg-quicktake-1-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (AT)
@@ -141,8 +137,8 @@
 #DESCRIPTION Bloomberg Originals (CA)
 #SERVICE 5002:0:1:8680:ad75:756e:1010101:0:0:0:https%3a//bloomberg-quicktake-1-ch.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (CH)
 #DESCRIPTION Bloomberg Originals (CH)
-#SERVICE 5002:0:1:7474:5ba5:a525:1010101:0:0:0:https%3a//bloomberg-quicktake-1-cl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (CL)
-#DESCRIPTION Bloomberg Originals (CL)
+#SERVICE 5002:0:1:dadb:c053:53c5:1010101:0:0:0:https%3a//bloomberg-quicktake-1-cl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (CL) dead
+#DESCRIPTION Bloomberg Originals (CL) dead
 #SERVICE 5002:0:1:7474:5ba5:a525:1010101:0:0:0:https%3a//bloomberg-quicktake-4-cl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (CL)
 #DESCRIPTION Bloomberg Originals (CL)
 #SERVICE 5002:0:1:5c83:3ea6:a696:1010101:0:0:0:https%3a//bloomberg-quicktake-1-co.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (CO)
@@ -165,12 +161,10 @@
 #DESCRIPTION Bloomberg Originals (JP)
 #SERVICE 5002:0:1:3924:c01b:1b21:1010101:0:0:0:https%3a//bloomberg-quicktake-4-mx.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (MX)
 #DESCRIPTION Bloomberg Originals (MX)
-#SERVICE 5002:0:1:d6ae:c0ee:ee07:1010101:0:0:0:https%3a//bloomberg-quicktake-1-pe.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (PE)
+#SERVICE 5002:0:1:d6ae:c0ee:ee07:1010101:0:0:0:https%3a//bloomberg-quicktake-4-pe.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (PE)
 #DESCRIPTION Bloomberg Originals (PE)
 #SERVICE 5002:0:1:98e5:92e6:e676:1010101:0:0:0:https%3a//bloomberg-quicktake-1-pt.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (PT)
 #DESCRIPTION Bloomberg Originals (PT)
-#SERVICE 5002:0:1:e749:af4c:4c9d:1010101:0:0:0:https%3a//bloomberg-quicktake-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (US)
-#DESCRIPTION Bloomberg Originals (US)
 #SERVICE 5002:0:1:e749:af4c:4c9d:1010101:0:0:0:https%3a//bloomberg-quicktake-4-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (US)
 #DESCRIPTION Bloomberg Originals (US)
 #SERVICE 5002:0:1:fb55:b623:2319:1010101:0:0:0:https%3a//bloomberg-bloombergtv-3-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV (AT)
@@ -221,8 +215,6 @@
 #DESCRIPTION Bridezillas (GB)
 #SERVICE 5002:0:1:39:f81:8188:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Buzzr (US)
 #DESCRIPTION Buzzr (US)
-#SERVICE 5002:0:1:b3d4:cafb:fb9a:1010101:0:0:0:https%3a//contracorriente-canalfeelgood-1-es.samsung.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canal Feel good (ES)
-#DESCRIPTION Canal Feel good (ES)
 #SERVICE 5002:0:1:44ef:5bda:dad0:1010101:0:0:0:https%3a//carbontv-gb-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Carbon TV (GB)
 #DESCRIPTION Carbon TV (GB)
 #SERVICE 5002:0:1:4a4:915c:5cb4:1010101:0:0:0:https%3a//cgentertainment-cgtv-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CGTV (IT)
@@ -239,12 +231,6 @@
 #DESCRIPTION Chili Indimenticabili (IT)
 #SERVICE 5002:0:1:74c1:95a0:a008:1010101:0:0:0:https%3a//chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chili Velvet (IT)
 #DESCRIPTION Chili Velvet (IT)
-#SERVICE 5002:0:1:85b8:128b:8bb9:1010101:0:0:0:https%3a//atmosphere-chivetv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chive TV
-#DESCRIPTION Chive TV
-#SERVICE 5002:0:1:81a1:e57f:7ffd:1010101:0:0:0:https%3a//ottstudio-christmasplus-2-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Christmas Plus (CA)
-#DESCRIPTION Christmas Plus (CA)
-#SERVICE 5002:0:1:d1e0:809a:9af7:1010101:0:0:0:https%3a//ottstudio-christmasplus-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Christmas Plus (US)
-#DESCRIPTION Christmas Plus (US)
 #SERVICE 5002:0:1:62b2:dcec:ec68:1010101:0:0:0:https%3a//rakuten-cine-espanol-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Espanol (ES)
 #DESCRIPTION Cine Espanol (ES)
 #SERVICE 5002:0:1:3d4a:82de:de85:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Estrella (US)
@@ -329,8 +315,8 @@
 #DESCRIPTION Comedy Dynamics (US) (Geo)
 #SERVICE 5002:0:1:e79b:2ef2:f21a:1010101:0:0:0:https%3a//spt-competencias-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Competencias (US)
 #DESCRIPTION Competencias (US)
-#SERVICE 5002:0:1:b626:a4c6:c6de:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-conspiracytv-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Conspiracy TV (AU)
-#DESCRIPTION Conspiracy TV (AU)
+#SERVICE 5002:0:1:129c:c153:5374:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-conspiracytv-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Conspiracy TV (AU) CHECK
+#DESCRIPTION Conspiracy TV (AU) CHECK
 #SERVICE 5002:0:1:cf59:e69c:9cd0:1010101:0:0:0:https%3a//langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cops (CA)
 #DESCRIPTION Cops (CA)
 #SERVICE 5002:0:1:b641:13c6:c665:1010101:0:0:0:https%3a//langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cops (GB)
