@@ -1,0 +1,669 @@
+#NAME Vizio
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 5002:0:1:cae7:94f9:f9e3:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN Replay by Pluto Tv
+#DESCRIPTION CNN Replay by Pluto Tv
+#SERVICE 5002:0:1:b39a:7bcf:cf14:1010101:0:0:0:https%3a//fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Livenow From FOX
+#DESCRIPTION Livenow From FOX
+#SERVICE 5002:0:1:4b7d:73f6:f6b6:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox News Now
+#DESCRIPTION Fox News Now
+#SERVICE 5002:0:1:d292:ba3e:3e23:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC News Now by Pluto TV
+#DESCRIPTION NBC News Now by Pluto TV
+#SERVICE 5002:0:1:b201:6e2c:2c76:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBSN
+#DESCRIPTION CBSN
+#SERVICE 5002:0:1:8958:c5bd:bd67:1010101:0:0:0:https%3a//weathernation-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherNation
+#DESCRIPTION WeatherNation
+#SERVICE 5002:0:1:f124:e1bd:bdbf:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-weather-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Weather
+#DESCRIPTION Fox Weather
+#SERVICE 5002:0:1:d25e:8174:7420:1010101:0:0:0:https%3a//bloomberg-quicktake-3-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals
+#DESCRIPTION Bloomberg Originals
+#SERVICE 5002:0:1:114a:3d87:87c6:1010101:0:0:0:https%3a//scripps-newsy-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scripps News
+#DESCRIPTION Scripps News
+#SERVICE 5002:0:1:949d:b03f:3f07:1010101:0:0:0:https%3a//reuters-reutersnow-2-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reuters
+#DESCRIPTION Reuters
+#SERVICE 5002:0:1:bee6:aaea:ea22:1010101:0:0:0:https%3a//cheddar-cheddar-3-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cheddar News
+#DESCRIPTION Cheddar News
+#SERVICE 5002:0:1:5d27:15cb:cbeb:1010101:0:0:0:https%3a//cheddar-news12ny-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:News 12 New York
+#DESCRIPTION News 12 New York
+#SERVICE 5002:0:1:5bc3:3144:4485:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc48170e280c80009a861ab/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBSN New York
+#DESCRIPTION CBSN New York
+#SERVICE 5002:0:1:e669:9aa1:a118:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBSN Los Angeles
+#DESCRIPTION CBSN Los Angeles
+#SERVICE 5002:0:1:fc20:3dd4:d4f7:1010101:0:0:0:https%3a//newsmax-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Newsmax TV
+#DESCRIPTION Newsmax TV
+#SERVICE 5002:0:1:57d3:17b4:b48a:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-newsmax-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Newsmax alt
+#DESCRIPTION Newsmax alt
+#SERVICE 5002:0:1:7da4:3b7d:7d1e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-thehilltv-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Hill TV (Geo)
+#DESCRIPTION The Hill TV (Geo)
+#SERVICE 5002:0:1:9949:4e6:e6af:1010101:0:0:0:https%3a//oneamericanews-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:OAN Plus
+#DESCRIPTION OAN Plus
+#SERVICE 5002:0:1:3f45:b469:69f3:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-oneamericanews-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:OAN Plus alt
+#DESCRIPTION OAN Plus alt
+#SERVICE 5002:0:1:adc3:cc5c:5cea:1010101:0:0:0:https%3a//p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real America's Voice
+#DESCRIPTION Real America's Voice
+#SERVICE 5002:0:1:9986:b555:55db:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:USA Today
+#DESCRIPTION USA Today
+#SERVICE 5002:0:1:b44f:4afa:fa24:1010101:0:0:0:https%3a//yahoo-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yahoo Finance
+#DESCRIPTION Yahoo Finance
+#SERVICE 5002:0:1:d2fa:c68e:8e58:1010101:0:0:0:https%3a//tdameritrade-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TD Ameritrade Network
+#DESCRIPTION TD Ameritrade Network
+#SERVICE 5002:0:1:98c1:4211:11a0:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-tdameritrade-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TD Ameritrade Network Alt
+#DESCRIPTION TD Ameritrade Network Alt
+#SERVICE 5002:0:1:6413:d88a:8a73:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-blacknewsnetwork-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Grio
+#DESCRIPTION The Grio
+#SERVICE 5002:0:1:2285:41f9:f97d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziocbcnews/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBC News (DEAD)
+#DESCRIPTION CBC News (DEAD)
+#SERVICE 5002:0:1:2ac5:8c3d:3d52:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziocbhdghcnews/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AAPI Heritage (MISSING)
+#DESCRIPTION AAPI Heritage (MISSING)
+#SERVICE 5002:0:1:a813:96eb:eb46:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-oando1-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Valor (Geo)
+#DESCRIPTION Valor (Geo)
+#SERVICE 5002:0:1:ce75:b13b:3bd3:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio Kick Back (Geo)
+#DESCRIPTION Vizio Kick Back (Geo)
+#SERVICE 5002:0:1:1ef9:12f:2f63:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio American Classics (Geo)
+#DESCRIPTION Vizio American Classics (Geo)
+#SERVICE 5002:0:1:2bff:ee4d:4d9d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioromance-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio Romance Fall in Love (Geo)
+#DESCRIPTION Vizio Romance Fall in Love (Geo)
+#SERVICE 5002:0:1:a381:948c:8c8c:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-mission-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio Mission (Geo)
+#DESCRIPTION Vizio Mission (Geo)
+#SERVICE 5002:0:1:9233:8826:2659:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio Fear (Geo)
+#DESCRIPTION Vizio Fear (Geo)
+#SERVICE 5002:0:1:ba5a:254e:4e35:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-blackbrilliance-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio Black Brilliance (Geo)
+#DESCRIPTION Vizio Black Brilliance (Geo)
+#SERVICE 5002:0:1:5054:b167:67f2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmriseaction/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Action (DEAD)
+#DESCRIPTION Filmrise Action (DEAD)
+#SERVICE 5002:0:1:baf4:1033:33b8:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Action
+#DESCRIPTION Pluto TV Action
+#SERVICE 5002:0:1:3346:794d:4d4e:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-deadviziofilmrisefreemovies/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Free Movies (DEAD)
+#DESCRIPTION Filmrise Free Movies (DEAD)
+#SERVICE 5002:0:1:a1a5:bc20:20b3:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-baywatch-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch Remastered (Geo)
+#DESCRIPTION Baywatch Remastered (Geo)
+#SERVICE 5002:0:1:6375:7e63:6389:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Spotlight
+#DESCRIPTION Pluto TV Spotlight
+#SERVICE 5002:0:1:4aff:547:4768:1010101:0:0:0:https%3a//gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault Westerns
+#DESCRIPTION Cinevault Westerns
+#SERVICE 5002:0:1:b6e5:8e19:1976:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisewestern/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Western (DEAD)
+#DESCRIPTION Filmrise Western (DEAD)
+#SERVICE 5002:0:1:c74c:82eb:ebfd:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e825550e758c700077b0aef/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Rifleman by Pluto TV
+#DESCRIPTION The Rifleman by Pluto TV
+#SERVICE 5002:0:1:f608:6464:6438:1010101:0:0:0:https%3a//scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Grit Xtra
+#DESCRIPTION Grit Xtra
+#SERVICE 5002:0:1:e754:1460:6062:1010101:0:0:0:https%3a//scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ION
+#DESCRIPTION ION
+#SERVICE 5002:0:1:6f48:22d0:d072:1010101:0:0:0:https%3a//ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ion Plus
+#DESCRIPTION Ion Plus
+#SERVICE 5002:0:1:153b:542a:2a54:1010101:0:0:0:https%3a//aenetworks-holidaymoviefavorites-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Favorites by Lifetime
+#DESCRIPTION Movie Favorites by Lifetime
+#SERVICE 5002:0:1:d6a8:a322:22b6:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hallmark Movies & More (DEAD)
+#DESCRIPTION Hallmark Movies & More (DEAD)
+#SERVICE 5002:0:1:95b7:4f36:366a:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhall3mark/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Heartland (MISSING)
+#DESCRIPTION Heartland (MISSING)
+#SERVICE 5002:0:1:a12a:4696:9635:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dovetv-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dove Channel (Geo)
+#DESCRIPTION Dove Channel (Geo)
+#SERVICE 5002:0:1:f2d5:ec63:63f7:1010101:0:0:0:https%3a//circle-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle
+#DESCRIPTION Circle
+#SERVICE 5002:0:1:a514:724:2462:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-circle-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle alt
+#DESCRIPTION Circle alt
+#SERVICE 5002:0:1:bc09:1de0:e048:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Degrassi by Pluto TV
+#DESCRIPTION Degrassi by Pluto TV
+#SERVICE 5002:0:1:f7c3:fa75:7510:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-rokughdl3mark/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cowboy Way (MISSING)
+#DESCRIPTION Cowboy Way (MISSING)
+#SERVICE 5002:0:1:7158:9a6a:6a99:1010101:0:0:0:https%3a//scripps-bouncexl-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bounce XL
+#DESCRIPTION Bounce XL
+#SERVICE 5002:0:1:e30f:50ef:ef55:1010101:0:0:0:https%3a//lol-lolnetwork-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lol Network
+#DESCRIPTION Lol Network
+#SERVICE 5002:0:1:b552:5265:6518:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BET TV by Pluto TV
+#DESCRIPTION BET TV by Pluto TV
+#SERVICE 5002:0:1:ae65:4621:218c:1010101:0:0:0:https%3a//fuse-beats-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shades of Black (Geo)
+#DESCRIPTION Shades of Black (Geo)
+#SERVICE 5002:0:1:9c26:db90:90f6:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusebeats-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shades of Black alt (Geo)
+#DESCRIPTION Shades of Black alt (Geo)
+#SERVICE 5002:0:1:932:7120:2062:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Black Cinema by Pluto TV
+#DESCRIPTION Black Cinema by Pluto TV
+#SERVICE 5002:0:1:8048:8d46:466b:1010101:0:0:0:https%3a//amc-allblk-gems-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All BLK Gems
+#DESCRIPTION All BLK Gems
+#SERVICE 5002:0:1:79f8:5711:11de:1010101:0:0:0:https%3a//maverick-maverick-black-cinema-2-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Maverick Movies
+#DESCRIPTION Maverick Movies
+#SERVICE 5002:0:1:d657:2630:308c:1010101:0:0:0:https%3a//maverick-maverick-black-cinema-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Afroland (MISSING)
+#DESCRIPTION Afroland (MISSING)
+#SERVICE 5002:0:1:6028:f7a:7ae7:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Star Trek by Pluto TV
+#DESCRIPTION Star Trek by Pluto TV
+#SERVICE 5002:0:1:63f7:76ed:ed96:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisescifi/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Sci-Fi (DEAD)
+#DESCRIPTION FilmRise Sci-Fi (DEAD)
+#SERVICE 5002:0:1:54c1:43ef:ef2b:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-dustx-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dust X (Geo)
+#DESCRIPTION Dust X (Geo)
+#SERVICE 5002:0:1:98e4:1d6:d63f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-merlin-vizious/playliist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Merlin
+#DESCRIPTION Merlin
+#SERVICE 5002:0:1:d0b5:95f8:f815:1010101:0:0:0:https%3a//amc-amcpresents-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stories by AMC
+#DESCRIPTION Stories by AMC
+#SERVICE 5002:0:1:17b9:37e9:e9f3:1010101:0:0:0:https%3a//amc-portlandia-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Portlandia
+#DESCRIPTION Portlandia
+#SERVICE 5002:0:1:e092:2a1:a124:1010101:0:0:0:https%3a//amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Walking Dead Universe
+#DESCRIPTION The Walking Dead Universe
+#SERVICE 5002:0:1:ba18:c559:599d:1010101:0:0:0:https%3a//amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC Thrillers
+#DESCRIPTION AMC Thrillers
+#SERVICE 5002:0:1:397:e788:8898:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Thrillers
+#DESCRIPTION Pluto TV Thrillers
+#SERVICE 5002:0:1:6c43:b49f:9f69:1010101:0:0:0:https%3a//futuretoday-filmrisehorror-1-us.ono.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Horror
+#DESCRIPTION Filmrise Horror
+#SERVICE 5002:0:1:bc54:9305:569:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
+#DESCRIPTION Pluto TV Horror
+#SERVICE 5002:0:1:1a66:a731:31df:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgusting-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Screambox TV (Geo)
+#DESCRIPTION Screambox TV (Geo)
+#SERVICE 5002:0:1:6035:3a13:1322:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-dark-matter-tv-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dark Matter TV
+#DESCRIPTION Dark Matter TV
+#SERVICE 5002:0:1:2677:9ae7:e7c5:1010101:0:0:0:https%3a//gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault 80's
+#DESCRIPTION Cinevault 80's
+#SERVICE 5002:0:1:569e:222e:2ec5:1010101:0:0:0:https%3a//gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault Murder and Mayhem
+#DESCRIPTION Cinevault Murder and Mayhem
+#SERVICE 5002:0:1:6238:49ed:ed12:1010101:0:0:0:https%3a//gsn-cinevault-classics-2-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault Classics
+#DESCRIPTION Cinevault Classics
+#SERVICE 5002:0:1:ea08:29e6:e668:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmriseclassictv/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Classic TV
+#DESCRIPTION Filmrise Classic TV
+#SERVICE 5002:0:1:367b:9a73:7359:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV Land Drama by Pluto TV
+#DESCRIPTION TV Land Drama by Pluto TV
+#SERVICE 5002:0:1:15dc:5bb:bb55:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paramount Movie Channel vy Pluto TV
+#DESCRIPTION Paramount Movie Channel vy Pluto TV
+#SERVICE 5002:0:1:5064:2cdd:dde3:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chicken Soup for the Soul (Geo)
+#DESCRIPTION Chicken Soup for the Soul (Geo)
+#SERVICE 5002:0:1:e3cf:6171:718b:1010101:0:0:0:https%3a//crackle-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle Spotlight (Geo)
+#DESCRIPTION Crackle Spotlight (Geo)
+#SERVICE 5002:0:1:bc80:43cc:cc31:1010101:0:0:0:https%3a//crackle-classics-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle Classics (Geo)
+#DESCRIPTION Crackle Classics (Geo)
+#SERVICE 5002:0:1:88dd:eeef:eff5:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/crackleAA-crackleclassics-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle Classics alt (Geo)
+#DESCRIPTION Crackle Classics alt (Geo)
+#SERVICE 5002:0:1:eac5:f845:45e9:1010101:0:0:0:https%3a//candlelightmedia-sparklightlove-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spark TV Light and Love
+#DESCRIPTION Spark TV Light and Love
+#SERVICE 5002:0:1:8f36:2d7:d7de:1010101:0:0:0:https%3a//spotlight-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Free Movies
+#DESCRIPTION Redbox Free Movies
+#SERVICE 5002:0:1:2add:c4dd:dd64:1010101:0:0:0:https%3a//gravitas-movies-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas Movies
+#DESCRIPTION Gravitas Movies
+#SERVICE 5002:0:1:3c2f:44fe:fea6:1010101:0:0:0:https%3a//gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Game Show Central
+#DESCRIPTION Game Show Central
+#SERVICE 5002:0:1:d90b:a38e:8e5a:1010101:0:0:0:https%3a//aenetworks-dealzone-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deal Zone
+#DESCRIPTION Deal Zone
+#SERVICE 5002:0:1:be05:1748:4807:1010101:0:0:0:https%3a//aenetworks-dealzone-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deal Zone alt
+#DESCRIPTION Deal Zone alt
+#SERVICE 5002:0:1:ee3c:ded9:d9b9:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-supermarket-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Supermarket Sweep (Geo)
+#DESCRIPTION Supermarket Sweep (Geo)
+#SERVICE 5002:0:1:4ce1:36ea:eae0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziohellskitchen/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hells Kitchen - Kitchen Nightmares (DEAD)
+#DESCRIPTION Hells Kitchen - Kitchen Nightmares (DEAD)
+#SERVICE 5002:0:1:9268:cfc:fc58:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziohelllskitchen/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xtreme Outdoor by History (MISSING)
+#DESCRIPTION Xtreme Outdoor by History (MISSING)
+#SERVICE 5002:0:1:8b89:b22b:2b30:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Price is Right - The Barker Era by Pluto TV
+#DESCRIPTION The Price is Right - The Barker Era by Pluto TV
+#SERVICE 5002:0:1:3215:c44:44d1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-familyfeudvizio-vizious.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Family Feud Classic
+#DESCRIPTION Family Feud Classic
+#SERVICE 5002:0:1:17c2:ad6e:6e13:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fear Factor by Pluto TV
+#DESCRIPTION Fear Factor by Pluto TV
+#SERVICE 5002:0:1:c11b:1865:65c7:1010101:0:0:0:https%3a//buzzr-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Buzzr (Geo)
+#DESCRIPTION Buzzr (Geo)
+#SERVICE 5002:0:1:cf34:7e7b:7bf6:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-buzzr-ott-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Buzzr Alt (Geo)
+#DESCRIPTION Buzzr Alt (Geo)
+#SERVICE 5002:0:1:9649:4cce:ce20:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dog The Bounty Hunter
+#DESCRIPTION Dog The Bounty Hunter
+#SERVICE 5002:0:1:8a0e:a7af:afed:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-dragraceuniverse-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Drag Race Universe
+#DESCRIPTION Drag Race Universe
+#SERVICE 5002:0:1:d13f:aa95:9528:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VH1 I love Reality by Pluto TV
+#DESCRIPTION VH1 I love Reality by Pluto TV
+#SERVICE 5002:0:1:27cb:2cc:ccc2:1010101:0:0:0:https%3a//amc-absolutereality-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Reality by WE TV
+#DESCRIPTION All Reality by WE TV
+#SERVICE 5002:0:1:d1e9:3ab6:b644:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love and Hip Hop by Pluto TV
+#DESCRIPTION Love and Hip Hop by Pluto TV
+#SERVICE 5002:0:1:44b4:7561:6141:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spike by Pluto TV
+#DESCRIPTION Spike by Pluto TV
+#SERVICE 5002:0:1:386a:6f5a:5a1d:1010101:0:0:0:https%3a//judge-faith-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Judge Faith
+#DESCRIPTION Judge Faith
+#SERVICE 5002:0:1:8f9e:f044:44d5:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziodivorcecourt/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Divorce Court (DEAD)
+#DESCRIPTION Divorce Court (DEAD)
+#SERVICE 5002:0:1:448d:f1cf:cfab:1010101:0:0:0:https%3a//nosey-2-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey
+#DESCRIPTION Nosey
+#SERVICE 5002:0:1:26e3:9e21:2119:1010101:0:0:0:https%3a//nosey-realnosey-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Judge Nosey
+#DESCRIPTION Judge Nosey
+#SERVICE 5002:0:1:53d8:379a:9acd:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-crime-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio Investigation (Geo)
+#DESCRIPTION Vizio Investigation (Geo)
+#SERVICE 5002:0:1:65ba:37bc:bc38:1010101:0:0:0:https%3a//aenetworks-thrillher-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime ThrillHer
+#DESCRIPTION Crime ThrillHer
+#SERVICE 5002:0:1:eb69:c288:8825:1010101:0:0:0:https%3a//aenetworks-thrillher-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime ThrillHer alt
+#DESCRIPTION Crime ThrillHer alt
+#SERVICE 5002:0:1:bec2:44c:4cd1:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziounsolvedmysteries/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unsolved Mysteries (DEAD)
+#DESCRIPTION Unsolved Mysteries (DEAD)
+#SERVICE 5002:0:1:c73f:caf9:f9e2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-vizioforensicfiles/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Forensic Files (DEAD)
+#DESCRIPTION Forensic Files (DEAD)
+#SERVICE 5002:0:1:8b75:9d5:d5e1:1010101:0:0:0:https%3a//aenetworks-crime360-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime 360
+#DESCRIPTION Crime 360
+#SERVICE 5002:0:1:751:6bbb:bbd8:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cops
+#DESCRIPTION Cops
+#SERVICE 5002:0:1:ffce:8997:9734:1010101:0:0:0:https%3a//langleyproductions-jail-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jail
+#DESCRIPTION Jail
+#SERVICE 5002:0:1:fb39:618:18d1:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Americas Dumbest Criminals (MISSING)
+#DESCRIPTION Americas Dumbest Criminals (MISSING)
+#SERVICE 5002:0:1:38ef:f651:511e:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI by PLuto TV
+#DESCRIPTION CSI by PLuto TV
+#SERVICE 5002:0:1:dcb:dac5:c5a8:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-realcrime-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Crime (Geo)
+#DESCRIPTION Real Crime (Geo)
+#SERVICE 5002:0:1:ec68:b936:3623:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cold Case Files by Pluto TV
+#DESCRIPTION Cold Case Files by Pluto TV
+#SERVICE 5002:0:1:af32:965d:5dff:1010101:0:0:0:https%3a//scripps-ionmystery-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ION Mystery
+#DESCRIPTION ION Mystery
+#SERVICE 5002:0:1:cce6:9db0:b09b:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midsomer Murders by Pluto TV
+#DESCRIPTION Midsomer Murders by Pluto TV
+#SERVICE 5002:0:1:3fde:5ffb:fbd4:1010101:0:0:0:https%3a//scripps-courttv-2-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV
+#DESCRIPTION Court TV
+#SERVICE 5002:0:1:ab7d:2bba:ba7e:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisecrime/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise True Crime (DEAD)
+#DESCRIPTION Filmrise True Crime (DEAD)
+#SERVICE 5002:0:1:b0a7:740e:edf:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-vizioreelzchannel/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reelz Famous and Infamous (DEAD)
+#DESCRIPTION Reelz Famous and Infamous (DEAD)
+#SERVICE 5002:0:1:d21d:c653:53b6:1010101:0:0:0:https%3a//linear-12.frequency.stream/dist/vizio/12/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AFV Family
+#DESCRIPTION AFV Family
+#SERVICE 5002:0:1:37e0:3423:2331:1010101:0:0:0:https%3a//lol-defcomedyjam-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lol Stand-up
+#DESCRIPTION Lol Stand-up
+#SERVICE 5002:0:1:cc6f:976c:6ca6:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wild'n out by Pluto TV
+#DESCRIPTION Wild'n out by Pluto TV
+#SERVICE 5002:0:1:1c3f:93cb:cb85:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tosh.O by Pluto TV
+#DESCRIPTION Tosh.O by Pluto TV
+#SERVICE 5002:0:1:e014:35c4:c425:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Funny A.F by Pluto TV
+#DESCRIPTION Funny A.F by Pluto TV
+#SERVICE 5002:0:1:2e5b:436c:6c91:1010101:0:0:0:https%3a//carolburnett-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Carol Burnett Show
+#DESCRIPTION The Carol Burnett Show
+#SERVICE 5002:0:1:ed1a:c84c:4cb0:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Carol Burnett show Alt
+#DESCRIPTION The Carol Burnett show Alt
+#SERVICE 5002:0:1:2ffa:f380:8049:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ef3977e5d773400077de284/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Three's Company by Pluto TV
+#DESCRIPTION Three's Company by Pluto TV
+#SERVICE 5002:0:1:2e71:c356:5633:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV Land Sitcoms by Pluto TV
+#DESCRIPTION TV Land Sitcoms by Pluto TV
+#SERVICE 5002:0:1:33da:b2d:2d78:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7794162a4559000781fc12/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Happy Days by Pluto TV
+#DESCRIPTION Happy Days by Pluto TV
+#SERVICE 5002:0:1:16ac:cf76:7698:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Addams Family by Pluto TV
+#DESCRIPTION The Addams Family by Pluto TV
+#SERVICE 5002:0:1:f68d:551e:1e12:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Anger Management (Geo)
+#DESCRIPTION Anger Management (Geo)
+#SERVICE 5002:0:1:2888:b435:359d:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Are we there Yet? (Geo)
+#DESCRIPTION Are we there Yet? (Geo)
+#SERVICE 5002:0:1:cce6:a6ff:ff0c:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Comedy
+#DESCRIPTION Pluto TV Comedy
+#SERVICE 5002:0:1:da6:fbc9:c923:1010101:0:0:0:https%3a//mst3k-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MST3K
+#DESCRIPTION MST3K
+#SERVICE 5002:0:1:f8cd:c052:525f:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-mst3k-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MST3K alt
+#DESCRIPTION MST3K alt
+#SERVICE 5002:0:1:6f83:9a3a:3a33:1010101:0:0:0:https%3a//johnnycarson-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Johnny Carson TV
+#DESCRIPTION Johnny Carson TV
+#SERVICE 5002:0:1:cd82:167f:7f4f:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-johnnycarson-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Johnny Carson TV alt
+#DESCRIPTION Johnny Carson TV alt
+#SERVICE 5002:0:1:9465:8edb:dba7:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Dynamics (Geo)
+#DESCRIPTION Comedy Dynamics (Geo)
+#SERVICE 5002:0:1:6694:9c0e:e7e:1010101:0:0:0:https%3a//failarmy-linear-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FailArmy
+#DESCRIPTION FailArmy
+#SERVICE 5002:0:1:b267:8499:9921:1010101:0:0:0:https%3a//the-pet-collective-samsung-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective
+#DESCRIPTION The Pet Collective
+#SERVICE 5002:0:1:9f7:a42e:2e55:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just for Laughs Gags
+#DESCRIPTION Just for Laughs Gags
+#SERVICE 5002:0:1:a5b1:2d33:3367:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-forkandflight-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio Fork and Flight (Geo)
+#DESCRIPTION Vizio Fork and Flight (Geo)
+#SERVICE 5002:0:1:ca96:5e5c:5c0f:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioservicesll-viziohouse-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vizio House (Geo)
+#DESCRIPTION Vizio House (Geo)
+#SERVICE 5002:0:1:1ef3:34:34cc:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homeful
+#DESCRIPTION Homeful
+#SERVICE 5002:0:1:76a4:6077:77be:1010101:0:0:0:https%3a//aenetworks-tinyhousenation-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tiny House Nation
+#DESCRIPTION Tiny House Nation
+#SERVICE 5002:0:1:e880:cc0d:d02:1010101:0:0:0:https%3a//aenetworks-tinyhousenation-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tiny House Nation alt
+#DESCRIPTION Tiny House Nation alt
+#SERVICE 5002:0:1:881c:ee2f:2fa0:1010101:0:0:0:https%3a//aenetworks-tinyhousenation-1-us-logo.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tiny House Nation alt 2
+#DESCRIPTION Tiny House Nation alt 2
+#SERVICE 5002:0:1:b75a:2e0e:efb:1010101:0:0:0:https%3a//aenetworks-ae-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Home made Nation
+#DESCRIPTION Home made Nation
+#SERVICE 5002:0:1:e7f5:18da:da34:1010101:0:0:0:https%3a//aenetworks-ae-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Home Made Nation alt
+#DESCRIPTION Home Made Nation alt
+#SERVICE 5002:0:1:6fb0:c382:82b9:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-tohvizio-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:This Old House (Geo)
+#DESCRIPTION This Old House (Geo)
+#SERVICE 5002:0:1:fee7:be2d:2d15:1010101:0:0:0:https%3a//sensical5up-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sensical Maker (Geo)
+#DESCRIPTION Sensical Maker (Geo)
+#SERVICE 5002:0:1:e015:9495:95ad:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00722-commonsensenetw-sensical5up-vizious/playlist.m3u8#EXTINF%3a-1,The Craftistry (Geo)#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sensical Maker alt (Geo)
+#DESCRIPTION Sensical Maker alt (Geo)
+#SERVICE 5002:0:1:fc5a:a86c:6c78:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-studio71-craftistry-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Craftisty alt (Geo)
+#DESCRIPTION The Craftisty alt (Geo)
+#SERVICE 5002:0:1:9190:70ee:ee40:1010101:0:0:0:https%3a//thedesignnetwork-tdn-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Design Network
+#DESCRIPTION The Design Network
+#SERVICE 5002:0:1:506a:4abd:bd98:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziohomeowner/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Today's Homeowner (DEAD)
+#DESCRIPTION Today's Homeowner (DEAD)
+#SERVICE 5002:0:1:8c9d:a933:332a:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DABL by Pluto TV (Geo)
+#DESCRIPTION DABL by Pluto TV (Geo)
+#SERVICE 5002:0:1:439:564d:4d3f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
+#DESCRIPTION Tastemade
+#SERVICE 5002:0:1:9484:b8de:dec0:1010101:0:0:0:https%3a//tastemade-intl-vizioca.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade alt
+#DESCRIPTION Tastemade alt
+#SERVICE 5002:0:1:7c8d:bf4a:4ae9:1010101:0:0:0:https%3a//tastemade-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade alt 2 (Geo)
+#DESCRIPTION Tastemade alt 2 (Geo)
+#SERVICE 5002:0:1:c74f:4175:75ef:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade Home
+#DESCRIPTION Tastemade Home
+#SERVICE 5002:0:1:e2fc:76b4:b4ff:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01545-buzzfeedinc-jamieoliver-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jamie Oliver Channel (Geo)
+#DESCRIPTION The Jamie Oliver Channel (Geo)
+#SERVICE 5002:0:1:377b:2768:68f8:1010101:0:0:0:https%3a//condenast-bonappetit-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bon Appetit
+#DESCRIPTION Bon Appetit
+#SERVICE 5002:0:1:4301:a693:9346:1010101:0:0:0:https%3a//gustotv-samsung-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV
+#DESCRIPTION Gusto TV
+#SERVICE 5002:0:1:c64d:1654:547d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-vizioamericastestkitchen/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America's Test Kitchen (DEAD)
+#DESCRIPTION America's Test Kitchen (DEAD)
+#SERVICE 5002:0:1:b0a5:32ae:ae46:1010101:0:0:0:https%3a//ifood-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ifood.TV
+#DESCRIPTION Ifood.TV
+#SERVICE 5002:0:1:1ccf:188e:8e17:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/futuretod-ifood-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ifood.TV alt
+#DESCRIPTION Ifood.TV alt
+#SERVICE 5002:0:1:f9bc:19af:af8f:1010101:0:0:0:https%3a//magellan-space-science-now-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Space Science Now
+#DESCRIPTION Space Science Now
+#SERVICE 5002:0:1:9bd7:5963:63cb:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-blueantmedia-usa-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Nature
+#DESCRIPTION Love Nature
+#SERVICE 5002:0:1:abed:f99f:9ffe:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziojourny/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Journy (DEAD)
+#DESCRIPTION Journy (DEAD)
+#SERVICE 5002:0:1:ab1:74a:4a5c:1010101:0:0:0:https%3a//jackhannah-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jack Hannah Channel (Geo)
+#DESCRIPTION The Jack Hannah Channel (Geo)
+#SERVICE 5002:0:1:5a69:c431:31d6:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-litton-jackhannah-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jack Hannah Channel alt (Geo)
+#DESCRIPTION The Jack Hannah Channel alt (Geo)
+#SERVICE 5002:0:1:b6fa:cc6f:6f75:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovepetsusa-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Pets
+#DESCRIPTION Love Pets
+#SERVICE 5002:0:1:19ab:28f5:f53c:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-haunttvus-vizio-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Haunt TV (Geo)
+#DESCRIPTION Haunt TV (Geo)
+#SERVICE 5002:0:1:f70f:f852:52d1:1010101:0:0:0:https%3a//xplore-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xplore (Geo)
+#DESCRIPTION Xplore (Geo)
+#SERVICE 5002:0:1:b470:2639:39a9:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-xplore-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xplore alt
+#DESCRIPTION Xplore alt
+#SERVICE 5002:0:1:74d4:6ef3:f348:1010101:0:0:0:https%3a//aenetworks-modernmarvels-1-us-logo.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Modern Marvels (Geo)
+#DESCRIPTION Modern Marvels (Geo)
+#SERVICE 5002:0:1:f39a:b467:6723:1010101:0:0:0:https%3a//aenetworks-modernmarvels-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Modern Marvels alt
+#DESCRIPTION Modern Marvels alt
+#SERVICE 5002:0:1:b345:a689:89ef:1010101:0:0:0:https%3a//aenetworks-unxplainedzone-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unxplained Zone
+#DESCRIPTION Unxplained Zone
+#SERVICE 5002:0:1:2588:d303:375:1010101:0:0:0:https%3a//aenetworks-unxplainedzone-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unxplained Zone alt
+#DESCRIPTION Unxplained Zone alt
+#SERVICE 5002:0:1:a177:e818:185c:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paranormal Files
+#DESCRIPTION Paranormal Files
+#SERVICE 5002:0:1:e2f4:ad80:8095:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Bob Ross Channel (Geo)
+#DESCRIPTION The Bob Ross Channel (Geo)
+#SERVICE 5002:0:1:2145:8a59:59f1:1010101:0:0:0:https%3a//linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True History
+#DESCRIPTION True History
+#SERVICE 5002:0:1:d6d3:a52b:2bb6:1010101:0:0:0:https%3a//linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Combat War Channel (MISSING)
+#DESCRIPTION Combat War Channel (MISSING)
+#SERVICE 5002:0:1:1e83:7abd:bdcc:1010101:0:0:0:https%3a//tastemadetravel-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade Travel
+#DESCRIPTION Tastemade Travel
+#SERVICE 5002:0:1:c471:44a1:a14d:1010101:0:0:0:https%3a//tastemade-tastemade-travel-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade Travel alt (Geo)
+#DESCRIPTION Tastemade Travel alt (Geo)
+#SERVICE 5002:0:1:7f70:5641:41c9:1010101:0:0:0:https%3a//documentaryplus-documentaryplus-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Documentary Plus
+#DESCRIPTION Documentary Plus
+#SERVICE 5002:0:1:29ad:ba21:2122:1010101:0:0:0:https%3a//lds-realwild-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Wild (Geo)
+#DESCRIPTION Real Wild (Geo)
+#SERVICE 5002:0:1:8dca:fc09:9ca:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-realwild-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Wild alt (Geo)
+#DESCRIPTION Real Wild alt (Geo)
+#SERVICE 5002:0:1:3969:6994:943b:1010101:0:0:0:https%3a//magellantv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Magellan TV
+#DESCRIPTION Magellan TV
+#SERVICE 5002:0:1:e490:3815:153a:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-timeline-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:History Hits (Geo)
+#DESCRIPTION History Hits (Geo)
+#SERVICE 5002:0:1:bcfe:92ba:ba65:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Naturescape
+#DESCRIPTION Stingray Naturescape
+#SERVICE 5002:0:1:7d2a:5baf:af0b:1010101:0:0:0:https%3a//jukin-weatherspy-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy
+#DESCRIPTION WeatherSpy
+#SERVICE 5002:0:1:7304:159c:9cd2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziowired/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wired (DEAD)
+#DESCRIPTION Wired (DEAD)
+#SERVICE 5002:0:1:c3e2:eaa7:a7b2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziotraveler/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Architechtural Digest (DEAD)
+#DESCRIPTION Architechtural Digest (DEAD)
+#SERVICE 5002:0:1:a4c5:b186:865f:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NFL Channel
+#DESCRIPTION NFL Channel
+#SERVICE 5002:0:1:44cb:f68e:8e9d:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Sports by Pluto TV
+#DESCRIPTION Fox Sports by Pluto TV
+#SERVICE 5002:0:1:f72e:31b2:b2f4:1010101:0:0:0:https%3a//motortrend-motortrendfasttv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motortrend (check)
+#DESCRIPTION Motortrend (check)
+#SERVICE 5002:0:1:702b:a29c:9c8d:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MLB Network by Pluto TV
+#DESCRIPTION MLB Network by Pluto TV
+#SERVICE 5002:0:1:9683:a9c0:c0f9:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS Sports HQ by Pluto TV
+#DESCRIPTION CBS Sports HQ by Pluto TV
+#SERVICE 5002:0:1:d21a:aa15:151d:1010101:0:0:0:https%3a//aenetworks-axmen-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ax Men
+#DESCRIPTION Ax Men
+#SERVICE 5002:0:1:15a4:5d34:34c8:1010101:0:0:0:https%3a//aenetworks-axmen-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ax Men alt
+#DESCRIPTION Ax Men alt
+#SERVICE 5002:0:1:d6ea:c47b:7be8:1010101:0:0:0:https%3a//perfectgametv-perfectgametv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Perfect Game
+#DESCRIPTION Perfect Game
+#SERVICE 5002:0:1:183a:bcb4:b477:1010101:0:0:0:https%3a//aenetworks-iceroadtruckers-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ice Road Truckers
+#DESCRIPTION Ice Road Truckers
+#SERVICE 5002:0:1:a1c1:50ea:ea28:1010101:0:0:0:https%3a//aenetworks-iceroadtruckers-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ice Road Truckers alt
+#DESCRIPTION Ice Road Truckers alt
+#SERVICE 5002:0:1:f225:52f:2f4f:1010101:0:0:0:https%3a//mavtv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mav TV Select
+#DESCRIPTION Mav TV Select
+#SERVICE 5002:0:1:bad8:e6c2:c287:1010101:0:0:0:https%3a//racingamerica-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Racing America (Geo)
+#DESCRIPTION Racing America (Geo)
+#SERVICE 5002:0:1:d95a:50e3:e3c4:1010101:0:0:0:https%3a//rtmtv-samsung-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation
+#DESCRIPTION PowerNation
+#SERVICE 5002:0:1:6e84:9060:6098:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waypoint TV
+#DESCRIPTION Waypoint TV
+#SERVICE 5002:0:1:32cb:3178:780d:1010101:0:0:0:https%3a//aenetworks-torque-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Torque
+#DESCRIPTION Torque
+#SERVICE 5002:0:1:1344:ce8c:8c19:1010101:0:0:0:https%3a//aenetworks-torque-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Torque alt
+#DESCRIPTION Torque alt
+#SERVICE 5002:0:1:3d63:bb20:2077:1010101:0:0:0:https%3a//dangertv-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Danger TV
+#DESCRIPTION Danger TV
+#SERVICE 5002:0:1:4ceb:ff6b:6b3a:1010101:0:0:0:https%3a//world-poker-tour-samsung-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 5002:0:1:3e44:b318:181b:1010101:0:0:0:https%3a//sportsgrid-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports Grid Live
+#DESCRIPTION Sports Grid Live
+#SERVICE 5002:0:1:f20e:267c:7c31:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-sportsgrid-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports Grid Live alt
+#DESCRIPTION Sports Grid Live alt
+#SERVICE 5002:0:1:a266:d4f5:f5ed:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-sportsgrid-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MSG Sportszone (MISSING)
+#DESCRIPTION MSG Sportszone (MISSING)
+#SERVICE 5002:0:1:5e72:dadc:dcaf:1010101:0:0:0:https%3a//amc-overtime-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Overtime
+#DESCRIPTION Overtime
+#SERVICE 5002:0:1:2abf:ec23:234a:1010101:0:0:0:https%3a//pac12-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pac-12 Insider
+#DESCRIPTION Pac-12 Insider
+#SERVICE 5002:0:1:eb8c:e334:3416:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-pac12-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pac 12 Insider alt
+#DESCRIPTION Pac 12 Insider alt
+#SERVICE 5002:0:1:212e:560d:dc5:1010101:0:0:0:https%3a//playerstv-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Players TV
+#DESCRIPTION Players TV
+#SERVICE 5002:0:1:bae9:51f2:f29d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten
+#DESCRIPTION Unbeaten
+#SERVICE 5002:0:1:79c0:5eaf:af3d:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-bein-sports-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Swerve Sports Channel (MISSING)
+#DESCRIPTION Swerve Sports Channel (MISSING)
+#SERVICE 5002:0:1:ce7e:b447:4780:1010101:0:0:0:https%3a//bein-xtra-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Sports Xtra (Geo)
+#DESCRIPTION Bein Sports Xtra (Geo)
+#SERVICE 5002:0:1:8aa8:3d07:7e0:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-bein-sports-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Sports Xtra alt (Geo)
+#DESCRIPTION Bein Sports Xtra alt (Geo)
+#SERVICE 5002:0:1:8faf:d01d:1d07:1010101:0:0:0:https%3a//womensnetwork-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Womens Sports Network
+#DESCRIPTION Womens Sports Network
+#SERVICE 5002:0:1:cab5:52be:be58:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziooutdooramerica/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor America (DEAD)
+#DESCRIPTION Outdoor America (DEAD)
+#SERVICE 5002:0:1:a6d4:e2f4:f4fa:1010101:0:0:0:https%3a//outsidetv-outsidetv-vizio-uq29t.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outside (Geo)
+#DESCRIPTION Outside (Geo)
+#SERVICE 5002:0:1:6643:f54e:4e75:1010101:0:0:0:https%3a//fubotv-fubo-sports-network-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fubo Sports Network
+#DESCRIPTION Fubo Sports Network
+#SERVICE 5002:0:1:5893:1ee8:e866:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioservicesll-polaris-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Polaris (Geo)
+#DESCRIPTION Polaris (Geo)
+#SERVICE 5002:0:1:ab24:9ec6:c687:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizio-revolt-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revolt Mix Tape (Geo)
+#DESCRIPTION Revolt Mix Tape (Geo)
+#SERVICE 5002:0:1:6bc3:15a0:a08f:1010101:0:0:0:https%3a//foxsoul-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Soul
+#DESCRIPTION Fox Soul
+#SERVICE 5002:0:1:1d34:97be:bed2:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxsoul-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Soul alt
+#DESCRIPTION Fox Soul alt
+#SERVICE 5002:0:1:c520:9100:dc:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mixable by Pluto TV
+#DESCRIPTION Mixable by Pluto TV
+#SERVICE 5002:0:1:ef34:4354:54b6:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elvispresley-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Elvis Presley Channel
+#DESCRIPTION The Elvis Presley Channel
+#SERVICE 5002:0:1:99ce:fd41:41d4:1010101:0:0:0:https%3a//revry-revry-2-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revry
+#DESCRIPTION Revry
+#SERVICE 5002:0:1:b75b:a29e:9e3a:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/groupnine-groupnine-popsugar-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Popsugar Fitness (Geo)
+#DESCRIPTION Popsugar Fitness (Geo)
+#SERVICE 5002:0:1:62fc:9beb:ebb2:1010101:0:0:0:https%3a//fusexl-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuse Backstage (Geo)
+#DESCRIPTION Fuse Backstage (Geo)
+#SERVICE 5002:0:1:d21b:5692:92a8:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusesweat-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuse Backstage alt (Geo)
+#DESCRIPTION Fuse Backstage alt (Geo)
+#SERVICE 5002:0:1:9c9b:647e:7e9d:1010101:0:0:0:https%3a//hncfree-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horse and Country Free
+#DESCRIPTION Horse and Country Free
+#SERVICE 5002:0:1:e80e:49f9:f941:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-hncfree-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horse and Country Free alt
+#DESCRIPTION Horse and Country Free alt
+#SERVICE 5002:0:1:8561:6139:396d:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8??deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TBN
+#DESCRIPTION TBN
+#SERVICE 5002:0:1:2a59:3d7b:7b4e:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenastentert-gqvizio-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:GQ (Geo)
+#DESCRIPTION GQ (Geo)
+#SERVICE 5002:0:1:708c:d7eb:eb87:1010101:0:0:0:https%3a//hsn-samsung.vizio.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HSN
+#DESCRIPTION HSN
+#SERVICE 5002:0:1:d73a:a370:70a9:1010101:0:0:0:https%3a//qvc-samsung.vizio.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:QVC
+#DESCRIPTION QVC
+#SERVICE 5002:0:1:2c30:a774:7453:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyleus-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Infast
+#DESCRIPTION Infast
+#SERVICE 5002:0:1:1834:7fe8:e8dc:1010101:0:0:0:https%3a//ign-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IGN (Geo)
+#DESCRIPTION IGN (Geo)
+#SERVICE 5002:0:1:831f:9bb:bb49:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-ign-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IGN alt (Geo)
+#DESCRIPTION IGN alt (Geo)
+#SERVICE 5002:0:1:c06f:422e:2e31:1010101:0:0:0:https%3a//sensical8up-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sensical Gaming (Geo)
+#DESCRIPTION Sensical Gaming (Geo)
+#SERVICE 5002:0:1:a879:4dc8:c8eb:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00722-commonsensenetw-sensical8up-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sensical Gaming alt (Geo)
+#DESCRIPTION Sensical Gaming alt (Geo)
+#SERVICE 5002:0:1:571c:2b5b:5bc4:1010101:0:0:0:https%3a//digitalmediarights-retrocrush-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Retro Crush
+#DESCRIPTION Retro Crush
+#SERVICE 5002:0:1:82ab:516a:6a46:1010101:0:0:0:https%3a//estv-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ESTV (Geo)
+#DESCRIPTION ESTV (Geo)
+#SERVICE 5002:0:1:295a:331:31f1:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-estv-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ESTV alt (Geo)
+#DESCRIPTION ESTV alt (Geo)
+#SERVICE 5002:0:1:ae6a:286e:6ea1:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-contvanime-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Con TV Anime (Geo) (notlisted)
+#DESCRIPTION Con TV Anime (Geo) (notlisted)
+#SERVICE 5002:0:1:3907:a520:20a0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Pop (DEAD)
+#DESCRIPTION Vevo Pop (DEAD)
+#SERVICE 5002:0:1:4b17:4fec:ec4b:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Country (DEAD)
+#DESCRIPTION Vevo Country (DEAD)
+#SERVICE 5002:0:1:244d:89f9:f9c3:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Hip Hop (DEAD)
+#DESCRIPTION Vevo Hip Hop (DEAD)
+#SERVICE 5002:0:1:89a7:7e3a:3ad3:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo R&B (DEAD)
+#DESCRIPTION Vevo R&B (DEAD)
+#SERVICE 5002:0:1:1537:9531:31ee:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo 80s (DEAD)
+#DESCRIPTION Vevo 80s (DEAD)
+#SERVICE 5002:0:1:1826:451b:1b27:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo 90s (DEAD)
+#DESCRIPTION Vevo 90s (DEAD)
+#SERVICE 5002:0:1:8e29:65f3:f3e4:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayhotcountry/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hot Country (DEAD)
+#DESCRIPTION Stingray Hot Country (DEAD)
+#SERVICE 5002:0:1:5d5:5316:1633:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziokaraoke/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Karaoke (DEAD)
+#DESCRIPTION Stingray Karaoke (DEAD)
+#SERVICE 5002:0:1:a26a:b2f6:f637:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingraygreatesthits/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Greatest Holiday Hits (DEAD)
+#DESCRIPTION Stingray Greatest Holiday Hits (DEAD)
+#SERVICE 5002:0:1:c54a:a4d3:d3bd:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayhitlist/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hit List (DEAD)
+#DESCRIPTION Stingray Hit List (DEAD)
+#SERVICE 5002:0:1:f3ce:dc61:6118:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayclassicrock/CDN/playlist.m3u8 #sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Classic Rock (DEAD)
+#DESCRIPTION Stingray Classic Rock (DEAD)
+#SERVICE 5002:0:1:b41:6dea:ea7f:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingraysoulstorm/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Soul Storm (DEAD)
+#DESCRIPTION Stingray Soul Storm (DEAD)
+#SERVICE 5002:0:1:afea:4ca5:a508:1010101:0:0:0:https%3a//qwest-jazz-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz and Beyond (Geo)
+#DESCRIPTION Qwest Jazz and Beyond (Geo)
+#SERVICE 5002:0:1:461c:abad:ad6d:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-qwestjazz-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz and Beyond alt (Geo)
+#DESCRIPTION Qwest Jazz and Beyond alt (Geo)
+#SERVICE 5002:0:1:d6ab:9404:4da:1010101:0:0:0:https%3a//qwest-classic-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Classic (Geo) (Not Listed)
+#DESCRIPTION Qwest Classic (Geo) (Not Listed)
+#SERVICE 5002:0:1:e6ad:5ea6:a603:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-qwestclassic-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Classic alt (Geo) (Not Listed)
+#DESCRIPTION Qwest Classic alt (Geo) (Not Listed)
+#SERVICE 5002:0:1:8201:9692:9203:1010101:0:0:0:https%3a//qwest-mix-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Mix (Geo) (Not Listed)
+#DESCRIPTION Qwest Mix (Geo) (Not Listed)
+#SERVICE 5002:0:1:f5fb:528c:8c9e:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-qwestmix-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Mix alt (Geo) (Not Listed)
+#DESCRIPTION Qwest Mix alt (Geo) (Not Listed)
+#SERVICE 5002:0:1:b794:e3f5:f5af:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qello Concerts (DEAD)
+#DESCRIPTION Qello Concerts (DEAD)
+#SERVICE 5002:0:1:de21:8749:493b:1010101:0:0:0:https%3a//iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Classic Rock Network (temporary roku url)
+#DESCRIPTION Classic Rock Network (temporary roku url)
+#SERVICE 5002:0:1:fbd0:5a84:84d1:1010101:0:0:0:https%3a//estrellatv-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Estrella TV (Geo)
+#DESCRIPTION Estrella TV (Geo)
+#SERVICE 5002:0:1:1302:f756:5623:1010101:0:0:0:https%3a//estrellaa-estrellanews-vizio-n304y.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Estrella News (Geo)
+#DESCRIPTION Estrella News (Geo)
+#SERVICE 5002:0:1:5e51:8cfd:fd12:1010101:0:0:0:https%3a//estrellaa-estrella-games-vizio-yxcgo.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Estrella Games (Geo)
+#DESCRIPTION Estrella Games (Geo)
+#SERVICE 5002:0:1:167a:d9b1:b197:1010101:0:0:0:https%3a//amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC en Espanol
+#DESCRIPTION AMC en Espanol
+#SERVICE 5002:0:1:a682:f792:924d:1010101:0:0:0:https%3a//spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Competencias
+#DESCRIPTION Sony Canal Competencias
+#SERVICE 5002:0:1:d203:3444:4491:1010101:0:0:0:https%3a//spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Novelas
+#DESCRIPTION Sony Canal Novelas
+#SERVICE 5002:0:1:2835:6d9c:9c89:1010101:0:0:0:https%3a//spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Comedias
+#DESCRIPTION Sony Canal Comedias
+#SERVICE 5002:0:1:265f:f9bc:bced:1010101:0:0:0:https%3a//beinesp-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Sports Xtra En Espanol (Geo)
+#DESCRIPTION Bein Sports Xtra En Espanol (Geo)
+#SERVICE 5002:0:1:1508:1d07:742:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-bein-esp-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Sports Xtra En Espanol alt (Geo)
+#DESCRIPTION Bein Sports Xtra En Espanol alt (Geo)
+#SERVICE 5002:0:1:ecba:d3ae:ae05:1010101:0:0:0:https%3a//tastemadees16intl-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade En Espanol
+#DESCRIPTION Tastemade En Espanol
+#SERVICE 5002:0:1:a3db:caff:ffff:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Real
+#DESCRIPTION Cine Real
+#SERVICE 5002:0:1:ef80:e733:33d2:1010101:0:0:0:https%3a//olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-vizio/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Sureno
+#DESCRIPTION Cine Sureno
+#SERVICE 5002:0:1:c436:9e71:71a0:1010101:0:0:0:https%3a//olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tu Cine
+#DESCRIPTION Tu Cine
+#SERVICE 5002:0:1:d48c:db63:631f:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinevizio-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tu Cine alt (Geo)
+#DESCRIPTION Tu Cine alt (Geo)
+#SERVICE 5002:0:1:1c62:cd0:d0c4:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flashvizio-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flash TV
+#DESCRIPTION Flash TV
+#SERVICE 5002:0:1:a7f7:f1e9:e964:1010101:0:0:0:https%3a//olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-vizio/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flash TV alt
+#DESCRIPTION Flash TV alt
+#SERVICE 5002:0:1:2d5a:4f66:6686:1010101:0:0:0:https%3a//olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-vizio/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bob The Builder (MISSING)
+#DESCRIPTION Bob The Builder (MISSING)
+#SERVICE 5002:0:1:636c:f7a0:a030:1010101:0:0:0:https%3a//olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-vizio/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strawberry Shortcake (MISSING)
+#DESCRIPTION Strawberry Shortcake (MISSING)
+#SERVICE 5002:0:1:4f35:9965:6588:1010101:0:0:0:https%3a//olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-vizio/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TellyTubbies (MISSING)
+#DESCRIPTION TellyTubbies (MISSING)
+#SERVICE 5002:0:1:48d0:ddd1:d13e:1010101:0:0:0:https%3a//playworksdigital-ninjakidztv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ninja Kidz TV
+#DESCRIPTION Ninja Kidz TV
+#SERVICE 5002:0:1:4627:1656:565c:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dora TV by Pluto TV
+#DESCRIPTION Dora TV by Pluto TV
+#SERVICE 5002:0:1:a4de:3e45:45c2:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Totally Turtles by Pluto TV
+#DESCRIPTION Totally Turtles by Pluto TV
+#SERVICE 5002:0:1:221e:71b4:b4dc:1010101:0:0:0:https%3a//kidoodletv-kdtv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidoodle.TV
+#DESCRIPTION Kidoodle.TV
+#SERVICE 5002:0:1:cf76:8ea2:a20a:1010101:0:0:0:https%3a//newidco-babysharktv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV
+#DESCRIPTION Baby Shark TV
+#SERVICE 5002:0:1:944c:83ff:ff8f:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/pocketwat-ryan-friends-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ryan and Friends (Geo)
+#DESCRIPTION Ryan and Friends (Geo)
+#SERVICE 5002:0:1:5a7:d8c5:c557:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nick by Pluto TV
+#DESCRIPTION Nick by Pluto TV
+#SERVICE 5002:0:1:b99f:6d3b:3bd4:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nick Jr. by Pluto TV
+#DESCRIPTION Nick Jr. by Pluto TV
+#SERVICE 5002:0:1:19c2:6db8:b85f:1010101:0:0:0:https%3a//pocketwatch-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pocket.watch
+#DESCRIPTION Pocket.watch
+#SERVICE 5002:0:1:e8e1:13ad:ad0c:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/pocketwat-pocket-watch-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pocket.watch alt (Geo)
+#DESCRIPTION Pocket.watch alt (Geo)
+#SERVICE 5002:0:1:449:841d:1d3e:1010101:0:0:0:https%3a//sensical2up-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sensical Jnr (Geo)
+#DESCRIPTION Sensical Jnr (Geo)
+#SERVICE 5002:0:1:7d98:afb2:b231:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00722-commonsensenetw-sensical2up-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sensical Jnr alt (Geo)
+#DESCRIPTION Sensical Jnr alt (Geo)
+#SERVICE 5002:0:1:eecd:1523:2303:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Forever Kids by Pluto TV
+#DESCRIPTION Forever Kids by Pluto TV
+#SERVICE 5002:0:1:7a7d:2177:775a:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb301b7395671000780d100/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Little Baby Bum by Pluto TV
+#DESCRIPTION Little Baby Bum by Pluto TV
+#SERVICE 5002:0:1:4686:4550:5009:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kids Movie Club by Pluto TV
+#DESCRIPTION Kids Movie Club by Pluto TV
+#SERVICE 5002:0:1:8ffb:c5df:df11:1010101:0:0:0:https%3a//happykidsjunior-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Happy Kids Jr
+#DESCRIPTION Happy Kids Jr
+#SERVICE 5002:0:1:4b0b:5bdc:dc68:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/futuretod-happykidsjunior-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Happy Kids Jr alt
+#DESCRIPTION Happy Kids Jr alt
+#SERVICE 5002:0:1:b166:e191:9170:1010101:0:0:0:https%3a//happykids-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Happy Kids.TV
+#DESCRIPTION Happy Kids.TV
+#SERVICE 5002:0:1:20ba:ede9:e90b:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/futuretod-happykids-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Happy Kids.TV alt
+#DESCRIPTION Happy Kids.TV alt
+#SERVICE 5002:0:1:dd54:9c88:882b:1010101:0:0:0:https%3a//janson-supersimplesongs-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Super Simple Songs
+#DESCRIPTION Super Simple Songs
+#SERVICE 5002:0:1:cec7:b3ad:ade4:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefamily/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Family (DEAD)
+#DESCRIPTION Filmrise Family (DEAD)
+#SERVICE 5002:0:1:9cc4:dd1b:1b9f:1010101:0:0:0:https%3a//legochannel-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lego Channel
+#DESCRIPTION Lego Channel
+#SERVICE 5002:0:1:9ed9:36a6:a6cc:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/futuretod-legochannel-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lego Channel alt
+#DESCRIPTION Lego Channel alt
+#SERVICE 5002:0:1:643a:b768:68ad:1010101:0:0:0:https%3a//aenetworks-skills-thrills-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Skills and Thrills (Not Listed)
+#DESCRIPTION Skills and Thrills (Not Listed)
+#SERVICE 5002:0:1:84c8:62a:2a84:1010101:0:0:0:https%3a//mytime-vizio-ingest.cinedigm.com/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime Movie Network (Not Listed)
+#DESCRIPTION Mytime Movie Network (Not Listed)
+#SERVICE 5002:0:1:50a9:b4fd:fd72:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-truli-vizio-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Truli (Not Listed)
+#DESCRIPTION Truli (Not Listed)
+#SERVICE 5002:0:1:c2b5:5712:1247:1010101:0:0:0:https%3a//younghollywood-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Young Hollywood (Not Listed)
+#DESCRIPTION Young Hollywood (Not Listed)
+#SERVICE 5002:0:1:139c:10e7:e783:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-younghollywood-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Young Hollywood alt (Geo) (Not Listed)
+#DESCRIPTION Young Hollywood alt (Geo) (Not Listed)
+#SERVICE 5002:0:1:557a:3532:32b2:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-rarefiedatmosph-chivetv-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chive TV (Not Listed)
+#DESCRIPTION Chive TV (Not Listed)
+#SERVICE 5002:0:1:9d99:47aa:aa75:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-aweencore-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AWE (Not Listed)
+#DESCRIPTION AWE (Not Listed)
+#SERVICE 5002:0:1:6c8e:d1f5:f50f:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-introuble-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Introuble (Not Listed)
+#DESCRIPTION Introuble (Not Listed)
+#SERVICE 5002:0:1:ca5b:da2:a278:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-inwonder-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:InWonder (Not Listed)
+#DESCRIPTION InWonder (Not Listed)
+#SERVICE 5002:0:1:7123:da3:a302:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-donttellthebride-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Don't Tell the Bride (Geo) (Not Listed)
+#DESCRIPTION Don't Tell the Bride (Geo) (Not Listed)
+#SERVICE 5002:0:1:e5b:2a28:286a:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ET Live (Not Listed)
+#DESCRIPTION ET Live (Not Listed)
+#SERVICE 5002:0:1:1cc9:43fa:fa3a:1010101:0:0:0:https%3a//olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-canal44-vizio/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canal 44 (Not Listed)
+#DESCRIPTION Canal 44 (Not Listed)
