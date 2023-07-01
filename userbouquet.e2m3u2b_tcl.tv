@@ -29,10 +29,14 @@
 #DESCRIPTION Euronews SpanishMX -TCL
 #SERVICE 5002:0:1:4b25:bf1d:1d09:1010101:0:0:0:https%3a//euronews-euronews-spanish-2-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Spanish -TCL
 #DESCRIPTION Euronews Spanish -TCL
+#SERVICE 5002:0:1:56b8:6fd5:d504:1010101:0:0:0:https%3a//euronews-euronews-french-3-fr.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euroenews FrenchFR -TCL
+#DESCRIPTION Euroenews FrenchFR -TCL
 #SERVICE 5002:0:1:f111:e6fe:fe27:1010101:0:0:0:https%3a//pctv-meganoticias-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MegaNoticias Canal -TCL
 #DESCRIPTION MegaNoticias Canal -TCL
 #SERVICE 5002:0:1:857:c8f:8f2b:1010101:0:0:0:https%3a//pctv-meganoticias-1-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MegaNoticias CanalCA -TCL
 #DESCRIPTION MegaNoticias CanalCA -TCL
+#SERVICE 5002:0:1:dc0d:5a54:544b:1010101:0:0:0:https%3a//pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MegaNoticiasMX -TCL
+#DESCRIPTION MegaNoticiasMX -TCL
 #SERVICE 5002:0:1:3d74:be52:52af:1010101:0:0:0:https%3a//bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV -TCL
 #DESCRIPTION Bloomberg TV -TCL
 #SERVICE 5002:0:1:d4bb:21a9:a916:1010101:0:0:0:https%3a//bloomberg-bloombergtv-3-mx.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TVMX -TCL
@@ -57,6 +61,8 @@
 #DESCRIPTION The Young Turks -TCL (Geo)
 #SERVICE 5002:0:1:f149:94b8:b849:1010101:0:0:0:https%3a//newsmax-newsmaxtv-2-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Newsmax -TCL
 #DESCRIPTION Newsmax -TCL
+#SERVICE 5002:0:1:b032:27ff:ff4d:1010101:0:0:0:https%3a//newsmax-newsmaxtv-2-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Newsmax TVCA -TCL
+#DESCRIPTION Newsmax TVCA -TCL
 #SERVICE 5002:0:1:25f6:ce24:2412:1010101:0:0:0:https%3a//newsmax-newsmaxtv-2-br.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NewsmaxBR -TCL
 #DESCRIPTION NewsmaxBR -TCL
 #SERVICE 5002:0:1:c86e:4d32:329d:1010101:0:0:0:https%3a//p1media-realamericasvoice-2-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Americas Voice -TCL
@@ -83,12 +89,20 @@
 #DESCRIPTION Emergency -TCL
 #SERVICE 5002:0:1:1c03:ccac:ac2b:1010101:0:0:0:https%3a//rightsboosterltd-emergency-1-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EmergencyCA -TCL
 #DESCRIPTION EmergencyCA -TCL
+#SERVICE 5002:0:1:660:2706:6b9:1010101:0:0:0:https%3a//alliantcontent-warandmilitarynow-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:War and Military NowUS -TCL
+#DESCRIPTION War and Military NowUS -TCL
+#SERVICE 5002:0:1:875b:fca4:a460:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-historytimetclus-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:History TimeUS -TCL
+#DESCRIPTION History TimeUS -TCL
+#SERVICE 5002:0:1:2e84:b1da:daa6:1010101:0:0:0:https%3a//glovodlimited-irisheyestv-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Irish Eyes TVUS -TCl
+#DESCRIPTION Irish Eyes TVUS -TCl
 #SERVICE 5002:0:1:ebb5:2d6e:6ecd:1010101:0:0:0:https%3a//rightsboosterltd-scl-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strongman Champions League -TCL
 #DESCRIPTION Strongman Champions League -TCL
 #SERVICE 5002:0:1:6452:9378:7822:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-screamin-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Screamin -TCL
 #DESCRIPTION Screamin -TCL
 #SERVICE 5002:0:1:990d:e269:699f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LoveNature -TCL
 #DESCRIPTION LoveNature -TCL
+#SERVICE 5002:0:1:2ae8:8782:82e1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenaturespanish-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lovenature Spanish -TCL
+#DESCRIPTION Lovenature Spanish -TCL
 #SERVICE 5002:0:1:d82e:6d01:18b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Davinci -TCL
 #DESCRIPTION Davinci -TCL
 #SERVICE 5002:0:1:f850:5fba:ba25:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle -TCL
@@ -101,8 +115,10 @@
 #DESCRIPTION Outdoor Action TV -TCL
 #SERVICE 5002:0:1:6309:30bb:bb1f:1010101:0:0:0:https%3a//careco-outdoor-action-1-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor ActionCA -TCL
 #DESCRIPTION Outdoor ActionCA -TCL
-#SERVICE 5002:0:1:25af:b502:2b3:1010101:0:0:0:https%3a//nosey-2-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey -TCL
-#DESCRIPTION Nosey -TCL
+#SERVICE 5002:0:1:a97b:47c3:c3d8:1010101:0:0:0:https%3a//nosey-2-au.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NoseyAU -TCL
+#DESCRIPTION NoseyAU -TCL
+#SERVICE 5002:0:1:ad04:62d:2df5:1010101:0:0:0:https%3a//nosey-2-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NoseyUS -TCL
+#DESCRIPTION NoseyUS -TCL
 #SERVICE 5002:0:1:3451:37ac:acda:1010101:0:0:0:https%3a//nosey-2-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NoseyCA -TCL
 #DESCRIPTION NoseyCA -TCL
 #SERVICE 5002:0:1:fb06:7dbc:bc40:1010101:0:0:0:https%3a//nosey-2-de.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NoseyDE -TCL
@@ -113,6 +129,8 @@
 #DESCRIPTION Nosey 3BR -TCL
 #SERVICE 5002:0:1:38b6:a4e7:e7ac:1010101:0:0:0:https%3a//filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmzie -TCL
 #DESCRIPTION Filmzie -TCL
+#SERVICE 5002:0:1:616d:6f0f:f02:1010101:0:0:0:https%3a//filmzie-filmzie-2-au.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmzieAU -TCL
+#DESCRIPTION FilmzieAU -TCL
 #SERVICE 5002:0:1:f096:3986:8685:1010101:0:0:0:https%3a//globi-globi-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Globi -TCL
 #DESCRIPTION Globi -TCL
 #SERVICE 5002:0:1:6dde:8294:9401:1010101:0:0:0:https%3a//globi-globi-1-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:GlobiCA -TCL
@@ -135,17 +153,19 @@
 #DESCRIPTION Maverick Black Cinema -TCL
 #SERVICE 5002:0:1:6600:41e6:e69c:1010101:0:0:0:https%3a//maverick-maverick-black-cinema-2-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Maverick Black CinemaCA -TCL
 #DESCRIPTION Maverick Black CinemaCA -TCL
-#SERVICE 5002:0:1:63f6:b390:90fc:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=4158#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Star Cinema
+#SERVICE 5002:0:1:63f6:b390:90fc:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/4e160454-ffee-4efc-beb6-a141b0343f51_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Star Cinema
 #DESCRIPTION Star Cinema
-#SERVICE 5002:0:1:4b94:f91f:1f3e:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2887#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Danger Vision -TCL
+#SERVICE 5002:0:1:4b94:f91f:1f3e:1010101:0:0:0:https%3a//danger-vision-tv-tcl.evrideo.tv/52756c98-452c-4873-a843-31462a04dd53_1000014890_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Danger Vision -TCL
 #DESCRIPTION Danger Vision -TCL
 #SERVICE 5002:0:1:1177:5a85:8545:1010101:0:0:0:https%3a//lol-lolnetwork-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LOL Network -TCL
 #DESCRIPTION LOL Network -TCL
+#SERVICE 5002:0:1:f7a1:bc4:c482:1010101:0:0:0:https%3a//lol-tv-tcl.evrideo.tv/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lol TV -TCL
+#DESCRIPTION Lol TV -TCL
 #SERVICE 5002:0:1:dae3:f6d6:d68d:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-mst3k-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MST3K -TCL
 #DESCRIPTION MST3K -TCL
 #SERVICE 5002:0:1:247c:a064:64b3:1010101:0:0:0:https%3a//bec-action-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Action -TCL
 #DESCRIPTION Action -TCL
-#SERVICE 5002:0:1:4bc6:b44f:4fc5:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2893#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horror TV -TCL
+#SERVICE 5002:0:1:4bc6:b44f:4fc5:1010101:0:0:0:https%3a//horror-tv-tcl.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horror TV -TCL
 #DESCRIPTION Horror TV -TCL
 #SERVICE 5002:0:1:3a36:f8de:debb:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvus-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HauntTV -TCL
 #DESCRIPTION HauntTV -TCL
@@ -171,16 +191,16 @@
 #DESCRIPTION Watch MojoFR -TCL
 #SERVICE 5002:0:1:c0a3:ac1f:1f8a:1010101:0:0:0:https%3a//watchmojo-1-de.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Watch MojoDE -TCL
 #DESCRIPTION Watch MojoDE -TCL
-#SERVICE 5002:0:1:b39a:4c5a:5a45:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2888#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Encore + -TCL
-#DESCRIPTION Encore + -TCL
-#SERVICE 5002:0:1:e4b5:6728:288e:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2883#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Heartfelt TV -TCL
+#SERVICE 5002:0:1:810e:96cd:cd7e:1010101:0:0:0:https%3a//rightsboosterltd-bigg-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bigg TVUS -TCL
+#DESCRIPTION Bigg TVUS -TCL
+#SERVICE 5002:0:1:bf2a:15a6:a61b:1010101:0:0:0:https%3a//encore-plus-tcl.evrideo.tv/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Encore Plus -TCL
+#DESCRIPTION Encore Plus -TCL
+#SERVICE 5002:0:1:e4b5:6728:288e:1010101:0:0:0:https%3a//heartfelt-tv-tcl.evrideo.tv/cab1bb3c-2906-49bf-a503-6cbcb54935ac_1000014573_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Heartfelt TV -TCL
 #DESCRIPTION Heartfelt TV -TCL
-#SERVICE 5002:0:1:c4f1:8ce3:e375:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2885#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outer Vision Channel -TCL
+#SERVICE 5002:0:1:c4f1:8ce3:e375:1010101:0:0:0:https%3a//outer-vision-tv-tcl.evrideo.tv/cdef8956-d9c3-4278-b596-f35b9649692d_1000014575_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outer Vision Channel -TCL
 #DESCRIPTION Outer Vision Channel -TCL
-#SERVICE 5002:0:1:d0f:b8f9:f9a4:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2882#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bang Bang -TLC
-#DESCRIPTION Bang Bang -TLC
-#SERVICE 5002:0:1:129d:f3a5:a566:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3353#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Black Neon
-#DESCRIPTION Black Neon
+#SERVICE 5002:0:1:5b98:f4e3:e3d8:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/fd7c895e-aa96-4298-ad6d-2be4936f5347_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bang Bang -TCL
+#DESCRIPTION Bang Bang -TCL
 #SERVICE 5002:0:1:7184:e26c:6cf7:1010101:0:0:0:https%3a//bloodydisgusting-tcl.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloody Disgusting -TCL
 #DESCRIPTION Bloody Disgusting -TCL
 #SERVICE 5002:0:1:bc8b:b560:602c:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieDome Family -TCL
@@ -209,6 +229,8 @@
 #DESCRIPTION Real Nosey -TCL
 #SERVICE 5002:0:1:836b:ce01:1d5:1010101:0:0:0:https%3a//nosey-realnosey-1-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real NoseyCA -TCL
 #DESCRIPTION Real NoseyCA -TCL
+#SERVICE 5002:0:1:20df:77dc:dcfe:1010101:0:0:0:https%3a//nosey-realnosey-1-de.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real NoseyDE -TCL
+#DESCRIPTION Real NoseyDE -TCL
 #SERVICE 5002:0:1:4a06:6942:4271:1010101:0:0:0:https%3a//nosey-realnosey-1-br.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real NoseyBR -TCL
 #DESCRIPTION Real NoseyBR -TCL
 #SERVICE 5002:0:1:a8ca:42a6:a610:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-dttb-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dont tell the Bride -TCL
@@ -247,6 +269,8 @@
 #DESCRIPTION True Crime -TCL
 #SERVICE 5002:0:1:4008:88ae:aebc:1010101:0:0:0:https%3a//alliantcontent-truecrimenow-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Truecrime Now -TCL
 #DESCRIPTION Truecrime Now -TCL
+#SERVICE 5002:0:1:21e7:c2d6:d65d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homicide -TCL
+#DESCRIPTION Homicide -TCL
 #SERVICE 5002:0:1:16b2:9feb:eb52:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3492#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Edgy TV
 #DESCRIPTION Edgy TV
 #SERVICE 5002:0:1:39c5:a0e6:e68d:1010101:0:0:0:https%3a//bec-witz-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Witz -TCL
@@ -299,12 +323,12 @@
 #DESCRIPTION Beutiful PlanetCA -TCL
 #SERVICE 5002:0:1:c1d:9a67:678e:1010101:0:0:0:https%3a//answermedia-beautiful-planet-1-au.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beutiful PlanetAU -TCL
 #DESCRIPTION Beutiful PlanetAU -TCL
-#SERVICE 5002:0:1:b6ea:d14d:4dd7:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2880#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sacred Sites S+ -TCL
+#SERVICE 5002:0:1:b6ea:d14d:4dd7:1010101:0:0:0:https%3a//s-plus-tcl.evrideo.tv/91cf8e90-ebe5-48b4-a0ad-6d001d27d479_1000012093_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sacred Sites S+ -TCL
 #DESCRIPTION Sacred Sites S+ -TCL
 #SERVICE 5002:0:1:a6e5:efad:adec:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2898#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Heritage Tourism -TCL
 #DESCRIPTION Heritage Tourism -TCL
-#SERVICE 5002:0:1:1f2:ecca:ca03:1010101:0:0:0:https%3a//escapes-escapes-2-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Escapes -TCL
-#DESCRIPTION Escapes -TCL
+#SERVICE 5002:0:1:ef54:74c9:c996:1010101:0:0:0:https%3a//escape-tv-tcl.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Escape TV -TCL
+#DESCRIPTION Escape TV -TCL
 #SERVICE 5002:0:1:df8d:2a74:74cb:1010101:0:0:0:https%3a//escapes-escapes-2-br.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EscapesBR -TCL
 #DESCRIPTION EscapesBR -TCL
 #SERVICE 5002:0:1:a09b:61f7:f7c2:1010101:0:0:0:https%3a//documentaryplus-documentaryplus-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Documentary + -TCL
@@ -349,8 +373,8 @@
 #DESCRIPTION Edgy Urban
 #SERVICE 5002:0:1:70c3:2e5a:5a25:1010101:0:0:0:https%3a//careco-outdoor-action-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor Action TV -TCL
 #DESCRIPTION Outdoor Action TV -TCL
-#SERVICE 5002:0:1:b7d2:b7c0:c029:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2891#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:OSC+ -TCL
-#DESCRIPTION OSC+ -TCL
+#SERVICE 5002:0:1:d2e5:c8b7:b741:1010101:0:0:0:https%3a//osc-plus-tcl.evrideo.tv/7209b0e6-3e61-43dc-8574-2a091d5c8e60_1000016065_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor Sport Channel -TCL
+#DESCRIPTION Outdoor Sport Channel -TCL
 #SERVICE 5002:0:1:e00f:53b9:b909:1010101:0:0:0:https%3a//rtmtv-samsung-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Powernation -TCL
 #DESCRIPTION Powernation -TCL
 #SERVICE 5002:0:1:fcc6:2f6d:6df9:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3962#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor America
@@ -367,6 +391,8 @@
 #DESCRIPTION Auto AllstarsBR -TCL
 #SERVICE 5002:0:1:ae53:f9f0:f0af:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-mx.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Auto AllstarsMX -TCL
 #DESCRIPTION Auto AllstarsMX -TCL
+#SERVICE 5002:0:1:834e:ec05:5c7:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-de.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Auto AllstarsDE -TCL
+#DESCRIPTION Auto AllstarsDE -TCL
 #SERVICE 5002:0:1:c3f0:e6bd:bdd4:1010101:0:0:0:https%3a//pursuitmedia-pursuitup-2-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pursuit UP -TCL
 #DESCRIPTION Pursuit UP -TCL
 #SERVICE 5002:0:1:f570:dbd7:d7eb:1010101:0:0:0:https%3a//pursuitmedia-pursuitup-2-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pursuit UPCA -TCL
@@ -563,22 +589,30 @@
 #DESCRIPTION Unbeaten -TCL
 #SERVICE 5002:0:1:98cd:7d77:7785:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports Grid -TCL
 #DESCRIPTION Sports Grid -TCL
-#SERVICE 5002:0:1:f547:dbbd:bd65:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2892#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kozoom TV -TCL
+#SERVICE 5002:0:1:f547:dbbd:bd65:1010101:0:0:0:https%3a//kozoom-tv-tcl.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kozoom TV -TCL
 #DESCRIPTION Kozoom TV -TCL
 #SERVICE 5002:0:1:eab5:e26d:6dae:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassics-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle Classics -TCL
 #DESCRIPTION Crackle Classics -TCL
 #SERVICE 5002:0:1:549f:2766:6678:1010101:0:0:0:https%3a//shoutfactory-carolburnett-tcl.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Carol Burnett -TCL (Geo)
 #DESCRIPTION Carol Burnett -TCL (Geo)
-#SERVICE 5002:0:1:8fbb:d1df:df1a:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2890#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mercury+ -TCL
-#DESCRIPTION Mercury+ -TCL
+#SERVICE 5002:0:1:7d17:ca0:a0d2:1010101:0:0:0:https%3a//mercury-plus-tcl.evrideo.tv/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mercury+ for -TCL
+#DESCRIPTION Mercury+ for -TCL
 #SERVICE 5002:0:1:6108:1079:79f5:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=4154#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bollywood HD Classic
 #DESCRIPTION Bollywood HD Classic
 #SERVICE 5002:0:1:30a9:64fe:fe6e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-comedydynamics-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Dynamics -TCL
 #DESCRIPTION Comedy Dynamics -TCL
+#SERVICE 5002:0:1:2a79:90ed:ed64:1010101:0:0:0:https%3a//distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just for laughs GagsUS -TCL
+#DESCRIPTION Just for laughs GagsUS -TCL
+#SERVICE 5002:0:1:4728:f229:291d:1010101:0:0:0:https%3a//distributionsjustepourrire-justforlaughsgags-1-de.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just for Laughs GagsDE -TCL
+#DESCRIPTION Just for Laughs GagsDE -TCL
 #SERVICE 5002:0:1:e08c:aff2:f29f:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3386#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Drive in Channel
 #DESCRIPTION The Drive in Channel
 #SERVICE 5002:0:1:599a:a1fd:fd06:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3382#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Best Classic TV
 #DESCRIPTION Best Classic TV
+#SERVICE 5002:0:1:2f9c:8e13:1390:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-cinenanar-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinenanar -TCL
+#DESCRIPTION Cinenanar -TCL
+#SERVICE 5002:0:1:38aa:e9d4:d494:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-yaquelaverite-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yaquelaverite -TCL
+#DESCRIPTION Yaquelaverite -TCL
 #SERVICE 5002:0:1:9157:f4ac:acf3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-dovenow-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dove Now -TCL
 #DESCRIPTION Dove Now -TCL
 #SERVICE 5002:0:1:9424:3f91:913b:1010101:0:0:0:https%3a//triplesquirrels-evrgrn-1-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EvrgrnCA -TCL
@@ -679,6 +713,12 @@
 #DESCRIPTION NewkID -TCL
 #SERVICE 5002:0:1:fa34:215d:5d20:1010101:0:0:0:https%3a//newidco-newkid-1-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NewkIDCA -TCL
 #DESCRIPTION NewkIDCA -TCL
+#SERVICE 5002:0:1:73ce:97ec:ec7f:1010101:0:0:0:https%3a//jansonmedia-kidstv-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kids TVUS -TCL
+#DESCRIPTION Kids TVUS -TCL
+#SERVICE 5002:0:1:34d5:cea6:a63c:1010101:0:0:0:https%3a//beanostudios-dennis-and-gnasher-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dennis and GnasherUS -TCL
+#DESCRIPTION Dennis and GnasherUS -TCL
+#SERVICE 5002:0:1:88a7:60:6052:1010101:0:0:0:https%3a//beanostudios-dennis-and-gnasher-1-br.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dennis and GnasherBR -TCL
+#DESCRIPTION Dennis and GnasherBR -TCL
 #SERVICE 5002:0:1:619a:5fd9:d914:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-w4freemovies-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:W4Free Movies -TCL
 #DESCRIPTION W4Free Movies -TCL
 #SERVICE 5002:0:1:8a10:3c9:c949:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzentv-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Myzen TV -TCL
@@ -713,6 +753,8 @@
 #DESCRIPTION Ditty TVMX -TCL
 #SERVICE 5002:0:1:7472:63b0:b050:1010101:0:0:0:https%3a//mhz-samsung-linear-ca.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MHZCA -TCL
 #DESCRIPTION MHZCA -TCL
+#SERVICE 5002:0:1:e5ac:e0db:dbfe:1010101:0:0:0:https%3a//mhz-samsung-linear-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MHZUS -TCL
+#DESCRIPTION MHZUS -TCL
 #SERVICE 5002:0:1:7012:2a1c:1c6e:1010101:0:0:0:https%3a//indigenius-toowild-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Too Wild -TCL
 #DESCRIPTION Too Wild -TCL
 #SERVICE 5002:0:1:699a:3366:66c7:1010101:0:0:0:https%3a//spi-filmstream-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmstream -TCL
@@ -739,12 +781,18 @@
 #DESCRIPTION Manifest TVFR -TCL
 #SERVICE 5002:0:1:f95c:4882:828f:1010101:0:0:0:https%3a//kdmg-manifesttv-1-de.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Manifest TVDE -TCL
 #DESCRIPTION Manifest TVDE -TCL
-#SERVICE 5002:0:1:2e73:34d3:d3af:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2886#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chukker -TCL
+#SERVICE 5002:0:1:2e73:34d3:d3af:1010101:0:0:0:https%3a//the-chukker-channel-tv-tcl.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chukker -TCL
 #DESCRIPTION Chukker -TCL
 #SERVICE 5002:0:1:4b94:f91f:1f3e:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2887#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Danger Vision -TCL
 #DESCRIPTION Danger Vision -TCL
-#SERVICE 5002:0:1:6c74:cd2c:2c63:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2889#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:kIDDO+ -TCL
-#DESCRIPTION kIDDO+ -TCL
+#SERVICE 5002:0:1:1589:5a2f:2ffd:1010101:0:0:0:https%3a//kiddo-plus-tcl.evrideo.tv/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kiddo Plus -TCL
+#DESCRIPTION Kiddo Plus -TCL
+#SERVICE 5002:0:1:6678:106d:6dbb:1010101:0:0:0:https%3a//cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qcomdistaantcl-ono/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Q You India -TCL
+#DESCRIPTION Q You India -TCL
+#SERVICE 5002:0:1:7ce1:1502:2bc:1010101:0:0:0:https%3a//cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathitcl-ono/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Q Marathi -TCL
+#DESCRIPTION Q Marathi -TCL
+#SERVICE 5002:0:1:d27e:f4c9:c9c5:1010101:0:0:0:https%3a//cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qyoutvtcl-ono/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Q You TV -TCL
+#DESCRIPTION Q You TV -TCL
 #SERVICE 5002:0:1:8fbb:d1df:df1a:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2890#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mercury+ -TCL
 #DESCRIPTION Mercury+ -TCL
 #SERVICE 5002:0:1:1ab2:9f2f:2f4b:1010101:0:0:0:https%3a//rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RCN Mas+ -TCL
