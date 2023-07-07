@@ -1,16 +1,16 @@
 #NAME IPTV PL REGIONALNE YT RADIO (azman)
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- Rakuten TV PL ---
+#DESCRIPTION --- Rakuten TV PL ---
+#SERVICE 5002:0:1:1F7:A11A:2268:0:0:0:0:https%3a//b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/782a4d55-2593-44e7-95c4-6466a6006138/2.m3u8:Grjngo Westerny
+#DESCRIPTION Grjngo Westerny
+#SERVICE 5002:0:1:239:A11A:2268:0:0:0:0:https%3a//103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/7fe0406a-552d-4457-96ee-bffacdcb3462/2.m3u8:BjgTjme
+#DESCRIPTION BjgTjme
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- Tv Online & Megogo ---
 #DESCRIPTION --- Tv Online & Megogo ---
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp1hd/Ryne8xhYKhfTAQAA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
 #SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp2hd/6KT2fDpYKhe5AQCA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 2 HD
 #DESCRIPTION TVP 2 HD
-#SERVICE 1:64:B:0:0:0:0:0:0:0::--- Rakuten TV PL ---
-#DESCRIPTION --- Rakuten TV PL ---
-#SERVICE 5002:0:1:239:A11A:2268:0:0:0:0:https%3a//103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/7fe0406a-552d-4457-96ee-bffacdcb3462/2.m3u8:BjgTjme
-#DESCRIPTION BjgTjme
-#SERVICE 5002:0:1:1F7:A11A:2268:0:0:0:0:https%3a//b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/782a4d55-2593-44e7-95c4-6466a6006138/2.m3u8:Grjngo Westerny
-#DESCRIPTION Grjngo Westerny
 #SERVICE 1:64:5:0:0:0:0:0:0:0::--- Regionalne + YT ---
 #DESCRIPTION --- Regionalne + YT ---
 #SERVICE 5002:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
