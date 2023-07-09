@@ -45,10 +45,10 @@
 #DESCRIPTION TV DAMI  (YT)
 #SERVICE 4097:0:1:58:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8:TV Dami
 #DESCRIPTION TV Dami
-#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UC5Z6rlfp5ZEsqgxUmjfZCDA.m3u8:TV MAZOWSZE  (YT)
-#DESCRIPTION TV MAZOWSZE  (YT)
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:http%3a//stream.tvmazowsze.pl%3a5920/tmp_hls/stream/index.m3u8:TV Mazowsze
 #DESCRIPTION TV Mazowsze
+#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Tvmazowsze/live:TV MAZOWSZE  (YT)
+#DESCRIPTION TV MAZOWSZE  (YT)
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UC5Z6rlfp5ZEsqgxUmjfZCDA.m3u8:TV Mazowsze
 #DESCRIPTION TV Mazowsze
 #SERVICE 5002:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
@@ -67,8 +67,6 @@
 #DESCRIPTION TV JASŁO
 #SERVICE 5002:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
 #DESCRIPTION TV Lubań
-#SERVICE 4097:0:1:394F:7D0A:EC:0:0:0:0:http%3a//195.191.180.21%3a1935/live/mp4%3amyStream/chunklist_w1413150541_tkd293emF0b2tlbmVuZHRpbWU9MTY4NzY5NDk0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2ODc2ODQxNDAmd293emF0b2tlbmhhc2g9cDlIZmk0ZFBHMU1BZ1dneXJnbV9fZkVlaVktZnBRR1V2Z0VfVWpQdGtOND0=.m3u8:Tetka TV
-#DESCRIPTION Tetka TV
 #SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ArcadiaTVWorld/live:Arcadia TV World  (YT)
 #DESCRIPTION Arcadia TV World  (YT)
 #SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCySoNg54OYL6oImf7XhJaUA.m3u8:Arcadia TV World
@@ -215,6 +213,8 @@
 #DESCRIPTION Kanał Sportowy
 #SERVICE 1:64:6:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
+#SERVICE 4097:0:1:394F:7D0A:EC:0:0:0:0:http%3a//195.191.180.21%3a1935/live/mp4%3amyStream/chunklist_w1413150541_tkd293emF0b2tlbmVuZHRpbWU9MTY4NzY5NDk0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2ODc2ODQxNDAmd293emF0b2tlbmhhc2g9cDlIZmk0ZFBHMU1BZ1dneXJnbV9fZkVlaVktZnBRR1V2Z0VfVWpQdGtOND0=.m3u8:Tetka TV
+#DESCRIPTION Tetka TV
 #SERVICE 4097:0:1:C5B:918F:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LPUTVpl/live:LPU TV  (YT)
 #DESCRIPTION LPU TV  (YT)
 #SERVICE 5002:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
