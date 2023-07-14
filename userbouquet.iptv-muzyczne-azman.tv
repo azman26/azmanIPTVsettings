@@ -139,8 +139,14 @@
 #DESCRIPTION Deep Tech Minimal
 #SERVICE 4097:0:1:E11:3D62:EC:0:0:0:0:https%3a//eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8:DeepHouse District
 #DESCRIPTION DeepHouse District
+#SERVICE 4097:0:1:898:8759:EC:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8:DELUXE DANCE
+#DESCRIPTION DELUXE DANCE
 #SERVICE 4097:0:1:A156:12FA:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6278ec6c33d85a00077ad814/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Deluxe Lounge HD
 #DESCRIPTION Deluxe Lounge HD
+#SERVICE 4097:0:1:C55:ECD9:EC:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8:DELUXE MUSIC
+#DESCRIPTION DELUXE MUSIC
+#SERVICE 4097:0:1:8096:C999:EC:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8:DELUXE ROCK
+#DESCRIPTION DELUXE ROCK
 #SERVICE 4097:0:1:D833:F02E:EC:0:0:0:0:http%3a//live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8:Desi Channel
 #DESCRIPTION Desi Channel
 #SERVICE 4097:0:1:7AEF:4D71:EC:0:0:0:0:https%3a//ghaasiflu.online/tarab/index.m3u8:Dijlah Tarab
@@ -717,6 +723,8 @@
 #DESCRIPTION Reload (804p)
 #SERVICE 4097:0:1:3B3D:C82:EC:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/video/video/chunklist_w1235825277.m3u8:RELOAD RADIO MUSIC POWER HD
 #DESCRIPTION RELOAD RADIO MUSIC POWER HD
+#SERVICE 4097:0:1:30BC:5D55:EC:0:0:0:0:https%3a//eurodance90.catcast.tv/content/38204/index.m3u8:RETRO 80
+#DESCRIPTION RETRO 80
 #SERVICE 4097:0:1:26B6:FF49:EC:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w669357231.m3u8:Retro Music
 #DESCRIPTION Retro Music
 #SERVICE 4097:0:1:EC7C:6BCC:EC:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8:Retro Music
