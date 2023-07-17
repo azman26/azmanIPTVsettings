@@ -1,4 +1,4 @@
-# Enigma2 Bouquets - Listy z linkami do przekazów polskich lokalnych stacji TV, kanałów na YouTube oraz przekazów z TVP GO, TVP Stream i HbbTV a także platform streamingowych typu FAST jak Rakuten TV.
+# Enigma2 Bouquets - bukiety z linkami do przekazów polskich lokalnych stacji TV, kanałów na YouTube oraz przekazów z TVP GO, TVP Stream i HbbTV a także platform streamingowych typu FAST jak Rakuten TV.
 
 Do prawidłowego działania większości kanałów w listach wymagana jest dodatek "STREAMLINK" z zawartymi w niej oficjalnymi pluginami oraz dodatkowe komponenty ( streamlinkwrapper + ytdlpwrapper + ytdlwrapper + streamlinksrv ).
 
