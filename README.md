@@ -26,7 +26,7 @@ Poza oficjalnymi pluginami wymagane są też autorskie pluginy j00zka ( _pilot
 
 - Rakuten TV (PL), (UK), (DE) oraz Pluto TV (UK), (USA), (DE) - własnoręcznie generowane bukiety przy użyciu autorskich pluginów kolegi @Billy2011.
 
-- Distro, Free MoviesPlus, LG, LocalNow, Roku, TCL, Tubi, Vidaa, Vizio, Xiaomi - jest to kopia 1:1 list których autorem jest @Apsatv.
+- Distro, Free MoviesPlus, LG, LocalNow, Roku, TCL, Tubi, Vidaa, Vizio, Xiaomi - jest to kopia 1:1 list których autorem jest @Apsattv.
 
 - Samsung TV Plus All, Pluto TV All, Srirr, Plex - jest to kopia 1:1 list których autorem jest @Matt Huisman
 
