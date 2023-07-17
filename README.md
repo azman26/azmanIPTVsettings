@@ -8,23 +8,25 @@ Poza oficjalnymi pluginami wymagane są też autorskie pluginy j00zka ( _pilot
   
 - IPTV TVP (azman) - lista zawiera wszystkie przekazy jakie pojawiają się na TVP Stream i TVP GO.
 
-- IPTV TVP VOD [azman] - lista zawiera odcinki starych kultowych seriali i wybranych filmów dostępnych na TVP VOD.
+- IPTV TVP VOD (azman) - lista zawiera odcinki starych kultowych seriali i wybranych filmów dostępnych na TVP VOD.
   
-- POLSKIE STACJE RADIOWE [zet71] - Ponad 1000 rozgłośni radia internetowego autorstwa @zet71.
+- POLSKIE STACJE RADIOWE (zet71) - Ponad 1000 rozgłośni radia internetowego autorstwa @zet71.
 
-- IPTV_MUZYCZNE_azman - Coś około 500 linków zebrane w jedną listę kanałów z muzą. Niektóre podwójnie a nawet potrójnie z racji posiadania kilku źródeł do tego samego przekazu. Pełne spektrum gatunków muzycznych z całej planety. Posortowane alfabetycznie.
+- IPTV MUZYCZNE (azman) - Coś około 500 linków zebrane w jedną listę kanałów z muzą. Niektóre podwójnie a nawet potrójnie z racji posiadania kilku źródeł do tego samego przekazu. Pełne spektrum gatunków muzycznych z całej planety. Posortowane alfabetycznie.
 
 - XIAOMI TV+ PL (azman) - lista z kanałami oficjalnie dostępnymi w apce Xiaomi TV+ dla polskiego regionu.
 
 - IPTV_SPORT_azman - Sport w przeróżnych językach. Posortowane alfabetycznie.
 
-- IPTV_RELAX_azman - Takie tam relaxujace kanały (kominek, plaża, akwarium i inne)
+- IPTV_RELAX_azman - Takie tam relaxujace kanały (kominek, plaża, akwarium i inne).
 
-- IPTV OK.RU + VK [azman] - lista zawiera dostępne kanały z serwisów ok.ru  i VK (przedewszystkim kanały muzyczne).
+- IPTV OK.RU + VK (azman) - lista zawiera dostępne kanały z serwisów ok.ru  i VK (przede wszystkim kanały muzyczne).
 
-- Rakuten TV (PL), (UK), (DE) oraz Pluto TV (UK), (USA), (DE) - generuję przy użyciu autorskich pluginów kolegi @Billy2011
+- Kamery Internetowe PL (endriu) - lista zawierająca kamerki internetowe z całej PL, autorem jest kolega @endriu.
 
-- Distro, Free MoviesPlus, LG, LocalNow, Roku, TCL, Tubi, Vidaa, Vizio, Xiaomi - jest to kopia 1:1 list których autorem jest @Apsatv 
+- Rakuten TV (PL), (UK), (DE) oraz Pluto TV (UK), (USA), (DE) - generuję przy użyciu autorskich pluginów kolegi @Billy2011.
+
+- Distro, Free MoviesPlus, LG, LocalNow, Roku, TCL, Tubi, Vidaa, Vizio, Xiaomi - jest to kopia 1:1 list których autorem jest @Apsatv.
 
 - Samsung TV Plus All, Pluto TV All, Srirr, Plex - jest to kopia 1:1 list których autorem jest @Matt Huisman
 
