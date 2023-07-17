@@ -4,7 +4,7 @@ Do prawidłowego działania większości kanałów w listach wymagana jest dodat
 
 Poza oficjalnymi pluginami wymagane są też autorskie pluginy j00zka ( _pilotwppl,  _tvpstream,  _tvregionalna ), które zawarte są w jego Streamlink Konfiguratorze.
 
-- IPTV PL REGIONALNE YT RADIO (azman) - lista zawiera legalne polskie lub polskojęzyczne kanały IPTV oraz wszystkie lokalne kanały TV jak i stałe przekazy na YT jakie udało się znaleźć. Dodatkowo zawiera pakiet polskich rozgłośni radiowych dla których jest możliwość generowania EPG
+- IPTV PL REGIONALNE YT RADIO (azman) - lista zawiera legalne polskie lub polskojęzyczne kanały IPTV w tym również te z platform FAST oraz wszystkie lokalne kanały TV jak i stałe przekazy na YT jakie udało się znaleźć. Dodatkowo zawiera pakiet polskich rozgłośni radiowych dla których jest możliwość generowania EPG
   
 - IPTV TVP (azman) - lista zawiera wszystkie przekazy jakie pojawiają się na TVP Stream i TVP GO.
 
@@ -13,6 +13,8 @@ Poza oficjalnymi pluginami wymagane są też autorskie pluginy j00zka ( _pilot
 - POLSKIE STACJE RADIOWE [zet71] - Ponad 1000 rozgłośni radia internetowego autorstwa @zet71.
 
 - IPTV_MUZYCZNE_azman - Coś około 500 linków zebrane w jedną listę kanałów z muzą. Niektóre podwójnie a nawet potrójnie z racji posiadania kilku źródeł do tego samego przekazu. Pełne spektrum gatunków muzycznych z całej planety. Posortowane alfabetycznie.
+
+- XIAOMI TV+ PL (azman) - lista z kanałami oficjalnie dostępnymi w apce Xiaomi TV+ dla polskiego regionu.
 
 - IPTV_SPORT_azman - Sport w przeróżnych językach. Posortowane alfabetycznie.
 
