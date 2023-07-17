@@ -24,7 +24,7 @@ Poza oficjalnymi pluginami wymagane są też autorskie pluginy j00zka ( _pilot
 
 - Kamery Internetowe PL (endriu) - lista zawierająca kamerki internetowe z całej PL, autorem jest kolega @endriu.
 
-- Rakuten TV (PL), (UK), (DE) oraz Pluto TV (UK), (USA), (DE) - generuję przy użyciu autorskich pluginów kolegi @Billy2011.
+- Rakuten TV (PL), (UK), (DE) oraz Pluto TV (UK), (USA), (DE) - własnoręcznie generowane bukiety przy użyciu autorskich pluginów kolegi @Billy2011.
 
 - Distro, Free MoviesPlus, LG, LocalNow, Roku, TCL, Tubi, Vidaa, Vizio, Xiaomi - jest to kopia 1:1 list których autorem jest @Apsatv.
 
