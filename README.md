@@ -1,26 +1,30 @@
-# Enigma2 Bouquets - Listy z linkami do przekazów polskich lokalnych stacji TV, kanałów na YouTube oraz przekazów z TVP GO, TVP Stream i HbbTV
+# Enigma2 Bouquets - Listy z linkami do przekazów polskich lokalnych stacji TV, kanałów na YouTube oraz przekazów z TVP GO, TVP Stream i HbbTV a także platform streamingowych typu FAST jak Rakuten TV.
 
-Do prawidłowego działania większości kanałów w listach wymagana jest wtyczka "STREAMLINK" z zawartymi w niej oficjalnymi pluginami oraz dodatkowe komponenty ( streamlinkwrapper + ytdlpwrapper + ytdlwrapper + streamlinksrv ).
+Do prawidłowego działania większości kanałów w listach wymagana jest dodatek "STREAMLINK" z zawartymi w niej oficjalnymi pluginami oraz dodatkowe komponenty ( streamlinkwrapper + ytdlpwrapper + ytdlwrapper + streamlinksrv ).
 
 Poza oficjalnymi pluginami wymagane są też autorskie pluginy j00zka ( _pilotwppl,  _tvpstream,  _tvregionalna ), które zawarte są w jego Streamlink Konfiguratorze.
 
-- IPTV REGIONALNE + YT + RADIO [azman] - lista zawiera wszystkie lokalne polskie kanały oraz stałe przekazy na YT jakie udało się znaleźć. Dodatkowo zawiera pakiet polskich rozgłośni radiowych dla których jest możliwość generowania EPG . ( wymagane oficjalne pluginy Streamlinka ) + ( ytdlpwrapper )
+- IPTV PL REGIONALNE YT RADIO (azman) - lista zawiera legalne polskie lub polskojęzyczne kanały IPTV oraz wszystkie lokalne kanały TV jak i stałe przekazy na YT jakie udało się znaleźć. Dodatkowo zawiera pakiet polskich rozgłośni radiowych dla których jest możliwość generowania EPG
+  
+- IPTV TVP (azman) - lista zawiera wszystkie przekazy jakie pojawiają się na TVP Stream i TVP GO.
 
-- IPTV TVP [azman] - lista zawiera wszystkie przekazy jakie pojawiają się na TVP Stream i TVP GO. ( wymagane pluginy j00zka _tvpstream, _tvregionalna ) + ( streamlinkwrapper )
-
-- IPTV TVP VOD [azman] - lista zawiera odcinki starych kultowych seriali i wybranych filmów dostępnych na TVP VOD. ( wymagany plugin j00zka _tvpstream ) + ( streamlinkwrapper )
-
+- IPTV TVP VOD [azman] - lista zawiera odcinki starych kultowych seriali i wybranych filmów dostępnych na TVP VOD.
+  
 - POLSKIE STACJE RADIOWE [zet71] - Ponad 1000 rozgłośni radia internetowego autorstwa @zet71.
 
 - IPTV_MUZYCZNE_azman - Coś około 500 linków zebrane w jedną listę kanałów z muzą. Niektóre podwójnie a nawet potrójnie z racji posiadania kilku źródeł do tego samego przekazu. Pełne spektrum gatunków muzycznych z całej planety. Posortowane alfabetycznie.
-
-- IPTV_MUZYCZNE_STREAMLINK_azman - lista z kanałami muzycznymi które wymagaja STREAMLINKA do działania.
 
 - IPTV_SPORT_azman - Sport w przeróżnych językach. Posortowane alfabetycznie.
 
 - IPTV_RELAX_azman - Takie tam relaxujace kanały (kominek, plaża, akwarium i inne)
 
-- IPTV LIMEHD + OK.RU [azman] - lista zawiera dostępne kanały z serwisu limehd.tv oraz ok.ru (muzyczne oraz regularne). ( wymagany plugin j00zka _limetv ) + ( streamlinksrv )
+- IPTV OK.RU + VK [azman] - lista zawiera dostępne kanały z serwisów ok.ru  i VK (przedewszystkim kanały muzyczne).
+
+- Rakuten TV (PL), (UK), (DE) oraz Pluto TV (UK), (USA), (DE) - generuję przy użyciu autorskich pluginów kolegi @Billy2011
+
+- Distro, Free MoviesPlus, LG, LocalNow, Roku, TCL, Tubi, Vidaa, Vizio, Xiaomi - jest to kopia 1:1 list których autorem jest @Apsatv 
+
+- Samsung TV Plus All, Pluto TV All, Srirr, Plex - jest to kopia 1:1 list których autorem jest @Matt Huisman
 
 
-Przy tworzeniu powyższych list wykorzystano pracę kolegów @zet71, @doglover, @dreamboxxrend, @ciefp, @technl, @zvirek13
+Przy tworzeniu powyższych list wykorzystano pracę kolegów @zet71, @doglover, @dreamboxxrend, @ciefp, @technl, @zvirek13, @matthuisman, @Apsatv
