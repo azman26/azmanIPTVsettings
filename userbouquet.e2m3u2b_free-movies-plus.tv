@@ -1,6 +1,8 @@
 #NAME Free Movies Plus
 #SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
 #DESCRIPTION NoGroup
+#SERVICE 5002:0:1:40c6:7944:441f:1010101:0:0:0:https%3a//alliantcontent-truecrimenow-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ALL STREAMS!! ON THIS SERVICE ARE CURRENTLY OFFLINE!!
+#DESCRIPTION ALL STREAMS!! ON THIS SERVICE ARE CURRENTLY OFFLINE!!
 #SERVICE 5002:0:1:b5e7:f8c4:c446:1010101:0:0:0:https%3a//alliantcontent-truecrimenow-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True Crime Now -US
 #DESCRIPTION True Crime Now -US
 #SERVICE 5002:0:1:dc1c:8f70:70f6:1010101:0:0:0:https%3a//alliantcontent-warandmilitarynow-1-us.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:War and Military Now -US
