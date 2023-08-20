@@ -123,7 +123,9 @@
 #DESCRIPTION Arche TV  (YT)
 #SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCciOOtgCargNFJw2BzR12Qw.m3u8:Arche TV
 #DESCRIPTION Arche TV
-#SERVICE 5002:0:1:C163:AB6D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/accounts/30886593/events/9905467:Polska360 TV
+#SERVICE 5002:0:1:D2B6:8DF8:EC:0:0:0:0:https%3a//tgn.bozztv.com/gama/itv04007-zdrowa/playlist.m3u8:Zdrowa TV
+#DESCRIPTION Zdrowa TV
+#SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:https%3a//s1-p360-cdn.mediatool.tv/playout/p360-abr/index.m3u8:Polska360 TV
 #DESCRIPTION Polska360 TV
 #SERVICE 5002:0:1:387F:3EDA:EC:0:0:0:0:https%3a//rpn.bozztv.com/dvrfl04/itv04006/index.m3u8:Polonico TV
 #DESCRIPTION Polonico TV
@@ -227,29 +229,29 @@
 #DESCRIPTION Lokalna TV  (YT)
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
 #DESCRIPTION --- RADIO  PL  IP ---
-#SERVICE 5002:0:2:1C9B:1CE8:71:820000:0:0:0:https%3a//stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8:Jedynka - PR
+#SERVICE 4097:0:2:1C9B:1CE8:71:820000:0:0:0:http%3a//stream3.polskieradio.pl%3a8950:Jedynka - PR
 #DESCRIPTION Jedynka - PR
-#SERVICE 4097:0:2:1:A22A:2268:0:0:0:0:https%3a//stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8:Dwójka - PR
+#SERVICE 4097:0:2:1:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8952:Dwójka - PR
 #DESCRIPTION Dwójka - PR
-#SERVICE 5002:0:2:1C9C:1CE8:71:820000:0:0:0:https%3a//stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8:Trójka - PR
+#SERVICE 4097:0:2:1C9C:1CE8:71:820000:0:0:0:http%3a//stream3.polskieradio.pl%3a8954:Trójka - PR
 #DESCRIPTION Trójka - PR
-#SERVICE 4097:0:2:2:A22A:2268:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4/pr4.sdp/chunklist_w1225701260.m3u8:Czwórka - PR
+#SERVICE 4097:0:2:2:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8956:Czwórka - PR
 #DESCRIPTION Czwórka - PR
-#SERVICE 4097:0:2:3:A22A:2268:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24/pr24.sdp/chunklist_w544058526.m3u8:Polskie Radio 24
+#SERVICE 4097:0:2:3:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8480:Polskie Radio 24
 #DESCRIPTION Polskie Radio 24
-#SERVICE 4097:0:2:4:A22A:2268:0:0:0:0:https%3a//stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8:Polskie Radio Kierowców
+#SERVICE 4097:0:2:4:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968:Polskie Radio Kierowców
 #DESCRIPTION Polskie Radio Kierowców
-#SERVICE 4097:0:2:5:A22A:2268:0:0:0:0:https%3a//stream85.polskieradio.pl/live/rytm.sdp/chunklist_w1163479695.m3u8:Polskie Radio Chopin
+#SERVICE 4097:0:2:5:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8960:Polskie Radio Chopin
 #DESCRIPTION Polskie Radio Chopin
-#SERVICE 4097:0:2:6:A22A:2268:0:0:0:0:https%3a//stream85.polskieradio.pl/live/radio_dzieciom.sdp/chunklist_w1840082260.m3u8:Polskie Radio Dzieciom
+#SERVICE 4097:0:2:6:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8966:Polskie Radio Dzieciom
 #DESCRIPTION Polskie Radio Dzieciom
-#SERVICE 4097:0:2:7:A22A:2268:0:0:0:0:https%3a//stream85.polskieradio.pl/pr5/pr5.sdp/chunklist_w25537459.m3u8:Radio Poland
+#SERVICE 4097:0:2:7:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8958:Radio Poland
 #DESCRIPTION Radio Poland
-#SERVICE 4097:0:2:8:A22A:2268:0:0:0:0:https%3a//stream85.polskieradio.pl/pr5/pr5_dab.sdp/chunklist_w1970943775.m3u8:Polish Radio External Service DAB+
+#SERVICE 4097:0:2:8:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8962:Polish Radio External Service DAB+
 #DESCRIPTION Polish Radio External Service DAB+
-#SERVICE 4097:0:2:9:A22A:2268:0:0:0:0:https%3a//stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8:РАДИО ПОЛЬША
+#SERVICE 4097:0:2:9:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8964:РАДИО ПОЛЬША
 #DESCRIPTION РАДИО ПОЛЬША
-#SERVICE 5002:0:2:CF89:2945:EC:0:0:0:0:https%3a//stream85.polskieradio.pl/radio_ukraina/ukraina.stream/chunklist_w654249407.m3u8:UA Radio
+#SERVICE 5002:0:2:CF89:2945:EC:0:0:0:0:https%3a//stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8:UA Radio
 #DESCRIPTION UA Radio
 #SERVICE 4097:0:2:1C98:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
 #DESCRIPTION RMF FM
