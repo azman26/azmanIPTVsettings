@@ -7,6 +7,8 @@
 #DESCRIPTION Grjngo Westerny
 #SERVICE 4097:0:1:239:A11A:2268:0:0:0:0:https%3a//103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=4580&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=2a023aa0-7766-4db6-a29a-c9f72be75eec&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1408:BjgTjme
 #DESCRIPTION BjgTjme
+#SERVICE 5001:0:1:240:A11A:2268:0:0:0:0:https%3a//3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5193&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=ebef9e43-d88b-4836-9959-fffca99cbdae&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1532:Moconomy - Gospodarka i Finanse
+#DESCRIPTION Moconomy - Gospodarka i Finanse
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- Tv Online & Megogo ---
 #DESCRIPTION --- Tv Online & Megogo ---
 #SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/dai/org1/vb/tvp1hd/Ryne8xhYKhfTAQAA.uHeHRiM3kQnJvd3Nlcg/index.m3u8:TVP 1 HD
@@ -123,7 +125,7 @@
 #DESCRIPTION Arche TV  (YT)
 #SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCciOOtgCargNFJw2BzR12Qw.m3u8:Arche TV
 #DESCRIPTION Arche TV
-#SERVICE 5002:0:1:D2B6:8DF8:EC:0:0:0:0:https%3a//tgn.bozztv.com/gama/itv04007-zdrowa/playlist.m3u8:Zdrowa TV
+#SERVICE 4097:0:1:D2B6:8DF8:EC:0:0:0:0:https%3a//tgn.bozztv.com/gama/itv04007-zdrowa/playlist.m3u8:Zdrowa TV
 #DESCRIPTION Zdrowa TV
 #SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:https%3a//s1-p360-cdn.mediatool.tv/playout/p360-abr/index.m3u8:Polska360 TV
 #DESCRIPTION Polska360 TV
