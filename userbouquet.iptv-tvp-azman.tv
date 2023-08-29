@@ -1,7 +1,7 @@
 #NAME IPTV TVP (azman)
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- TVP GO ---
 #DESCRIPTION --- TVP GO ---
-#SERVICE 4097:0:1F:42:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=62975271:TVP Nauka
+#SERVICE 4097:0:1F:42:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=71345993:TVP Nauka
 #DESCRIPTION TVP Nauka
 #SERVICE 4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=65184034:Alfa TVP
 #DESCRIPTION Alfa TVP
@@ -75,7 +75,7 @@
 #DESCRIPTION --- TVP Stream ---
 #SERVICE 4097:0:16:5D:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=52451253:TVP Historia 2
 #DESCRIPTION TVP Historia 2
-#SERVICE 4097:0:16:5E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=51121199:TVP Kultura 2
+#SERVICE 5002:0:1:5E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=51121199:TVP Kultura 2
 #DESCRIPTION TVP Kultura 2
 #SERVICE 4097:0:16:5C:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=51466516:TVP ABC 2
 #DESCRIPTION TVP ABC 2
@@ -129,7 +129,7 @@
 #DESCRIPTION TVP Senat
 #SERVICE 5002:0:1:515A:9133:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=16047033:TVP Parlament 1
 #DESCRIPTION TVP Parlament 1
-#SERVICE 5002:0:1:5428:8E8A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=16047033:TVP Parlament 2
+#SERVICE 5002:0:1:5428:8E8A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=16756568:TVP Parlament 2
 #DESCRIPTION TVP Parlament 2
 #SERVICE 1:64:A:0:0:0:0:0:0:0::--- HbbTV ---
 #DESCRIPTION --- HbbTV ---
