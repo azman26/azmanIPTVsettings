@@ -163,6 +163,8 @@
 #DESCRIPTION TVP World
 #SERVICE 4097:0:16:5F:7001:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=58759123:UA%3aPershyj
 #DESCRIPTION UA:Pershyj
+#SERVICE 5002:0:1:5C:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=53415886:TVP Msze
+#DESCRIPTION TVP Msze
 #SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=745680:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
 #SERVICE 4097:0:1:8:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=1634239:TVP3 Bydgoszcz
