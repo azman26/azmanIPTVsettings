@@ -13,6 +13,8 @@
 #DESCRIPTION RMF 24.pl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2010:RMF 10s
 #DESCRIPTION RMF 10s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic_20lat:RMF 20-lecie RMF Classic
+#DESCRIPTION RMF 20-lecie RMF Classic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_20s:RMF 20s
 #DESCRIPTION RMF 20s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_20lat:RMF 30 lat
@@ -819,8 +821,8 @@
 #DESCRIPTION ESKA Rock - Rock Ballads
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6090-1.mp3:ESKA Rock - Teraz Polski Rock
 #DESCRIPTION ESKA Rock - Teraz Polski Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6490-1.mp3:Radio GO
-#DESCRIPTION Radio GO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6490-1.mp3:Vibe FM
+#DESCRIPTION Vibe FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1170-1.mp3:SuperNova - Gdańsk
 #DESCRIPTION SuperNova - Gdańsk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1480-1.mp3:SuperNova - Jelenia Góra
@@ -935,8 +937,6 @@
 #DESCRIPTION Moje Polskie Radio - Radio Kierowców
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8576:Moje Polskie Radio - Abba Non Stop
 #DESCRIPTION Moje Polskie Radio - Abba Non Stop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8514:Moje Polskie Radio - Archeologia
-#DESCRIPTION Moje Polskie Radio - Archeologia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8474:Moje Polskie Radio - Ballady
 #DESCRIPTION Moje Polskie Radio - Ballady
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8484:Moje Polskie Radio - Bohaterowie naszych lektur
@@ -1033,10 +1033,6 @@
 #DESCRIPTION Moje Polskie Radio - Zabawy z językiem
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8406:Moje Polskie Radio - Zapiski ze współczesności
 #DESCRIPTION Moje Polskie Radio - Zapiski ze współczesności
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8:Moje Polskie Radio - PR Dla Ukrainy
-#DESCRIPTION Moje Polskie Radio - PR Dla Ukrainy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8964:Moje Polskie Radio - PR Serwis Ukraiński
-#DESCRIPTION Moje Polskie Radio - PR Serwis Ukraiński
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ant-waw.mp3:Antyradio
 #DESCRIPTION Antyradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ant-kat.mp3:Antyradio Katowice
@@ -1141,12 +1137,16 @@
 #DESCRIPTION Radio Mirage - Space
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8000/RadioMbox320:Radio Mbox
 #DESCRIPTION Radio Mbox
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//panel.radiombox.pl/radio/8100/Chill320kbps:Radio Mbox - Chillout
+#DESCRIPTION Radio Mbox - Chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8070/Club320kbps:Radio Mbox - Club
 #DESCRIPTION Radio Mbox - Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8030/DiscoPolo320kbps:Radio Mbox - Disco Polo
 #DESCRIPTION Radio Mbox - Disco Polo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8040/GoldHits320kbps:Radio Mbox - Gold Hits
 #DESCRIPTION Radio Mbox - Gold Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8060/Pol320kbps:Radio Mbox - Polska Muzyka
+#DESCRIPTION Radio Mbox - Polska Muzyka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//panel.radiombox.pl/radio/8050/RnbHH320kbps:Radio Mbox - RNB & Rap
 #DESCRIPTION Radio Mbox - RNB & Rap
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8090/Rock320kbps:Radio Mbox - Rock
@@ -1409,13 +1409,17 @@
 #DESCRIPTION Radio BaHaRy /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7770:Radio Bercik Silesia /śląskie/
 #DESCRIPTION Radio Bercik Silesia /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7136/stream:Radio Best /śląskie/
+#DESCRIPTION Radio Best /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bienebea.stream.laut.fm/bienebea:Radio Bienebea /śląskie/
 #DESCRIPTION Radio Bienebea /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7474:Radio Cyganeczka /śląskie/
 #DESCRIPTION Radio Cyganeczka /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7586/stream:Radio Dla Dorosłych /śląskie/
+#DESCRIPTION Radio Dla Dorosłych /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/yx6cub73kwzuv:Radio Express FM /śląskie/
 #DESCRIPTION Radio Express FM /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//primary.moodyradiostream.org/radiofest:Radio Fest /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sluchaj2.radiopark.biz.pl%3a8443/fest:Radio Fest /śląskie/
 #DESCRIPTION Radio Fest /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7294:Radio Hit Mix /śląskie/
 #DESCRIPTION Radio Hit Mix /śląskie/
@@ -1563,7 +1567,7 @@
 #DESCRIPTION Radio Via Rzeszów /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.v4.radiovictoria.pl%3a8176:Radio Victoria /katolickie/
 #DESCRIPTION Radio Victoria /katolickie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.viennaplus.at%3a8000:Radio ViennaPlus /katolickie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sender.viennaplus.at%3a15020/stream:Radio ViennaPlus /katolickie/
 #DESCRIPTION Radio ViennaPlus /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming03.technologicznie.net%3a8765/radio_warszawa.mp3:Radio Warszawa /katolickie/
 #DESCRIPTION Radio Warszawa /katolickie/
@@ -1713,6 +1717,8 @@
 #DESCRIPTION Radio DiscoParty.pl - Disco z polotem
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7496:Radio Disco Polo Non Stop
 #DESCRIPTION Radio Disco Polo Non Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7586/stream:Radio Dla Dorosłych
+#DESCRIPTION Radio Dla Dorosłych
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7250/stream:Radio Dobra Nuta
 #DESCRIPTION Radio Dobra Nuta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dobre.out.airtime.pro/dobre_a:Radio Dobre.Radio
@@ -2099,6 +2105,8 @@
 #DESCRIPTION Radio Reset Obywatelski
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7030/stream:Radio RMC
 #DESCRIPTION Radio RMC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server.radiormi.pl/listen/radiormi/stream:Radio RMI
+#DESCRIPTION Radio RMI
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350:Radio RockReactor
 #DESCRIPTION Radio RockReactor
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.rockserwis.fm/live:Radio Rockserwis.fm
