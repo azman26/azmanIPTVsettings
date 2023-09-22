@@ -67,6 +67,8 @@
 #DESCRIPTION Pogranicze TV
 #SERVICE 5002:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
 #DESCRIPTION Truso TV
+#SERVICE 5002:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream2_aac/playlist.m3u8:TV Kaszuby
+#DESCRIPTION TV Kaszuby
 #SERVICE 5002:0:1:96:1:48:0:0:0:0:https%3a//cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8:TV JASŁO
 #DESCRIPTION TV JASŁO
 #SERVICE 5002:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
@@ -149,6 +151,10 @@
 #DESCRIPTION ZSGD Poznań  (YT)
 #SERVICE 4097:0:1:A3CD:D71D:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCOjoppYMXrYRBNVsy2-ULrA.m3u8:ZSGD Poznań
 #DESCRIPTION ZSGD Poznań
+#SERVICE 4097:0:1:3428:10AD:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCqEL2VjfPuqgj-RCYcfALLA/live:Tor Służewiec  (YT)
+#DESCRIPTION Tor Służewiec  (YT)
+#SERVICE 4097:0:1:3428:10AD:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCqEL2VjfPuqgj-RCYcfALLA.m3u8:Tor Służewiec
+#DESCRIPTION Tor Służewiec
 #SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UrzadTransportuKolejowego/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
 #SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCzk5x_PbhFKUoJx_HNTefDQ.m3u8:UTK Warszawa Zachodnia
@@ -223,8 +229,6 @@
 #DESCRIPTION LPU TV  (YT)
 #SERVICE 5002:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
-#SERVICE 5002:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag2/myStream/playlist.m3u8:TV Kaszuby
-#DESCRIPTION TV Kaszuby
 #SERVICE 4097:0:1:A648:C711:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Roland-gazetaPl/live:TVi Roland  (YT)
 #DESCRIPTION TVi Roland  (YT)
 #SERVICE 4097:0:1:9908:338A:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LokalnaTV2009/live:Lokalna TV  (YT)
