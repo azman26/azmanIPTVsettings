@@ -13,6 +13,8 @@ http://195.150.20.7/rmf_5
 http://195.150.20.7/rmf_24
 #EXTINF:0 radio=true,RMF 10s
 http://195.150.20.7/rmf_2010
+#EXTINF:0 radio=true,RMF 20-lecie RMF Classic
+http://195.150.20.7/rmf_classic_20lat
 #EXTINF:0 radio=true,RMF 20s
 http://195.150.20.7/rmf_20s
 #EXTINF:0 radio=true,RMF 30 lat
@@ -819,7 +821,7 @@ http://ic2.smcdn.pl/6070-1.mp3
 http://ic2.smcdn.pl/6010-1.mp3
 #EXTINF:0 radio=true,ESKA Rock - Teraz Polski Rock
 http://ic2.smcdn.pl/6090-1.mp3
-#EXTINF:0 radio=true,Radio GO
+#EXTINF:0 radio=true,Vibe FM
 http://ic2.smcdn.pl/6490-1.mp3
 #EXTINF:0 radio=true,SuperNova - Gdańsk
 http://ic2.smcdn.pl/1170-1.mp3
@@ -935,8 +937,6 @@ http://stream3.polskieradio.pl:8966
 http://stream3.polskieradio.pl:8968
 #EXTINF:0 radio=true,Moje Polskie Radio - Abba Non Stop
 http://stream3.polskieradio.pl:8576
-#EXTINF:0 radio=true,Moje Polskie Radio - Archeologia
-http://stream3.polskieradio.pl:8514
 #EXTINF:0 radio=true,Moje Polskie Radio - Ballady
 http://stream3.polskieradio.pl:8474
 #EXTINF:0 radio=true,Moje Polskie Radio - Bohaterowie naszych lektur
@@ -1033,10 +1033,6 @@ http://stream3.polskieradio.pl:8492
 http://stream3.polskieradio.pl:8400
 #EXTINF:0 radio=true,Moje Polskie Radio - Zapiski ze współczesności
 http://stream3.polskieradio.pl:8406
-#EXTINF:0 radio=true,Moje Polskie Radio - PR Dla Ukrainy
-https://stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8
-#EXTINF:0 radio=true,Moje Polskie Radio - PR Serwis Ukraiński
-http://stream3.polskieradio.pl:8964
 #EXTINF:0 radio=true,Antyradio
 https://an.cdn.eurozet.pl/ant-waw.mp3
 #EXTINF:0 radio=true,Antyradio Katowice
@@ -1141,12 +1137,16 @@ https://ssl-1.radiohost.pl:7214
 https://ssl-1.radiohost.pl:9563
 #EXTINF:0 radio=true,Radio Mbox
 http://panel.radiombox.pl/radio/8000/RadioMbox320
+#EXTINF:0 radio=true,Radio Mbox - Chillout
+https://panel.radiombox.pl/radio/8100/Chill320kbps
 #EXTINF:0 radio=true,Radio Mbox - Club
 http://panel.radiombox.pl/radio/8070/Club320kbps
 #EXTINF:0 radio=true,Radio Mbox - Disco Polo
 http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
 #EXTINF:0 radio=true,Radio Mbox - Gold Hits
 http://panel.radiombox.pl/radio/8040/GoldHits320kbps
+#EXTINF:0 radio=true,Radio Mbox - Polska Muzyka
+http://panel.radiombox.pl/radio/8060/Pol320kbps
 #EXTINF:0 radio=true,Radio Mbox - RNB & Rap
 https://panel.radiombox.pl/radio/8050/RnbHH320kbps
 #EXTINF:0 radio=true,Radio Mbox - Rock
@@ -1409,14 +1409,18 @@ http://s1.slotex.pl:7238
 http://s1.slotex.pl:7838
 #EXTINF:0 radio=true,Radio Bercik Silesia /śląskie/
 http://s3.slotex.pl:7770
+#EXTINF:0 radio=true,Radio Best /śląskie/
+https://s3.slotex.pl/shoutcast/7136/stream
 #EXTINF:0 radio=true,Radio Bienebea /śląskie/
 https://bienebea.stream.laut.fm/bienebea
 #EXTINF:0 radio=true,Radio Cyganeczka /śląskie/
 http://s1.slotex.pl:7474
+#EXTINF:0 radio=true,Radio Dla Dorosłych /śląskie/
+https://s3.slotex.pl/shoutcast/7586/stream
 #EXTINF:0 radio=true,Radio Express FM /śląskie/
 https://stream.rcs.revma.com/yx6cub73kwzuv
 #EXTINF:0 radio=true,Radio Fest /śląskie/
-http://primary.moodyradiostream.org/radiofest
+https://sluchaj2.radiopark.biz.pl:8443/fest
 #EXTINF:0 radio=true,Radio Hit Mix /śląskie/
 http://s1.slotex.pl:7294
 #EXTINF:0 radio=true,Radio Kamraty /śląskie/
@@ -1564,7 +1568,7 @@ http://62.133.128.18:8040
 #EXTINF:0 radio=true,Radio Victoria /katolickie/
 http://stream.v4.radiovictoria.pl:8176
 #EXTINF:0 radio=true,Radio ViennaPlus /katolickie/
-http://radio.viennaplus.at:8000
+http://sender.viennaplus.at:15020/stream
 #EXTINF:0 radio=true,Radio Warszawa /katolickie/
 http://streaming03.technologicznie.net:8765/radio_warszawa.mp3
 #EXTINF:0 radio=true,Radio Zamość /katolickie/
@@ -1713,6 +1717,8 @@ https://s1.slotex.pl/shoutcast/7432/stream
 https://s3.slotex.pl/shoutcast/7046/stream
 #EXTINF:0 radio=true,Radio Disco Polo Non Stop
 https://s3.slotex.pl:7496
+#EXTINF:0 radio=true,Radio Dla Dorosłych
+https://s3.slotex.pl/shoutcast/7586/stream
 #EXTINF:0 radio=true,Radio Dobra Nuta
 https://s3.slotex.pl/shoutcast/7250/stream
 #EXTINF:0 radio=true,Radio Dobre.Radio
@@ -2099,6 +2105,8 @@ https://s1.slotex.pl/shoutcast/7614/stream
 https://eu4.fastcast4u.com/proxy/radioreset?mp=/1
 #EXTINF:0 radio=true,Radio RMC
 https://s1.slotex.pl/shoutcast/7030/stream
+#EXTINF:0 radio=true,Radio RMI
+https://server.radiormi.pl/listen/radiormi/stream
 #EXTINF:0 radio=true,Radio RockReactor
 https://ssl-1.radiohost.pl:9350
 #EXTINF:0 radio=true,Radio Rockserwis.fm
