@@ -21,10 +21,6 @@
 #DESCRIPTION 4Fun TV
 #SERVICE 4097:0:16:57:E1:D58:EEEE0000:0:0:0:https%3a//tvreg.klemit.net/regionalna/stream/index.m3u8:TV Regionalna
 #DESCRIPTION TV Regionalna
-#SERVICE 5002:0:1:5:1:48:0:0:0:0:http%3a//94.246.169.19/ttv_hls/live_720p/index.m3u8:Twoja TV
-#DESCRIPTION Twoja TV
-#SERVICE 5002:0:1:6:1:48:0:0:0:0:http%3a//stream.sferatv.pl%3a1935/sferalive/smil%3asferalive.smil/chunklist_w1722636790_b1128000_slpl.m3u8:Sfera TV
-#DESCRIPTION Sfera TV
 #SERVICE 4097:0:1:7:1:48:0:0:0:0:https%3a//5cce8c6f0e84c.streamlock.net/LiveCast/smil%3aPlayStream9.smil/playlist.m3u8:Asta TV HD
 #DESCRIPTION Asta TV HD
 #SERVICE 5002:0:1:13:1:48:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/_definst_/dlaCiebieTv/playlist.m3u8:Dla Ciebie TV
@@ -51,12 +47,10 @@
 #DESCRIPTION TV Dami
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:http%3a//stream.tvmazowsze.pl%3a5920/tmp_hls/stream/index.m3u8:TV Mazowsze
 #DESCRIPTION TV Mazowsze
-#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Tvmazowsze/live:TV MAZOWSZE  (YT)
-#DESCRIPTION TV MAZOWSZE  (YT)
-#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UC5Z6rlfp5ZEsqgxUmjfZCDA.m3u8:TV Mazowsze
-#DESCRIPTION TV Mazowsze
 #SERVICE 5002:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
 #DESCRIPTION Imperium TV Gliwice
+#SERVICE 4097:0:1:3F8:65:64:FFFF0000:0:0:0:https%3a//stream-live.lrt.lt/lituanica/master.m3u8:LRT Lituanica
+#DESCRIPTION LRT Lituanica
 #SERVICE 5002:0:1:92:1:48:0:0:0:0:https%3a//stream6.nadaje.com%3a35308/live/stream-1/chunklist_w1534321118.m3u8:TV Wielkopolska
 #DESCRIPTION TV Wielkopolska
 #SERVICE 5002:0:1:84:1:48:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
@@ -73,8 +67,6 @@
 #DESCRIPTION TV JASŁO
 #SERVICE 5002:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
 #DESCRIPTION TV Lubań
-#SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/live/rnOJxzogm1k:Arcadia TV World  (YT)
-#DESCRIPTION Arcadia TV World  (YT)
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvsowianin-on-line9194/live:TV Słowianin  (YT)
 #DESCRIPTION TV Słowianin  (YT)
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8:TV Słowianin
@@ -111,10 +103,6 @@
 #DESCRIPTION TV Gorzów  (YT)
 #SERVICE 4097:0:1:50:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCt5sVDyzu0NhrjR-d_b-lhg.m3u8:TV Gorzów
 #DESCRIPTION TV Gorzów
-#SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@infoPlockTV/live:info PŁOCK  (YT)
-#DESCRIPTION info PŁOCK  (YT)
-#SERVICE 4097:0:1:43:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw.m3u8:info PŁOCK
-#DESCRIPTION info PŁOCK
 #SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ztv-live/live:Zachodniopomorska TV  (YT)
 #DESCRIPTION Zachodniopomorska TV  (YT)
 #SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8:Zachodniopomorska TV
@@ -129,11 +117,11 @@
 #DESCRIPTION Arche TV
 #SERVICE 4097:0:1:D2B6:8DF8:EC:0:0:0:0:https%3a//tgn.bozztv.com/gama/itv04007-zdrowa/playlist.m3u8:Zdrowa TV
 #DESCRIPTION Zdrowa TV
-#SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:https%3a//s1-p360-cdn.mediatool.tv/playout/p360-abr/index.m3u8:Polska360 TV
+#SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:https%3a//s1.mediatool.tv/playout/p360-abr/index.m3u8:Polska360 TV
 #DESCRIPTION Polska360 TV
 #SERVICE 5002:0:1:387F:3EDA:EC:0:0:0:0:https%3a//rpn.bozztv.com/dvrfl04/itv04006/index.m3u8:Polonico TV
 #DESCRIPTION Polonico TV
-#SERVICE 5002:0:1:DF2:E4F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/821360188:Index TV
+#SERVICE 5002:0:1:DF2:E4F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/869628836:Index TV
 #DESCRIPTION Index TV
 #SERVICE 5002:0:1:85:1:48:0:0:0:0:http%3a//www.tvkstella.pl/media/flash_programu.f4v:TVK Stella (Serwis Inf.)
 #DESCRIPTION TVK Stella (Serwis Inf.)
@@ -145,12 +133,6 @@
 #DESCRIPTION BTK
 #SERVICE 5002:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl/live/memfs/d546713a-25d2-4343-ba10-baea670debd9.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
-#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV  (YT)
-#DESCRIPTION UAM.TV  (YT)
-#SERVICE 4097:0:1:A3CD:D71D:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@zsgdpoznan3653/live:ZSGD Poznań  (YT)
-#DESCRIPTION ZSGD Poznań  (YT)
-#SERVICE 4097:0:1:A3CD:D71D:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCOjoppYMXrYRBNVsy2-ULrA.m3u8:ZSGD Poznań
-#DESCRIPTION ZSGD Poznań
 #SERVICE 4097:0:1:3428:10AD:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCqEL2VjfPuqgj-RCYcfALLA/live:Tor Służewiec  (YT)
 #DESCRIPTION Tor Służewiec  (YT)
 #SERVICE 4097:0:1:3428:10AD:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCqEL2VjfPuqgj-RCYcfALLA.m3u8:Tor Służewiec
@@ -161,8 +143,6 @@
 #DESCRIPTION UTK Warszawa Zachodnia
 #SERVICE 5002:0:1:69:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10live:KANAŁ 10 (Radio NAKŁO)
 #DESCRIPTION KANAŁ 10 (Radio NAKŁO)
-#SERVICE 5002:0:1:8F76:F05E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10nazywo2:KANAŁ 10 (Weekend FM)
-#DESCRIPTION KANAŁ 10 (Weekend FM)
 #SERVICE 4097:0:1:DD86:1985:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
 #DESCRIPTION WebCamera.pl
 #SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl  Plaże
@@ -171,7 +151,7 @@
 #DESCRIPTION TV Trwam
 #SERVICE 5002:0:1:82:1:48:0:0:0:0:https%3a//stream.hopechannel.pl/livetv/colombo/hope.m3u8:Hope Channel Polska
 #DESCRIPTION Hope Channel Polska
-#SERVICE 4097:0:1:70:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@EWTNPolska/live:EWTN Polska  (YT)
+#SERVICE 4097:0:1:70:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=HLQiUuGJ-jw:EWTN Polska  (YT)
 #DESCRIPTION EWTN Polska  (YT)
 #SERVICE 4097:0:1:70:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCEZ4rFLmTDVCTSJ8gDqOMzQ.m3u8:EWTN Polska
 #DESCRIPTION EWTN Polska
@@ -199,6 +179,8 @@
 #DESCRIPTION Belsat Tv
 #SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@belsat_news/live:Belsat TV  (YT)
 #DESCRIPTION Belsat TV  (YT)
+#SERVICE 4097:0:1:7EAD:9169:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8:TV Biznesowa
+#DESCRIPTION TV Biznesowa
 #SERVICE 5002:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live-tvrepublika-6000k.m3u8:TV Republika
 #DESCRIPTION TV Republika
 #SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjawPolsce/live:wPolsce.pl  (YT)
@@ -223,6 +205,28 @@
 #DESCRIPTION Kanał Sportowy
 #SERVICE 1:64:6:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
+#SERVICE 5002:0:1:5:1:48:0:0:0:0:http%3a//94.246.169.19/ttv_hls/live_720p/index.m3u8:Twoja TV
+#DESCRIPTION Twoja TV
+#SERVICE 5002:0:1:6:1:48:0:0:0:0:http%3a//stream.sferatv.pl%3a1935/sferalive/smil%3asferalive.smil/chunklist_w1722636790_b1128000_slpl.m3u8:Sfera TV
+#DESCRIPTION Sfera TV
+#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Tvmazowsze/live:TV MAZOWSZE  (YT)
+#DESCRIPTION TV MAZOWSZE  (YT)
+#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UC5Z6rlfp5ZEsqgxUmjfZCDA.m3u8:TV Mazowsze
+#DESCRIPTION TV Mazowsze
+#SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@infoPlockTV/live:info PŁOCK  (YT)
+#DESCRIPTION info PŁOCK  (YT)
+#SERVICE 4097:0:1:43:1:48:0:0:0:0:https%3a//ythls.onrender.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw.m3u8:info PŁOCK
+#DESCRIPTION info PŁOCK
+#SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/live/JUvb0D8hL3A?si:Arcadia TV World  (YT)
+#DESCRIPTION Arcadia TV World  (YT)
+#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV  (YT)
+#DESCRIPTION UAM.TV  (YT)
+#SERVICE 4097:0:1:A3CD:D71D:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@zsgdpoznan3653/live:ZSGD Poznań  (YT)
+#DESCRIPTION ZSGD Poznań  (YT)
+#SERVICE 4097:0:1:A3CD:D71D:EC:0:0:0:0:https%3a//ythls.onrender.com/channel/UCOjoppYMXrYRBNVsy2-ULrA.m3u8:ZSGD Poznań
+#DESCRIPTION ZSGD Poznań
+#SERVICE 5002:0:1:8F76:F05E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10nazywo2:KANAŁ 10 (Weekend FM)
+#DESCRIPTION KANAŁ 10 (Weekend FM)
 #SERVICE 4097:0:1:394F:7D0A:EC:0:0:0:0:http%3a//195.191.180.21%3a1935/live/mp4%3amyStream/chunklist_w1413150541_tkd293emF0b2tlbmVuZHRpbWU9MTY4NzY5NDk0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2ODc2ODQxNDAmd293emF0b2tlbmhhc2g9cDlIZmk0ZFBHMU1BZ1dneXJnbV9fZkVlaVktZnBRR1V2Z0VfVWpQdGtOND0=.m3u8:Tetka TV
 #DESCRIPTION Tetka TV
 #SERVICE 4097:0:1:C5B:918F:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LPUTVpl/live:LPU TV  (YT)
