@@ -51,6 +51,10 @@
 #DESCRIPTION OSC+
 #SERVICE 5002:0:1:BC77:4503:323:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=prl_nh:NHRA TV
 #DESCRIPTION NHRA TV
+#SERVICE 4097:0:1:1394:4573:EC:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTRSPT 1
+#DESCRIPTION MTRSPT 1
+#SERVICE 4097:0:1:8C44:6166:EC:0:0:0:0:https%3a//rtmtv-powernationenespanol-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation en Espanol
+#DESCRIPTION PowerNation en Espanol
 #SERVICE 4097:0:1:71D5:76CB:CB07:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Pro Wrestling TV
 #DESCRIPTION Pro Wrestling TV
 #SERVICE 5002:0:1:AD74:2BC:EC:0:0:0:0:https%3a//linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8:CampusLore Sports
