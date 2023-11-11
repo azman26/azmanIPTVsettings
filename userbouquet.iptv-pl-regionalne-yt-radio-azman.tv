@@ -285,20 +285,18 @@
 #DESCRIPTION Radio ESKA
 #SERVICE 4097:0:2:100A:F002:2268:EEEE0000:0:0:0:http%3a//ic1.smcdn.pl/5380-1.mp3:Radio ESKA ROCK
 #DESCRIPTION Radio ESKA ROCK
+#SERVICE 4097:0:2:41:A22A:2268:0:0:0:0:https%3a//radio.centrum.fm/live:Akademickie Radio Centrum
+#DESCRIPTION Akademickie Radio Centrum
 #SERVICE 4097:0:2:1413:5DC:13E:820000:0:0:0:https%3a//an.cdn.eurozet.pl/ant-waw.mp3:Antyradio
 #DESCRIPTION Antyradio
 #SERVICE 1:0:2:1411:5DC:13E:820000:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-net.mp3:Meloradio
 #DESCRIPTION Meloradio
 #SERVICE 4097:0:2:A:A22A:2268:0:0:0:0:http%3a//stream3.nadaje.com%3a9000/:MUZYCZNE Radio
 #DESCRIPTION MUZYCZNE Radio
-#SERVICE 4097:0:2:B:A22A:2268:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:Radio SIERADZ
-#DESCRIPTION Radio SIERADZ
 #SERVICE 4097:0:2:C:A22A:2268:0:0:0:0:http%3a//91.232.4.33%3a9680/stream:Polskie Radio Koszalin
 #DESCRIPTION Polskie Radio Koszalin
 #SERVICE 4097:0:2:E:A22A:2268:0:0:0:0:http%3a//stream.open.fm/357:Radio 357
 #DESCRIPTION Radio 357
-#SERVICE 4097:0:2:F:A22A:2268:0:0:0:0:http%3a//stream.radio7.pl%3a443/:Radio 7
-#DESCRIPTION Radio 7
 #SERVICE 4097:0:2:10:A22A:2268:0:0:0:0:https%3a//stream0.radio90.pl%3a8001/radio90_128kbps_stereo.mp3:Radio 90
 #DESCRIPTION Radio 90
 #SERVICE 4097:0:2:11:A22A:2268:0:0:0:0:https%3a//streamcast.online%3a8357/stream:Radio ASK FM
@@ -307,26 +305,28 @@
 #DESCRIPTION Radio BIAŁYSTOK
 #SERVICE 4097:0:2:13:A22A:2268:0:0:0:0:https%3a//stream.rcs.revma.com/062uq3z3kwzuv:Radio BIELSKO
 #DESCRIPTION Radio BIELSKO
+#SERVICE 4097:0:2:3C:A22A:2268:0:0:0:0:http%3a//primary.moodyradiostream.org/radioccm:Radio CCM
+#DESCRIPTION Radio CCM
 #SERVICE 4097:0:2:14:A22A:2268:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7432/stream?sid=1:Radio DISCO PARTY
 #DESCRIPTION Radio DISCO PARTY
 #SERVICE 4097:0:2:15:A22A:2268:0:0:0:0:https%3a//stream2.nadaje.com%3a11141/rdc:Radio DLA CIEBIE
 #DESCRIPTION Radio DLA CIEBIE
+#SERVICE 4097:0:2:3E:A22A:2268:0:0:0:0:https%3a//stream4.radioem.pl/stream/:Radio eM Katowice
+#DESCRIPTION Radio eM Katowice
 #SERVICE 4097:0:2:17:A22A:2268:0:0:0:0:https%3a//n05a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABf192TAYAZaZvi_pL0_lB3w:Radio EXPRESS
 #DESCRIPTION Radio EXPRESS
 #SERVICE 4097:0:2:19:A22A:2268:0:0:0:0:http%3a//62.133.128.22%3a8000/:Radio FARA
 #DESCRIPTION Radio FARA
-#SERVICE 4097:0:2:1A:A22A:2268:0:0:0:0:https%3a//primary.moodyradiostream.org/radiofest:Radio FEST
-#DESCRIPTION Radio FEST
 #SERVICE 4097:0:2:18:A22A:2268:0:0:0:0:https%3a//play.radioftb.net%3a2020/stream/DiscoPolo:Radio FTB
 #DESCRIPTION Radio FTB
 #SERVICE 4097:0:2:1B:A22A:2268:0:0:0:0:http%3a//stream.task.gda.pl%3a8000/rg1:Radio GDAŃSK
 #DESCRIPTION Radio GDAŃSK
-#SERVICE 4097:0:2:1C:A22A:2268:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7600/stream:Radio HEAVEN
-#DESCRIPTION Radio HEAVEN
 #SERVICE 4097:0:2:1D:A22A:2268:0:0:0:0:http%3a//online.jard.pl%3a8744/jard1:Radio JARD
 #DESCRIPTION Radio JARD
 #SERVICE 5002:0:2:1419:5DC:13E:820000:0:0:0:https%3a//online.radiojasnagora.pl%3a9000/rjg:Radio JASNA GÓRA
 #DESCRIPTION Radio JASNA GÓRA
+#SERVICE 4097:0:2:3F:A22A:2268:0:0:0:0:http%3a//streams.radiojura.com.pl%3a8000/jura_128kbps_stereo.mp3:Radio JURA
+#DESCRIPTION Radio JURA
 #SERVICE 4097:0:2:1E:A22A:2268:0:0:0:0:http%3a//193.0.98.66%3a8002/:Radio KAMPUS
 #DESCRIPTION Radio KAMPUS
 #SERVICE 4097:0:2:100F:F002:2268:EEEE0000:0:0:0:http%3a//stream3.nadaje.com%3a8048/:Radio KASZËBË
@@ -359,18 +359,34 @@
 #DESCRIPTION Radio OLSZTYN
 #SERVICE 4097:0:2:29:A22A:2268:0:0:0:0:http%3a//193.47.151.4%3a8070/1:Radio OPOLE
 #DESCRIPTION Radio OPOLE
+#SERVICE 4097:0:2:42:A22A:2268:0:0:0:0:http%3a//s1.slotex.pl%3a7050/stream/1/:Radio OSTROWIEC
+#DESCRIPTION Radio OSTROWIEC
 #SERVICE 4097:0:2:2A:A22A:2268:0:0:0:0:http%3a//stream4.nadaje.com%3a15274/live:Radio PARADA
 #DESCRIPTION Radio PARADA
+#SERVICE 4097:0:2:49:A22A:2268:0:0:0:0:http%3a//sluchaj2.radiopark.biz.pl%3a8058:Radio PARK
+#DESCRIPTION Radio PARK
 #SERVICE 4097:0:2:2B:A22A:2268:0:0:0:0:http%3a//s4.radioparty.pl%3a8000/rp.mp3:Radio PARTY
 #DESCRIPTION Radio PARTY
+#SERVICE 4097:0:2:44:A22A:2268:0:0:0:0:http%3a//stream1.radiopik.pl%3a9004:Radio PiK
+#DESCRIPTION Radio PiK
 #SERVICE 4097:0:2:1006:F002:2268:EEEE0000:0:0:0:https%3a//pl.cdn.eurozet.pl/plu-waw.mp3:Radio PLUS
 #DESCRIPTION Radio PLUS
+#SERVICE 4097:0:2:43:A22A:2268:0:0:0:0:http%3a//stream.radioplonsk.pl%3a9360:Radio PŁOŃSK
+#DESCRIPTION Radio PŁOŃSK
 #SERVICE 4097:0:2:2C:A22A:2268:0:0:0:0:http%3a//stream10.radioagora.pl/tuba38-1.mp3:Radio POGODA
 #DESCRIPTION Radio POGODA
 #SERVICE 4097:0:2:2D:A22A:2268:0:0:0:0:http%3a//stream4.nadaje.com%3a8578/poznan:Radio POZNAŃ
 #DESCRIPTION Radio POZNAŃ
 #SERVICE 4097:0:2:2E:A22A:2268:0:0:0:0:https%3a//stream2.prw.pl%3a8001/radioram:Radio RAM
 #DESCRIPTION Radio RAM
+#SERVICE 4097:0:2:48:A22A:2268:0:0:0:0:https%3a//stream3.nadaje.com%3a8007/radom2:Radio REKORD FM
+#DESCRIPTION Radio REKORD FM
+#SERVICE 4097:0:2:46:A22A:2268:0:0:0:0:https%3a//streaming.g-news.pl%3a8040/rzeszow:Radio RZESZÓW
+#DESCRIPTION Radio RZESZÓW
+#SERVICE 4097:0:2:3D:A22A:2268:0:0:0:0:https%3a//stream.zeno.fm/fxvq8uqcvuhvv:Radio SAFIRA
+#DESCRIPTION Radio SAFIRA
+#SERVICE 4097:0:2:B:A22A:2268:0:0:0:0:https%3a//online.nasze.fm%3a8443/stream:Radio SIERADZ
+#DESCRIPTION Radio SIERADZ
 #SERVICE 4097:0:2:101B:15:2268:EEEE0000:0:0:0:http%3a//s1.slotex.pl%3a7350/:Radio SILESIA
 #DESCRIPTION Radio SILESIA
 #SERVICE 4097:0:2:2F:A22A:2268:0:0:0:0:https%3a//stream4.nadaje.com%3a15007/sudety24:Radio SUDETY 24
@@ -381,28 +397,42 @@
 #DESCRIPTION Radio SZCZECIN
 #SERVICE 4097:0:2:32:A22A:2268:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9111/stream:Radio ULTRA MAX
 #DESCRIPTION Radio ULTRA MAX
+#SERVICE 4097:0:2:40:A22A:2268:0:0:0:0:http%3a//62.133.128.18%3a8040:Radio VIA Rzeszów
+#DESCRIPTION Radio VIA Rzeszów
 #SERVICE 4097:0:2:33:A22A:2268:0:0:0:0:http%3a//stream.v4.radiovictoria.pl%3a8176/:Radio VICTORIA
 #DESCRIPTION Radio VICTORIA
 #SERVICE 4097:0:2:34:A22A:2268:0:0:0:0:http%3a//streaming03.technologicznie.net%3a8765/radio_warszawa.mp3:Radio WARSZAWA
 #DESCRIPTION Radio WARSZAWA
 #SERVICE 4097:0:2:35:A22A:2268:0:0:0:0:http%3a//s1.slotex.pl%3a7446/:Radio WARTA
 #DESCRIPTION Radio WARTA
+#SERVICE 4097:0:2:47:A22A:2268:0:0:0:0:http%3a//217.182.76.63%3a8000/webstream:Radio WIELKOPOLSKA
+#DESCRIPTION Radio WIELKOPOLSKA
 #SERVICE 4097:0:2:36:A22A:2268:0:0:0:0:http%3a//audio.radiownet.pl%3a8000/stream:Radio WNET
 #DESCRIPTION Radio WNET
 #SERVICE 4097:0:2:37:A22A:2268:0:0:0:0:http%3a//stream4.nadaje.com%3a9240/prw:Radio WROCŁAW
 #DESCRIPTION Radio WROCŁAW
+#SERVICE 4097:0:2:45:A22A:2268:0:0:0:0:https%3a//n21a-eu.rcs.revma.com/7vhveccrnquvv?rj-ttl=5&rj-tok=AAABi8Ay9L8AjI21yt_D2CBZQg:Radio YANOSIK
+#DESCRIPTION Radio YANOSIK
 #SERVICE 4097:0:2:38:A22A:2268:0:0:0:0:http%3a//stream2.nadaje.com%3a8022/:Radio ZW
 #DESCRIPTION Radio ZW
 #SERVICE 4097:0:2:D:A22A:2268:0:0:0:0:https%3a//stream1.dabcom.pl/rdn_mpl:RDN MAŁOPOLSKA
 #DESCRIPTION RDN MAŁOPOLSKA
 #SERVICE 4097:0:2:1009:F002:2268:EEEE0000:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio:ROCK Radio
 #DESCRIPTION ROCK Radio
+#SERVICE 4097:0:2:39:A22A:2268:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350/stream:ROCKREACTOR
+#DESCRIPTION ROCKREACTOR
+#SERVICE 4097:0:2:4A:A22A:2268:0:0:0:0:http%3a//stream.open.fm/379:Rockserwis FM
+#DESCRIPTION Rockserwis FM
 #SERVICE 4097:0:2:3A:A22A:2268:0:0:0:0:http%3a//stream14.shoutcastsolutions.com%3a8057/256stream:SMOOTHJAZZ Radio
 #DESCRIPTION SMOOTHJAZZ Radio
 #SERVICE 4097:0:2:3B:A22A:2268:0:0:0:0:https%3a//stream.weekendfm.pl/weekendfm_najlepsza:WEEKEND FM
 #DESCRIPTION WEEKEND FM
-#SERVICE 4097:0:2:39:A22A:2268:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350/stream:ROCKREACTOR
-#DESCRIPTION ROCKREACTOR
+#SERVICE 4097:0:2:F:A22A:2268:0:0:0:0:http%3a//stream.radio7.pl%3a443/:Radio 7
+#DESCRIPTION Radio 7
+#SERVICE 4097:0:2:1A:A22A:2268:0:0:0:0:https%3a//primary.moodyradiostream.org/radiofest:Radio FEST
+#DESCRIPTION Radio FEST
+#SERVICE 4097:0:2:1C:A22A:2268:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7600/stream:Radio HEAVEN
+#DESCRIPTION Radio HEAVEN
 #SERVICE 4097:0:1:D685:307E:EC:0:0:0:0:http%3a//s1.slotex.pl%3a7358/:Radio VANESSA
 #DESCRIPTION Radio VANESSA
 #SERVICE 5002:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
