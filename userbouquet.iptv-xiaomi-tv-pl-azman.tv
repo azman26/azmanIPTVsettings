@@ -7,19 +7,19 @@
 #DESCRIPTION Danger Vision
 #SERVICE 5002:0:1:E086:2C37:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2885:Outer Vision Channel
 #DESCRIPTION Outer Vision Channel
-#SERVICE 5002:0:1:9773:5B38:EC:0:0:0:0:https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/983af5df-678f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads%3aapp_domain=%7BAPP_DOMAIN%7D&ads%3aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3atcf=%7BTC_STRING%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Charlie
+#SERVICE 5002:0:1:9773:5B38:EC:0:0:0:0:https%3a//amogonetworx-charlie-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Charlie
 #DESCRIPTION Charlie
 #SERVICE 5002:0:1:1F8:A11A:2268:0:0:0:0:https%3a//newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8:Rakuten Viki
 #DESCRIPTION Rakuten Viki
 #SERVICE 5002:0:1:F820:47CF:CF5A:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=ottpri_sl_cc:Christmas Classics
 #DESCRIPTION Christmas Classics
-#SERVICE 5002:0:1:380:CB59:EC:0:0:0:0:https%3a//bold-tv-corp-pecan-tv-1-eu.freemoviesplus.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pecan
+#SERVICE 5002:0:1:380:CB59:EC:0:0:0:0:https%3a//bold-tv-corp-pecan-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pecan
 #DESCRIPTION Pecan
-#SERVICE 4097:0:1:C89C:B539:394C:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eBR2z3PwZMCCQeoh8-Lx#sapp_tvgid=5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a:Space Channel
+#SERVICE 5002:0:1:C89C:B539:394C:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eBR2z3PwZMCCQeoh8-Lx#sapp_tvgid=5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a:Space Channel
 #DESCRIPTION Space Channel
 #SERVICE 5002:0:1:EB8:5C3A:EC:0:0:0:0:https%3a//s-plus-vivalive.evrideo.tv/91cf8e90-ebe5-48b4-a0ad-6d001d27d479_1000012093_HLS/master.m3u8:S+
 #DESCRIPTION S+
-#SERVICE 4097:0:1:853D:A978:EC:0:0:0:0:https%3a//api-ott.docubay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=any:DocuBay
+#SERVICE 5002:0:1:853D:A978:EC:0:0:0:0:https%3a//api-ott.docubay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=any:DocuBay
 #DESCRIPTION DocuBay
 #SERVICE 5002:0:1:BE3A:88B7:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8:Quietude 4K
 #DESCRIPTION Quietude 4K
@@ -31,11 +31,13 @@
 #DESCRIPTION Heritage Tourism
 #SERVICE 5002:0:1:8536:4381:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TgkXUZUMTBW5tkd-vZ5v9w/master.m3u8:Volty
 #DESCRIPTION Volty
+#SERVICE 5002:0:1:6884:B6D1:D153:1010101:0:0:0:https%3a//newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Whoa That Was Wild
+#DESCRIPTION Whoa That Was Wild
 #SERVICE 5002:0:1:B568:6504:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=4167#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Minute Shorts
 #DESCRIPTION Minute Shorts
 #SERVICE 5002:0:1:6086:2DDA:EC:0:0:0:0:https%3a//d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Smurf TV
 #DESCRIPTION Smurf TV
-#SERVICE 4097:0:1:F600:C955:EC:0:0:0:0:https%3a//15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-8/live_117/SD/playlist.m3u8:Cartoon Classics
+#SERVICE 5002:0:1:F600:C955:EC:0:0:0:0:https%3a//15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-8/live_117/SD/playlist.m3u8:Cartoon Classics
 #DESCRIPTION Cartoon Classics
 #SERVICE 5002:0:1:2FFE:E91:EC:0:0:0:0:https%3a//lol-tv-vivalive.evrideo.tv/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8:LOL TV
 #DESCRIPTION LOL TV
@@ -43,7 +45,9 @@
 #DESCRIPTION HeartFelt TV
 #SERVICE 5002:0:1:46B9:7CA5:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3408#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love 2 Hate
 #DESCRIPTION Love 2 Hate
-#SERVICE 4097:0:1:3610:67D2:D2E4:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=EHqAJBKorDViQdhFGThq#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cooking Panda
+#SERVICE 5002:0:1:5D28:2CE9:EC:0:0:0:0:https%3a//shadeiqllc-shadetv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shade Tv
+#DESCRIPTION Shade Tv
+#SERVICE 5002:0:1:3610:67D2:D2E4:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=EHqAJBKorDViQdhFGThq#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cooking Panda
 #DESCRIPTION Cooking Panda
 #SERVICE 5002:0:1:438:708B:EC:0:0:0:0:https%3a//linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8:Wired 2 Fish TV
 #DESCRIPTION Wired 2 Fish TV
@@ -51,11 +55,11 @@
 #DESCRIPTION OSC+
 #SERVICE 5002:0:1:BC77:4503:323:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=prl_nh:NHRA TV
 #DESCRIPTION NHRA TV
-#SERVICE 4097:0:1:1394:4573:EC:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTRSPT 1
+#SERVICE 5002:0:1:C755:AA0:A06E:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTRSPT 1
 #DESCRIPTION MTRSPT 1
-#SERVICE 4097:0:1:8C44:6166:EC:0:0:0:0:https%3a//rtmtv-powernationenespanol-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation en Espanol
+#SERVICE 5002:0:1:8C44:6166:EC:0:0:0:0:https%3a//rtmtv-powernationenespanol-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation en Espanol
 #DESCRIPTION PowerNation en Espanol
-#SERVICE 4097:0:1:71D5:76CB:CB07:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Pro Wrestling TV
+#SERVICE 5002:0:1:71D5:76CB:CB07:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3:Pro Wrestling TV
 #DESCRIPTION Pro Wrestling TV
 #SERVICE 5002:0:1:AD74:2BC:EC:0:0:0:0:https%3a//linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8:CampusLore Sports
 #DESCRIPTION CampusLore Sports
@@ -65,7 +69,7 @@
 #DESCRIPTION Kozoom TV
 #SERVICE 5002:0:1:4E7A:BD99:EC:0:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=sadsea_tn:Treehouse Gaming
 #DESCRIPTION Treehouse Gaming
-#SERVICE 4097:0:1:DE5D:8652:EC:0:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f12332eeca6a20040b328e5.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=J-9mRqu7dbbgK4sMjFkM#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SKWAD
+#SERVICE 5002:0:1:DE5D:8652:EC:0:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f12332eeca6a20040b328e5.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=J-9mRqu7dbbgK4sMjFkM#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SKWAD
 #DESCRIPTION SKWAD
 #SERVICE 5002:0:1:444C:55:EC:0:0:0:0:https%3a//newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8:NEW KPOP
 #DESCRIPTION NEW KPOP
