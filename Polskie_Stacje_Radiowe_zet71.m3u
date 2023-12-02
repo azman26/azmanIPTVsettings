@@ -13,8 +13,6 @@ http://195.150.20.7/rmf_5
 http://195.150.20.7/rmf_24
 #EXTINF:0 radio=true,RMF 10s
 http://195.150.20.7/rmf_2010
-#EXTINF:0 radio=true,RMF 20-lecie RMF Classic
-http://195.150.20.7/rmf_classic_20lat
 #EXTINF:0 radio=true,RMF 20s
 http://195.150.20.7/rmf_20s
 #EXTINF:0 radio=true,RMF 30 lat
@@ -39,28 +37,18 @@ http://195.150.20.7/rmf_90s_dance
 http://195.150.20.7/rmf_2000
 #EXTINF:0 radio=true,RMF Alternatywa
 http://195.150.20.7/rmf_alternatywa
-#EXTINF:0 radio=true,RMF Bajkowe Piosenki
-http://195.150.20.7/rmf_top_5_rock
 #EXTINF:0 radio=true,RMF Ballady
 http://195.150.20.7/rmf_nostalgia
 #EXTINF:0 radio=true,RMF Beatlemania
 http://195.150.20.7/rmf_beatlemania
 #EXTINF:0 radio=true,RMF Best Of RMFon
 http://195.150.20.7/best_of_rmfon
-#EXTINF:0 radio=true,RMF Best Of Tina Turner
-http://195.150.20.7/rmf_top
 #EXTINF:0 radio=true,RMF Blues
 http://195.150.20.7/rmf_blues
-#EXTINF:0 radio=true,RMF Bravo
-http://195.150.20.7/rmf_bravo
 #EXTINF:0 radio=true,RMF Celtic
 http://195.150.20.7/rmf_celtic
 #EXTINF:0 radio=true,RMF Chillout
 http://195.150.20.7/rmf_chillout
-#EXTINF:0 radio=true,RMF Classic
-http://195.150.20.7/rmf_classic
-#EXTINF:0 radio=true,RMF Classic Rock
-http://195.150.20.7/rmf_classic_rock
 #EXTINF:0 radio=true,RMF Club
 http://195.150.20.7/rmf_club
 #EXTINF:0 radio=true,RMF Cuba
@@ -97,6 +85,8 @@ http://195.150.20.7/rmf_hard_heavy
 http://195.150.20.7/rmf_hip_hop
 #EXTINF:0 radio=true,RMF Hot New
 http://195.150.20.7/rmf_hot_new
+#EXTINF:0 radio=true,RMF Jesienny Vibe
+http://195.150.20.7/rmf_top3
 #EXTINF:0 radio=true,RMF Kolędy
 http://195.150.20.7/rmf_koledy
 #EXTINF:0 radio=true,RMF Klasyka Polskiego Hip Hopu
@@ -143,9 +133,7 @@ http://195.150.20.7/rmf_polskie_przeboje
 http://195.150.20.7/rmf_poplista
 #EXTINF:0 radio=true,RMF PRL
 http://195.150.20.7/rmf_prl
-#EXTINF:0 radio=true,RMF Przebój Lata 2023
-http://195.150.20.7/rmf_top3
-#EXTINF:0 radio=true,RMF Przebój Roku 2022
+#EXTINF:0 radio=true,RMF Przebój Roku 2023
 http://195.150.20.7/rmf_przeboj_roku
 #EXTINF:0 radio=true,RMF Queen
 http://195.150.20.7/rmf_queen
@@ -169,6 +157,8 @@ http://195.150.20.7/rmf_studencka_impreza
 http://195.150.20.7/rmf_styl
 #EXTINF:0 radio=true,RMF Szanty
 http://195.150.20.7/rmf_szanty
+#EXTINF:0 radio=true,RMF Świąteczne Nowości 2023
+http://195.150.20.7/rmf_top
 #EXTINF:0 radio=true,RMF Święta
 http://195.150.20.7/rmf_swieta
 #EXTINF:0 radio=true,RMF Teen
@@ -187,12 +177,48 @@ http://195.150.20.7/rmf_top_30_swieta
 http://195.150.20.7/rmf_top2
 #EXTINF:0 radio=true,RMF Vibe
 http://195.150.20.7/rmf_vibe
+#EXTINF:0 radio=true,RMF Viral
+http://195.150.20.7/rmf_bravo
 #EXTINF:0 radio=true,RMF W Kuchni
 http://195.150.20.7/rmf_w_kuchni
 #EXTINF:0 radio=true,RMF W Pracy
 http://195.150.20.7/rmf_w_pracy
 #EXTINF:0 radio=true,RMF Wakacyjne Top 100
 http://195.150.20.7/rmf_top4
+#EXTINF:0 radio=true,RMF Classic
+http://195.150.20.7/rmf_classicplus_std
+#EXTINF:0 radio=true,RMF Classic - Świąteczne
+http://195.150.20.7/rmf_classic
+#EXTINF:0 radio=true,RMF 20-lecie RMF Classic
+http://195.150.20.7/rmf_classic_20lat
+#EXTINF:0 radio=true,RMF Classic Chopin
+http://195.150.20.7/rmf_chopin
+#EXTINF:0 radio=true,RMF Classic Czas Skupienia
+http://195.150.20.7/rmf_classicplus_sku
+#EXTINF:0 radio=true,RMF Classic Hans Zimmer
+http://195.150.20.7/rmf_classicplus_zim
+#EXTINF:0 radio=true,RMF Classic John Williams
+http://195.150.20.7/rmf_classicplus_wil
+#EXTINF:0 radio=true,RMF Classic Klasyka Z Werwą
+http://195.150.20.7/rmf_classicplus_wer
+#EXTINF:0 radio=true,RMF Classic Mindfulness
+http://195.150.20.7/rmf_classicplus_min
+#EXTINF:0 radio=true,RMF Classic Morricone Westerny
+http://195.150.20.7/rmf_classicplus_wes
+#EXTINF:0 radio=true,RMF Classic Muzyka Oscarowa
+http://195.150.20.7/rmf_classicplus_osc
+#EXTINF:0 radio=true,RMF Classic Na Pirackich Wodach
+http://195.150.20.7/rmf_classicplus_pir
+#EXTINF:0 radio=true,RMF Classic Rock
+http://195.150.20.7/rmf_classic_rock
+#EXTINF:0 radio=true,RMF Classic Śródziemie
+http://195.150.20.7/rmf_classicplus_srd
+#EXTINF:0 radio=true,RMF Classic Świat Czarodziejów
+http://195.150.20.7/rmf_classicplus_cza
+#EXTINF:0 radio=true,RMF Classic Tarantino
+http://195.150.20.7/rmf_classicplus_tar
+#EXTINF:0 radio=true,RMF Classic Thor
+http://195.150.20.7/rmf_classicplus_tho
 #EXTINF:0 radio=true,RMF MAXX
 http://195.150.20.7/rmf_maxxx
 #EXTINF:0 radio=true,RMF MAXX - Bydgoszcz
@@ -363,10 +389,14 @@ http://stream.open.fm/10
 http://stream.open.fm/72
 #EXTINF:0 radio=true,OPEN FM 10s Hits
 http://stream.open.fm/352
+#EXTINF:0 radio=true,OPEN FM 80s Chill
+https://stream-cdn-1.open.fm/OFM192/ngrp:standard/playlist.m3u8
 #EXTINF:0 radio=true,OPEN FM 80s Hits
 http://stream.open.fm/3
 #EXTINF:0 radio=true,OPEN FM 90s Hits
 http://stream.open.fm/14
+#EXTINF:0 radio=true,OPEN FM 90s Rock
+https://stream-cdn-1.open.fm/OFM197/ngrp:standard/playlist.m3u8
 #EXTINF:0 radio=true,OPEN FM 100% Hits
 http://stream.open.fm/64
 #EXTINF:0 radio=true,OPEN FM 500 Alternative Hits
@@ -451,7 +481,7 @@ http://stream.open.fm/41
 http://stream.open.fm/69
 #EXTINF:0 radio=true,OPEN FM EDM Anthems
 http://stream.open.fm/361
-#EXTINF:0 radio=true,OPEN FM Fitness
+#EXTINF:0 radio=true,OPEN FM Fitness (No Pain No Gain)
 http://stream.open.fm/65
 #EXTINF:0 radio=true,OPEN FM Freszzz
 http://stream.open.fm/39
@@ -495,14 +525,12 @@ http://stream.open.fm/2
 http://stream.open.fm/12
 #EXTINF:0 radio=true,OPEN FM Italo Disco
 http://stream.open.fm/27
-#EXTINF:0 radio=true,OPEN FM Jazz
+#EXTINF:0 radio=true,OPEN FM Jazz (Praca Jazz)
 http://stream.open.fm/166
 #EXTINF:0 radio=true,OPEN FM Joga
 http://stream.open.fm/362
 #EXTINF:0 radio=true,OPEN FM Karnawał 70 80 90
 http://stream.open.fm/133
-#EXTINF:0 radio=true,OPEN FM Karnawał z Disco Polo
-http://stream.open.fm/132
 #EXTINF:0 radio=true,OPEN FM Karnawałowe Hity
 http://stream.open.fm/71
 #EXTINF:0 radio=true,OPEN FM Kids - Muzyka & Ciekawostki
@@ -575,10 +603,14 @@ http://stream.open.fm/45
 http://stream.open.fm/165
 #EXTINF:0 radio=true,OPEN FM Polskie Reggae
 http://stream.open.fm/22
+#EXTINF:0 radio=true,OPEN FM Pop Na Cały Dzień
+https://stream-cdn-1.open.fm/OFM198/ngrp:standard/playlist.m3u8
 #EXTINF:0 radio=true,OPEN FM Pozytywki
 http://stream.open.fm/194
 #EXTINF:0 radio=true,OPEN FM Praca
 http://stream.open.fm/109
+#EXTINF:0 radio=true,OPEN FM Praca Chill
+https://stream-cdn-1.open.fm/OFM193/ngrp:standard/playlist.m3u8
 #EXTINF:0 radio=true,OPEN FM Praca Rock
 http://stream.open.fm/104
 #EXTINF:0 radio=true,OPEN FM Punk Rock
@@ -593,13 +625,15 @@ http://stream.open.fm/112
 http://stream.open.fm/25
 #EXTINF:0 radio=true,OPEN FM Rock Ballady
 http://stream.open.fm/61
+#EXTINF:0 radio=true,OPEN FM Rock Na Cały Dzień
+https://stream-cdn-1.open.fm/OFM199/ngrp:standard/playlist.m3u8
 #EXTINF:0 radio=true,OPEN FM Rocks
 http://stream.open.fm/77
 #EXTINF:0 radio=true,OPEN FM Sad
 http://stream.open.fm/103
 #EXTINF:0 radio=true,OPEN FM Schodki
 http://stream.open.fm/410
-#EXTINF:0 radio=true,OPEN FM Sexy: Soul & R'n'B
+#EXTINF:0 radio=true,OPEN FM Sexy: Soul & R'n'B (Soul Cafe)
 http://stream.open.fm/18
 #EXTINF:0 radio=true,OPEN FM Smooth Jazz
 http://stream.open.fm/60
@@ -625,6 +659,8 @@ http://stream.open.fm/28
 http://stream.open.fm/347
 #EXTINF:0 radio=true,OPEN FM Szum
 http://stream.open.fm/193
+#EXTINF:0 radio=true,OPEN FM Święta 2023
+https://stream-cdn-1.open.fm/OFM200/ngrp:standard/playlist.m3u8
 #EXTINF:0 radio=true,OPEN FM Top 20 Alt
 http://stream.open.fm/83
 #EXTINF:0 radio=true,OPEN FM Top 20 Disco Polo
@@ -933,6 +969,8 @@ http://stream3.polskieradio.pl:8964
 http://stream3.polskieradio.pl:8960
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Dzieciom
 http://stream3.polskieradio.pl:8966
+#EXTINF:0 radio=true,Moje Polskie Radio - Radio Gwiazdka
+http://stream3.polskieradio.pl:8538
 #EXTINF:0 radio=true,Moje Polskie Radio - Radio Kierowców
 http://stream3.polskieradio.pl:8968
 #EXTINF:0 radio=true,Moje Polskie Radio - Abba Non Stop
@@ -1060,17 +1098,35 @@ https://an.cdn.eurozet.pl/ANTWOD.mp3
 #EXTINF:0 radio=true,Antyradio - X-mass
 https://an.cdn.eurozet.pl/ANTXMA.mp3
 #EXTINF:0 radio=true,Radio AskFM
-https://askfm.streamcast.online:8187/stream
+https://radioaskfm.pl:8048/stream
+#EXTINF:0 radio=true,Radio AskFM - Classic
+https://radioaskfm.pl:8080/stream
 #EXTINF:0 radio=true,Radio AskFM - Club Music
-https://club.streamcast.online:7755/stream
+https://radioaskfm.pl:8054/stream
 #EXTINF:0 radio=true,Radio AskFM - Disco Polo
-https://discopolo.streamcast.online:8981/stream
+https://radioaskfm.pl:8070/stream
+#EXTINF:0 radio=true,Radio AskFM - Euro Dance
+https://radioaskfm.pl:8112/stream
 #EXTINF:0 radio=true,Radio AskFM - Gold
-https://gold.streamcast.online:8297/stream
-#EXTINF:0 radio=true,Radio AskFM - Hip Hop
-https://hiphop.streamcast.online:8278/stream
+https://radioaskfm.pl:8082/stream
+#EXTINF:0 radio=true,Radio AskFM - Italo Disco
+https://radioaskfm.pl:8076/stream
+#EXTINF:0 radio=true,Radio AskFM - Jazz
+https://radioaskfm.pl:8094/stream
 #EXTINF:0 radio=true,Radio AskFM - Kids Music
-https://radio.mediacp.eu/stream/kids
+https://radioaskfm.pl:8100/stream
+#EXTINF:0 radio=true,Radio AskFM - Love
+https://radioaskfm.pl:8098/stream
+#EXTINF:0 radio=true,Radio AskFM - Music Rock
+https://radioaskfm.pl:8102/stream
+#EXTINF:0 radio=true,Radio AskFM - Polski Hip Hop
+https://radioaskfm.pl:8104/stream
+#EXTINF:0 radio=true,Radio AskFM - Relax
+https://radioaskfm.pl:8114/stream
+#EXTINF:0 radio=true,Radio AskFM - RNB
+https://radioaskfm.pl:8084/stream
+#EXTINF:0 radio=true,Radio AskFM - Vixa
+https://radioaskfm.pl:8072/stream
 #EXTINF:0 radio=true,Radio Derf Blues Standards
 http://178.19.96.111:8011
 #EXTINF:0 radio=true,Radio Derf Bluesdelta
@@ -1143,13 +1199,13 @@ https://panel.radiombox.pl/radio/8100/Chill320kbps
 http://panel.radiombox.pl/radio/8070/Club320kbps
 #EXTINF:0 radio=true,Radio Mbox - Disco Polo
 http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
-#EXTINF:0 radio=true,Radio Mbox - Gold Hits
+#EXTINF:0 radio=true,Radio Mbox - Gold Hit's
 http://panel.radiombox.pl/radio/8040/GoldHits320kbps
 #EXTINF:0 radio=true,Radio Mbox - Polska Muzyka
 http://panel.radiombox.pl/radio/8060/Pol320kbps
 #EXTINF:0 radio=true,Radio Mbox - RNB & Rap
 https://panel.radiombox.pl/radio/8050/RnbHH320kbps
-#EXTINF:0 radio=true,Radio Mbox - Rock
+#EXTINF:0 radio=true,Radio Mbox - Rock'n'Roll
 http://panel.radiombox.pl/radio/8090/Rock320kbps
 #EXTINF:0 radio=true,Muzyczne Radio
 http://stream3.nadaje.com:9000
@@ -1341,6 +1397,12 @@ http://stream.task.gda.pl:8000/rg3
 http://stream02.radiogorzow.pl:10115
 #EXTINF:0 radio=true,Radio Katowice
 https://stream4.nadaje.com:9213/radiokatowice
+#EXTINF:0 radio=true,Radio Katowice - Bielsko-Biała
+https://stream4.nadaje.com:8497/katowice_b
+#EXTINF:0 radio=true,Radio Katowice - Częstochowa
+https://stream4.nadaje.com:8497/katowice_a
+#EXTINF:0 radio=true,Radio Katowice - Katowice
+https://stream4.nadaje.com:8497/katowice_c
 #EXTINF:0 radio=true,Radio Kielce
 https://streaming.g-news.pl:8030/rk1
 #EXTINF:0 radio=true,Radio Kielce Folk
@@ -1362,11 +1424,13 @@ http://stream2.nadaje.com:13332/offradiokrakow
 #EXTINF:0 radio=true,Radio Lublin
 https://streaming.radio.lublin.pl:8843/128k
 #EXTINF:0 radio=true,Radio Łódź
-http://217.113.224.171:80/RadioLodz-1-HQ.aac
+https://stream.radiolodz.pl/RadioLodz-1-HQ.aac
+#EXTINF:0 radio=true,Radio Łódź - Dodatkowe transmisje sportowe
+https://stream.radiolodz.pl/RadioLodz-3-HQ.aac
+#EXTINF:0 radio=true,Radio Łódź - Extra - Transmisje specjalne
+https://stream.radiolodz.pl/RadioLodz-2-HQ.aac
 #EXTINF:0 radio=true,Radio Łódź - Nad Wartą
-http://217.113.224.171:80/RadioLodz-NW-HQ.aac
-#EXTINF:0 radio=true,Radio Łódź - Transmisje
-http://217.113.224.171:80/RadioLodz-3-HQ.aac
+https://stream.radiolodz.pl/RadioLodz-NW-HQ.aac
 #EXTINF:0 radio=true,Radio MC
 http://stream4.nadaje.com:8624/mcradio
 #EXTINF:0 radio=true,Radio Opole
@@ -1428,9 +1492,9 @@ https://s3.slotex.pl/shoutcast/7126/stream
 #EXTINF:0 radio=true,Radio Karolinka /śląskie/
 http://91.232.4.33:8358/stream
 #EXTINF:0 radio=true,Radio Katowice /śląskie/
-http://stream4.nadaje.com:9212/radiokatowice
+https://stream4.nadaje.com:9213/radiokatowice
 #EXTINF:0 radio=true,Radio Krysjan /śląskie/
-http://radio.admin-marcin.pl:7424
+http://s1.supermuza.com:7424
 #EXTINF:0 radio=true,Radio Lenka /śląskie/
 http://s1.slotex.pl:7028
 #EXTINF:0 radio=true, Radio Larmo /śląskie/
@@ -1462,13 +1526,13 @@ http://stream.slonskyradio.eu
 #EXTINF:0 radio=true,Radio SR24 /śląskie/
 http://s1.slotex.pl:7560
 #EXTINF:0 radio=true,Radio Sympatyk /śląskie/
-http://s2.admin-marcin.pl:7055/stream
+http://http://s1.supermuza.com:7055
 #EXTINF:0 radio=true,Radio Śląsk /śląskie/
 http://s1.slotex.pl:7022
 #EXTINF:0 radio=true,Radio Śląskie Radio /śląskie/
 https://stream10.hosterion.pl/8066/stream
 #EXTINF:0 radio=true,Radio u Gaby /śląskie/
-http://s4.admin-marcin.pl:7720/stream
+http://s1.supermuza.com:7720
 #EXTINF:0 radio=true,Radio Vanessa /śląskie/
 http://s1.slotex.pl:7358
 #EXTINF:0 radio=true,Radio Wesołe Ślonzoki /śląskie/
@@ -1573,6 +1637,44 @@ http://sender.viennaplus.at:15020/stream
 http://streaming03.technologicznie.net:8765/radio_warszawa.mp3
 #EXTINF:0 radio=true,Radio Zamość /katolickie/
 https://stream.rcs.revma.com/0n8y7mxcay8uv
+#EXTINF:0 radio=true,RMF Kolędy /świąteczne/
+https://195.150.20.7/rmf_koledy
+#EXTINF:0 radio=true,RMF Święta /świąteczne/
+https://195.150.20.7/rmf_swieta
+#EXTINF:0 radio=true,RMF Świąteczne Nowości 2023 /świąteczne/
+https://195.150.20.7/rmf_top5
+#EXTINF:0 radio=true,RMF Top 30 Święta /świąteczne/
+https://195.150.20.7/rmf_top_30_swieta
+#EXTINF:0 radio=true,Świąteczne RMF Classic /świąteczne/
+https://195.150.20.7/rmf_classic
+#EXTINF:0 radio=true,Radio ZET Kolędy /świąteczne/
+http://zt.cdn.eurozet.pl/ZETKOL.mp3
+#EXTINF:0 radio=true,Radio ZET Na Święta /świąteczne/
+http://zt.cdn.eurozet.pl/ZETSWI.mp3
+#EXTINF:0 radio=true,Chillizet Christmas /świąteczne/
+http://ch.cdn.eurozet.pl/CHISWI.mp3
+#EXTINF:0 radio=true,Meloradio Christmas /świąteczne/
+http://ml.cdn.eurozet.pl/MELCHR.mp3
+#EXTINF:0 radio=true,Moje Polskie Radio - Radio Gwiazdka /świąteczne/
+http://stream3.polskieradio.pl:8138
+#EXTINF:0 radio=true,OPEN FM Kolędy /świąteczne/
+https://stream.open.fm/89
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę /świąteczne/
+https://stream.open.fm/87
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
+https://stream.open.fm/88
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Hity /świąteczne/
+https://stream.open.fm/90
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę PL /świąteczne/
+https://stream.open.fm/56
+#EXTINF:0 radio=true,OPEN FM Na Gwiazdkę Rock /świąteczne/
+https://stream.open.fm/91
+#EXTINF:0 radio=true,OPEN FM Święta 2023 /świąteczne/
+http://stream-cdn-1.open.fm/OFM200/ngrp:standard/playlist.m3u8
+#EXTINF:0 radio=true,Antyradio - X-mass /świąteczne/
+http://an.cdn.eurozet.pl/ANTXMA.mp3
+#EXTINF:0 radio=true,Radio Polski.FM Chicago - Święta z Polski.FM /świąteczne/
+https://usa8.fastcast4u.com/proxy/s14?mp=/1
 #EXTINF:0 radio=true,Radio 1.7
 http://emisja.radio17.pl:8000/R17
 #EXTINF:0 radio=true,Radio 4Music
@@ -1601,8 +1703,6 @@ http://s1.slotex.pl:7122
 https://listen.radioaktywne.pl:8443/ramp3
 #EXTINF:0 radio=true,Radio Alex
 http://proxima.shoutca.st:9045/stream
-#EXTINF:0 radio=true,Radio Alternation
-http://radio.alternation.pl:616
 #EXTINF:0 radio=true,Radio Andrychów
 http://s1.slotex.pl:7424
 #EXTINF:0 radio=true,Radio Anime24
@@ -1621,10 +1721,10 @@ http://185.34.28.166:8000/
 https://epanel.mediacp.eu:8551/stream
 #EXTINF:0 radio=true,Radio Audio FM
 http://194.59.141.125:8000/stream
-#EXTINF:0 radio=true,Radio Autsajder
-http://s1.slotex.pl:7120
 #EXTINF:0 radio=true,Radio Avant
 http://sc1.readycast.org:8030
+#EXTINF:0 radio=true,Radio Avocado
+https://s3.slotex.pl:7286/stream
 #EXTINF:0 radio=true,Radio Bałkanica
 http://s3.slotex.pl:7232
 #EXTINF:0 radio=true,Radio Banita Maxx
@@ -1647,8 +1747,6 @@ http://195.164.158.230:9070
 http://91.232.4.33:9149/stream
 #EXTINF:0 radio=true,Radio BIGbbs
 http://91.121.91.156:8000
-#EXTINF:0 radio=true,Radio Black Wings
-http://stream.zeno.fm/itmabrtcxy1vv
 #EXTINF:0 radio=true,Radio Blue Moon
 http://s3.slotex.pl:7014
 #EXTINF:0 radio=true,Radio Bogoria
@@ -1660,7 +1758,7 @@ https://streaming.inten.pl:8020/bonton.mp3
 #EXTINF:0 radio=true,Radio Brylant
 http://s1.slotex.pl:7212
 #EXTINF:0 radio=true,Radio Bunt
-https://boont.radioca.st/stream
+http://65.108.198.245:7271/stream
 #EXTINF:0 radio=true,Radio CCM
 http://primary.moodyradiostream.org/radioccm
 #EXTINF:0 radio=true,Radio Centrum Kalisz
@@ -1771,6 +1869,8 @@ http://stream2.nadaje.com:8078
 http://stream3.nadaje.com:8096
 #EXTINF:0 radio=true,Radio FAMA Żyrardów
 http://stream4.nadaje.com:13770
+#EXTINF:0 radio=true,Radio FAMKA Kraków
+http://modulator.ddns.net:8000/famka.ogg
 #EXTINF:0 radio=true,Radio Feel The Music
 http://s1.slotex.pl:7792
 #EXTINF:0 radio=true,Radio Flirt
@@ -1966,7 +2066,7 @@ https://s3.slotex.pl/shoutcast/7234/stream
 #EXTINF:0 radio=true,Radio Muzyczny Zakątek
 https://s3.slotex.pl/shoutcast/7336/stream
 #EXTINF:0 radio=true,Radio Muzyka 24
-http://s3.admin-marcin.pl:7718
+http://s1.supermuza.com:7718
 #EXTINF:0 radio=true,Radio Muzyka Łączy Ludzi
 http://4stream.pl:18306
 #EXTINF:0 radio=true,Radio Muzykomaniacy
@@ -2041,6 +2141,8 @@ http://sluchaj2.radiopark.biz.pl:8058
 http://4stream.pl:18276
 #EXTINF:0 radio=true,Radio Piekielskie 1
 http://s1.slotex.pl:7146
+#EXTINF:0 radio=true,Radio Piłeczka
+https://s3.slotex.pl:7244/stream
 #EXTINF:0 radio=true,Radio Planeta FM
 https://pl.cdn.eurozet.pl/pla-net.mp3
 #EXTINF:0 radio=true,Radio Płock FM
@@ -2071,18 +2173,24 @@ https://stream.rcs.revma.com/prfmwmwy768uv
 http://radiointernetowe.net:7802
 #EXTINF:0 radio=true,Radio Project FM
 https://panelradiowy.projectrpg.pl/listen/projectfm/radio
+#EXTINF:0 radio=true,Radio ProjectX
+https://stream12.hosterion.pl/stream/projectx
 #EXTINF:0 radio=true,Radio ProRock
 http://91.232.4.33:9073/stream
 #EXTINF:0 radio=true,Radio PRS24
 https://solid24.streamupsolutions.com/proxy/hgrchhkx?mp=/stream
 #EXTINF:0 radio=true,Radio Pryzmat
 http://51.255.8.139:8822/stream
+#EXTINF:0 radio=true,Radio Przystań
+https://s3.slotex.pl:7224/stream
 #EXTINF:0 radio=true,Radio Puzzle
 http://s1.slotex.pl:7572
 #EXTINF:0 radio=true,Radio Q
 http://37.130.30.166:8020
 #EXTINF:0 radio=true,Radio Racja
 http://air.racyja.com:8000/aacp128
+#EXTINF:0 radio=true,Radio RAdArFm
+https://s3.slotex.pl/shoutcast/7326/stream
 #EXTINF:0 radio=true,Radio Radom
 http://stream6.nadaje.com:15292/radioradompl
 #EXTINF:0 radio=true,Radio R.D.N. Małopolska
@@ -2179,8 +2287,8 @@ http://stream2.nadaje.com:8012
 https://stream4.nadaje.com:15007/sudety24
 #EXTINF:0 radio=true,Radio SuDi Planet FM
 http://4stream.pl:18320
-#EXTINF:0 radio=true,Radio Super FM
-https://stream.super.fm:8443/superfm.mp3
+#EXTINF:0 radio=true,Radio Sunrise
+http://4stream.pl:18278
 #EXTINF:0 radio=true,Radio Sygnały
 http://radiosygnaly2.uni.opole.pl:8000/stream
 #EXTINF:0 radio=true,Radio Szczecin
@@ -2242,7 +2350,7 @@ http://4stream.pl:18480
 #EXTINF:0 radio=true,Radio Warta FM
 http://s1.slotex.pl:7446
 #EXTINF:0 radio=true,Radio Wars-sawa 24
-http://s1.admin-marcin.pl:7022
+http://s1.supermuza.com:7022
 #EXTINF:0 radio=true,Radio Wasze Radio FM
 https://sluchaj.link:5443/wasze
 #EXTINF:0 radio=true,Radio Weekend
@@ -2268,7 +2376,9 @@ https://s4.yesstreaming.net:17078/stream
 #EXTINF:0 radio=true,Radio Wyczes
 https://radiowyczes.pl:8081/radio/8000/stream
 #EXTINF:0 radio=true,Radio Xmusic
-https://s3.slotex.pl/shoutcast/7010/stream
+https://s3.slotex.pl:7470
+#EXTINF:0 radio=true,Radio Yanosik
+https://stream.rcs.revma.com/7vhveccrnquvv
 #EXTINF:0 radio=true,Radio Z Qlturą
 https://radiozqlturapl.radioca.st/stream
 #EXTINF:0 radio=true,Radio Zamek Nadaje
