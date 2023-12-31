@@ -1853,10 +1853,12 @@
 #DESCRIPTION Virgin Radio TV (muziek - Frankrijk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/visualradio/mp4%3avisualradio/chunklist.m3u8:Visual Radio (muziek - Italië)
 #DESCRIPTION Visual Radio (muziek - Italië)
-#SERVICE 4097:0:1:9CEA:EFEF:EC:0:0:0:0:https%3a//prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ZUr5losUdo25Q2bk3Ymly6ehifvdy7JIP8ohSIVQZKQhOX2KDl90UOvud2PKkaNccSs87NMm_4587KwRqkfCcQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJIZWlnaHQiOjcyMCwiS2JwcyI6NDAwMCwiV2lkdGgiOjEyODB9._lwcUhHeo_ZcTvj7C11_mnFYldhjIywdpF0kk3OHkBE/playlist_16901051148419554438.m3u8?type=replay:VIVA Rosja
-#DESCRIPTION VIVA Rosja
-#SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:https%3a//live.prd.dlive.tv/hls/live/viva-russia.m3u8:VIVA Russia
+#SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:https%3a//s.catcast.tv/content/39575/index.m3u8:VIVA Russia
 #DESCRIPTION VIVA Russia
+#SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//autopilot.catcast.tv/content/39575/index.m3u8:VIVA Russia
+#DESCRIPTION VIVA Russia
+#SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hls.goodgame.ru/hls/180805.m3u8:VIVA Russia  (SL SRV)
+#DESCRIPTION VIVA Russia  (SL SRV)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.194%3a8000/play/a0jz/index.m3u8:Volksmusik.TV
 #DESCRIPTION Volksmusik.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8:Wanasah (1080p)
