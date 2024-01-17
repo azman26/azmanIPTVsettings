@@ -61,6 +61,8 @@
 #DESCRIPTION TV Lubań
 #SERVICE 4097:0:1:E713:D5DF:EC:0:0:0:0:https%3a//webcam.box3.pl/box3/zachodnia/playlist.m3u8:Zachodnia TV
 #DESCRIPTION Zachodnia TV
+#SERVICE 4097:0:1:6CF4:6D9F:EC:0:0:0:0:https%3a//koder.swidman.pl/Swidnik.TV/index.m3u8:Świdnik TV
+#DESCRIPTION Świdnik TV
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvsowianin-on-line9194/live:TV Słowianin  (YT)
 #DESCRIPTION TV Słowianin  (YT)
 #SERVICE 4097:0:1:54:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjaOlsztynPL/live:TV Olsztyn  (YT)
@@ -131,13 +133,13 @@
 #DESCRIPTION Dobre Media  (YT)
 #SERVICE 4097:0:1:2709:DABA:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@jasnagoraklasztorojcowpaul7943/live:Jasna Góra  (YT)
 #DESCRIPTION Jasna Góra  (YT)
-#SERVICE 5002:0:1:32E8:BDE6:EC:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8:Czwórka PR (Visual Radio)
+#SERVICE 5002:0:1:100:0:48:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8:Czwórka PR (Visual Radio)
 #DESCRIPTION Czwórka PR (Visual Radio)
-#SERVICE 5002:0:1:E76B:CBA:EC:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24_video/video_pr24.stream/chunklist_w1582075097.m3u8:Polskie Radio 24 (Visual Radio)
+#SERVICE 5002:0:1:101:0:48:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24_video/video_pr24.stream/chunklist_w1582075097.m3u8:Polskie Radio 24 (Visual Radio)
 #DESCRIPTION Polskie Radio 24 (Visual Radio)
-#SERVICE 5002:0:1:F545:6584:EC:0:0:0:0:https%3a//d3smbzacjqrkz6.cloudfront.net/out/v1/77b67552aa6a4c51aa74dd5c0e3a1881/index_1.m3u8:Radio Kraków (Visual Radio)
+#SERVICE 5002:0:1:102:0:48:0:0:0:0:https%3a//d3smbzacjqrkz6.cloudfront.net/out/v1/77b67552aa6a4c51aa74dd5c0e3a1881/index_1.m3u8:Radio Kraków (Visual Radio)
 #DESCRIPTION Radio Kraków (Visual Radio)
-#SERVICE 4097:0:1:153D:226D:EC:0:0:0:0:https%3a//1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8:Radio Wrocław (Visual Radio)
+#SERVICE 4097:0:1:103:0:48:0:0:0:0:https%3a//1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8:Radio Wrocław (Visual Radio)
 #DESCRIPTION Radio Wrocław (Visual Radio)
 #SERVICE 4097:0:1:3204:B5D9:EC:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Radio Wrocław Kultura (Visual Radio)
 #DESCRIPTION Radio Wrocław Kultura (Visual Radio)
@@ -195,6 +197,10 @@
 #DESCRIPTION TVi Roland  (YT)
 #SERVICE 4097:0:1:9908:338A:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LokalnaTV2009/live:Lokalna TV  (YT)
 #DESCRIPTION Lokalna TV  (YT)
+#SERVICE 4097:0:1:94:1:48:0:0:0:0:http%3a//91.231.169.250%3a19380/media_server/tvl_low/index.m3u8:TVL Tarnobrzeg
+#DESCRIPTION TVL Tarnobrzeg
+#SERVICE 4097:0:1:42:1:48:0:0:0:0:https%3a//tvsm.pl/live/hls/A3kaoVpwSNKVHHDybpTHjg/1647800785/video.m3u8:TVK SM Grudziądz
+#DESCRIPTION TVK SM Grudziądz
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- YT HLS m3u8 ---
 #DESCRIPTION --- YT HLS m3u8 ---
 #SERVICE 4097:0:1:59:1:48:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCYxbE-WoPqKq26sSeQ6eD1w.m3u8:New TV
@@ -241,6 +247,92 @@
 #DESCRIPTION wPolsce.pl
 #SERVICE 4097:0:1:2775:E944:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCIfI7Yo22SMKp5PraztHM6w.m3u8:Kanał Sportowy
 #DESCRIPTION Kanał Sportowy
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- WP Pilot (azman) ---
+#DESCRIPTION --- WP Pilot (azman) ---
+#SERVICE 5002:0:1:3D5A:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/158:Telewizja WP HD
+#DESCRIPTION Telewizja WP HD
+#SERVICE 5002:0:1:995A:C656:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/271:Kabaret TV
+#DESCRIPTION Kabaret TV
+#SERVICE 5002:0:1:DFDD:F56A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/316:Patronite Podróże
+#DESCRIPTION Patronite Podróże
+#SERVICE 4097:0:1:C7D4:533B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/315:Glina TV
+#DESCRIPTION Glina TV
+#SERVICE 4097:0:1:9A8F:C32:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/330:Pilot w Domu
+#DESCRIPTION Pilot w Domu
+#SERVICE 4097:0:1:3D36:80CD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/331:Auto Pilot
+#DESCRIPTION Auto Pilot
+#SERVICE 5002:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/3:TVP 1 HD
+#DESCRIPTION TVP 1 HD
+#SERVICE 5002:0:1:C22:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/5:TVP 2 HD
+#DESCRIPTION TVP 2 HD
+#SERVICE 5002:0:1:3:2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/9:Polsat HD
+#DESCRIPTION Polsat HD
+#SERVICE 5002:0:1:3DCD:640:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/14:TVN
+#DESCRIPTION TVN
+#SERVICE 5002:0:1:3393:3390:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/11:TV 4 HD
+#DESCRIPTION TV 4 HD
+#SERVICE 5002:0:1:3D66:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/12:TV Puls HD
+#DESCRIPTION TV Puls HD
+#SERVICE 5002:0:1:3D5E:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/312:Puls 2
+#DESCRIPTION Puls 2
+#SERVICE 5002:0:1:428D:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/21:4FUN.TV
+#DESCRIPTION 4FUN.TV
+#SERVICE 5002:0:1:428F:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/50:4FUN DANCE
+#DESCRIPTION 4FUN DANCE
+#SERVICE 5002:0:1:428E:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/22:4FUN KIDS
+#DESCRIPTION 4FUN KIDS
+#SERVICE 5002:0:1:113B:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/57:TVP Warszawa
+#DESCRIPTION TVP Warszawa
+#SERVICE 5002:0:1:9:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/187:TVP Gdańsk
+#DESCRIPTION TVP Gdańsk
+#SERVICE 4097:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/272:News24
+#DESCRIPTION News24
+#SERVICE 4097:0:1:754:1362:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/273:Red Top TV
+#DESCRIPTION Red Top TV
+#SERVICE 5002:0:1:38:16:A4A:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/205:Gametoon HD
+#DESCRIPTION Gametoon HD
+#SERVICE 5002:0:1:427F:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/24:Stars.TV HD
+#DESCRIPTION Stars.TV HD
+#SERVICE 5002:0:1:2341:2328:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/188:Music Box Polska
+#DESCRIPTION Music Box Polska
+#SERVICE 5002:0:1:540B:DD1E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/213:Jazz HD
+#DESCRIPTION Jazz HD
+#SERVICE 5002:0:1:132C:33F4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/58:Fashion TV HD
+#DESCRIPTION Fashion TV HD
+#SERVICE 5002:0:1:327:3BC4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/18:France 24 HD
+#DESCRIPTION France 24 HD
+#SERVICE 5002:0:1:328:3BC4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/17:France 24 English HD
+#DESCRIPTION France 24 English HD
+#SERVICE 5002:0:1:32D3:190:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/172:Nuta GOLD
+#DESCRIPTION Nuta GOLD
+#SERVICE 5002:0:1:4279:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/174:wPolsce.pl HD
+#DESCRIPTION wPolsce.pl HD
+#SERVICE 5002:0:1:3D58:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/51:TVS
+#DESCRIPTION TVS
+#SERVICE 5002:0:1:1090:3EE:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/10:TV Trwam
+#DESCRIPTION TV Trwam
+#SERVICE 4097:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/274:13.TV
+#DESCRIPTION 13.TV
+#SERVICE 5002:0:1:5:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/150:Twoja.TV HD
+#DESCRIPTION Twoja.TV HD
+#SERVICE 4097:0:1:3D63:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/138:Red Carpet TV HD
+#DESCRIPTION Red Carpet TV HD
+#SERVICE 5002:0:1:423C:3DB8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/211:Polonia 1
+#DESCRIPTION Polonia 1
+#SERVICE 5002:0:1:423B:3DB8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/212:Tele 5 HD
+#DESCRIPTION Tele 5 HD
+#SERVICE 5002:0:1:327:1F40:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/204:TBN Polska HD
+#DESCRIPTION TBN Polska HD
+#SERVICE 5002:0:1:95:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/298:TVT Rybnik
+#DESCRIPTION TVT Rybnik
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/266:WP Radio
+#DESCRIPTION WP Radio
+#SERVICE 5002:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/240:Radio 357
+#DESCRIPTION Radio 357
+#SERVICE 5002:0:1:513D:DFC5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/238:Radio Nowy Świat
+#DESCRIPTION Radio Nowy Świat
+#SERVICE 4097:0:1:8285:6A03:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/337:Sejm na żywo
+#DESCRIPTION Sejm na żywo
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
 #DESCRIPTION --- RADIO  PL  IP ---
 #SERVICE 4097:0:2:1C9B:1CE8:71:820000:0:0:0:http%3a//stream3.polskieradio.pl%3a8950:Jedynka - PR
@@ -389,8 +481,8 @@
 #DESCRIPTION Radio SILESIA
 #SERVICE 4097:0:2:2F:A22A:2268:0:0:0:0:https%3a//stream4.nadaje.com%3a15007/sudety24:Radio SUDETY 24
 #DESCRIPTION Radio SUDETY 24
-#SERVICE 4097:0:2:30:A22A:2268:0:0:0:0:http%3a//ic1.smcdn.pl/1380-1.mp3:Radio SUPERNOVA
-#DESCRIPTION Radio SUPERNOVA
+#SERVICE 4097:0:2:30:A22A:2268:0:0:0:0:http%3a//ic1.smcdn.pl/1380-1.mp3:Radio ESKA 2
+#DESCRIPTION Radio ESKA 2
 #SERVICE 4097:0:2:31:A22A:2268:0:0:0:0:http%3a//stream4.nadaje.com%3a11986/prs:Radio SZCZECIN
 #DESCRIPTION Radio SZCZECIN
 #SERVICE 4097:0:2:32:A22A:2268:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9111/stream:Radio ULTRA MAX
