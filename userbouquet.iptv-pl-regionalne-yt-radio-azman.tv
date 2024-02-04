@@ -29,7 +29,7 @@
 #DESCRIPTION TV Toruń
 #SERVICE 5002:0:1:95:1:48:0:0:0:0:https%3a//live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8:TVT Rybnik
 #DESCRIPTION TVT Rybnik
-#SERVICE 4097:0:19:50:B052:2268:EEEE0000:0:0:0:https%3a//echo24stream.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8:Echo24
+#SERVICE 4097:0:19:50:B052:2268:EEEE0000:0:0:0:https%3a//echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8:Echo24
 #DESCRIPTION Echo24
 #SERVICE 4097:0:1:64:1:48:0:0:0:0:streamlink%3a//http%3a//tvtoya.pl/player/live:Toya
 #DESCRIPTION Toya
@@ -59,8 +59,10 @@
 #DESCRIPTION TV JASŁO
 #SERVICE 5002:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
 #DESCRIPTION TV Lubań
-#SERVICE 4097:0:1:E713:D5DF:EC:0:0:0:0:https%3a//webcam.box3.pl/box3/zachodnia/playlist.m3u8:Zachodnia TV
+#SERVICE 4097:0:1:460:D3E4:EC:0:0:0:0:https%3a//webcam.box3.pl/live/emisja/chunklist_w1926822338.m3u8:Zachodnia TV
 #DESCRIPTION Zachodnia TV
+#SERVICE 4097:0:1:E713:D5DF:EC:0:0:0:0:https%3a//webcam.box3.pl/box3/zachodnia/playlist.m3u8:Zachodnia TV  (kamery)
+#DESCRIPTION Zachodnia TV  (kamery)
 #SERVICE 4097:0:1:6CF4:6D9F:EC:0:0:0:0:https%3a//koder.swidman.pl/Swidnik.TV/index.m3u8:Świdnik TV
 #DESCRIPTION Świdnik TV
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvsowianin-on-line9194/live:TV Słowianin  (YT)
@@ -83,6 +85,8 @@
 #DESCRIPTION TV Gorzów  (YT)
 #SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ztv-live/live:Zachodniopomorska TV  (YT)
 #DESCRIPTION Zachodniopomorska TV  (YT)
+#SERVICE 4097:0:1:407:FDD5:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TarnowskaTV2/live:Tarnowska TV  (YT)
+#DESCRIPTION Tarnowska TV  (YT)
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@redakcjartvp4066/live:Regionalna TV Podlasie  (YT)
 #DESCRIPTION Regionalna TV Podlasie  (YT)
 #SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ArcheTV/live:Arche TV  (YT)
@@ -175,6 +179,8 @@
 #DESCRIPTION Super Express  (YT) (8:45-10:00)
 #SERVICE 4097:0:1:2775:E944:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Kanal_Sportowy/live:Kanał Sportowy  (YT)
 #DESCRIPTION Kanał Sportowy  (YT)
+#SERVICE 4097:0:1:8C62:CE58:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@KanalZeroPL/live:Kanał Zero  (YT)
+#DESCRIPTION Kanał Zero  (YT)
 #SERVICE 1:64:6:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
 #SERVICE 5002:0:1:5:1:48:0:0:0:0:http%3a//94.246.169.19/ttv_hls/live_720p/index.m3u8:Twoja TV
@@ -229,6 +235,8 @@
 #DESCRIPTION TV Gorzów
 #SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8:Zachodniopomorska TV
 #DESCRIPTION Zachodniopomorska TV
+#SERVICE 4097:0:1:2F7C:ECD4:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCzu2j3tCxU99rqC7CLS-Hcw.m3u8:Tarnowska TV
+#DESCRIPTION Tarnowska TV
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCU7uwCYami150L_lydp2OHQ.m3u8:Regionalna TV Podlasie
 #DESCRIPTION Regionalna TV Podlasie
 #SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCciOOtgCargNFJw2BzR12Qw.m3u8:Arche TV
@@ -247,6 +255,8 @@
 #DESCRIPTION wPolsce.pl
 #SERVICE 4097:0:1:2775:E944:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCIfI7Yo22SMKp5PraztHM6w.m3u8:Kanał Sportowy
 #DESCRIPTION Kanał Sportowy
+#SERVICE 4097:0:1:E17C:265F:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UClhEl4bMD8_escGCCTmRAYg.m3u8:Kanał Zero
+#DESCRIPTION Kanał Zero
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- WP Pilot (azman) ---
 #DESCRIPTION --- WP Pilot (azman) ---
 #SERVICE 5002:0:1:3D5A:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/158:Telewizja WP HD
