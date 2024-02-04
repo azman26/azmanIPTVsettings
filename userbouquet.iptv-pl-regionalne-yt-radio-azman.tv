@@ -261,8 +261,8 @@
 #DESCRIPTION --- WP Pilot (azman) ---
 #SERVICE 5002:0:1:3D5A:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/158:Telewizja WP HD
 #DESCRIPTION Telewizja WP HD
-#SERVICE 5002:0:1:995A:C656:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/271:Kabaret TV
-#DESCRIPTION Kabaret TV
+#SERVICE 5002:0:1:995A:C656:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/271:Karuzela Śmiechu
+#DESCRIPTION Karuzela Śmiechu
 #SERVICE 5002:0:1:DFDD:F56A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/316:Patronite Podróże
 #DESCRIPTION Patronite Podróże
 #SERVICE 4097:0:1:C7D4:533B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/315:Glina TV
