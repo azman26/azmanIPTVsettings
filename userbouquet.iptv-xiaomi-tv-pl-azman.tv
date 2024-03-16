@@ -3,9 +3,9 @@
 #DESCRIPTION Best Classics
 #SERVICE 5002:0:1:89E3:1A53:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3417#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Best Drama
 #DESCRIPTION Best Drama
-#SERVICE 5002:0:1:7C4B:AEBF:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2887#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Danger Vision
+#SERVICE 5002:0:1:7C4B:AEBF:EC:0:0:0:0:https%3a//danger-vision-tv-xiamoi.evrideo.tv/52756c98-452c-4873-a843-31462a04dd53_1000014890_HLS/master.m3u8:Danger Vision
 #DESCRIPTION Danger Vision
-#SERVICE 5002:0:1:E086:2C37:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2885:Outer Vision Channel
+#SERVICE 5002:0:1:E086:2C37:EC:0:0:0:0:https%3a//outer-vision-tv-xiamoi.evrideo.tv/cdef8956-d9c3-4278-b596-f35b9649692d_1000014575_HLS/master.m3u8:Outer Vision Channel
 #DESCRIPTION Outer Vision Channel
 #SERVICE 5002:0:1:9773:5B38:EC:0:0:0:0:https%3a//amogonetworx-charlie-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Charlie
 #DESCRIPTION Charlie
@@ -23,11 +23,11 @@
 #DESCRIPTION DocuBay
 #SERVICE 5002:0:1:BE3A:88B7:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8:Quietude 4K
 #DESCRIPTION Quietude 4K
-#SERVICE 5002:0:1:2DF4:D31B:EC:0:0:0:0:https%3a//escape-vivalive.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8:Escape TV
+#SERVICE 5002:0:1:2DF4:D31B:EC:0:0:0:0:https%3a//escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8:Escape TV
 #DESCRIPTION Escape TV
 #SERVICE 5002:0:1:966A:1CFD:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3082:Go Traveler
 #DESCRIPTION Go Traveler
-#SERVICE 5002:0:1:F88F:CE67:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2898:Heritage Tourism
+#SERVICE 5002:0:1:F88F:CE67:EC:0:0:0:0:https%3a//heritage-tourism-xiamoi.evrideo.tv/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8:Heritage Tourism
 #DESCRIPTION Heritage Tourism
 #SERVICE 5002:0:1:8536:4381:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TgkXUZUMTBW5tkd-vZ5v9w/master.m3u8:Volty
 #DESCRIPTION Volty
@@ -39,9 +39,9 @@
 #DESCRIPTION Smurf TV
 #SERVICE 5002:0:1:F600:C955:EC:0:0:0:0:https%3a//15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-8/live_117/SD/playlist.m3u8:Cartoon Classics
 #DESCRIPTION Cartoon Classics
-#SERVICE 5002:0:1:2FFE:E91:EC:0:0:0:0:https%3a//lol-tv-vivalive.evrideo.tv/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8:LOL TV
+#SERVICE 5002:0:1:2FFE:E91:EC:0:0:0:0:https%3a//lol-tv-xiamoi.evrideo.tv/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8:LOL TV
 #DESCRIPTION LOL TV
-#SERVICE 5002:0:1:FA52:E4D3:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=2883#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HeartFelt TV
+#SERVICE 5002:0:1:FA52:E4D3:EC:0:0:0:0:https%3a//heartfelt-tv-xiamoi.evrideo.tv/cab1bb3c-2906-49bf-a503-6cbcb54935ac_1000014573_HLS/master.m3u8:HeartFelt TV
 #DESCRIPTION HeartFelt TV
 #SERVICE 5002:0:1:46B9:7CA5:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3408#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love 2 Hate
 #DESCRIPTION Love 2 Hate
