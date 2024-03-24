@@ -43,8 +43,6 @@
 #DESCRIPTION TVP Sejm
 #SERVICE 4097:0:1:24A9:AEA4:EC:0:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-parlament--senat,1065595:TVP Senat
 #DESCRIPTION TVP Senat
-#SERVICE 4097:0:16:5F:7001:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/ua1,399730:UA%3aPershyj
-#DESCRIPTION UA:Pershyj
 #SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-bialystok,399732:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
 #SERVICE 4097:0:1:8:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-bydgoszcz,399740:TVP3 Bydgoszcz
@@ -113,10 +111,10 @@
 #DESCRIPTION TVP Info HD
 #SERVICE 4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51590674:TVP World
 #DESCRIPTION TVP World
-#SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=17251711:Belsat Tv
+#SERVICE 4097:0:1:64:A11A:2268:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=74979895:TVP Wilno
+#DESCRIPTION TVP Wilno
+#SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=64914904:Belsat Tv
 #DESCRIPTION Belsat Tv
-#SERVICE 4097:0:16:5F:7001:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=58758689:UA%3aPershyj
-#DESCRIPTION UA:Pershyj
 #SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14812658:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
 #SERVICE 4097:0:1:8:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813071:TVP3 Bydgoszcz
@@ -167,9 +165,7 @@
 #DESCRIPTION TVP Info
 #SERVICE 4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=51656487:TVP World
 #DESCRIPTION TVP World
-#SERVICE 4097:0:16:5F:7001:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=58759123:UA%3aPershyj
-#DESCRIPTION UA:Pershyj
-#SERVICE 5002:0:1:5C:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=53415886:TVP Msze
+#SERVICE 5002:0:1:9278:BF8B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=53415886:TVP Msze
 #DESCRIPTION TVP Msze
 #SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//stream.tvp.pl/?channel_id=745680:TVP3 Białystok
 #DESCRIPTION TVP3 Białystok
@@ -211,39 +207,3 @@
 #DESCRIPTION TVP Parlament 1
 #SERVICE 5002:0:1:5428:8E8A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=14660873:TVP Parlament 2
 #DESCRIPTION TVP Parlament 2
-#SERVICE 1:64:A:0:0:0:0:0:0:0::--- HbbTV ---
-#DESCRIPTION --- HbbTV ---
-#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo:TVP Info
-#DESCRIPTION TVP Info
-#SERVICE 4097:0:16:7:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok:TVP 3 Białystok
-#DESCRIPTION TVP 3 Białystok
-#SERVICE 4097:0:16:8:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz:TVP 3 Bydgoszcz
-#DESCRIPTION TVP 3 Bydgoszcz
-#SERVICE 4097:0:16:9:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk:TVP 3 Gdańsk
-#DESCRIPTION TVP 3 Gdańsk
-#SERVICE 4097:0:16:A:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow:TVP 3 Gorzów Wielkopolski
-#DESCRIPTION TVP 3 Gorzów Wielkopolski
-#SERVICE 4097:0:16:B:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice:TVP 3 Katowice
-#DESCRIPTION TVP 3 Katowice
-#SERVICE 4097:0:16:C:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce:TVP 3 Kielce
-#DESCRIPTION TVP 3 Kielce
-#SERVICE 4097:0:16:D:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow:TVP 3 Kraków
-#DESCRIPTION TVP 3 Kraków
-#SERVICE 4097:0:16:E:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin:TVP 3 Lublin
-#DESCRIPTION TVP 3 Lublin
-#SERVICE 4097:0:1:F:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz:TVP 3 Łódź
-#DESCRIPTION TVP 3 Łódź
-#SERVICE 4097:0:1:10:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn:TVP 3 Olsztyn
-#DESCRIPTION TVP 3 Olsztyn
-#SERVICE 4097:0:16:11:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole:TVP 3 Opole
-#DESCRIPTION TVP 3 Opole
-#SERVICE 4097:0:16:12:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan:TVP 3 Poznań
-#DESCRIPTION TVP 3 Poznań
-#SERVICE 4097:0:1:13:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow:TVP 3 Rzeszów
-#DESCRIPTION TVP 3 Rzeszów
-#SERVICE 4097:0:1:14:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin:TVP 3 Szczecin
-#DESCRIPTION TVP 3 Szczecin
-#SERVICE 4097:0:16:15:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa:TVP 3 Warszawa
-#DESCRIPTION TVP 3 Warszawa
-#SERVICE 4097:0:16:16:3:2268:EEEE0000:0:0:0:http%3a//hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw:TVP 3 Wrocław
-#DESCRIPTION TVP 3 Wrocław
