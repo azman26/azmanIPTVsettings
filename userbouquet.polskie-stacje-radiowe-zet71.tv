@@ -63,7 +63,7 @@
 #DESCRIPTION RMF Disco Polo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_baby:RMF Dla Dzieci
 #DESCRIPTION RMF Dla Dzieci
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Euro Hits%3a The Best Of
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Euro Hits: The Best Of
 #DESCRIPTION RMF Euro Hits: The Best Of
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fitness:RMF Fitness
 #DESCRIPTION RMF Fitness
@@ -185,10 +185,10 @@
 #DESCRIPTION RMF W Pracy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top4:RMF Wakacyjne Top 100
 #DESCRIPTION RMF Wakacyjne Top 100
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classicplus_std:RMF Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
 #DESCRIPTION RMF Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic - Świąteczne
-#DESCRIPTION RMF Classic - Świąteczne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classicplus_std:RMF Classic Plus
+#DESCRIPTION RMF Classic Plus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic_20lat:RMF 20-lecie RMF Classic
 #DESCRIPTION RMF 20-lecie RMF Classic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_chopin:RMF Classic Chopin
@@ -269,8 +269,6 @@
 #DESCRIPTION RMF MAXX Hop-Bęc
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_sun:RMF MAXX Sunrise Festival
 #DESCRIPTION RMF MAXX Sunrise Festival
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_fest:RMF MAXX X Fest Festival
-#DESCRIPTION RMF MAXX X Fest Festival
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_alex:Radio Alex
 #DESCRIPTION Radio Alex
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra:Radio Gra - Toruń
@@ -389,14 +387,10 @@
 #DESCRIPTION OPEN FM 00s Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/352:OPEN FM 10s Hits
 #DESCRIPTION OPEN FM 10s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM192/ngrp%3astandard/playlist.m3u8:OPEN FM 80s Chill
-#DESCRIPTION OPEN FM 80s Chill
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/3:OPEN FM 80s Hits
 #DESCRIPTION OPEN FM 80s Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/14:OPEN FM 90s Hits
 #DESCRIPTION OPEN FM 90s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM197/ngrp%3astandard/playlist.m3u8:OPEN FM 90s Rock
-#DESCRIPTION OPEN FM 90s Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/64:OPEN FM 100% Hits
 #DESCRIPTION OPEN FM 100% Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/55:OPEN FM 500 Alternative Hits
@@ -481,8 +475,8 @@
 #DESCRIPTION OPEN FM Dzień Dobry!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/361:OPEN FM EDM Anthems
 #DESCRIPTION OPEN FM EDM Anthems
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness (No Pain No Gain)
-#DESCRIPTION OPEN FM Fitness (No Pain No Gain)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65:OPEN FM Fitness
+#DESCRIPTION OPEN FM Fitness
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39:OPEN FM Freszzz
 #DESCRIPTION OPEN FM Freszzz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118:OPEN FM Giganci Rocka
@@ -537,10 +531,10 @@
 #DESCRIPTION OPEN FM Kids - Muzyka & Ciekawostki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/8:OPEN FM Klub 90
 #DESCRIPTION OPEN FM Klub 90
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/142:OPEN FM Kołysanki
-#DESCRIPTION OPEN FM Kołysanki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/89:OPEN FM Kolędy
 #DESCRIPTION OPEN FM Kolędy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/142:OPEN FM Kołysanki
+#DESCRIPTION OPEN FM Kołysanki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/161:OPEN FM Koncentracja
 #DESCRIPTION OPEN FM Koncentracja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/37:OPEN FM Kraina Łagodności
@@ -603,14 +597,10 @@
 #DESCRIPTION OPEN FM Polskie Ballady
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/22:OPEN FM Polskie Reggae
 #DESCRIPTION OPEN FM Polskie Reggae
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM198/ngrp%3astandard/playlist.m3u8:OPEN FM Pop Na Cały Dzień
-#DESCRIPTION OPEN FM Pop Na Cały Dzień
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/194:OPEN FM Pozytywki
 #DESCRIPTION OPEN FM Pozytywki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/109:OPEN FM Praca
 #DESCRIPTION OPEN FM Praca
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM193/ngrp%3astandard/playlist.m3u8:OPEN FM Praca Chill
-#DESCRIPTION OPEN FM Praca Chill
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/104:OPEN FM Praca Rock
 #DESCRIPTION OPEN FM Praca Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/78:OPEN FM Punk Rock
@@ -625,16 +615,14 @@
 #DESCRIPTION OPEN FM Retro Cafe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/61:OPEN FM Rock Ballady
 #DESCRIPTION OPEN FM Rock Ballady
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM199/ngrp%3astandard/playlist.m3u8:OPEN FM Rock Na Cały Dzień
-#DESCRIPTION OPEN FM Rock Na Cały Dzień
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/77:OPEN FM Rocks
 #DESCRIPTION OPEN FM Rocks
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/103:OPEN FM Sad
 #DESCRIPTION OPEN FM Sad
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/410:OPEN FM Schodki
 #DESCRIPTION OPEN FM Schodki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy%3a Soul & R'n'B (Soul Cafe)
-#DESCRIPTION OPEN FM Sexy: Soul & R'n'B (Soul Cafe)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy: Soul & R'n'B
+#DESCRIPTION OPEN FM Sexy: Soul & R'n'B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/60:OPEN FM Smooth Jazz
 #DESCRIPTION OPEN FM Smooth Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/144:OPEN FM Spacer
@@ -659,8 +647,6 @@
 #DESCRIPTION OPEN FM Szkoła
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/193:OPEN FM Szum
 #DESCRIPTION OPEN FM Szum
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM200/ngrp%3astandard/playlist.m3u8:OPEN FM Święta 2023
-#DESCRIPTION OPEN FM Święta 2023
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/83:OPEN FM Top 20 Alt
 #DESCRIPTION OPEN FM Top 20 Alt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/53:OPEN FM Top 20 Disco Polo
@@ -747,10 +733,296 @@
 #DESCRIPTION Radio Spacja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/200:Tok FM
 #DESCRIPTION Tok FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio%3a muzyka i informacje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio: muzyka i informacje
 #DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/201:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM99/ngrp%3astandard/playlist.m3u8:WP/OPEN FM #popularne
+#DESCRIPTION WP/OPEN FM #popularne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM32/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 00s Hits
+#DESCRIPTION WP/OPEN FM 00s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM31/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 10s Hits
+#DESCRIPTION WP/OPEN FM 10s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM192/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 80s Chill
+#DESCRIPTION WP/OPEN FM 80s Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM34/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 80s Hits
+#DESCRIPTION WP/OPEN FM 80s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM33/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 90s Hits
+#DESCRIPTION WP/OPEN FM 90s Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM197/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 90s Rock
+#DESCRIPTION WP/OPEN FM 90s Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM196/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 100% Chill
+#DESCRIPTION WP/OPEN FM 100% Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM14/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 100% Hits
+#DESCRIPTION WP/OPEN FM 100% Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM123/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 500 Alternative Hits
+#DESCRIPTION WP/OPEN FM 500 Alternative Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM156/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 500 Electronic Hits
+#DESCRIPTION WP/OPEN FM 500 Electronic Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM128/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 500 Heavy Hits
+#DESCRIPTION WP/OPEN FM 500 Heavy Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM148/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 500 Hip-Hop Hits
+#DESCRIPTION WP/OPEN FM 500 Hip-Hop Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM169/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 500 Party Hits
+#DESCRIPTION WP/OPEN FM 500 Party Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM141/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 500 R'n'B Hits
+#DESCRIPTION WP/OPEN FM 500 R'n'B Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM86/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 500 Reggae Hits
+#DESCRIPTION WP/OPEN FM 500 Reggae Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM140/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 500 Rock Hits
+#DESCRIPTION WP/OPEN FM 500 Rock Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM13/ngrp%3astandard/playlist.m3u8:WP/OPEN FM 1001 Hits
+#DESCRIPTION WP/OPEN FM 1001 Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM120/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Alt Cafe
+#DESCRIPTION WP/OPEN FM Alt Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM118/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Alt Classic
+#DESCRIPTION WP/OPEN FM Alt Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM119/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Alt Club
+#DESCRIPTION WP/OPEN FM Alt Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM121/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Alt Freszzz
+#DESCRIPTION WP/OPEN FM Alt Freszzz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM122/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Alt PL
+#DESCRIPTION WP/OPEN FM Alt PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM130/ngrp%3astandard/playlist.m3u8:WP/OPEN FM American Rock
+#DESCRIPTION WP/OPEN FM American Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM2/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Ballady Wszech Czasów
+#DESCRIPTION WP/OPEN FM Ballady Wszech Czasów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM159/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Beats & Bass
+#DESCRIPTION WP/OPEN FM Beats & Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM108/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Bieganie
+#DESCRIPTION WP/OPEN FM Bieganie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM102/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Biesiada
+#DESCRIPTION WP/OPEN FM Biesiada
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM101/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Biesiada Śląska
+#DESCRIPTION WP/OPEN FM Biesiada Śląska
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM107/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Cardio
+#DESCRIPTION WP/OPEN FM Cardio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM44/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Chillout
+#DESCRIPTION WP/OPEN FM Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM126/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Ciężkie Brzmienia
+#DESCRIPTION WP/OPEN FM Ciężkie Brzmienia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM38/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Classic Hits
+#DESCRIPTION WP/OPEN FM Classic Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM127/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Classic Metal
+#DESCRIPTION WP/OPEN FM Classic Metal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM165/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Classic Party
+#DESCRIPTION WP/OPEN FM Classic Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM131/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Classic Rock
+#DESCRIPTION WP/OPEN FM Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM48/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Crema Cafe
+#DESCRIPTION WP/OPEN FM Crema Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM160/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Dance
+#DESCRIPTION WP/OPEN FM Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM151/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Disco Polo
+#DESCRIPTION WP/OPEN FM Disco Polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM153/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Disco Polo Classic
+#DESCRIPTION WP/OPEN FM Disco Polo Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM152/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Disco Polo Nowości 2024
+#DESCRIPTION WP/OPEN FM Disco Polo Nowości 2024
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM163/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Do Auta Club
+#DESCRIPTION WP/OPEN FM Do Auta Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM129/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Do Auta Rock
+#DESCRIPTION WP/OPEN FM Do Auta Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM9/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Dobranoc
+#DESCRIPTION WP/OPEN FM Dobranoc
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM16/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Dobry Wieczór
+#DESCRIPTION WP/OPEN FM Dobry Wieczór
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM117/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Dubstep
+#DESCRIPTION WP/OPEN FM Dubstep
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM158/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Drum'n'Bass
+#DESCRIPTION WP/OPEN FM Drum'n'Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM10/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Dzień Dobry!
+#DESCRIPTION WP/OPEN FM Dzień Dobry!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM157/ngrp%3astandard/playlist.m3u8:WP/OPEN FM EDM Anthems
+#DESCRIPTION WP/OPEN FM EDM Anthems
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM109/ngrp%3astandard/playlist.m3u8:WP/OPEN FM No Pain No Gain
+#DESCRIPTION WP/OPEN FM No Pain No Gain
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM21/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Freszzz
+#DESCRIPTION WP/OPEN FM Freszzz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM133/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Giganci Rocka
+#DESCRIPTION WP/OPEN FM Giganci Rocka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM55/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Girl Power
+#DESCRIPTION WP/OPEN FM Girl Power
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM58/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Gwiazdy
+#DESCRIPTION WP/OPEN FM Gwiazdy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM46/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Happy
+#DESCRIPTION WP/OPEN FM Happy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM144/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Hip-Hop Freszzz
+#DESCRIPTION WP/OPEN FM Hip-Hop Freszzz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM145/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Hip-Hop Klasyk
+#DESCRIPTION WP/OPEN FM Hip-Hop Klasyk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM106/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Hip-Hop Motywacyjny
+#DESCRIPTION WP/OPEN FM Hip-Hop Motywacyjny
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM143/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Hip-Hop PL
+#DESCRIPTION WP/OPEN FM Hip-Hop PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM147/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Hip Hop Ulica
+#DESCRIPTION WP/OPEN FM Hip Hop Ulica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM150/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Hip-Hop USA
+#DESCRIPTION WP/OPEN FM Hip-Hop USA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM181/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Hity lat 70 80 90
+#DESCRIPTION WP/OPEN FM Hity lat 70 80 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM162/ngrp%3astandard/playlist.m3u8:WP/OPEN FM House
+#DESCRIPTION WP/OPEN FM House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM42/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Hygge
+#DESCRIPTION WP/OPEN FM Hygge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM57/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Impreza
+#DESCRIPTION WP/OPEN FM Impreza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM154/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Impreza PL
+#DESCRIPTION WP/OPEN FM Impreza PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM167/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Italo Disco
+#DESCRIPTION WP/OPEN FM Italo Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM51/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Joga
+#DESCRIPTION WP/OPEN FM Joga
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM116/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Kids - Muzyka & Ciekawostki
+#DESCRIPTION WP/OPEN FM Kids - Muzyka & Ciekawostki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM168/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Klub 90
+#DESCRIPTION WP/OPEN FM Klub 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM179/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Kolędy
+#DESCRIPTION WP/OPEN FM Kolędy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM113/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Kołysanki
+#DESCRIPTION WP/OPEN FM Kołysanki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM49/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Koncentracja
+#DESCRIPTION WP/OPEN FM Koncentracja
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM104/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Kraina Łagodności
+#DESCRIPTION WP/OPEN FM Kraina Łagodności
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM50/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Ladies Cafe
+#DESCRIPTION WP/OPEN FM Ladies Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM166/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Ladies Party
+#DESCRIPTION WP/OPEN FM Ladies Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM11/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Latino Hits
+#DESCRIPTION WP/OPEN FM Latino Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM54/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Love
+#DESCRIPTION WP/OPEN FM Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM97/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Miejska Stacja
+#DESCRIPTION WP/OPEN FM Miejska Stacja
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM8/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Muzyka do snu
+#DESCRIPTION WP/OPEN FM Muzyka do snu
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM84/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Muzyka Filmowa
+#DESCRIPTION WP/OPEN FM Muzyka Filmowa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM83/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Muzyka Klasyczna
+#DESCRIPTION WP/OPEN FM Muzyka Klasyczna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM174/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Na Gwiazdkę
+#DESCRIPTION WP/OPEN FM Na Gwiazdkę
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM175/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Na Gwiazdkę Jazz & Classic
+#DESCRIPTION WP/OPEN FM Na Gwiazdkę Jazz & Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM176/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Na Gwiazdkę Hity
+#DESCRIPTION WP/OPEN FM Na Gwiazdkę Hity
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM202/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Na Gwiazdkę Kids
+#DESCRIPTION WP/OPEN FM Na Gwiazdkę Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM177/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Na Gwiazdkę Po Polsku
+#DESCRIPTION WP/OPEN FM Na Gwiazdkę Po Polsku
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM178/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Na Gwiazdkę Rock
+#DESCRIPTION WP/OPEN FM Na Gwiazdkę Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM39/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Największe Przeboje XX w.
+#DESCRIPTION WP/OPEN FM Największe Przeboje XX w.
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM82/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Odgłosy Natury
+#DESCRIPTION WP/OPEN FM Odgłosy Natury
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM115/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Piosenki dla dzieci
+#DESCRIPTION WP/OPEN FM Piosenki dla dzieci
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM1/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Po Polsku
+#DESCRIPTION WP/OPEN FM Po Polsku
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM12/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Po Polsku 60/70
+#DESCRIPTION WP/OPEN FM Po Polsku 60/70
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM20/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Po Polsku 80
+#DESCRIPTION WP/OPEN FM Po Polsku 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM19/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Po Polsku 90
+#DESCRIPTION WP/OPEN FM Po Polsku 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM155/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Polo & Dance
+#DESCRIPTION WP/OPEN FM Polo & Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM135/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Polska Rocks!
+#DESCRIPTION WP/OPEN FM Polska Rocks!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM137/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Polski Rock
+#DESCRIPTION WP/OPEN FM Polski Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM136/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Polski Rock Classic
+#DESCRIPTION WP/OPEN FM Polski Rock Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM36/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Polskie Ballady
+#DESCRIPTION WP/OPEN FM Polskie Ballady
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM85/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Polskie Reggae
+#DESCRIPTION WP/OPEN FM Polskie Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM198/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Pop Na Cały Dzień
+#DESCRIPTION WP/OPEN FM Pop Na Cały Dzień
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM112/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Pozytywki
+#DESCRIPTION WP/OPEN FM Pozytywki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM18/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Praca
+#DESCRIPTION WP/OPEN FM Praca
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM193/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Praca Chill
+#DESCRIPTION WP/OPEN FM Praca Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM81/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Praca Jazz
+#DESCRIPTION WP/OPEN FM Praca Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM40/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Praca Rock
+#DESCRIPTION WP/OPEN FM Praca Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM124/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Punk Rock
+#DESCRIPTION WP/OPEN FM Punk Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM41/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Relaks
+#DESCRIPTION WP/OPEN FM Relaks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM43/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Retro Cafe
+#DESCRIPTION WP/OPEN FM Retro Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM134/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Rock Ballady
+#DESCRIPTION WP/OPEN FM Rock Ballady
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM199/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Rock Na Cały Dzień
+#DESCRIPTION WP/OPEN FM Rock Na Cały Dzień
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM132/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Rocks
+#DESCRIPTION WP/OPEN FM Rocks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM47/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Sad
+#DESCRIPTION WP/OPEN FM Sad
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM56/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Schodki
+#DESCRIPTION WP/OPEN FM Schodki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM105/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Smooth Jazz
+#DESCRIPTION WP/OPEN FM Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM60/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Soul Cafe
+#DESCRIPTION WP/OPEN FM Soul Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM180/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Sylwestrowe Hity
+#DESCRIPTION WP/OPEN FM Sylwestrowe Hity
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM103/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Szanty
+#DESCRIPTION WP/OPEN FM Szanty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM111/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Szum
+#DESCRIPTION WP/OPEN FM Szum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM200/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Święta 2023
+#DESCRIPTION WP/OPEN FM Święta 2023
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM25/ngrp%3astandard/playlist.m3u8:WP/OPEN FM To Jest Hip Hop
+#DESCRIPTION WP/OPEN FM To Jest Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM27/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top 20 Disco Polo
+#DESCRIPTION WP/OPEN FM Top 20 Disco Polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM24/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top 20 Impreza
+#DESCRIPTION WP/OPEN FM Top 20 Impreza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM26/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top 20 PL
+#DESCRIPTION WP/OPEN FM Top 20 PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM15/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top 20 Rock
+#DESCRIPTION WP/OPEN FM Top 20 Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM22/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top 2024 Hits
+#DESCRIPTION WP/OPEN FM Top 2024 Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM146/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top Wszech Czasów - Hip-Hop PL
+#DESCRIPTION WP/OPEN FM Top Wszech Czasów - Hip-Hop PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM35/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top Wszech Czasów - Polska
+#DESCRIPTION WP/OPEN FM Top Wszech Czasów - Polska
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM139/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top Wszech Czasów - Rock
+#DESCRIPTION WP/OPEN FM Top Wszech Czasów - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM138/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top Wszech Czasów - Rock PL
+#DESCRIPTION WP/OPEN FM Top Wszech Czasów - Rock PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM37/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Top Wszech Czasów - Świat
+#DESCRIPTION WP/OPEN FM Top Wszech Czasów - Świat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM161/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Trance
+#DESCRIPTION WP/OPEN FM Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM149/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Trap PL
+#DESCRIPTION WP/OPEN FM Trap PL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM142/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Trap USA
+#DESCRIPTION WP/OPEN FM Trap USA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM110/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Trening
+#DESCRIPTION WP/OPEN FM Trening
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM3/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Tylko Polskie Przeboje
+#DESCRIPTION WP/OPEN FM Tylko Polskie Przeboje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM5/ngrp%3astandard/playlist.m3u8:WP/OPEN FM W Domu
+#DESCRIPTION WP/OPEN FM W Domu
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM4/ngrp%3astandard/playlist.m3u8:WP/OPEN FM W Podróży
+#DESCRIPTION WP/OPEN FM W Podróży
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM52/ngrp%3astandard/playlist.m3u8:WP/OPEN FM We Dwoje
+#DESCRIPTION WP/OPEN FM We Dwoje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM6/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Weekend Chill
+#DESCRIPTION WP/OPEN FM Weekend Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM7/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Weekend Hits
+#DESCRIPTION WP/OPEN FM Weekend Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-cdn-1.open.fm/OFM164/ngrp%3astandard/playlist.m3u8:WP/OPEN FM Wesele
+#DESCRIPTION WP/OPEN FM Wesele
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/2010-1.mp3:ESKA - Bełchatów
 #DESCRIPTION ESKA - Bełchatów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/2300-1.mp3:ESKA - Beskidy
@@ -843,12 +1115,60 @@
 #DESCRIPTION ESKA - G20
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6120-1.mp3:ESKA - G100
 #DESCRIPTION ESKA - G100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/2980-1.mp3:ESKA Hity na Czasie
+#DESCRIPTION ESKA Hity na Czasie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6030-1.mp3:ESKA - Impreska
 #DESCRIPTION ESKA - Impreska
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6190-1.mp3:ESKA - Rap20
 #DESCRIPTION ESKA - Rap20
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/5380-1.mp3:ESKA Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1390-1.mp3:ESKA2 - Biała Podlaska
+#DESCRIPTION ESKA2 - Biała Podlaska
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1480-1.mp3:ESKA2 - Jelenia Góra
+#DESCRIPTION ESKA2 - Jelenia Góra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1050-1.mp3:ESKA2 - Kielce
+#DESCRIPTION ESKA2 - Kielce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1530-1.mp3:ESKA2 - Konin
+#DESCRIPTION ESKA2 - Konin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1070-1.mp3:ESKA2 - Kraków
+#DESCRIPTION ESKA2 - Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1100-1.mp3:ESKA2 - Łódź
+#DESCRIPTION ESKA2 - Łódź
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1290-1.mp3:ESKA2 - Nowy Sącz
+#DESCRIPTION ESKA2 - Nowy Sącz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1120-1.mp3:ESKA2 - Opole
+#DESCRIPTION ESKA2 - Opole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1240-1.mp3:ESKA2 - Rzeszów
+#DESCRIPTION ESKA2 - Rzeszów
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1370-1.mp3:ESKA2 - Stalowa Wola
+#DESCRIPTION ESKA2 - Stalowa Wola
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1260-1.mp3:ESKA2 - Szczecin
+#DESCRIPTION ESKA2 - Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1150-1.mp3:ESKA2 - Toruń
+#DESCRIPTION ESKA2 - Toruń
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1170-1.mp3:ESKA2 - Trójmiasto
+#DESCRIPTION ESKA2 - Trójmiasto
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1510-1.mp3:ESKA2 - Trzebnica
+#DESCRIPTION ESKA2 - Trzebnica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1180-1.mp3:ESKA2 - Wrocław
+#DESCRIPTION ESKA2 - Wrocław
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1380-1.mp3:ESKA2 - Warszawa
+#DESCRIPTION ESKA2 - Warszawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6110-1.mp3:ESKA2 - Disco Polo
+#DESCRIPTION ESKA2 - Disco Polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6220-1.mp3:ESKA2 - Dla Dzieci
+#DESCRIPTION ESKA2 - Dla Dzieci
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6040-1.mp3:ESKA2 - Kultowe Polskie
+#DESCRIPTION ESKA2 - Kultowe Polskie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6160-1.mp3:ESKA2 - Polska Impreza
+#DESCRIPTION ESKA2 - Polska Impreza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6090-1.mp3:ESKA2 - Polski Rock
+#DESCRIPTION ESKA2 - Polski Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6230-1.mp3:ESKA2 - Polskie Na Czasie
+#DESCRIPTION ESKA2 - Polskie Na Czasie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/5980-1.mp3:ESKA Rock
 #DESCRIPTION ESKA Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/5380-1.mp3:ESKA Rock Warszawa
+#DESCRIPTION ESKA Rock Warszawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6060-1.mp3:ESKA Rock - Dobrze Rockuje
 #DESCRIPTION ESKA Rock - Dobrze Rockuje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6070-1.mp3:ESKA Rock - Klasyka Rocka
@@ -859,46 +1179,6 @@
 #DESCRIPTION ESKA Rock - Teraz Polski Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6490-1.mp3:Vibe FM
 #DESCRIPTION Vibe FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1170-1.mp3:SuperNova - Gdańsk
-#DESCRIPTION SuperNova - Gdańsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1480-1.mp3:SuperNova - Jelenia Góra
-#DESCRIPTION SuperNova - Jelenia Góra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1050-1.mp3:SuperNova - Kielce
-#DESCRIPTION SuperNova - Kielce
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1530-1.mp3:SuperNova - Konin
-#DESCRIPTION SuperNova - Konin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1070-1.mp3:SuperNova - Kraków
-#DESCRIPTION SuperNova - Kraków
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1100-1.mp3:SuperNova - Łódź
-#DESCRIPTION SuperNova - Łódź
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1290-1.mp3:SuperNova - Nowy Sącz
-#DESCRIPTION SuperNova - Nowy Sącz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1120-1.mp3:SuperNova - Opole
-#DESCRIPTION SuperNova - Opole
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1240-1.mp3:SuperNova - Rzeszów
-#DESCRIPTION SuperNova - Rzeszów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1260-1.mp3:SuperNova - Szczecin
-#DESCRIPTION SuperNova - Szczecin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1150-1.mp3:SuperNova - Toruń
-#DESCRIPTION SuperNova - Toruń
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1510-1.mp3:SuperNova - Trzebnica
-#DESCRIPTION SuperNova - Trzebnica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1180-1.mp3:SuperNova - Wrocław
-#DESCRIPTION SuperNova - Wrocław
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/1380-1.mp3:SuperNova - Warszawa
-#DESCRIPTION SuperNova - Warszawa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6040-1.mp3:SuperNova - Classic
-#DESCRIPTION SuperNova - Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6110-1.mp3:SuperNova - Disco Polo
-#DESCRIPTION SuperNova - Disco Polo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6220-1.mp3:SuperNova - Dla Dzieci
-#DESCRIPTION SuperNova - Dla Dzieci
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6160-1.mp3:SuperNova - Party
-#DESCRIPTION SuperNova - Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6090-1.mp3:SuperNova - Rock
-#DESCRIPTION SuperNova - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6230-1.mp3:SuperNova - Super 13
-#DESCRIPTION SuperNova - Super 13
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/3990-1.mp3:VOX FM
 #DESCRIPTION VOX FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/3040-1.mp3:VOX FM - Gorzów Wielkopolski
@@ -969,8 +1249,6 @@
 #DESCRIPTION Moje Polskie Radio - Radio Chopin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8966:Moje Polskie Radio - Radio Dzieciom
 #DESCRIPTION Moje Polskie Radio - Radio Dzieciom
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8538:Moje Polskie Radio - Radio Gwiazdka
-#DESCRIPTION Moje Polskie Radio - Radio Gwiazdka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8968:Moje Polskie Radio - Radio Kierowców
 #DESCRIPTION Moje Polskie Radio - Radio Kierowców
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8576:Moje Polskie Radio - Abba Non Stop
@@ -1097,36 +1375,6 @@
 #DESCRIPTION Antyradio - Woodstock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//an.cdn.eurozet.pl/ANTXMA.mp3:Antyradio - X-mass
 #DESCRIPTION Antyradio - X-mass
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8048/stream:Radio AskFM
-#DESCRIPTION Radio AskFM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8080/stream:Radio AskFM - Classic
-#DESCRIPTION Radio AskFM - Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8054/stream:Radio AskFM - Club Music
-#DESCRIPTION Radio AskFM - Club Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8070/stream:Radio AskFM - Disco Polo
-#DESCRIPTION Radio AskFM - Disco Polo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8112/stream:Radio AskFM - Euro Dance
-#DESCRIPTION Radio AskFM - Euro Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8082/stream:Radio AskFM - Gold
-#DESCRIPTION Radio AskFM - Gold
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8076/stream:Radio AskFM - Italo Disco
-#DESCRIPTION Radio AskFM - Italo Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8094/stream:Radio AskFM - Jazz
-#DESCRIPTION Radio AskFM - Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8100/stream:Radio AskFM - Kids Music
-#DESCRIPTION Radio AskFM - Kids Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8098/stream:Radio AskFM - Love
-#DESCRIPTION Radio AskFM - Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8102/stream:Radio AskFM - Music Rock
-#DESCRIPTION Radio AskFM - Music Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8104/stream:Radio AskFM - Polski Hip Hop
-#DESCRIPTION Radio AskFM - Polski Hip Hop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8114/stream:Radio AskFM - Relax
-#DESCRIPTION Radio AskFM - Relax
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8084/stream:Radio AskFM - RNB
-#DESCRIPTION Radio AskFM - RNB
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioaskfm.pl%3a8072/stream:Radio AskFM - Vixa
-#DESCRIPTION Radio AskFM - Vixa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8011:Radio Derf Blues Standards
 #DESCRIPTION Radio Derf Blues Standards
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8007:Radio Derf Bluesdelta
@@ -1139,6 +1387,14 @@
 #DESCRIPTION Radio Derf Polski blues
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.19.96.111%3a8018:Radio Derf Soul
 #DESCRIPTION Radio Derf Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7354/stream:Radio DiscoParty.pl - Club
+#DESCRIPTION Radio DiscoParty.pl - Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7046/stream:Radio DiscoParty.pl - Disco Impreza
+#DESCRIPTION Radio DiscoParty.pl - Disco Impreza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl%3a7432/stream:Radio DiscoParty.pl - Disco Polo
+#DESCRIPTION Radio DiscoParty.pl - Disco Polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7170/stream:Radio DiscoParty.pl - Lata 90s
+#DESCRIPTION Radio DiscoParty.pl - Lata 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.radioftb.net%3a8000:Radio FTB.net - Club
 #DESCRIPTION Radio FTB.net - Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//play.radioftb.net%3a8022:Radio FTB.net - Disco Polo
@@ -1215,14 +1471,16 @@
 #DESCRIPTION Muzyczne Radio HitPlaneta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.nadaje.com%3a8017:Muzyczne Radio TOP20 Hip-hop
 #DESCRIPTION Muzyczne Radio TOP20 Hip-hop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nedds24.pl%3a8100/radio.mp3:Radio Nedds24.pl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.nedds24.pl/listen/glowny/radio.mp3:Radio Nedds24.pl
 #DESCRIPTION Radio Nedds24.pl
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nedds24.pl%3a8110/radio.mp3:Radio Nedds24.pl - Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.nedds24.pl/listen/club/radio.mp3:Radio Nedds24.pl - Club
 #DESCRIPTION Radio Nedds24.pl - Club
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nedds24.pl%3a8120/radio.mp3:Radio Nedds24.pl - Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.nedds24.pl/listen/disco/radio.mp3:Radio Nedds24.pl - Disco
 #DESCRIPTION Radio Nedds24.pl - Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nedds24.pl%3a8140/radio.mp3:Radio Nedds24.pl - Po Polsku
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.nedds24.pl/listen/popolsku/radio.mp3:Radio Nedds24.pl - Po Polsku
 #DESCRIPTION Radio Nedds24.pl - Po Polsku
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.nedds24.pl/listen/christmas/radio.mp3:Radio Nedds24.pl - Świąteczny
+#DESCRIPTION Radio Nedds24.pl - Świąteczny
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4.radioparty.pl%3a8000/rp.mp3:Radio Party
 #DESCRIPTION Radio Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//djmixes.radioparty.pl%3a8035:Radio Party - Djmixes
@@ -1253,14 +1511,14 @@
 #DESCRIPTION Radio Pogoda - Bydgoszcz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-gdansk:Radio Pogoda - Gdańsk
 #DESCRIPTION Radio Pogoda - Gdańsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-katowice:Radio Pogoda - Katowice
-#DESCRIPTION Radio Pogoda - Katowice
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-krakw:Radio Pogoda - Kraków
 #DESCRIPTION Radio Pogoda - Kraków
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-opole:Radio Pogoda - Opole
 #DESCRIPTION Radio Pogoda - Opole
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-pozna:Radio Pogoda - Poznań
 #DESCRIPTION Radio Pogoda - Poznań
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-katowice:Radio Pogoda - Śląsk i Zagłębie
+#DESCRIPTION Radio Pogoda - Śląsk i Zagłębie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda:Radio Pogoda - Warszawa
 #DESCRIPTION Radio Pogoda - Warszawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl-play.adtonos.com/8102/radio-pogoda-wrocaw:Radio Pogoda - Wrocław
@@ -1335,8 +1593,6 @@
 #DESCRIPTION Radio Złote Przeboje - Gdańsk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8908-1.mp3:Radio Złote Przeboje - Jelenia Góra
 #DESCRIPTION Radio Złote Przeboje - Jelenia Góra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8910-1.mp3:Radio Złote Przeboje - Katowice
-#DESCRIPTION Radio Złote Przeboje - Katowice
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8912-1.mp3:Radio Złote Przeboje - Kielce
 #DESCRIPTION Radio Złote Przeboje - Kielce
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8914-1.mp3:Radio Złote Przeboje - Kraków
@@ -1357,6 +1613,8 @@
 #DESCRIPTION Radio Złote Przeboje - Rzeszów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8930-1.mp3:Radio Złote Przeboje - Szczecin
 #DESCRIPTION Radio Złote Przeboje - Szczecin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8910-1.mp3:Radio Złote Przeboje - Śląsk i Zagłębie
+#DESCRIPTION Radio Złote Przeboje - Śląsk i Zagłębie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8932-1.mp3:Radio Złote Przeboje - Tarnów
 #DESCRIPTION Radio Złote Przeboje - Tarnów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8934-1.mp3:Radio Złote Przeboje - Wałbrzych
@@ -1461,7 +1719,7 @@
 #DESCRIPTION Radio Wrocław Kultura
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream02.zachod.pl%3a10113:Radio Zachód
 #DESCRIPTION Radio Zachód
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream02.rzg.pl%3a10117:Radio Zielona Góra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a10122/rzg-20kbps.aac:Radio Zielona Góra
 #DESCRIPTION Radio Zielona Góra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7078/stream:Radio 4You FM /śląskie/
 #DESCRIPTION Radio 4You FM /śląskie/
@@ -1497,8 +1755,8 @@
 #DESCRIPTION Radio Krysjan /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7028:Radio Lenka /śląskie/
 #DESCRIPTION Radio Lenka /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo:Radio Larmo /śląskie/
-#DESCRIPTION Radio Larmo /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//larmo.stream.laut.fm/larmo: Radio Larmo /śląskie/
+#DESCRIPTION  Radio Larmo /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiomazurek.com.pl%3a8000:Radio Mazurek /śląskie/
 #DESCRIPTION Radio Mazurek /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7646/stream:Radio MoniRaj /śląskie/
@@ -1525,7 +1783,7 @@
 #DESCRIPTION Radio Slonsky /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7560:Radio SR24 /śląskie/
 #DESCRIPTION Radio SR24 /śląskie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//http%3a//s1.supermuza.com%3a7055:Radio Sympatyk /śląskie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.castpol.pl%3a8006/stream:Radio Sympatyk /śląskie/
 #DESCRIPTION Radio Sympatyk /śląskie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7022:Radio Śląsk /śląskie/
 #DESCRIPTION Radio Śląsk /śląskie/
@@ -1573,7 +1831,7 @@
 #DESCRIPTION Radio FSSPX - Kaplica /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.204.92.180%3a8000:Radio Głos /katolickie/
 #DESCRIPTION Radio Głos /katolickie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.130.209.64%3a8000:Radio I /katolickie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.radioi.pl%3a8443/stream:Radio I /katolickie/
 #DESCRIPTION Radio I /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.radiojasnagora.pl%3a8000/rjg:Radio Jasna Góra /katolickie/
 #DESCRIPTION Radio Jasna Góra /katolickie/
@@ -1623,8 +1881,10 @@
 #DESCRIPTION Radio RDN - Transmisje /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu6.fastcast4u.com/proxy/radiorodzina?mp=/1:Radio Rodzina Kalisz /katolickie/
 #DESCRIPTION Radio Rodzina Kalisz /katolickie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sluchaj.radiorodzina.pl%3a8000/RadioRodzinaWroclawLIVE.mp3:Radio Rodzina Wrocław /katolickie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3:Radio Rodzina Wrocław /katolickie/
 #DESCRIPTION Radio Rodzina Wrocław /katolickie/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sluchaj.radiorodzina.pl/katedra.mp3:Radio Rodzina Wrocław - Katedra /katolickie/
+#DESCRIPTION Radio Rodzina Wrocław - Katedra /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.235.165%3a5696/stream:Radio Różaniec /katolickie/
 #DESCRIPTION Radio Różaniec /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.133.128.18%3a8040:Radio Via Rzeszów /katolickie/
@@ -1637,44 +1897,6 @@
 #DESCRIPTION Radio Warszawa /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/0n8y7mxcay8uv:Radio Zamość /katolickie/
 #DESCRIPTION Radio Zamość /katolickie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//195.150.20.7/rmf_koledy:RMF Kolędy /świąteczne/
-#DESCRIPTION RMF Kolędy /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//195.150.20.7/rmf_swieta:RMF Święta /świąteczne/
-#DESCRIPTION RMF Święta /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//195.150.20.7/rmf_top5:RMF Świąteczne Nowości 2023 /świąteczne/
-#DESCRIPTION RMF Świąteczne Nowości 2023 /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//195.150.20.7/rmf_top_30_swieta:RMF Top 30 Święta /świąteczne/
-#DESCRIPTION RMF Top 30 Święta /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//195.150.20.7/rmf_classic:Świąteczne RMF Classic /świąteczne/
-#DESCRIPTION Świąteczne RMF Classic /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zt.cdn.eurozet.pl/ZETKOL.mp3:Radio ZET Kolędy /świąteczne/
-#DESCRIPTION Radio ZET Kolędy /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zt.cdn.eurozet.pl/ZETSWI.mp3:Radio ZET Na Święta /świąteczne/
-#DESCRIPTION Radio ZET Na Święta /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ch.cdn.eurozet.pl/CHISWI.mp3:Chillizet Christmas /świąteczne/
-#DESCRIPTION Chillizet Christmas /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ml.cdn.eurozet.pl/MELCHR.mp3:Meloradio Christmas /świąteczne/
-#DESCRIPTION Meloradio Christmas /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8138:Moje Polskie Radio - Radio Gwiazdka /świąteczne/
-#DESCRIPTION Moje Polskie Radio - Radio Gwiazdka /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.open.fm/89:OPEN FM Kolędy /świąteczne/
-#DESCRIPTION OPEN FM Kolędy /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.open.fm/87:OPEN FM Na Gwiazdkę /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.open.fm/88:OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę Jazz & Classic /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.open.fm/90:OPEN FM Na Gwiazdkę Hity /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę Hity /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.open.fm/56:OPEN FM Na Gwiazdkę PL /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę PL /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.open.fm/91:OPEN FM Na Gwiazdkę Rock /świąteczne/
-#DESCRIPTION OPEN FM Na Gwiazdkę Rock /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream-cdn-1.open.fm/OFM200/ngrp%3astandard/playlist.m3u8:OPEN FM Święta 2023 /świąteczne/
-#DESCRIPTION OPEN FM Święta 2023 /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//an.cdn.eurozet.pl/ANTXMA.mp3:Antyradio - X-mass /świąteczne/
-#DESCRIPTION Antyradio - X-mass /świąteczne/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//usa8.fastcast4u.com/proxy/s14?mp=/1:Radio Polski.FM Chicago - Święta z Polski.FM /świąteczne/
-#DESCRIPTION Radio Polski.FM Chicago - Święta z Polski.FM /świąteczne/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//emisja.radio17.pl%3a8000/R17:Radio 1.7
 #DESCRIPTION Radio 1.7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7102:Radio 4Music
@@ -1697,6 +1919,8 @@
 #DESCRIPTION Radio Akademickie Radio Luz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a11847/;:Radio Akadera
 #DESCRIPTION Radio Akadera
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.akcjafm.net/listen/radio/radio.mp3:Radio Akcja FM
+#DESCRIPTION Radio Akcja FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7122:Radio Akord
 #DESCRIPTION Radio Akord
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioaktywne.pl%3a8443/ramp3:Radio Aktywne
@@ -1743,8 +1967,6 @@
 #DESCRIPTION Radio Bezpieczna Podróż
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.164.158.230%3a9070:Radio Biedrzychowice
 #DESCRIPTION Radio Biedrzychowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9149/stream:Radio Big City
-#DESCRIPTION Radio Big City
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.91.156%3a8000:Radio BIGbbs
 #DESCRIPTION Radio BIGbbs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7014:Radio Blue Moon
@@ -1767,10 +1989,12 @@
 #DESCRIPTION Radio Centrum Lublin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.93.41.27%3a8000:Radio Centrum Rzeszów
 #DESCRIPTION Radio Centrum Rzeszów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secure1.reliastream.com/polskieradio:Radio Chicago
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.reliastream.com/proxy/polskieradio?mp=/stream:Radio Chicago
 #DESCRIPTION Radio Chicago
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.cmp3.eu%3a8000/stream192:Radio Cmp3.eu
 #DESCRIPTION Radio Cmp3.eu
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.cmp3.eu%3a8000/edm:Radio Cmp3.eu - EDM
+#DESCRIPTION Radio Cmp3.eu - EDM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80.211.203.250%3a8250/master:Radio Cmolas
 #DESCRIPTION Radio Cmolas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7308/stream:Radio Codziennie Piątek
@@ -1791,8 +2015,6 @@
 #DESCRIPTION Radio Cztery Pory Roku
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7512:Radio Damismania Dj
 #DESCRIPTION Radio Damismania Dj
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7256/stream:Radio Dancing Soul
-#DESCRIPTION Radio Dancing Soul
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7088/stream:Radio Danielka
 #DESCRIPTION Radio Danielka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiodht.com/stream_main/:Radio DHT 1
@@ -1807,23 +2029,11 @@
 #DESCRIPTION Radio Disco FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiodd.cloud%3a8000:Radio Disco-Mix
 #DESCRIPTION Radio Disco-Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7354/stream:Radio DiscoParty.pl - Club Mix
-#DESCRIPTION Radio DiscoParty.pl - Club Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7432/stream:Radio DiscoParty.pl - Disco
-#DESCRIPTION Radio DiscoParty.pl - Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7046/stream:Radio DiscoParty.pl - Disco z polotem
-#DESCRIPTION Radio DiscoParty.pl - Disco z polotem
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7496:Radio Disco Polo Non Stop
 #DESCRIPTION Radio Disco Polo Non Stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7586/stream:Radio Dla Dorosłych
 #DESCRIPTION Radio Dla Dorosłych
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7250/stream:Radio Dobra Nuta
-#DESCRIPTION Radio Dobra Nuta
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dobre.out.airtime.pro/dobre_a:Radio Dobre.Radio
-#DESCRIPTION Radio Dobre.Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server34740.streamplus.de%3a12244:Radio Dotyk Muzyki
-#DESCRIPTION Radio Dotyk Muzyki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.transmisjaradio.net%3a2020/stream/radiodtr:Radio DTR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//transmisjaradio.net%3a2020/stream/radiodtr:Radio DTR
 #DESCRIPTION Radio DTR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7174/stream:Radio Duch
 #DESCRIPTION Radio Duch
@@ -1851,13 +2061,11 @@
 #DESCRIPTION Radio Emi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.euroradio.fm%3a8000/euroradio1:Radio Euroradio FM
 #DESCRIPTION Radio Euroradio FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a11240/stream:Radio Eurostacja
-#DESCRIPTION Radio Eurostacja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/yx6cub73kwzuv:Radio Express FM
 #DESCRIPTION Radio Express FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8200/szczecinfm:Radio Extra Szczecin
 #DESCRIPTION Radio Extra Szczecin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7452/stream:Radio Extreme
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7450/stream:Radio Extreme
 #DESCRIPTION Radio Extreme
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8076:Radio FAMA Kielce
 #DESCRIPTION Radio FAMA Kielce
@@ -1869,7 +2077,7 @@
 #DESCRIPTION Radio FAMA Wołomin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a13770:Radio FAMA Żyrardów
 #DESCRIPTION Radio FAMA Żyrardów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//modulator.ddns.net%3a8000/famka.ogg:Radio FAMKA Kraków
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dhtk2.noip.pl%3a8888/famka.mp3:Radio FAMKA Kraków
 #DESCRIPTION Radio FAMKA Kraków
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7792:Radio Feel The Music
 #DESCRIPTION Radio Feel The Music
@@ -1885,8 +2093,12 @@
 #DESCRIPTION Radio Fox
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//81.26.9.138%3a8000/RadioFraszka:Radio Fraszka
 #DESCRIPTION Radio Fraszka
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4.radiohost.pl%3a7088:Radio Friends
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a11638/tunein:Radio Friends
 #DESCRIPTION Radio Friends
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.mediacp.eu%3a8048:Radio Fun FM
+#DESCRIPTION Radio Fun FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.mediacp.eu%3a8046:Radio Fun FM Extra
+#DESCRIPTION Radio Fun FM Extra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sc1.readycast.org%3a8060:Radio Galaktyka
 #DESCRIPTION Radio Galaktyka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a8064/stream:Radio Gdynia
@@ -1901,7 +2113,7 @@
 #DESCRIPTION Radio Gold Song FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7270:Radio Gold Stars
 #DESCRIPTION Radio Gold Stars
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.transmisjaradio.net%3a2020/stream/radiogozdawa:Radio Gozdawa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//transmisjaradio.net%3a2020/stream/radiogozdawaicecast:Radio Gozdawa
 #DESCRIPTION Radio Gozdawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7398/stream:Radio Góralskie
 #DESCRIPTION Radio Góralskie
@@ -1909,11 +2121,9 @@
 #DESCRIPTION Radio Green Garden
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7508:Radio Guardian
 #DESCRIPTION Radio Guardian
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.radio.co/s6b9e36d1c/listen:Radio Halo.Radio
-#DESCRIPTION Radio Halo.Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zenolive.com/qd8hws5efseuv:Radio Hard Blues
 #DESCRIPTION Radio Hard Blues
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7600/stream:Radio Heaven
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc1.radioheaven.pl%3a8000:Radio Heaven
 #DESCRIPTION Radio Heaven
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7426/stream:Radio HellsFM
 #DESCRIPTION Radio HellsFM
@@ -1921,12 +2131,12 @@
 #DESCRIPTION Radio Hit Włocławek
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7328:Radio Horyzont
 #DESCRIPTION Radio Horyzont
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.130.209.64%3a8000:Radio I
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/scbf7517fe/listen:Radio Hydrostacja.fm
+#DESCRIPTION Radio Hydrostacja.fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.radioi.pl%3a8443/stream:Radio I
 #DESCRIPTION Radio I
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/sd1bcd1376/listen:Radio Ibiza
 #DESCRIPTION Radio Ibiza
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7438/stream:Radio Ilona
-#DESCRIPTION Radio Ilona
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioimperium.pl%3a8443/stream:Radio Imperium
 #DESCRIPTION Radio Imperium
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiopulawy24.pl%3a48443/stream:Radio Impuls
@@ -1977,8 +2187,6 @@
 #DESCRIPTION Radio Kultura
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/ypspphhxfm8uv:Radio Kuropatwa
 #DESCRIPTION Radio Kuropatwa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7374/stream:Radio Kwiatuszek
-#DESCRIPTION Radio Kwiatuszek
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7828:Radio Lagoon Fm
 #DESCRIPTION Radio Lagoon Fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.g-news.pl/radio/8050/leliwa:Radio Leliwa
@@ -1999,9 +2207,9 @@
 #DESCRIPTION Radio Lolusiowe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7284:Radio Love Song
 #DESCRIPTION Radio Love Song
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7670:Radio Made Music
-#DESCRIPTION Radio Made Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7314/stream:Radio Mafia Gryzonia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.lpuradio.pl/stream.mp3:Radio LPU
+#DESCRIPTION Radio LPU
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.swiatxat.pl%3a7000:Radio Mafia Gryzonia
 #DESCRIPTION Radio Mafia Gryzonia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18094:Radio Magicfm.pl
 #DESCRIPTION Radio Magicfm.pl
@@ -2011,8 +2219,10 @@
 #DESCRIPTION Radio Malbork
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7780:Radio Manhattan
 #DESCRIPTION Radio Manhattan
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7538/stream:Radio Margaretka FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.supermuza.com%3a7538:Radio Margaretka FM
 #DESCRIPTION Radio Margaretka FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mpc1.mediacp.eu%3a8206/stream:Radio Martynianka
+#DESCRIPTION Radio Martynianka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7386/stream:Radio Maxi Stacja
 #DESCRIPTION Radio Maxi Stacja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a8880:Radio MaxPlay-FM
@@ -2023,8 +2233,8 @@
 #DESCRIPTION Radio Mega
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a8738/stream:Radio Metal Live Radio
 #DESCRIPTION Radio Metal Live Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7120:Radio Miasto Muzyki
-#DESCRIPTION Radio Miasto Muzyki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.meteor.amu.edu.pl%3a8000/meteor.mp3:Radio Meteor
+#DESCRIPTION Radio Meteor
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7048/stream:Radio Michałowo FM
 #DESCRIPTION Radio Michałowo FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7350:Radio Miłosne Serca Dwa
@@ -2035,7 +2245,7 @@
 #DESCRIPTION Radio Ministerstwo Muzyki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7592:Radio Mittendrin
 #DESCRIPTION Radio Mittendrin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.63.53.48%3a31486/stream:Radio Mix Radio One
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiocast.eu%3a8000/radio.mp3:Radio Mix Radio One
 #DESCRIPTION Radio Mix Radio One
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7058/stream:Radio MixedPlay
 #DESCRIPTION Radio MixedPlay
@@ -2043,6 +2253,8 @@
 #DESCRIPTION Radio Mixx.pl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.modules.pl%3a8500:Radio ModFM
 #DESCRIPTION Radio ModFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/wxffkkhwd3wuv:Radio Mojerad.io
+#DESCRIPTION Radio Mojerad.io
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.task.gda.pl%3a8000/mors:Radio Mors
 #DESCRIPTION Radio Mors
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.radio-motyw.eu/live:Radio Motyw
@@ -2061,7 +2273,7 @@
 #DESCRIPTION Radio Muzyczna Oaza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7686:Radio Muzyczna Przystań
 #DESCRIPTION Radio Muzyczna Przystań
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7234/stream:Radio Muzyczne Uniesienia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.muzyczneuniesienia.pl%3a2506:Radio Muzyczne Uniesienia
 #DESCRIPTION Radio Muzyczne Uniesienia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7336/stream:Radio Muzyczny Zakątek
 #DESCRIPTION Radio Muzyczny Zakątek
@@ -2113,8 +2325,6 @@
 #DESCRIPTION Radio OIOM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8094:Radio OKO
 #DESCRIPTION Radio OKO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7356/stream:Radio Omega Plus FM
-#DESCRIPTION Radio Omega Plus FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7624/stream:Radio One Planet
 #DESCRIPTION Radio One Planet
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/yxv344rra2zuv:Radio ONY
@@ -2133,12 +2343,10 @@
 #DESCRIPTION Radio Parada
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paranormalium.waw.pl/listen/radio_paranormalium/1:Radio Paranormalium
 #DESCRIPTION Radio Paranormalium
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7642/stream:Radio Paris
-#DESCRIPTION Radio Paris
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sluchaj2.radiopark.biz.pl%3a8058:Radio Park
 #DESCRIPTION Radio Park
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18276:Radio Party u Małgorzaty
-#DESCRIPTION Radio Party u Małgorzaty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pawarota.out.airtime.pro/pawarota_a:Radio Pawarota
+#DESCRIPTION Radio Pawarota
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7146:Radio Piekielskie 1
 #DESCRIPTION Radio Piekielskie 1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7244/stream:Radio Piłeczka
@@ -2149,10 +2357,8 @@
 #DESCRIPTION Radio Płock FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioplonsk.pl%3a9360:Radio Płońsk
 #DESCRIPTION Radio Płońsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7530/stream:Radio Podlasie 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//panel.hostjupiter.ro/8004/stream:Radio Podlasie 2
 #DESCRIPTION Radio Podlasie 2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9470/stream:Radio Polczat.pl
-#DESCRIPTION Radio Polczat.pl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiopolo.net%3a8000:Radio Polo.net
 #DESCRIPTION Radio Polo.net
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiopolo.net%3a9000:Radio Polo.net Muzyka Hity
@@ -2167,6 +2373,8 @@
 #DESCRIPTION Radio Pozytywne FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream12.hosterion.pl/stream/radiopragapl:Radio Praga.pl
 #DESCRIPTION Radio Praga.pl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7524/stream/1/:Radio Prestige
+#DESCRIPTION Radio Prestige
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/prfmwmwy768uv:Radio PRL24
 #DESCRIPTION Radio PRL24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiointernetowe.net%3a7802:Radio Pro-Radio Zgierz
@@ -2185,7 +2393,7 @@
 #DESCRIPTION Radio Przystań
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7572:Radio Puzzle
 #DESCRIPTION Radio Puzzle
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.130.30.166%3a8020:Radio Q
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//79.188.161.82%3a8020:Radio Q
 #DESCRIPTION Radio Q
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//air.racyja.com%3a8000/aacp128:Radio Racja
 #DESCRIPTION Radio Racja
@@ -2257,7 +2465,7 @@
 #DESCRIPTION Radio Słoneczko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream14.shoutcastsolutions.com%3a8057/256stream:Radio SmoothJazz.com.pl
 #DESCRIPTION Radio SmoothJazz.com.pl
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//37.130.30.166%3a8000:Radio Sochaczew
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiosochaczew.pl:Radio Sochaczew
 #DESCRIPTION Radio Sochaczew
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7230/stream:Radio SOK
 #DESCRIPTION Radio SOK
@@ -2285,10 +2493,10 @@
 #DESCRIPTION Radio Sud
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream4.nadaje.com%3a15007/sudety24:Radio Sudety 24
 #DESCRIPTION Radio Sudety 24
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18320:Radio SuDi Planet FM
-#DESCRIPTION Radio SuDi Planet FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18278:Radio Sunrise
 #DESCRIPTION Radio Sunrise
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.super.fm%3a8443/superfm.mp3:Radio Super FM
+#DESCRIPTION Radio Super FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosygnaly2.uni.opole.pl%3a8000/stream:Radio Sygnały
 #DESCRIPTION Radio Sygnały
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a11986/prs:Radio Szczecin
@@ -2327,11 +2535,9 @@
 #DESCRIPTION Radio Ty i Ja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.tyflopodcast.net%3a8000:Radio Tyflo
 #DESCRIPTION Radio Tyflo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.4stream.pl/stream/18310:Radio U Demonka
-#DESCRIPTION Radio U Demonka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18124:Radio U Lusi
 #DESCRIPTION Radio U Lusi
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.wzks.uj.edu.pl%3a8000/ujotfm128:Radio Ujot FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.ujot.fm/:Radio Ujot FM
 #DESCRIPTION Radio Ujot FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7210/stream:Radio Ulotna Bajka
 #DESCRIPTION Radio Ulotna Bajka
@@ -2343,10 +2549,6 @@
 #DESCRIPTION Radio UWM FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7106:Radio Vegas
 #DESCRIPTION Radio Vegas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7728/stream:Radio Vipek
-#DESCRIPTION Radio Vipek
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18480:Radio Virgo
-#DESCRIPTION Radio Virgo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7446:Radio Warta FM
 #DESCRIPTION Radio Warta FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.supermuza.com%3a7022:Radio Wars-sawa 24
@@ -2361,8 +2563,6 @@
 #DESCRIPTION Radio Widzew
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.182.76.63%3a8000/webstream:Radio Wielkopolska
 #DESCRIPTION Radio Wielkopolska
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wirtualna.pila.pl/listen/wirtualne_radio/radio.mp3:Radio Wirtualne
-#DESCRIPTION Radio Wirtualne
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.kujawy.info%3a10140/1:Radio Włocławek po polsku
 #DESCRIPTION Radio Włocławek po polsku
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audio.radiownet.pl%3a8000/stream:Radio Wnet
@@ -2379,6 +2579,8 @@
 #DESCRIPTION Radio Xmusic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/7vhveccrnquvv:Radio Yanosik
 #DESCRIPTION Radio Yanosik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/whxxccsdp7uvv:Radio Yanosik 2
+#DESCRIPTION Radio Yanosik 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiozqlturapl.radioca.st/stream:Radio Z Qlturą
 #DESCRIPTION Radio Z Qlturą
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//uksoutha.streaming.broadcast.radio%3a15190/zameknadaje:Radio Zamek Nadaje
@@ -2387,13 +2589,17 @@
 #DESCRIPTION Radio Zawiercie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8022:Radio Ziemi Wieluńskiej
 #DESCRIPTION Radio Ziemi Wieluńskiej
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18068:Radio Ziomki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.4stream.pl/stream/18164:Radio Ziomki
 #DESCRIPTION Radio Ziomki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7160/stream:Radio Zmysłowe
 #DESCRIPTION Radio Zmysłowe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//plays.zw.lt/zw128:Radio Znad Wilii
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//92.62.141.133/zw128:Radio Znad Wilii
 #DESCRIPTION Radio Znad Wilii
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//92.62.141.133/zwfun:Radio Znad Wilii Fun
+#DESCRIPTION Radio Znad Wilii Fun
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.191.2.16%3a8000/radiozak.ogg:Radio Żak
 #DESCRIPTION Radio Żak
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a8052:Radio Żnin
 #DESCRIPTION Radio Żnin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/q87xmtvrrg8uv:Radio Żuławy
+#DESCRIPTION Radio Żuławy
