@@ -111,6 +111,8 @@
 #DESCRIPTION TVP Info HD
 #SERVICE 4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51590674:TVP World
 #DESCRIPTION TVP World
+#SERVICE 4097:0:1:64:A11A:2268:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=74979895:TVP Wilno
+#DESCRIPTION TVP Wilno
 #SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=17251711:Belsat Tv
 #DESCRIPTION Belsat Tv
 #SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14812658:TVP3 Białystok
