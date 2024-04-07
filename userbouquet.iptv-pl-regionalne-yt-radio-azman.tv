@@ -9,6 +9,12 @@
 #DESCRIPTION BigTime
 #SERVICE 5001:0:1:240:A11A:2268:0:0:0:0:https%3a//3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5193&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=ebef9e43-d88b-4836-9959-fffca99cbdae&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1532:Moconomy - Gospodarka i Finanse
 #DESCRIPTION Moconomy - Gospodarka i Finanse
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- RED GO ---
+#DESCRIPTION --- RED GO ---
+#SERVICE 5002:0:1:3D63:2C88:13E:820000:0:0:0:https%3a//tvo-18-4.e.blueonline.tv/nb/redcarpetabr/channelredcarpet/manifest.mpd&cenc_decryption_key=a4fb8abe77fa23499265bd34d12ab130#sapp_dash_video_id=0&sapp_dash_audio_id=0:Red Carpet HD
+#DESCRIPTION Red Carpet HD
+#SERVICE 5002:0:1:754:1362:EC:0:0:0:0:https%3a//tvo-18-4.e.blueonline.tv/nb/redcarpetabr/channelredtop/manifest.mpd&cenc_decryption_key=a4fb8abe77fa23499265bd34d12ab130#sapp_dash_video_id=0&sapp_dash_audio_id=1:Red Top TV
+#DESCRIPTION Red Top TV
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- Telewizja Online ---
 #DESCRIPTION --- Telewizja Online ---
 #SERVICE 5002:0:1:3ABD:514:13E:820000:0:0:0:https%3a//cdndai.pl/tvp1hd/index.m3u8:TVP 1 HD
