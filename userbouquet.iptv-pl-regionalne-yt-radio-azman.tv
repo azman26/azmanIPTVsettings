@@ -175,6 +175,8 @@
 #DESCRIPTION wPolsce.pl  (YT)
 #SERVICE 5002:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//ec06-poz2.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8:TV Republika
 #DESCRIPTION TV Republika
+#SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Telewizja_Republika/live:TV Republika  (YT)
+#DESCRIPTION TV Republika  (YT)
 #SERVICE 4097:0:1:B3F:627C:EC:0:0:0:0:https%3a//r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8:TV MN
 #DESCRIPTION TV MN
 #SERVICE 4097:0:1:F106:277:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCMA-v2JV_9ZYNoY4uY4mRWA/live:Radio WNET  (YT) (7%3a07-10%3a30)
