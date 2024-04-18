@@ -23,6 +23,8 @@
 #DESCRIPTION TVP 2 HD
 #SERVICE 1:64:5:0:0:0:0:0:0:0::--- Regionalne + YT ---
 #DESCRIPTION --- Regionalne + YT ---
+#SERVICE 4097:0:1:1284:78DF:EC:0:0:0:0:https%3a//hugh.cdn.rumble.cloud/live/3fms19g4/slot-129/fpd5-jyun/chunklist.m3u8:Music+
+#DESCRIPTION Music+
 #SERVICE 5002:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
 #DESCRIPTION 4Fun TV
 #SERVICE 4097:0:16:57:E1:D58:EEEE0000:0:0:0:https%3a//tvreg.klemit.net/regionalna/stream/index.m3u8:TV Regionalna
@@ -31,6 +33,8 @@
 #DESCRIPTION Asta TV HD
 #SERVICE 5002:0:1:13:1:48:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/_definst_/dlaCiebieTv/playlist.m3u8:Dla Ciebie TV
 #DESCRIPTION Dla Ciebie TV
+#SERVICE 5002:0:1:6:1:48:0:0:0:0:https%3a//stream.sferatv.pl/sferatvlive/live.m3u8:Sfera TV
+#DESCRIPTION Sfera TV
 #SERVICE 5002:0:1:15:1:48:0:0:0:0:http%3a//217.173.176.107%3a1935/live/tvk.stream/playlist.m3u8:TV Toruń
 #DESCRIPTION TV Toruń
 #SERVICE 5002:0:1:95:1:48:0:0:0:0:https%3a//live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8:TVT Rybnik
@@ -47,8 +51,6 @@
 #DESCRIPTION TV DAMI  (YT)
 #SERVICE 5002:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
 #DESCRIPTION Imperium TV Gliwice
-#SERVICE 5002:0:1:92:1:48:0:0:0:0:https%3a//stream6.nadaje.com%3a35308/live/stream-1/chunklist_w1534321118.m3u8:TV Wielkopolska
-#DESCRIPTION TV Wielkopolska
 #SERVICE 5002:0:1:84:1:48:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
 #DESCRIPTION TVT Zgorzelec
 #SERVICE 5002:0:1:86:1:48:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
@@ -57,6 +59,8 @@
 #DESCRIPTION Pogranicze TV
 #SERVICE 5002:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
 #DESCRIPTION Truso TV
+#SERVICE 5002:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream_aac/playlist.m3u8:TV Kaszuby
+#DESCRIPTION TV Kaszuby
 #SERVICE 5002:0:1:96:1:48:0:0:0:0:https%3a//cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8:TV JASŁO
 #DESCRIPTION TV JASŁO
 #SERVICE 5002:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
@@ -65,8 +69,10 @@
 #DESCRIPTION Zachodnia TV
 #SERVICE 4097:0:1:E713:D5DF:EC:0:0:0:0:https%3a//webcam.box3.pl/box3/zachodnia/playlist.m3u8:Zachodnia TV  (kamery)
 #DESCRIPTION Zachodnia TV  (kamery)
-#SERVICE 4097:0:1:6CF4:6D9F:EC:0:0:0:0:https%3a//koder.swidman.pl/Swidnik.TV/index.m3u8:Świdnik TV
+#SERVICE 5002:0:1:6CF4:6D9F:EC:0:0:0:0:https%3a//koder.swidman.pl/Swidnik.TV/index.m3u8:Świdnik TV
 #DESCRIPTION Świdnik TV
+#SERVICE 4097:0:1:92:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@telewizjawielkopolska/live:TV Wielkopolska  (YT)
+#DESCRIPTION TV Wielkopolska  (YT)
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvsowianin-on-line9194/live:TV Słowianin  (YT)
 #DESCRIPTION TV Słowianin  (YT)
 #SERVICE 4097:0:1:54:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjaOlsztynPL/live:TV Olsztyn  (YT)
@@ -93,6 +99,8 @@
 #DESCRIPTION Lokalna TV  (YT)
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@redakcjartvp4066/live:Regionalna TV Podlasie  (YT)
 #DESCRIPTION Regionalna TV Podlasie  (YT)
+#SERVICE 4097:0:1:8BBF:6F5B:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@SIEDLCETV/live:Siedlce TV  (YT)
+#DESCRIPTION Siedlce TV  (YT)
 #SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ArcheTV/live:Arche TV  (YT)
 #DESCRIPTION Arche TV  (YT)
 #SERVICE 4097:0:1:D2B6:8DF8:EC:0:0:0:0:https%3a//tgn.bozztv.com/gama/itv04007-zdrowa/playlist.m3u8:Zdrowa TV
@@ -177,7 +185,7 @@
 #DESCRIPTION TV Republika
 #SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Telewizja_Republika/live:TV Republika  (YT)
 #DESCRIPTION TV Republika  (YT)
-#SERVICE 4097:0:1:B3F:627C:EC:0:0:0:0:https%3a//r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8:TV MN
+#SERVICE 4097:0:1:B3F:627C:EC:0:0:0:0:https%3a//tvo-28-5.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8:TV MN
 #DESCRIPTION TV MN
 #SERVICE 4097:0:1:F106:277:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCMA-v2JV_9ZYNoY4uY4mRWA/live:Radio WNET  (YT) (7%3a07-10%3a30)
 #DESCRIPTION Radio WNET  (YT) (7:07-10:30)
@@ -201,10 +209,6 @@
 #DESCRIPTION --- CHWILOWO OFFLINE ---
 #SERVICE 5002:0:1:5:1:48:0:0:0:0:http%3a//94.246.169.19/ttv_hls/live_720p/index.m3u8:Twoja TV
 #DESCRIPTION Twoja TV
-#SERVICE 5002:0:1:6:1:48:0:0:0:0:http%3a//stream.sferatv.pl%3a1935/sferalive/smil%3asferalive.smil/chunklist_w1722636790_b1128000_slpl.m3u8:Sfera TV
-#DESCRIPTION Sfera TV
-#SERVICE 5002:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream2_aac/playlist.m3u8:TV Kaszuby
-#DESCRIPTION TV Kaszuby
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:http%3a//stream.tvmazowsze.pl%3a5920/tmp_hls/stream/index.m3u8:TV Mazowsze
 #DESCRIPTION TV Mazowsze
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Tvmazowsze/live:TV MAZOWSZE  (YT)
@@ -239,6 +243,8 @@
 #DESCRIPTION TV Relax
 #SERVICE 4097:0:1:58:1:48:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8:TV Dami
 #DESCRIPTION TV Dami
+#SERVICE 4097:0:1:2BB0:6879:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCVItG8Ke6xMGhQAi8HP5WCg.m3u8:TV Wielkopolska
+#DESCRIPTION TV Wielkopolska
 #SERVICE 4097:0:1:49:1:48:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8:TV Słowianin
 #DESCRIPTION TV Słowianin
 #SERVICE 4097:0:1:54:1:48:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UC0vwjMGoZpwG_lLBuF6_ALA.m3u8:TV Olsztyn
@@ -263,6 +269,8 @@
 #DESCRIPTION Tarnowska TV
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCU7uwCYami150L_lydp2OHQ.m3u8:Regionalna TV Podlasie
 #DESCRIPTION Regionalna TV Podlasie
+#SERVICE 4097:0:1:24F0:E816:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCC74l6m1z4H_bYknU1BkjUg.m3u8:Siedlce TV
+#DESCRIPTION Siedlce TV
 #SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCciOOtgCargNFJw2BzR12Qw.m3u8:Arche TV
 #DESCRIPTION Arche TV
 #SERVICE 4097:0:1:3428:10AD:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UCqEL2VjfPuqgj-RCYcfALLA.m3u8:Tor Służewiec
@@ -283,92 +291,6 @@
 #DESCRIPTION Kanał Sportowy
 #SERVICE 4097:0:1:E17C:265F:EC:0:0:0:0:https%3a//ythls-v2.onrender.com/channel/UClhEl4bMD8_escGCCTmRAYg.m3u8:Kanał Zero
 #DESCRIPTION Kanał Zero
-#SERVICE 1:64:B:0:0:0:0:0:0:0::--- WP Pilot (azman) ---
-#DESCRIPTION --- WP Pilot (azman) ---
-#SERVICE 5002:0:1:3D5A:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/158:Telewizja WP HD
-#DESCRIPTION Telewizja WP HD
-#SERVICE 5002:0:1:995A:C656:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/271:Karuzela Śmiechu
-#DESCRIPTION Karuzela Śmiechu
-#SERVICE 5002:0:1:DFDD:F56A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/316:Patronite Podróże
-#DESCRIPTION Patronite Podróże
-#SERVICE 4097:0:1:C7D4:533B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/315:Glina TV
-#DESCRIPTION Glina TV
-#SERVICE 4097:0:1:9A8F:C32:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/330:Pilot w Domu
-#DESCRIPTION Pilot w Domu
-#SERVICE 4097:0:1:3D36:80CD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/331:Auto Pilot
-#DESCRIPTION Auto Pilot
-#SERVICE 5002:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/3:TVP 1 HD
-#DESCRIPTION TVP 1 HD
-#SERVICE 5002:0:1:C22:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/5:TVP 2 HD
-#DESCRIPTION TVP 2 HD
-#SERVICE 5002:0:1:3:2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/9:Polsat HD
-#DESCRIPTION Polsat HD
-#SERVICE 5002:0:1:3DCD:640:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/14:TVN
-#DESCRIPTION TVN
-#SERVICE 5002:0:1:3393:3390:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/11:TV 4 HD
-#DESCRIPTION TV 4 HD
-#SERVICE 5002:0:1:3D66:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/12:TV Puls HD
-#DESCRIPTION TV Puls HD
-#SERVICE 5002:0:1:3D5E:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/312:Puls 2
-#DESCRIPTION Puls 2
-#SERVICE 5002:0:1:428D:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/21:4FUN.TV
-#DESCRIPTION 4FUN.TV
-#SERVICE 5002:0:1:428F:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/50:4FUN DANCE
-#DESCRIPTION 4FUN DANCE
-#SERVICE 5002:0:1:428E:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/22:4FUN KIDS
-#DESCRIPTION 4FUN KIDS
-#SERVICE 5002:0:1:113B:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/57:TVP Warszawa
-#DESCRIPTION TVP Warszawa
-#SERVICE 5002:0:1:9:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/187:TVP Gdańsk
-#DESCRIPTION TVP Gdańsk
-#SERVICE 4097:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/272:News24
-#DESCRIPTION News24
-#SERVICE 4097:0:1:754:1362:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/273:Red Top TV
-#DESCRIPTION Red Top TV
-#SERVICE 5002:0:1:38:16:A4A:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/205:Gametoon HD
-#DESCRIPTION Gametoon HD
-#SERVICE 5002:0:1:427F:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/24:Stars.TV HD
-#DESCRIPTION Stars.TV HD
-#SERVICE 5002:0:1:2341:2328:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/188:Music Box Polska
-#DESCRIPTION Music Box Polska
-#SERVICE 5002:0:1:540B:DD1E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/213:Jazz HD
-#DESCRIPTION Jazz HD
-#SERVICE 5002:0:1:132C:33F4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/58:Fashion TV HD
-#DESCRIPTION Fashion TV HD
-#SERVICE 5002:0:1:327:3BC4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/18:France 24 HD
-#DESCRIPTION France 24 HD
-#SERVICE 5002:0:1:328:3BC4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/17:France 24 English HD
-#DESCRIPTION France 24 English HD
-#SERVICE 5002:0:1:32D3:190:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/172:Nuta GOLD
-#DESCRIPTION Nuta GOLD
-#SERVICE 5002:0:1:4279:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/174:wPolsce.pl HD
-#DESCRIPTION wPolsce.pl HD
-#SERVICE 5002:0:1:3D58:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/51:TVS
-#DESCRIPTION TVS
-#SERVICE 5002:0:1:1090:3EE:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/10:TV Trwam
-#DESCRIPTION TV Trwam
-#SERVICE 4097:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/274:13.TV
-#DESCRIPTION 13.TV
-#SERVICE 5002:0:1:5:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/150:Twoja.TV HD
-#DESCRIPTION Twoja.TV HD
-#SERVICE 4097:0:1:3D63:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/138:Red Carpet TV HD
-#DESCRIPTION Red Carpet TV HD
-#SERVICE 5002:0:1:423C:3DB8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/211:Polonia 1
-#DESCRIPTION Polonia 1
-#SERVICE 5002:0:1:423B:3DB8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/212:Tele 5 HD
-#DESCRIPTION Tele 5 HD
-#SERVICE 5002:0:1:327:1F40:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/204:TBN Polska HD
-#DESCRIPTION TBN Polska HD
-#SERVICE 5002:0:1:95:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/298:TVT Rybnik
-#DESCRIPTION TVT Rybnik
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/266:WP Radio
-#DESCRIPTION WP Radio
-#SERVICE 5002:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/240:Radio 357
-#DESCRIPTION Radio 357
-#SERVICE 5002:0:1:513D:DFC5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/238:Radio Nowy Świat
-#DESCRIPTION Radio Nowy Świat
-#SERVICE 4097:0:1:8285:6A03:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pilot.wp.pl/api/v1/channel/337:Sejm na żywo
-#DESCRIPTION Sejm na żywo
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
 #DESCRIPTION --- RADIO  PL  IP ---
 #SERVICE 4097:0:2:1C9B:1CE8:71:820000:0:0:0:http%3a//stream3.polskieradio.pl%3a8950:Jedynka - PR
