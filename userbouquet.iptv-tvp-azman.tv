@@ -13,10 +13,10 @@
 #DESCRIPTION TVP ABC
 #SERVICE 4097:0:16:5C:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-abc-2,399727:TVP ABC 2
 #DESCRIPTION TVP ABC 2
-#SERVICE 4097:0:1:4288:2BC0:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-rozrywka,399724:TVP Rozrywka
-#DESCRIPTION TVP Rozrywka
 #SERVICE 4097:0:1F:36:3A2:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-kobieta,399701:TVP Kobieta
 #DESCRIPTION TVP Kobieta
+#SERVICE 4097:0:1:4288:2BC0:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-rozrywka,399724:TVP Rozrywka
+#DESCRIPTION TVP Rozrywka
 #SERVICE 4097:0:1:3D59:2C88:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-kultura,399700:TVP Kultura
 #DESCRIPTION TVP Kultura
 #SERVICE 4097:0:16:5E:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-kultura-2,399728:TVP Kultura 2
