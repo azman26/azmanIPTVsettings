@@ -1,151 +1,151 @@
 #NAME IPTV TVP (azman)
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- TVP VOD Live ---
 #DESCRIPTION --- TVP VOD Live ---
-#SERVICE 4097:0:1:42:3A2:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-nauka,399722:TVP Nauka
+#SERVICE 5002:0:1:42:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-nauka,399722
 #DESCRIPTION TVP Nauka
-#SERVICE 4097:0:1:28:3A2:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/alfa-tvp,399726:Alfa TVP
+#SERVICE 5002:0:1:28:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/alfa-tvp,399726
 #DESCRIPTION Alfa TVP
-#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-1,399697:TVP 1 HD
+#SERVICE 5002:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-1,399697
 #DESCRIPTION TVP 1 HD
-#SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-2,399698:TVP 2 HD
+#SERVICE 5002:0:1:C2C:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-2,399698
 #DESCRIPTION TVP 2 HD
-#SERVICE 4097:0:1:3D5F:2C88:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-abc,399704:TVP ABC
+#SERVICE 5002:0:1:3D5F:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-abc,399704
 #DESCRIPTION TVP ABC
-#SERVICE 4097:0:16:5C:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-abc-2,399727:TVP ABC 2
+#SERVICE 5002:0:16:5C:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-abc-2,399727
 #DESCRIPTION TVP ABC 2
-#SERVICE 4097:0:1F:36:3A2:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-kobieta,399701:TVP Kobieta
+#SERVICE 5002:0:1F:36:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-kobieta,399701
 #DESCRIPTION TVP Kobieta
-#SERVICE 4097:0:1:4288:2BC0:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-rozrywka,399724:TVP Rozrywka
+#SERVICE 5002:0:1:4288:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-rozrywka,399724
 #DESCRIPTION TVP Rozrywka
-#SERVICE 4097:0:1:3D59:2C88:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-kultura,399700:TVP Kultura
+#SERVICE 5002:0:1:3D59:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-kultura,399700
 #DESCRIPTION TVP Kultura
-#SERVICE 4097:0:16:5E:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-kultura-2,399728:TVP Kultura 2
+#SERVICE 5002:0:16:5E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-kultura-2,399728
 #DESCRIPTION TVP Kultura 2
-#SERVICE 4097:0:1:3A9D:514:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-dokument,399721:TVP Dokument HD
+#SERVICE 5002:0:1:3A9D:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-dokument,399721
 #DESCRIPTION TVP Dokument HD
-#SERVICE 4097:0:1:3D67:2C88:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-historia,399703:TVP Historia
+#SERVICE 5002:0:1:3D67:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-historia,399703
 #DESCRIPTION TVP Historia
-#SERVICE 4097:0:16:5D:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-historia-2,399725:TVP Historia 2
+#SERVICE 5002:0:16:5D:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-historia-2,399725
 #DESCRIPTION TVP Historia 2
-#SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-polonia,399723:TVP Polonia
+#SERVICE 5002:0:1:E83:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-polonia,399723
 #DESCRIPTION TVP Polonia
-#SERVICE 4097:0:1:3A9E:514:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-sport,399702:TVP Sport HD
+#SERVICE 5002:0:1:3A9E:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-sport,399702
 #DESCRIPTION TVP Sport HD
-#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-info,399699:TVP Info HD
+#SERVICE 5002:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-info,399699
 #DESCRIPTION TVP Info HD
-#SERVICE 4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-world,399731:TVP World
+#SERVICE 5002:0:1F:22:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-world,399731
 #DESCRIPTION TVP World
-#SERVICE 4097:0:1:64:A11A:2268:0:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-wilno,999687:TVP Wilno
+#SERVICE 5002:0:1:64:A11A:2268:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-wilno,999687
 #DESCRIPTION TVP Wilno
-#SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/belsat,399729:Belsat Tv
+#SERVICE 5002:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/belsat,399729
 #DESCRIPTION Belsat Tv
-#SERVICE 4097:0:1:B96E:8F4D:EC:0:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-parlament--sejm,1065594:TVP Sejm
+#SERVICE 5002:0:1:B96E:8F4D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-parlament--sejm,1065594
 #DESCRIPTION TVP Sejm
-#SERVICE 4097:0:1:24A9:AEA4:EC:0:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-parlament--senat,1065595:TVP Senat
+#SERVICE 5002:0:1:24A9:AEA4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-parlament--senat,1065595
 #DESCRIPTION TVP Senat
-#SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-bialystok,399732:TVP3 Białystok
+#SERVICE 5002:0:1:7:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-bialystok,399732
 #DESCRIPTION TVP3 Białystok
-#SERVICE 4097:0:1:8:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-bydgoszcz,399740:TVP3 Bydgoszcz
+#SERVICE 5002:0:1:8:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-bydgoszcz,399740
 #DESCRIPTION TVP3 Bydgoszcz
-#SERVICE 4097:0:1:9:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-gdansk,399741:TVP3 Gdańsk
+#SERVICE 5002:0:1:9:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-gdansk,399741
 #DESCRIPTION TVP3 Gdańsk
-#SERVICE 4097:0:16:A:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-gorzow-wlkp,399742:TVP3 Gorzów Wielkopolski
+#SERVICE 5002:0:16:A:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-gorzow-wlkp,399742
 #DESCRIPTION TVP3 Gorzów Wielkopolski
-#SERVICE 4097:0:16:B:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-katowice,399743:TVP3 Katowice
+#SERVICE 5002:0:16:B:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-katowice,399743
 #DESCRIPTION TVP3 Katowice
-#SERVICE 4097:0:16:C:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-kielce,399745:TVP3 Kielce
+#SERVICE 5002:0:16:C:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-kielce,399745
 #DESCRIPTION TVP3 Kielce
-#SERVICE 4097:0:1:D:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-krakow,399746:TVP3 Kraków
+#SERVICE 5002:0:1:D:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-krakow,399746
 #DESCRIPTION TVP3 Kraków
-#SERVICE 4097:0:1:E:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-lublin,399748:TVP3 Lublin
+#SERVICE 5002:0:1:E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-lublin,399748
 #DESCRIPTION TVP3 Lublin
-#SERVICE 4097:0:1:F:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-lodz,399747:TVP3 Łódź
+#SERVICE 5002:0:1:F:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-lodz,399747
 #DESCRIPTION TVP3 Łódź
-#SERVICE 4097:0:1:10:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-olsztyn,399749:TVP3 Olsztyn
+#SERVICE 5002:0:1:10:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-olsztyn,399749
 #DESCRIPTION TVP3 Olsztyn
-#SERVICE 4097:0:16:11:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-opole,399750:TVP3 Opole
+#SERVICE 5002:0:16:11:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-opole,399750
 #DESCRIPTION TVP3 Opole
-#SERVICE 4097:0:16:12:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-poznan,399751:TVP3 Poznań
+#SERVICE 5002:0:16:12:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-poznan,399751
 #DESCRIPTION TVP3 Poznań
-#SERVICE 4097:0:1:13:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-rzeszow,399752:TVP3 Rzeszów
+#SERVICE 5002:0:1:13:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-rzeszow,399752
 #DESCRIPTION TVP3 Rzeszów
-#SERVICE 4097:0:16:14:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-szczecin,399753:TVP3 Szczecin
+#SERVICE 5002:0:16:14:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-szczecin,399753
 #DESCRIPTION TVP3 Szczecin
-#SERVICE 4097:0:16:15:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-warszawa,399754:TVP3 Warszawa
+#SERVICE 5002:0:16:15:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-warszawa,399754
 #DESCRIPTION TVP3 Warszawa
-#SERVICE 4097:0:16:16:3:2268:EEEE0000:0:0:0:streamlink%3a//https%3a//vod.tvp.pl/live,1/tvp-3-wroclaw,399755:TVP3 Wrocław
+#SERVICE 5002:0:16:16:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-wroclaw,399755
 #DESCRIPTION TVP3 Wrocław
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- TVP GO ---
 #DESCRIPTION --- TVP GO ---
-#SERVICE 4097:0:1F:42:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=71345993:TVP Nauka
+#SERVICE 5002:0:1F:42:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=71345993
 #DESCRIPTION TVP Nauka
-#SERVICE 4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=65184034:Alfa TVP
+#SERVICE 5002:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=65184034
 #DESCRIPTION Alfa TVP
-#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51689486:TVP 1 HD
+#SERVICE 5002:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51689486
 #DESCRIPTION TVP 1 HD
-#SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696811:TVP 2 HD
+#SERVICE 5002:0:1:C2C:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696811
 #DESCRIPTION TVP 2 HD
-#SERVICE 4097:0:1:3D5F:2C88:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696812:TVP ABC
+#SERVICE 5002:0:1:3D5F:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696812
 #DESCRIPTION TVP ABC
-#SERVICE 4097:0:16:5C:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=57181933:TVP ABC 2
+#SERVICE 5002:0:16:5C:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=57181933
 #DESCRIPTION TVP ABC 2
-#SERVICE 4097:0:1:4288:2BC0:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696825:TVP Rozrywka
+#SERVICE 5002:0:1:4288:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696825
 #DESCRIPTION TVP Rozrywka
-#SERVICE 4097:0:1F:36:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53795158:TVP Kobieta
+#SERVICE 5002:0:1F:36:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53795158
 #DESCRIPTION TVP Kobieta
-#SERVICE 4097:0:1:3D59:2C88:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696822:TVP Kultura
+#SERVICE 5002:0:1:3D59:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696822
 #DESCRIPTION TVP Kultura
-#SERVICE 4097:0:16:5E:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=56275381:TVP Kultura 2
+#SERVICE 5002:0:16:5E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=56275381
 #DESCRIPTION TVP Kultura 2
-#SERVICE 4097:0:1:3A9D:514:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=53795159:TVP Dokument HD
+#SERVICE 5002:0:1:3A9D:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=53795159
 #DESCRIPTION TVP Dokument HD
-#SERVICE 4097:0:1:3D67:2C88:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696819:TVP Historia
+#SERVICE 5002:0:1:3D67:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696819
 #DESCRIPTION TVP Historia
-#SERVICE 4097:0:16:5D:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=52491596:TVP Historia 2
+#SERVICE 5002:0:16:5D:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=52491596
 #DESCRIPTION TVP Historia 2
-#SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696824:TVP Polonia
+#SERVICE 5002:0:1:E83:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696824
 #DESCRIPTION TVP Polonia
-#SERVICE 4097:0:1:3A9E:514:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696827:TVP Sport HD
+#SERVICE 5002:0:1:3A9E:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696827
 #DESCRIPTION TVP Sport HD
-#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51696820:TVP Info HD
+#SERVICE 5002:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51696820
 #DESCRIPTION TVP Info HD
-#SERVICE 4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=51590674:TVP World
+#SERVICE 5002:0:1F:22:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=51590674
 #DESCRIPTION TVP World
-#SERVICE 4097:0:1:64:A11A:2268:0:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=74979895:TVP Wilno
+#SERVICE 5002:0:1:64:A11A:2268:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=74979895
 #DESCRIPTION TVP Wilno
-#SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=17251711:Belsat Tv
+#SERVICE 5002:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=17251711
 #DESCRIPTION Belsat Tv
-#SERVICE 4097:0:1:7:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14812658:TVP3 Białystok
+#SERVICE 5002:0:1:7:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14812658
 #DESCRIPTION TVP3 Białystok
-#SERVICE 4097:0:1:8:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813071:TVP3 Bydgoszcz
+#SERVICE 5002:0:1:8:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813071
 #DESCRIPTION TVP3 Bydgoszcz
-#SERVICE 4097:0:1:9:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813041:TVP3 Gdańsk
+#SERVICE 5002:0:1:9:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813041
 #DESCRIPTION TVP3 Gdańsk
-#SERVICE 4097:0:16:A:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14812873:TVP3 Gorzów Wielkopolski
+#SERVICE 5002:0:16:A:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14812873
 #DESCRIPTION TVP3 Gorzów Wielkopolski
-#SERVICE 4097:0:16:B:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14812916:TVP3 Katowice
+#SERVICE 5002:0:16:B:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14812916
 #DESCRIPTION TVP3 Katowice
-#SERVICE 4097:0:16:C:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813011:TVP3 Kielce
+#SERVICE 5002:0:16:C:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813011
 #DESCRIPTION TVP3 Kielce
-#SERVICE 4097:0:1:D:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813024:TVP3 Kraków
+#SERVICE 5002:0:1:D:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813024
 #DESCRIPTION TVP3 Kraków
-#SERVICE 4097:0:1:E:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813060:TVP3 Lublin
+#SERVICE 5002:0:1:E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813060
 #DESCRIPTION TVP3 Lublin
-#SERVICE 4097:0:1:F:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813056:TVP3 Łódź
+#SERVICE 5002:0:1:F:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813056
 #DESCRIPTION TVP3 Łódź
-#SERVICE 4097:0:1:10:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813089:TVP3 Olsztyn
+#SERVICE 5002:0:1:10:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813089
 #DESCRIPTION TVP3 Olsztyn
-#SERVICE 4097:0:16:11:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813091:TVP3 Opole
+#SERVICE 5002:0:16:11:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813091
 #DESCRIPTION TVP3 Opole
-#SERVICE 4097:0:16:12:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813084:TVP3 Poznań
+#SERVICE 5002:0:16:12:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813084
 #DESCRIPTION TVP3 Poznań
-#SERVICE 4097:0:1:13:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813059:TVP3 Rzeszów
+#SERVICE 5002:0:1:13:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813059
 #DESCRIPTION TVP3 Rzeszów
-#SERVICE 4097:0:16:14:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813052:TVP3 Szczecin
+#SERVICE 5002:0:16:14:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813052
 #DESCRIPTION TVP3 Szczecin
-#SERVICE 4097:0:16:15:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14812858:TVP3 Warszawa
+#SERVICE 5002:0:16:15:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14812858
 #DESCRIPTION TVP3 Warszawa
-#SERVICE 4097:0:16:16:3:2268:EEEE0000:0:0:0:streamlink%3a//http%3a//tvp_player.php?object_id=14813087:TVP3 Wrocław
+#SERVICE 5002:0:16:16:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvp_player.php?object_id=14813087
 #DESCRIPTION TVP3 Wrocław
 #SERVICE 1:64:9:0:0:0:0:0:0:0::--- TVP Stream ---
 #DESCRIPTION --- TVP Stream ---
