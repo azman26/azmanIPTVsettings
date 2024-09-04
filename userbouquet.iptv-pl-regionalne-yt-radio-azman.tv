@@ -9,6 +9,8 @@
 #DESCRIPTION BigTime
 #SERVICE 5001:0:1:240:A11A:2268:0:0:0:0:https%3a//3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5193&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=ebef9e43-d88b-4836-9959-fffca99cbdae&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1532:Moconomy - Gospodarka i Finanse
 #DESCRIPTION Moconomy - Gospodarka i Finanse
+#SERVICE 4097:0:1:1B7:A11A:2268:0:0:0:0:https%3a//ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=6346&ads.rtv_content_language=eng&ads.rtvid=271863&ads.streaming_id=f53bbb97-2ad5-480b-8b03-6c92958a6adc&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1841:Royalworld - Arystokracja & Dynastie
+#DESCRIPTION Royalworld - Arystokracja & Dynastie
 #SERVICE 4097:0:1:1A7:A11A:2268:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=pl&ads._fw_content_rating=tv-g&ads._fw_deviceMake=firefox&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=0&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=CarCityAdventures&ads.csid=zeus_pl_carcityadventures_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=pl&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6246&ads.rakuten_streaming_id=ebdb3173-bbff-4d0a-a69e-ca0d657d51c2&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883095&ads.xumo_contentId=4088&ads.xumo_contentName=AmusePoland&ads.xumo_ifa=09bef241-987c-45b2-b024-acc61a336afa&ads.xumo_ifaType=ppid&ads.xumo_providerId=4088&ads.xumo_providerName=AmusePoland&ads.xumo_streamId=88883095:Car City Adventures
 #DESCRIPTION Car City Adventures
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- RED GO ---
@@ -17,6 +19,14 @@
 #DESCRIPTION Red Carpet HD
 #SERVICE 5002:0:1:47:7001:2268:EEEE0000:0:0:0:https%3a//tvo-18-4.e.blueonline.tv/nb/redcarpetabr/channelredtop/manifest.mpd&cenc_decryption_key=a4fb8abe77fa23499265bd34d12ab130#sapp_dash_video_id=0&sapp_dash_audio_id=1:ViDoc TV
 #DESCRIPTION ViDoc TV
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- ZPR Media ---
+#DESCRIPTION --- ZPR Media ---
+#SERVICE 4097:0:1:374:F6ED:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/sepl-abr/tracks-v2a1/mono.m3u8:Super Express TV
+#DESCRIPTION Super Express TV
+#SERVICE 5002:0:1:99BA:260E:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/mupl-abr/tracks-v2a1/mono.m3u8:Murator
+#DESCRIPTION Murator
+#SERVICE 5002:0:1:C7D1:B312:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/pzpl-abr/tracks-v2a1/mono.m3u8:Poradnik Zdrowie
+#DESCRIPTION Poradnik Zdrowie
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- Telewizja Online ---
 #DESCRIPTION --- Telewizja Online ---
 #SERVICE 5002:0:1:3ABD:514:13E:820000:0:0:0:https%3a//cdndai.pl/tvp1hd/index.m3u8:TVP 1 HD
@@ -77,8 +87,6 @@
 #DESCRIPTION TV Lubań
 #SERVICE 4097:0:1:460:D3E4:EC:0:0:0:0:https%3a//webcam.box3.pl/live/emisja/chunklist_w1926822338.m3u8:Zachodnia TV
 #DESCRIPTION Zachodnia TV
-#SERVICE 4097:0:1:E713:D5DF:EC:0:0:0:0:https%3a//webcam.box3.pl/box3/zachodnia/playlist.m3u8:Zachodnia TV  (kamery)
-#DESCRIPTION Zachodnia TV  (kamery)
 #SERVICE 5002:0:1:6CF4:6D9F:EC:0:0:0:0:https%3a//koder.swidman.pl/Swidnik.TV/index.m3u8:Świdnik TV
 #DESCRIPTION Świdnik TV
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:http%3a//stream.tvmazowsze.pl%3a5920/tmp_hls/stream/index.m3u8:TV Mazowsze
@@ -149,10 +157,6 @@
 #DESCRIPTION WebCamera.pl
 #SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl  Lato
 #DESCRIPTION WebCamera.pl  Lato
-#SERVICE 4097:0:1:3479:2C75:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_9bb83d/tv_cam_9bb83d.stream/chunks.m3u8?nimblesessionid=64680177:WebCamera.pl  Jesień
-#DESCRIPTION WebCamera.pl  Jesień
-#SERVICE 4097:0:1:B80D:8F52:EC:0:0:0:0:https%3a//hoktastream4.webcamera.pl/nartypl_cam_fec03d/nartypl_cam_fec03d.stream/chunks.m3u8?nimblesessionid=352034619:WebCamera.pl  Zima
-#DESCRIPTION WebCamera.pl  Zima
 #SERVICE 4097:0:1:59C:7812:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@mediaviennaplus621/live:ViennaPLus  (YT)
 #DESCRIPTION ViennaPLus  (YT)
 #SERVICE 5002:0:1F:32:1:2268:EEEE0000:0:0:0:https%3a//live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd:TV Trwam
