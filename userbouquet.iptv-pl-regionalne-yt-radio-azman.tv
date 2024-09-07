@@ -47,8 +47,6 @@
 #DESCRIPTION TV Regionalna
 #SERVICE 4097:0:1:7:1:48:0:0:0:0:https%3a//5cce8c6f0e84c.streamlock.net/LiveCast/smil%3aPlayStream9.smil/playlist.m3u8:Asta TV HD
 #DESCRIPTION Asta TV HD
-#SERVICE 5002:0:1:BB9:67:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/wtk.smil/manifest.mpd:WTK
-#DESCRIPTION WTK
 #SERVICE 4097:0:1:64:1:48:0:0:0:0:streamlink%3a//http%3a//tvtoya.pl/player/live:Toya
 #DESCRIPTION Toya
 #SERVICE 4097:0:19:50:B052:2268:EEEE0000:0:0:0:https%3a//echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8:Echo24
@@ -125,10 +123,10 @@
 #DESCRIPTION Siedlce TV  (YT)
 #SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ArcheTV/live:Arche TV  (YT)
 #DESCRIPTION Arche TV  (YT)
-#SERVICE 5002:0:1:1776:6A:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/lech-tv.smil/manifest.mpd:FanKlub TV
-#DESCRIPTION FanKlub TV
 #SERVICE 4097:0:1:D2B6:8DF8:EC:0:0:0:0:https%3a//tgn.bozztv.com/gama/itv04007-zdrowa/playlist.m3u8:Zdrowa TV
 #DESCRIPTION Zdrowa TV
+#SERVICE 4097:0:1:412E:5D12:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@wyspatv2093/live:Wyspa TV
+#DESCRIPTION Wyspa TV
 #SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/live/JUvb0D8hL3A?si:Arcadia TV World  (YT)
 #DESCRIPTION Arcadia TV World  (YT)
 #SERVICE 4097:0:1:3F8:65:64:FFFF0000:0:0:0:https%3a//stream-live.lrt.lt/lituanica/master.m3u8:LRT Lituanica
@@ -205,15 +203,17 @@
 #DESCRIPTION Sejm Kam 4
 #SERVICE 4097:0:1:7EAD:9169:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8:TV Biznesowa
 #DESCRIPTION TV Biznesowa
-#SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjawPolsce/live:wPolsce.pl  (YT)
-#DESCRIPTION wPolsce.pl  (YT)
-#SERVICE 5002:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//ec06-poz2.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8:TV Republika
-#DESCRIPTION TV Republika
-#SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Telewizja_Republika/live:TV Republika  (YT)
-#DESCRIPTION TV Republika  (YT)
+#SERVICE 4097:0:1:4E1D:3AFA:EC:0:0:0:0:https%3a//str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8:wPolsce24
+#DESCRIPTION wPolsce24
+#SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjawPolsce24/live:wPolsce24  (YT)
+#DESCRIPTION wPolsce24  (YT)
+#SERVICE 5002:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//ec06-poz2.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8:Telewizja Republika
+#DESCRIPTION Telewizja Republika
+#SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Telewizja_Republika/live:Telewizja Republika  (YT)
+#DESCRIPTION Telewizja Republika  (YT)
 #SERVICE 4097:0:1:193C:C78F:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjaRepublikaPlus/live:Republika Plus  (YT)
 #DESCRIPTION Republika Plus  (YT)
-#SERVICE 4097:0:1:B3F:627C:EC:0:0:0:0:https%3a//tvo-28-5.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8:TV MN
+#SERVICE 5002:0:1:B3F:627C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1MzE5YjIzMDI5MjgxMmRhNDFlNzJhZDVmNzcxYTRiNSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzI1NjAzOTg1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.PrKmi8m3Ag_B3XYPFfMYiBERp7vuA1C2UQFmno3vUUnp1rzIX6msHkn1d4bWVGIHpIbuTWLk5toDeovDMG9Z0kkVRixkhnj50yLdFAmanzNvnGqCROZlhj9gZNZiwKd6bcth7Irl6rQ1EHEbcikY6pLs8hUKp6IrGvAsTSE8SQ-NRX6vdvrbYbU_JsYf_W6iqPyG8azF9LrECUepsavoCjFmOQ30sGnFjrpk0Kp5J6YmgEz_AZbbjiU3uZBWsmNquAizj0YmRnQqS5l9UbaJG-UvtbBlcl6eo7Z6T0Tg2sa5R8IiphlBICUGhBRs6zkL1OJr6r90sI49QzIxIooM6A/manifest/video.m3u8:TV MN
 #DESCRIPTION TV MN
 #SERVICE 4097:0:1:F106:277:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCMA-v2JV_9ZYNoY4uY4mRWA/live:Radio WNET  (YT) (7%3a07-10%3a30)
 #DESCRIPTION Radio WNET  (YT) (7:07-10:30)
@@ -235,6 +235,10 @@
 #DESCRIPTION Kanał Zero  (YT)
 #SERVICE 1:64:6:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
+#SERVICE 5002:0:1:BB9:67:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/wtk.smil/manifest.mpd:WTK
+#DESCRIPTION WTK
+#SERVICE 5002:0:1:1776:6A:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/lech-tv.smil/manifest.mpd:FanKlub TV
+#DESCRIPTION FanKlub TV
 #SERVICE 5002:0:1:5:1:48:0:0:0:0:http%3a//94.246.169.19/ttv_hls/live_720p/index.m3u8:Twoja TV
 #DESCRIPTION Twoja TV
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Tvmazowsze/live:TV MAZOWSZE  (YT)
