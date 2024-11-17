@@ -9,7 +9,7 @@
 #DESCRIPTION Grjngo Westerny
 #SERVICE 4097:0:1:239:A11A:2268:0:0:0:0:https%3a//103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=4580&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=2a023aa0-7766-4db6-a29a-c9f72be75eec&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1408:BigTime
 #DESCRIPTION BigTime
-#SERVICE 5001:0:1:240:A11A:2268:0:0:0:0:https%3a//3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5193&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=ebef9e43-d88b-4836-9959-fffca99cbdae&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1532:Moconomy - Gospodarka i Finanse
+#SERVICE 4097:0:1:240:A11A:2268:0:0:0:0:https%3a//3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5193&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=ebef9e43-d88b-4836-9959-fffca99cbdae&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1532:Moconomy - Gospodarka i Finanse
 #DESCRIPTION Moconomy - Gospodarka i Finanse
 #SERVICE 4097:0:1:1C7:A11A:2268:0:0:0:0:https%3a//da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=6351&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=828aa05d-49e8-490d-bed3-5e81e192516c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1870:Viasat Explore Classic
 #DESCRIPTION Viasat Explore Classic
@@ -17,6 +17,12 @@
 #DESCRIPTION Royalworld - Arystokracja & Dynastie
 #SERVICE 4097:0:1:1A7:A11A:2268:0:0:0:0:https%3a//d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=pl&ads._fw_content_rating=tv-g&ads._fw_deviceMake=firefox&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=0&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=CarCityAdventures&ads.csid=zeus_pl_carcityadventures_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=pl&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6246&ads.rakuten_streaming_id=ebdb3173-bbff-4d0a-a69e-ca0d657d51c2&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883095&ads.xumo_contentId=4088&ads.xumo_contentName=AmusePoland&ads.xumo_ifa=09bef241-987c-45b2-b024-acc61a336afa&ads.xumo_ifaType=ppid&ads.xumo_providerId=4088&ads.xumo_providerName=AmusePoland&ads.xumo_streamId=88883095:Car City Adventures
 #DESCRIPTION Car City Adventures
+#SERVICE 4097:0:1:1F9:A11A:2268:0:0:0:0:https%3a//lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=firefox&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=pl&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=09bef241-987c-45b2-b024-acc61a336afa&ads_rtv_content_id=5306&ads_rtv_content_language=eng&ads_rtvid=271863&ads_streaming_id=d964c117-23d2-46f8-8e34-0ce879ad68b9&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor:NOW 70s
+#DESCRIPTION NOW 70s
+#SERVICE 4097:0:1:1FA:A11A:2268:0:0:0:0:https%3a//lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=firefox&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=pl&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=09bef241-987c-45b2-b024-acc61a336afa&ads_rtv_content_id=5340&ads_rtv_content_language=eng&ads_rtvid=271863&ads_streaming_id=d4eac61e-3555-4b53-aebd-a91ad1b057c2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor:NOW 80s
+#DESCRIPTION NOW 80s
+#SERVICE 4097:0:1:1FB:A11A:2268:0:0:0:0:https%3a//lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=firefox&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=pl&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=09bef241-987c-45b2-b024-acc61a336afa&ads_rtv_content_id=5376&ads_rtv_content_language=eng&ads_rtvid=271863&ads_streaming_id=3d975c8c-79e2-4ed7-af33-0f34ad084e48&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor:NOW Rock
+#DESCRIPTION NOW Rock
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- RED GO ---
 #DESCRIPTION --- RED GO ---
 #SERVICE 5002:0:1:3D63:2C88:13E:820000:0:0:0:https%3a//tvo-18-4.e.blueonline.tv/nb/redcarpetabr/channelredcarpet/manifest.mpd&cenc_decryption_key=a4fb8abe77fa23499265bd34d12ab130#sapp_dash_video_id=0&sapp_dash_audio_id=0:Red Carpet HD
@@ -27,175 +33,181 @@
 #DESCRIPTION --- ZPR Media ---
 #SERVICE 4097:0:1:374:F6ED:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/sepl-abr/tracks-v2a1/mono.m3u8:Super Express TV
 #DESCRIPTION Super Express TV
-#SERVICE 5002:0:1:99BA:260E:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/mupl-abr/tracks-v2a1/mono.m3u8:Murator
+#SERVICE 4097:0:1:99BA:260E:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/mupl-abr/tracks-v2a1/mono.m3u8:Murator
 #DESCRIPTION Murator
-#SERVICE 5002:0:1:C7D1:B312:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/pzpl-abr/tracks-v2a1/mono.m3u8:Poradnik Zdrowie
+#SERVICE 4097:0:1:C7D1:B312:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/pzpl-abr/tracks-v2a1/mono.m3u8:Poradnik Zdrowie
 #DESCRIPTION Poradnik Zdrowie
 #SERVICE 1:64:8:0:0:0:0:0:0:0::--- Telewizja Online ---
 #DESCRIPTION --- Telewizja Online ---
-#SERVICE 5002:0:1:3ABD:514:13E:820000:0:0:0:https%3a//cdndai.pl/tvp1hd/index.m3u8:TVP 1 HD
+#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdndai.pl/tvp1hd/index.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
-#SERVICE 5002:0:1:C2C:1E78:71:820000:0:0:0:https%3a//cdndai.pl/tvp2hd/index.m3u8:TVP 2 HD
+#SERVICE 4097:0:1:C2C:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdndai.pl/tvp2hd/index.m3u8:TVP 2 HD
 #DESCRIPTION TVP 2 HD
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- Megogo ---
 #DESCRIPTION --- Megogo ---
-#SERVICE 5002:0:1:3ABD:514:13E:820000:0:0:0:https%3a//cdndai.pl/tvp1hd/index.m3u8:TVP 1 HD
+#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdndai.pl/tvp1hd/index.m3u8:TVP 1 HD
 #DESCRIPTION TVP 1 HD
-#SERVICE 5002:0:1:C22:1E78:71:820000:0:0:0:https%3a//cdndai.pl/tvp2hd/index.m3u8:TVP 2 HD
+#SERVICE 4097:0:1:C22:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdndai.pl/tvp2hd/index.m3u8:TVP 2 HD
 #DESCRIPTION TVP 2 HD
 #SERVICE 1:64:5:0:0:0:0:0:0:0::--- Regionalne + YT ---
 #DESCRIPTION --- Regionalne + YT ---
-#SERVICE 5002:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
+#SERVICE 4097:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
 #DESCRIPTION 4Fun TV
 #SERVICE 4097:0:16:57:E1:D58:EEEE0000:0:0:0:https%3a//tvreg.klemit.net/regionalna/stream/index.m3u8:TV Regionalna
 #DESCRIPTION TV Regionalna
 #SERVICE 4097:0:1:7:1:48:0:0:0:0:https%3a//5cce8c6f0e84c.streamlock.net/LiveCast/smil%3aPlayStream9.smil/playlist.m3u8:Asta TV HD
 #DESCRIPTION Asta TV HD
-#SERVICE 4097:0:1:64:1:48:0:0:0:0:streamlink%3a//http%3a//tvtoya.pl/player/live:Toya
+#SERVICE 4097:0:1:64:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvtoya.pl/player/live:Toya
 #DESCRIPTION Toya
 #SERVICE 4097:0:19:50:B052:2268:EEEE0000:0:0:0:https%3a//echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8:Echo24
 #DESCRIPTION Echo24
-#SERVICE 5002:0:1:13:1:48:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/_definst_/dlaCiebieTv/playlist.m3u8:Dla Ciebie TV
+#SERVICE 4097:0:1:13:1:48:0:0:0:0:http%3a//94.246.128.53%3a1935/tv/_definst_/dlaCiebieTv/playlist.m3u8:Dla Ciebie TV
 #DESCRIPTION Dla Ciebie TV
-#SERVICE 5002:0:1:6:1:48:0:0:0:0:https%3a//stream.sferatv.pl/sferatvlive/live.m3u8:Sfera TV
+#SERVICE 4097:0:1:6:1:48:0:0:0:0:https%3a//stream.sferatv.pl/sferatvlive/live.m3u8:Sfera TV
 #DESCRIPTION Sfera TV
-#SERVICE 5002:0:1:15:1:48:0:0:0:0:http%3a//217.173.176.107%3a1935/live/tvk.stream/playlist.m3u8:TV Toruń
+#SERVICE 4097:0:1:15:1:48:0:0:0:0:http%3a//217.173.176.107%3a1935/live/tvk.stream/playlist.m3u8:TV Toruń
 #DESCRIPTION TV Toruń
-#SERVICE 5002:0:1:95:1:48:0:0:0:0:https%3a//live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8:TVT Rybnik
+#SERVICE 4097:0:1:95:1:48:0:0:0:0:https%3a//live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8:TVT Rybnik
 #DESCRIPTION TVT Rybnik
-#SERVICE 4097:0:1:59:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LubelskaTVTV/live:New TV  (YT)
-#DESCRIPTION New TV  (YT)
-#SERVICE 4097:0:1:60:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@telewizjarelax/live:TV Relax  (YT)
+#SERVICE 1:0:1:60:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@telewizjarelax/live:TV Relax  (YT)
 #DESCRIPTION TV Relax  (YT)
-#SERVICE 4097:0:1:58:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjaDamiRadom/live:TV DAMI  (YT)
+#SERVICE 1:0:1:58:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelewizjaDamiRadom/live:TV DAMI  (YT)
 #DESCRIPTION TV DAMI  (YT)
-#SERVICE 5002:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
+#SERVICE 1:0:1:59:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@LubelskaTVTV/live:New TV  (YT)
+#DESCRIPTION New TV  (YT)
+#SERVICE 4097:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
 #DESCRIPTION Imperium TV Gliwice
-#SERVICE 5002:0:1:35A5:6494:EC:0:0:0:0:https%3a//91-193-208-12.eimperium.pl/ImperiumArchiwum/tracks-v1a1/mono.m3u8:Imperium Kronika
+#SERVICE 4097:0:1:35A5:6494:EC:0:0:0:0:https%3a//91-193-208-12.eimperium.pl/ImperiumArchiwum/tracks-v1a1/mono.m3u8:Imperium Kronika
 #DESCRIPTION Imperium Kronika
-#SERVICE 5002:0:1:84:1:48:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
+#SERVICE 4097:0:1:84:1:48:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
 #DESCRIPTION TVT Zgorzelec
-#SERVICE 5002:0:1:86:1:48:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
+#SERVICE 4097:0:1:86:1:48:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
 #DESCRIPTION TV Kujawy
-#SERVICE 5002:0:1:87:1:48:0:0:0:0:https%3a//stream.elzappero.net/tvglubczyce.m3u8:Pogranicze TV
+#SERVICE 4097:0:1:87:1:48:0:0:0:0:https%3a//stream.elzappero.net/tvglubczyce.m3u8:Pogranicze TV
 #DESCRIPTION Pogranicze TV
-#SERVICE 5002:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
+#SERVICE 4097:0:1:93:1:48:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream/playlist.m3u8:Truso TV
 #DESCRIPTION Truso TV
-#SERVICE 5002:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream_aac/playlist.m3u8:TV Kaszuby
+#SERVICE 4097:0:1:A7C7:3D8:EC:0:0:0:0:https%3a//stream.truso.tv/elblag/myStream_aac/playlist.m3u8:TV Kaszuby
 #DESCRIPTION TV Kaszuby
-#SERVICE 5002:0:1:96:1:48:0:0:0:0:https%3a//vcdn01.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8:TV JASŁO
+#SERVICE 4097:0:1:96:1:48:0:0:0:0:https%3a//cdn01.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8:TV JASŁO
 #DESCRIPTION TV JASŁO
-#SERVICE 5002:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
+#SERVICE 4097:0:1:5B76:BB9B:EC:0:0:0:0:http%3a//stream.herissons.cloud/hls/tvluban.m3u8:TV Lubań
 #DESCRIPTION TV Lubań
-#SERVICE 4097:0:1:460:D3E4:EC:0:0:0:0:https%3a//webcam.box3.pl/live/emisja/chunklist_w1926822338.m3u8:Zachodnia TV
+#SERVICE 4097:0:1:460:D3E4:EC:0:0:0:0:https%3a//webcam.box3.pl/box3/zachodniaTV/playlist.m3u8:Zachodnia TV
 #DESCRIPTION Zachodnia TV
-#SERVICE 5002:0:1:6CF4:6D9F:EC:0:0:0:0:https%3a//koder.swidman.pl/Swidnik.TV/index.m3u8:Świdnik TV
+#SERVICE 4097:0:1:6CF4:6D9F:EC:0:0:0:0:https%3a//koder.swidman.pl/Swidnik.TV/index.m3u8:Świdnik TV
 #DESCRIPTION Świdnik TV
 #SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:http%3a//stream.tvmazowsze.pl%3a5920/tmp_hls/stream/index.m3u8:TV Mazowsze
 #DESCRIPTION TV Mazowsze
-#SERVICE 4097:0:1:92:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@telewizjawielkopolska/live:TV Wielkopolska  (YT)
+#SERVICE 1:0:1:43:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
+#DESCRIPTION info PŁOCK  (YT)
+#SERVICE 4097:0:1:92:1:48:0:0:0:0:https%3a//stream6.nadaje.com%3a35308/live/stream-1/playlist.m3u8:TV Wielkopolska
+#DESCRIPTION TV Wielkopolska
+#SERVICE 1:0:1:92:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@telewizjawielkopolska/live:TV Wielkopolska  (YT)
 #DESCRIPTION TV Wielkopolska  (YT)
-#SERVICE 4097:0:1:49:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvsowianin-on-line9194/live:TV Słowianin  (YT)
+#SERVICE 1:0:1:49:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvslowianin/live:TV Słowianin  (YT)
 #DESCRIPTION TV Słowianin  (YT)
-#SERVICE 4097:0:1:54:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjaOlsztynPL/live:TV Olsztyn  (YT)
+#SERVICE 1:0:1:54:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelewizjaOlsztynPL/live:TV Olsztyn  (YT)
 #DESCRIPTION TV Olsztyn  (YT)
-#SERVICE 4097:0:1:89:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvlomza/live:TV Narew  (YT)
+#SERVICE 1:0:1:89:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvlomza/live:TV Narew  (YT)
 #DESCRIPTION TV Narew  (YT)
-#SERVICE 4097:0:1:91CB:4324:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@htssubice6769/live:HTS Słubice  (YT)
-#DESCRIPTION HTS Słubice  (YT)
-#SERVICE 4097:0:1:56:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvsudecka/live:TV Sudecka  (YT)
+#SERVICE 1:0:1:91CB:4324:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@horyzont_tv/live:Horyzont TV  (YT)
+#DESCRIPTION Horyzont TV  (YT)
+#SERVICE 1:0:1:56:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvsudecka/live:TV Sudecka  (YT)
 #DESCRIPTION TV Sudecka  (YT)
-#SERVICE 4097:0:1:52:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@telewizjazary9580/live:TV Żary  (YT)
+#SERVICE 1:0:1:52:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@telewizjazary9580/live:TV Żary  (YT)
 #DESCRIPTION TV Żary  (YT)
-#SERVICE 4097:0:1:44:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@swiebodzintv.telewizjaswie8699/live:Świebodzin TV  (YT)
+#SERVICE 1:0:1:44:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@swiebodzintv.telewizjaswie8699/live:Świebodzin TV  (YT)
 #DESCRIPTION Świebodzin TV  (YT)
-#SERVICE 4097:0:1:57:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjaZabrzePL/live:TV Zabrze  (YT)
+#SERVICE 1:0:1:57:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelewizjaZabrzePL/live:TV Zabrze  (YT)
 #DESCRIPTION TV Zabrze  (YT)
-#SERVICE 4097:0:1:50:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/TelewizjaGorzówteletop/live:TV Gorzów  (YT)
+#SERVICE 1:0:1:50:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/TelewizjaGorzówteletop/live:TV Gorzów  (YT)
 #DESCRIPTION TV Gorzów  (YT)
-#SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ztv-live/live:Zachodniopomorska TV  (YT)
+#SERVICE 1:0:1:13CA:A503:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@ztv-live/live:Zachodniopomorska TV  (YT)
 #DESCRIPTION Zachodniopomorska TV  (YT)
-#SERVICE 4097:0:1:407:FDD5:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TarnowskaTV2/live:Tarnowska TV  (YT)
+#SERVICE 1:0:1:407:FDD5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TarnowskaTV2/live:Tarnowska TV  (YT)
 #DESCRIPTION Tarnowska TV  (YT)
-#SERVICE 4097:0:1:394F:7D0A:EC:0:0:0:0:http%3a//195.191.180.21%3a1935/live/mp4%3amyStream/playlist.m3u8?wowzatokenendtime=1716698580&wowzatokenstarttime=1716687780&wowzatokenhash=jd3VosYMy4akUBvLaEhOlI2z5kakDnUZTL2whCeh3BU=:Tetka TV
+#SERVICE 4097:0:1:394F:7D0A:EC:0:0:0:0:http%3a//195.191.180.21%3a1935/live/mp4%3amyStream/playlist.m3u8?wowzatokenendtime=1731886920&wowzatokenstarttime=1731876120&wowzatokenhash=0p_j6scOADfTA6RumpLRUCKfKv0wBOY0PU365Z9D-X4=:Tetka TV
 #DESCRIPTION Tetka TV
-#SERVICE 4097:0:1:9908:338A:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=8dQdhhSz0h0:Lokalna TV  (YT)
+#SERVICE 1:0:1:9908:338A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/live/6ZqhgMXK29k?si=Prk_Y3FWZHCCssL3:Lokalna TV  (YT)
 #DESCRIPTION Lokalna TV  (YT)
-#SERVICE 4097:0:1:41:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@redakcjartvp4066/live:Regionalna TV Podlasie  (YT)
+#SERVICE 1:0:1:41:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@redakcjartvp4066/live:Regionalna TV Podlasie  (YT)
 #DESCRIPTION Regionalna TV Podlasie  (YT)
-#SERVICE 4097:0:1:8BBF:6F5B:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@SIEDLCETV/live:Siedlce TV  (YT)
+#SERVICE 1:0:1:8BBF:6F5B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@SIEDLCETV/live:Siedlce TV  (YT)
 #DESCRIPTION Siedlce TV  (YT)
-#SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ArcheTV/live:Arche TV  (YT)
+#SERVICE 1:0:1:2D3:7ED6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@ArcheTV/live:Arche TV  (YT)
 #DESCRIPTION Arche TV  (YT)
 #SERVICE 4097:0:1:D2B6:8DF8:EC:0:0:0:0:https%3a//tgn.bozztv.com/gama/itv04007-zdrowa/playlist.m3u8:Zdrowa TV
 #DESCRIPTION Zdrowa TV
 #SERVICE 4097:0:1:412E:5D12:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@wyspatv2093/live:Wyspa TV
 #DESCRIPTION Wyspa TV
-#SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/live/JUvb0D8hL3A?si:Arcadia TV World  (YT)
+#SERVICE 1:0:1:1811:D699:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/live/5cA_PJmlslA?si=R4iikMcyZr7q7UdA:Arcadia TV World  (YT)
 #DESCRIPTION Arcadia TV World  (YT)
 #SERVICE 4097:0:1:3F8:65:64:FFFF0000:0:0:0:https%3a//stream-live.lrt.lt/lituanica/master.m3u8:LRT Lituanica
 #DESCRIPTION LRT Lituanica
 #SERVICE 4097:0:1:C163:AB6D:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/p360-hd/index.m3u8:Polska360 TV
 #DESCRIPTION Polska360 TV
-#SERVICE 5002:0:1:387F:3EDA:EC:0:0:0:0:https%3a//rpn.bozztv.com/dvrfl04/itv04006/index.m3u8:Polonico TV
+#SERVICE 4097:0:1:387F:3EDA:EC:0:0:0:0:https%3a//rpn.bozztv.com/dvrfl04/itv04006/index.m3u8:Polonico TV
 #DESCRIPTION Polonico TV
-#SERVICE 5002:0:1:85:1:48:0:0:0:0:http%3a//www.tvkstella.pl/media/flash_programu.f4v:TVK Stella (Serwis Inf.)
+#SERVICE 4097:0:1:85:1:48:0:0:0:0:http%3a//www.tvkstella.pl/media/flash_programu.f4v:TVK Stella (Serwis Inf.)
 #DESCRIPTION TVK Stella (Serwis Inf.)
-#SERVICE 5002:0:1:3A18:54AC:EC:0:0:0:0:https%3a//informacje.kolobrzeg.pl/video/wydarzenia.mp4:TV Kablowa Kołobrzeg (Serwis Inf)
+#SERVICE 4097:0:1:3A18:54AC:EC:0:0:0:0:https%3a//informacje.kolobrzeg.pl/video/wydarzenia.mp4:TV Kablowa Kołobrzeg (Serwis Inf)
 #DESCRIPTION TV Kablowa Kołobrzeg (Serwis Inf)
-#SERVICE 5002:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl/live/memfs/d546713a-25d2-4343-ba10-baea670debd9.m3u8:TVK Nowy Tomyśl
+#SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl/live/memfs/d546713a-25d2-4343-ba10-baea670debd9.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 4097:0:1:B0AF:C4F3:EC:0:0:0:0:https%3a//bsmbialogard.pl/live/index.m3u8:BTK
 #DESCRIPTION BTK
-#SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV  (YT)
+#SERVICE 1:0:1:A648:C711:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TViROLAND/live:TVi Roland  (YT)
+#DESCRIPTION TVi Roland  (YT)
+#SERVICE 1:0:1:48:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV  (YT)
 #DESCRIPTION UAM.TV  (YT)
-#SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:YT-DLP%3a//https%3a//https%3a//www.youtube.com/c/UrządTransportuKolejowego/live:UTK Warszawa Zachodnia  (YT)
+#SERVICE 1:0:1:A24:AFF8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/Urz%C4%85dTransportuKolejowego/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
-#SERVICE 5002:0:1:69:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10live:KANAŁ 10 (Radio NAKŁO)
+#SERVICE 4097:0:1:69:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10live:KANAŁ 10 (Radio NAKŁO)
 #DESCRIPTION KANAŁ 10 (Radio NAKŁO)
-#SERVICE 5002:0:1:8F76:F05E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10nazywo2:KANAŁ 10 (Weekend FM)
+#SERVICE 4097:0:1:8F76:F05E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10nazywo2:KANAŁ 10 (Weekend FM)
 #DESCRIPTION KANAŁ 10 (Weekend FM)
+#SERVICE 4097:0:1:DF2:E4F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/1030350069:Index TV
+#DESCRIPTION Index TV
 #SERVICE 4097:0:1:DD86:1985:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
 #DESCRIPTION WebCamera.pl
 #SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl  Lato
 #DESCRIPTION WebCamera.pl  Lato
-#SERVICE 4097:0:1:59C:7812:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@mediaviennaplus621/live:ViennaPLus  (YT)
+#SERVICE 1:0:1:59C:7812:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@mediaviennaplus621/live:ViennaPLus  (YT)
 #DESCRIPTION ViennaPLus  (YT)
-#SERVICE 5002:0:1F:32:1:2268:EEEE0000:0:0:0:https%3a//live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd:TV Trwam
+#SERVICE 4097:0:1:32:1:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd:TV Trwam
 #DESCRIPTION TV Trwam
 #SERVICE 4097:0:1:327:1F40:13E:820000:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/tbn-abr/index.m3u8:TBN Polska HD
 #DESCRIPTION TBN Polska HD
-#SERVICE 4097:0:1:70:1:48:0:0:0:0:https%3a//cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/cyv1wmg2/480/chunklist.m3u8:EWTN Polska
+#SERVICE 4097:0:1:70:1:48:0:0:0:0:https%3a//cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8:EWTN Polska
 #DESCRIPTION EWTN Polska
-#SERVICE 4097:0:1:70:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=BNIguQ_yxSg:EWTN Polska  (YT)
-#DESCRIPTION EWTN Polska  (YT)
-#SERVICE 4097:0:1:81:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@DobreMedia/live:Dobre Media  (YT)
+#SERVICE 1:0:1:81:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@DobreMedia/live:Dobre Media  (YT)
 #DESCRIPTION Dobre Media  (YT)
-#SERVICE 5002:0:1:82:1:48:0:0:0:0:https%3a//stream.hopechannel.pl/livetv/colombo/hope.m3u8:Hope Channel Polska
+#SERVICE 4097:0:1:82:1:48:0:0:0:0:https%3a//stream.hopechannel.pl/livetv/colombo/hope.m3u8:Hope Channel Polska
 #DESCRIPTION Hope Channel Polska
-#SERVICE 4097:0:1:2709:DABA:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@jasnagoraklasztorojcowpaul7943/live:Jasna Góra  (YT)
+#SERVICE 1:0:1:2709:DABA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@jasnagoraklasztorojcowpaul7943/live:Jasna Góra  (YT)
 #DESCRIPTION Jasna Góra  (YT)
-#SERVICE 4097:0:1:3723:F8C1:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@SupremeMasterTVlive/live:SMTV  (YT)
+#SERVICE 1:0:1:3723:F8C1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@SupremeMasterTVlive/live:SMTV  (YT)
 #DESCRIPTION SMTV  (YT)
-#SERVICE 5002:0:1:100:0:48:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8:Czwórka PR (Visual Radio)
+#SERVICE 4097:0:1:100:0:48:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8:Czwórka PR (Visual Radio)
 #DESCRIPTION Czwórka PR (Visual Radio)
-#SERVICE 5002:0:1:101:0:48:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24_video/video_pr24.stream/chunklist_w1582075097.m3u8:Polskie Radio 24 (Visual Radio)
+#SERVICE 4097:0:1:101:0:48:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24_video/video_pr24.stream/chunklist_w1582075097.m3u8:Polskie Radio 24 (Visual Radio)
 #DESCRIPTION Polskie Radio 24 (Visual Radio)
-#SERVICE 5002:0:1:102:0:48:0:0:0:0:https%3a//d3smbzacjqrkz6.cloudfront.net/out/v1/77b67552aa6a4c51aa74dd5c0e3a1881/index_1.m3u8:Radio Kraków (Visual Radio)
+#SERVICE 4097:0:1:102:0:48:0:0:0:0:https%3a//d3smbzacjqrkz6.cloudfront.net/out/v1/77b67552aa6a4c51aa74dd5c0e3a1881/index.m3u8:Radio Kraków (Visual Radio)
 #DESCRIPTION Radio Kraków (Visual Radio)
 #SERVICE 4097:0:1:103:0:48:0:0:0:0:https%3a//1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8:Radio Wrocław (Visual Radio)
 #DESCRIPTION Radio Wrocław (Visual Radio)
 #SERVICE 4097:0:1:3204:B5D9:EC:0:0:0:0:https%3a//1096686130.rsc.cdn77.org/live/test/chunklist.m3u8:Radio Wrocław Kultura (Visual Radio)
 #DESCRIPTION Radio Wrocław Kultura (Visual Radio)
-#SERVICE 5002:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
+#SERVICE 4097:0:1:AC96:C97C:EC:0:0:0:0:https%3a//1888165924.rsc.cdn77.org/live/RadioRAM/chunklist.m3u8:Radio RAM (Visual Radio)
 #DESCRIPTION Radio RAM (Visual Radio)
 #SERVICE 4097:0:1:B90:1F52:EC:0:0:0:0:https%3a//video.raciborz24.pl/hls/test_high/index.m3u8:Racibórz 24 (Vanessa FM)
 #DESCRIPTION Racibórz 24 (Vanessa FM)
-#SERVICE 5002:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
+#SERVICE 4097:0:1:37:3A2:2268:EEEE0000:0:0:0:http%3a//f1.stream.devkom.pro%3a1063/ramowka/video.m3u8:Belsat Tv
 #DESCRIPTION Belsat Tv
-#SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@belsat_news/live:Belsat TV  (YT)
+#SERVICE 1:0:1:37:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@belsat_news/live:Belsat TV  (YT)
 #DESCRIPTION Belsat TV  (YT)
-#SERVICE 4097:0:1:D1C5:1701:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@SejmRP_PL/live:Sejm RP  (YT)
+#SERVICE 1:0:1:D1C5:1701:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@SejmRP_PL/live:Sejm RP  (YT)
 #DESCRIPTION Sejm RP  (YT)
 #SERVICE 4097:0:1:D67B:4EA5:EC:0:0:0:0:https%3a//n-16-7.dcs.redcdn.pl/livehls/o2/sejm/ENC01/live.livx/playlist.m3u8?bitrate=1928000&audioId=1&videoId=0:Sejm Kam 1
 #DESCRIPTION Sejm Kam 1
@@ -209,60 +221,50 @@
 #DESCRIPTION TV Biznesowa
 #SERVICE 4097:0:1:4E1D:3AFA:EC:0:0:0:0:https%3a//str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8:wPolsce24
 #DESCRIPTION wPolsce24
-#SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjawPolsce24/live:wPolsce24  (YT)
+#SERVICE 1:0:1:4279:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelewizjawPolsce24/live:wPolsce24  (YT)
 #DESCRIPTION wPolsce24  (YT)
-#SERVICE 5002:0:1:4289:2BC0:13E:820000:0:0:0:https%3a//ec06-poz2.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8:Telewizja Republika
-#DESCRIPTION Telewizja Republika
-#SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Telewizja_Republika/live:Telewizja Republika  (YT)
+#SERVICE 1:0:1:4289:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Telewizja_Republika/live:Telewizja Republika  (YT)
 #DESCRIPTION Telewizja Republika  (YT)
-#SERVICE 4097:0:1:193C:C78F:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjaRepublikaPlus/live:Republika Plus  (YT)
+#SERVICE 1:0:1:BC:15:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelewizjaRepublikaPlus/live:Republika Plus  (YT)
 #DESCRIPTION Republika Plus  (YT)
-#SERVICE 4097:0:1:60:0:0:0:0:0:0:https%3a//customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI5YmQ1MjE3YjUwZWI2OWIyOTU2YjkwNWJiOTk2ODE5ZiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzI3MzA3Mjc0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.QZ7oF3XzoPEhmN6t0KaTZhRqkHKbPGlRIuNzkwhoZuIz7RIsJzdWW4w6wo_GuCD4hCpOp1qmXDXAb1XdAbee2rquGGvgr2rnpznkdbzdrV_n7YLdQ5xzoY5PCM8SVmp5_G-afxzP6m0jvfbe5lj9NjbjO_zAOG1sYRfn8DfSNE2mmraJ7IKtwaDIBdJKCkKo1P2HCC1s0GEHc7OKSnF_RzLTGT_rz9uxlQN4O0n1uRCMsbWxt3d7feMGSybViQ8xn9r7dgNlL669SS7uzZi1HRE_3_U63y664K2Qbhdzr3W3MoqYyDPuZFNbA4OSaZods8RlvRytEQDXn9H5Eq1mfQ/manifest/video.m3u8
-#DESCRIPTION TV Media Narodowe
-#SERVICE 4097:0:1:B3F:627C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIzMTU3NjQ4NzljYjkzYzAzOWU2NzA1YWE5ZjMyOTQzZiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzI2MzgxNDI0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.i3aNR3AHDp16IvKgmPLuMk29SgqNHLX7Z5xtUnJgbLEn-WAWN1dG5B4MpTrKvY2qpo0PXKAex8t_GARTkC6sf5VTqrXyDSVpkYgmhS1yCt9lAQiBOJsnZmNrqpA-yLunH400fgnEOOQB-SJrzalDs6Pz-ruHy0Lr2svl6ATNVwuT2k7kbXw3jo3iKAjm3lSASVkrDdyfBPS36XhOrw5NJV9_zMY57ycc0XK79372DD2_hp5OP7J_qdk1hVO2F4TUn8cypdeBJ1-NG-bhZJF31M9qdc2sTQ7WEsz6kLrR-xExNVkuGS9504_L62hfjE0_afawuvTpOomrIkhpQANvwg/manifest/video.m3u8:TV MN
+#SERVICE 4097:0:1:B3F:627C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI4Y2M0N2I2ODZhNjYzNDIyYTBjNTg3NmI2YjU5NTk3NCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzMxOTIzOTA5LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.H1PO6gmWxYBwrvjhJ8YkmZCZ6v0GVLz3GJ13T1obsZkhTgfUu8Lvk5lTyxnWNmh8hHTC1PX1c9FoydcjQs0g32um9n_OzDmWpR0K1Uu8FzSMb_2fTvcwccstwQnxF7uWFNOtpwgdgF1jiuhzcfj9L6lWe8BWf9_24TaHSFALGn4aNZofPzVzeevHZAtC1fwXljdYn4aSG0XAA4ituvHgnfsAWMXV13NFdo_aYpcvbXVcjIA8ox2h5TmVBn0K9LKO9f15_d6V55aYCBxyaS5ufMgU2jFsFpQpS-hbZ6zIpQbNAFRXMqVU43yNbh_3CURUMRWg7dPheaspveK2JE1GVQ/manifest/video.m3u8:TV MN
 #DESCRIPTION TV MN
-#SERVICE 4097:0:1:F106:277:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCMA-v2JV_9ZYNoY4uY4mRWA/live:Radio WNET  (YT) (7%3a07-10%3a30)
+#SERVICE 1:0:1:F106:277:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCMA-v2JV_9ZYNoY4uY4mRWA/live:Radio WNET  (YT) (7%3a07-10%3a30)
 #DESCRIPTION Radio WNET  (YT) (7:07-10:30)
-#SERVICE 4097:0:1:C83B:CBCC:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UC-wh71MEZ4KAx94aZyoG_qg/live:Wirtualna Polska News  (YT) (7%3a30-9%3a00)
+#SERVICE 1:0:1:C83B:CBCC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UC-wh71MEZ4KAx94aZyoG_qg/live:Wirtualna Polska News  (YT) (7%3a30-9%3a00)
 #DESCRIPTION Wirtualna Polska News  (YT) (7:30-9:00)
-#SERVICE 4097:0:1:412D:ADD2:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCjkNubkfecaFLZbHnnsz6pw/live:Onet Rano  (YT) (7%3a55-9%3a30)
+#SERVICE 1:0:1:412D:ADD2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCjkNubkfecaFLZbHnnsz6pw/live:Onet Rano  (YT) (7%3a55-9%3a30)
 #DESCRIPTION Onet Rano  (YT) (7:55-9:30)
-#SERVICE 4097:0:1:2D12:2A97:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCkC9YgH_FlqOhOIoTDFt4CA/live:RMF24 - Poranne rozmowy   (YT)  (8%3a00-8%3a30)
+#SERVICE 1:0:1:2D12:2A97:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCkC9YgH_FlqOhOIoTDFt4CA/live:RMF24 - Poranne rozmowy   (YT)  (8%3a00-8%3a30)
 #DESCRIPTION RMF24 - Poranne rozmowy   (YT)  (8:00-8:30)
-#SERVICE 4097:0:1:CDB8:9F6B:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCvHFbkohgX29NhaUtmkzLmg/live:Gość Radia ZET  (YT) (8%3a00-8%3a30)
+#SERVICE 1:0:1:CDB8:9F6B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCvHFbkohgX29NhaUtmkzLmg/live:Gość Radia ZET  (YT) (8%3a00-8%3a30)
 #DESCRIPTION Gość Radia ZET  (YT) (8:00-8:30)
-#SERVICE 4097:0:1:374:F6ED:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCJ33TxiuEEYWLZ4ahILb0zQ/live:Super Express  (YT) (8%3a45-10%3a00)
+#SERVICE 1:0:1:374:F6ED:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCJ33TxiuEEYWLZ4ahILb0zQ/live:Super Express  (YT) (8%3a45-10%3a00)
 #DESCRIPTION Super Express  (YT) (8:45-10:00)
-#SERVICE 4097:0:1:3428:10AD:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCqEL2VjfPuqgj-RCYcfALLA/live:Tor Służewiec  (YT)
+#SERVICE 1:0:1:3428:10AD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCqEL2VjfPuqgj-RCYcfALLA/live:Tor Służewiec  (YT)
 #DESCRIPTION Tor Służewiec  (YT)
-#SERVICE 4097:0:1:2775:E944:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Kanal_Sportowy/live:Kanał Sportowy  (YT)
+#SERVICE 1:0:1:2775:E944:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Kanal_Sportowy/live:Kanał Sportowy  (YT)
 #DESCRIPTION Kanał Sportowy  (YT)
-#SERVICE 4097:0:1:8C62:CE58:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@KanalZeroPL/live:Kanał Zero  (YT)
+#SERVICE 1:0:1:8C62:CE58:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@KanalZeroPL/live:Kanał Zero  (YT)
 #DESCRIPTION Kanał Zero  (YT)
 #SERVICE 1:64:6:0:0:0:0:0:0:0::--- CHWILOWO OFFLINE ---
 #DESCRIPTION --- CHWILOWO OFFLINE ---
-#SERVICE 5002:0:1:BB9:67:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/wtk.smil/manifest.mpd:WTK
+#SERVICE 4097:0:1:BB9:67:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/wtk.smil/manifest.mpd:WTK
 #DESCRIPTION WTK
-#SERVICE 5002:0:1:1776:6A:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/lech-tv.smil/manifest.mpd:FanKlub TV
+#SERVICE 4097:0:1:1776:6A:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/lech-tv.smil/manifest.mpd:FanKlub TV
 #DESCRIPTION FanKlub TV
-#SERVICE 5002:0:1:5:1:48:0:0:0:0:http%3a//94.246.169.19/ttv_hls/live_720p/index.m3u8:Twoja TV
+#SERVICE 4097:0:1:5:1:48:0:0:0:0:http%3a//94.246.169.19/ttv_hls/live_720p/index.m3u8:Twoja TV
 #DESCRIPTION Twoja TV
-#SERVICE 4097:0:1:AD83:D4D3:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@Tvmazowsze/live:TV MAZOWSZE  (YT)
+#SERVICE 1:0:1:AD83:D4D3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Tvmazowsze/live:TV MAZOWSZE  (YT)
 #DESCRIPTION TV MAZOWSZE  (YT)
-#SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@infoPlockTV/live:info PŁOCK  (YT)
-#DESCRIPTION info PŁOCK  (YT)
-#SERVICE 4097:0:1:A3CD:D71D:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@zsgdpoznan3653/live:ZSGD Poznań  (YT)
+#SERVICE 1:0:1:A3CD:D71D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@zsgdpoznan3653/live:ZSGD Poznań  (YT)
 #DESCRIPTION ZSGD Poznań  (YT)
-#SERVICE 5002:0:1:DF2:E4F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/869628836:Index TV
-#DESCRIPTION Index TV
 #SERVICE 4097:0:1:7080:E00C:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCd-1DpGWBvga9Wfsm4Oy8Cw.m3u8:TV Biłgoraj
 #DESCRIPTION TV Biłgoraj
 #SERVICE 4097:0:1:9C24:6FC4:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCX8msLnPzrLx3hSRUy7UjoA.m3u8:TV Podhale
 #DESCRIPTION TV Podhale
-#SERVICE 4097:0:1:C5B:918F:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LPUTVpl/live:LPU TV  (YT)
+#SERVICE 1:0:1:C5B:918F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@LPUTVpl/live:LPU TV  (YT)
 #DESCRIPTION LPU TV  (YT)
-#SERVICE 4097:0:1:A648:C711:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TViROLAND/live:TVi Roland  (YT)
-#DESCRIPTION TVi Roland  (YT)
 #SERVICE 4097:0:1:94:1:48:0:0:0:0:http%3a//91.231.169.250%3a19380/media_server/tvl_low/index.m3u8:TVL Tarnobrzeg
 #DESCRIPTION TVL Tarnobrzeg
 #SERVICE 4097:0:1:42:1:48:0:0:0:0:https%3a//tvsm.pl/live/hls/A3kaoVpwSNKVHHDybpTHjg/1647800785/video.m3u8:TVK SM Grudziądz
@@ -347,7 +349,7 @@
 #DESCRIPTION Polish Radio External Service DAB+
 #SERVICE 4097:0:2:9:A22A:2268:0:0:0:0:http%3a//stream3.polskieradio.pl%3a8964:РАДИО ПОЛЬША
 #DESCRIPTION РАДИО ПОЛЬША
-#SERVICE 5002:0:2:CF89:2945:EC:0:0:0:0:https%3a//stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8:UA Radio
+#SERVICE 4097:0:2:CF89:2945:EC:0:0:0:0:https%3a//stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8:UA Radio
 #DESCRIPTION UA Radio
 #SERVICE 4097:0:2:1C98:1CE8:71:820000:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
 #DESCRIPTION RMF FM
@@ -371,7 +373,7 @@
 #DESCRIPTION Radio ESKA ROCK
 #SERVICE 4097:0:2:1413:5DC:13E:820000:0:0:0:https%3a//an.cdn.eurozet.pl/ant-waw.mp3:Antyradio
 #DESCRIPTION Antyradio
-#SERVICE 1:0:2:1411:5DC:13E:820000:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-net.mp3:Meloradio
+#SERVICE 4097:0:2:1411:5DC:13E:820000:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-net.mp3:Meloradio
 #DESCRIPTION Meloradio
 #SERVICE 4097:0:2:A:A22A:2268:0:0:0:0:http%3a//stream3.nadaje.com%3a9000/:MUZYCZNE Radio
 #DESCRIPTION MUZYCZNE Radio
@@ -403,7 +405,7 @@
 #DESCRIPTION Radio GDAŃSK
 #SERVICE 4097:0:2:1D:A22A:2268:0:0:0:0:http%3a//online.jard.pl%3a8744/jard1:Radio JARD
 #DESCRIPTION Radio JARD
-#SERVICE 5002:0:2:1419:5DC:13E:820000:0:0:0:https%3a//online.radiojasnagora.pl%3a9000/rjg:Radio JASNA GÓRA
+#SERVICE 4097:0:2:1419:5DC:13E:820000:0:0:0:https%3a//online.radiojasnagora.pl%3a9000/rjg:Radio JASNA GÓRA
 #DESCRIPTION Radio JASNA GÓRA
 #SERVICE 4097:0:2:3F:A22A:2268:0:0:0:0:http%3a//streams.radiojura.com.pl%3a8000/jura_128kbps_stereo.mp3:Radio JURA
 #DESCRIPTION Radio JURA
@@ -549,5 +551,5 @@
 #DESCRIPTION Radio HEAVEN
 #SERVICE 4097:0:1:D685:307E:EC:0:0:0:0:http%3a//s1.slotex.pl%3a7358/:Radio VANESSA
 #DESCRIPTION Radio VANESSA
-#SERVICE 5002:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
+#SERVICE 4097:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
 #DESCRIPTION Planeta FM
