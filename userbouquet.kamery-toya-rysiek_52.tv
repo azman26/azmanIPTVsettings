@@ -1,0 +1,207 @@
+#NAME Kamery TOYA - Łódź (rysiek_52)
+#SERVICE 4097:0:1:BCD5:D682:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/kolo_sulkowskiego.m3u8?#User-Agent=Mozilla/5.0:Kołobrzeg — Plaża - Sułkowskiego <Toya>
+#DESCRIPTION Kołobrzeg — Plaża - Sułkowskiego <Toya>
+#SERVICE 4097:0:1:FCBC:B784:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/kolo_port.m3u8?#User-Agent=Mozilla/5.0:Kołobrzeg — Wejście do portu <Toya>
+#DESCRIPTION Kołobrzeg — Wejście do portu <Toya>
+#SERVICE 4097:0:1:B2C6:E45E:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/krak_centrumkongresowe.m3u8?#User-Agent=Mozilla/5.0:Kraków  — Centrum Kongresowe ICE
+#DESCRIPTION Kraków  — Centrum Kongresowe ICE
+#SERVICE 4097:0:1:8CA4:BCEF:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/krak_kladkaojcabernatka.m3u8?#User-Agent=Mozilla/5.0:Kraków —  Kładka Ojca Bernatka <Toya>
+#DESCRIPTION Kraków —  Kładka Ojca Bernatka <Toya>
+#SERVICE 4097:0:1:CCB2:899E:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/krak_lematauronarena.m3u8?#User-Agent=Mozilla/5.0:Kraków  — Lema - Tauron Arena
+#DESCRIPTION Kraków  — Lema - Tauron Arena
+#SERVICE 4097:0:1:72FF:2DF6:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/krak_alroznowahuta.m3u8?#User-Agent=Mozilla/5.0:Kraków — Al. Róż w Nowej Hucie <Toya>
+#DESCRIPTION Kraków — Al. Róż w Nowej Hucie <Toya>
+#SERVICE 4097:0:1:7D7F:3784:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/krak_kapelanka.m3u8?#User-Agent=Mozilla/5.0:Kraków — Kapelanka
+#DESCRIPTION Kraków — Kapelanka
+#SERVICE 4097:0:1:795:F26:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/krak_galkrakowskadworzec.m3u8?#User-Agent=Mozilla/5.0:Kraków — Plac Jana Nowaka-Jeziorańskiego
+#DESCRIPTION Kraków — Plac Jana Nowaka-Jeziorańskiego
+#SERVICE 4097:0:1:866D:84F7:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/krak_herbertalagiewnicka.m3u8?#User-Agent=Mozilla/5.0:Kraków — Zbigniewa Herberta - Trasa Łagiewnicka
+#DESCRIPTION Kraków — Zbigniewa Herberta - Trasa Łagiewnicka
+#SERVICE 4097:0:1:25A7:6F7F:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/kutn_jp2podrzeczna.m3u8?#User-Agent=Mozilla/5.0:Kutno — Jana Pawła II - Podrzeczna <Toya>
+#DESCRIPTION Kutno — Jana Pawła II - Podrzeczna <Toya>
+#SERVICE 4097:0:1:4C81:702:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/kutn_oporowskajp2.m3u8?#User-Agent=Mozilla/5.0:Kutno — Oporowska - Jana Pawła II <Toya>
+#DESCRIPTION Kutno — Oporowska - Jana Pawła II <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375821-augustow-rokicinska-wschod/play:Łódź - Augustow - Rokicinska wschod (Toya)
+#DESCRIPTION Łódź - Augustow - Rokicinska wschod (Toya)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375820-augustow-rokicinska-zachod/play:Łódź - Augustow - Rokicinska zachod (Toya)
+#DESCRIPTION Łódź - Augustow - Rokicinska zachod (Toya)
+#SERVICE 4097:0:0:BA17:C7DB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375814-bratyslawska-waltera-janke/play:Łódź - Bratyslawska-Waltera-Janke (Toya)
+#DESCRIPTION Łódź - Bratyslawska-Waltera-Janke (Toya)
+#SERVICE 4097:0:1:A818:9D66:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_bratyslawskawaltera.m3u8?#User-Agent=Mozilla/5.0:Łódź - Bratysławska - Waltera-Janke <Toya>
+#DESCRIPTION Łódź - Bratysławska - Waltera-Janke <Toya>
+#SERVICE 4097:0:0:89D:458:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/4444137582-doubletree-by-hilton-wschod/play:Łódź - Double Tree by Hilton - wschod (Toya)
+#DESCRIPTION Łódź - Double Tree by Hilton - wschod (Toya)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/4444137581-doubletree-by-hilton-zachod/play:Łódź - Double Tree by Hilton - zachód (Toya)
+#DESCRIPTION Łódź - Double Tree by Hilton - zachód (Toya)
+#SERVICE 4097:0:1:1EC2:7D28:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_toya2.m3u8?#User-Agent=Mozilla/5.0:Łódź - DoubleTree by Hilton - wschód <Toya>
+#DESCRIPTION Łódź - DoubleTree by Hilton - wschód <Toya>
+#SERVICE 4097:0:1:1FDD:2BF6:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_toya1.m3u8?#User-Agent=Mozilla/5.0:Łódź - DoubleTree by Hilton - zachód <Toya>
+#DESCRIPTION Łódź - DoubleTree by Hilton - zachód <Toya>
+#SERVICE 4097:0:1:887C:966E:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_lodzfabryczna1.m3u8?#User-Agent=Mozilla/5.0:Łódź - Dworzec - Łódź Fabryczna 1 <Toya>
+#DESCRIPTION Łódź - Dworzec - Łódź Fabryczna 1 <Toya>
+#SERVICE 4097:0:1:4D2D:A3FA:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_lodzfabryczna2.m3u8?#User-Agent=Mozilla/5.0:Łódź - Dworzec - Łódź Fabryczna 2 <Toya>
+#DESCRIPTION Łódź - Dworzec - Łódź Fabryczna 2 <Toya>
+#SERVICE 4097:0:0:E786:4AA4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/4444137584-dworzec-lodz-fabryczna-1/play:Łódź - Dworzec-Łódź-Fabryczna-1 (Toya)
+#DESCRIPTION Łódź - Dworzec-Łódź-Fabryczna-1 (Toya)
+#SERVICE 4097:0:0:9D2:66DA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/4444137585-dworzec-lodz-fabryczna-2/play:Łódź - Dworzec-Łódź-Fabryczna-2 (Toya)
+#DESCRIPTION Łódź - Dworzec-Łódź-Fabryczna-2 (Toya)
+#SERVICE 4097:0:0:833F:64A8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375830-kosciuszki-struga/play:Łódź - Kosciuszki-Struga (Toya)
+#DESCRIPTION Łódź - Kosciuszki-Struga (Toya)
+#SERVICE 4097:0:1:1523:3FDF:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_kosciuszkistruga.m3u8?#User-Agent=Mozilla/5.0:Łódź - Kościuszki - Struga <Toya>
+#DESCRIPTION Łódź - Kościuszki - Struga <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758154-lagiewnicka-inflancka/play:Łódź - Lagiewnicka - Inflancka (Toya)
+#DESCRIPTION Łódź - Lagiewnicka - Inflancka (Toya)
+#SERVICE 4097:0:1:BC07:CCF9:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_lagiewnickainflancka.m3u8?#User-Agent=Mozilla/5.0:Łódź - Łagiewnicka - Inflancka <Toya>
+#DESCRIPTION Łódź - Łagiewnicka - Inflancka <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758152-manufaktura-rynek-1/play:Łódź - Manufaktura Rynek (Toya)
+#DESCRIPTION Łódź - Manufaktura Rynek (Toya)
+#SERVICE 4097:0:1:583A:B3BD:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_manufaktura2.m3u8?#User-Agent=Mozilla/5.0:Łódź - Manufaktura Rynek 2  <Toya>
+#DESCRIPTION Łódź - Manufaktura Rynek 2  <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758151-manufaktura-rynek-2/play:Łódź - Manufaktura Rynek 2 (Toya)
+#DESCRIPTION Łódź - Manufaktura Rynek 2 (Toya)
+#SERVICE 4097:0:0:1B5:FD1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758172-pilsudskiego-niciarniana-zachod/play:Łódź - Pilsudskiego-Niciarniana zachod (Toya)
+#DESCRIPTION Łódź - Pilsudskiego-Niciarniana zachod (Toya)
+#SERVICE 4097:0:1:80AD:DE6A:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_pilsudskiegoniciarnianazachod.m3u8?#User-Agent=Mozilla/5.0:Łódź - Piłsudskiego - Niciarniana zachód <Toya>
+#DESCRIPTION Łódź - Piłsudskiego - Niciarniana zachód <Toya>
+#SERVICE 4097:0:0:BBB7:D4DE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758171-pilsudskiego-niciarniana-wschod/play:Łódź - Piłsudskiego-Niciarniana wschód (Toya)
+#DESCRIPTION Łódź - Piłsudskiego-Niciarniana wschód (Toya)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375829-piotrkowska-aleja-leona-schillera/play:Łódź - Piotrkowska - aleja Leona Schillera (Toya)
+#DESCRIPTION Łódź - Piotrkowska - aleja Leona Schillera (Toya)
+#SERVICE 4097:0:1:F85:974B:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_piotrkowskaschillera.m3u8?#User-Agent=Mozilla/5.0:Łódź - Piotrkowska - aleja Leona Schillera <Toya>
+#DESCRIPTION Łódź - Piotrkowska - aleja Leona Schillera <Toya>
+#SERVICE 4097:0:1:DA8D:89E4:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_piotrkowskanarutowicza.m3u8?#User-Agent=Mozilla/5.0:Łódź - Piotrkowska - Narutowicza   <Toya>
+#DESCRIPTION Łódź - Piotrkowska - Narutowicza   <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758155-piotrkowska-narutowicza/play:Łódź - Piotrkowska - Narutowicza (Toya)
+#DESCRIPTION Łódź - Piotrkowska - Narutowicza (Toya)
+#SERVICE 4097:0:1:A055:7E7C:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_piotrkowskanawrot.m3u8?#User-Agent=Mozilla/5.0:Łódź - Piotrkowska - Nawrot <Toya>
+#DESCRIPTION Łódź - Piotrkowska - Nawrot <Toya>
+#SERVICE 4097:0:1:116B:2259:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_piotrkowskatraugutta.m3u8?#User-Agent=Mozilla/5.0:Łódź - Piotrkowska - Traugutta  <Toya>
+#DESCRIPTION Łódź - Piotrkowska - Traugutta  <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/lodz_cam_42fb00/lodz_cam_42fb00.stream/chunks.m3u8:Łódź - Piotrkowska (m3u8)
+#DESCRIPTION Łódź - Piotrkowska (m3u8)
+#SERVICE 4097:0:0:207E:B45:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375828-piotrkowska-nawrot/play:Łódź - Piotrkowska Nawrot (Toya)
+#DESCRIPTION Łódź - Piotrkowska Nawrot (Toya)
+#SERVICE 4097:0:0:F221:EBBD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758156-piotrkowska-traugutta/play:Łódź - Piotrkowska Traugutta (Toya)
+#DESCRIPTION Łódź - Piotrkowska Traugutta (Toya)
+#SERVICE 4097:0:1:853:F75B:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_placwolnosci.m3u8?#User-Agent=Mozilla/5.0:Łódź  Plac Wolności <Toya>
+#DESCRIPTION Łódź  Plac Wolności <Toya>
+#SERVICE 4097:0:1:859C:BBC8:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_politechnikiwroblewskiego.m3u8?#User-Agent=Mozilla/5.0:Łódź - Politechniki - Wróblewskiego <Toya>
+#DESCRIPTION Łódź - Politechniki - Wróblewskiego <Toya>
+#SERVICE 4097:0:0:E9B:C85F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375840-politechniki-wroblewskiego/play:Łódź - Politechniki Wroblewskiego (Toya)
+#DESCRIPTION Łódź - Politechniki Wroblewskiego (Toya)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758150-port-lotniczy-lodz-im-wladyslawa-reymonta-1/play:Łódź - Port Lotniczy Łódź (Toya)
+#DESCRIPTION Łódź - Port Lotniczy Łódź (Toya)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/444413758149-port-lotniczy-lodz-im-wladyslawa-reymonta-2/play:Łódź - Port Lotniczy Łódź I (Toya)
+#DESCRIPTION Łódź - Port Lotniczy Łódź I (Toya)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375815-rondo-broniewskiego/play:Łódź - Rondo Broniewskiego (Toya)
+#DESCRIPTION Łódź - Rondo Broniewskiego (Toya)
+#SERVICE 4097:0:1:C730:10A3:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_rondobroniewskiego.m3u8?#User-Agent=Mozilla/5.0:Łódź - Rondo Broniewskiego <Toya>
+#DESCRIPTION Łódź - Rondo Broniewskiego <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375811-rondo-insurekcji-kosciuszkowskiej/play:Łódź - Rondo Insurekcji Kosciuszkowskiej (Toya)
+#DESCRIPTION Łódź - Rondo Insurekcji Kosciuszkowskiej (Toya)
+#SERVICE 4097:0:1:526F:5D33:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_rondoinsurekcji.m3u8?#User-Agent=Mozilla/5.0:Łódź - Rondo Insurekcji Kościuszkowskiej <Toya>
+#DESCRIPTION Łódź - Rondo Insurekcji Kościuszkowskiej <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375817-rondo-inwalidow/play:Łódź - Rondo Inwalidow (Toya)
+#DESCRIPTION Łódź - Rondo Inwalidow (Toya)
+#SERVICE 4097:0:1:6935:58ED:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_rondoinwalidow.m3u8?#User-Agent=Mozilla/5.0:Łódź - Rondo Inwalidów <Toya>
+#DESCRIPTION Łódź - Rondo Inwalidów <Toya>
+#SERVICE 4097:0:1:9DF:E29B:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_rondosolidarnosci.m3u8?#User-Agent=Mozilla/5.0:Łódź - Rondo Solidarności - północny-wschód  <Toya>
+#DESCRIPTION Łódź - Rondo Solidarności - północny-wschód  <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/4444137587-rondo-solidarnosci-polnocny-wschod/play:Łódź - Rondo Solidarności (Toya)
+#DESCRIPTION Łódź - Rondo Solidarności (Toya)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375812-rondo-sybirakow/play:Łódź - Rondo Sybirakow (Toya)
+#DESCRIPTION Łódź - Rondo Sybirakow (Toya)
+#SERVICE 4097:0:1:1C5B:429A:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_rondosybirakow.m3u8?#User-Agent=Mozilla/5.0:Łódź - Rondo Sybiraków <Toya>
+#DESCRIPTION Łódź - Rondo Sybiraków <Toya>
+#SERVICE 4097:0:0:F528:D969:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375822-rzgowska-kurczaki/play:Łódź - Rzgowska - Kurczaki
+#DESCRIPTION Łódź - Rzgowska - Kurczaki
+#SERVICE 4097:0:1:D03A:57F8:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_rzgowskakurczaki.m3u8?#User-Agent=Mozilla/5.0:Łódź - Rzgowska - Kurczaki <Toya>
+#DESCRIPTION Łódź - Rzgowska - Kurczaki <Toya>
+#SERVICE 4097:0:0:E786:4AA4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375822-rzgowska-kurczaki/play:Łódź - Rzgowska-Kurczaki(Toya)
+#DESCRIPTION Łódź - Rzgowska-Kurczaki(Toya)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/4444137586-skrzyzowanie-marszalkow-poludniowy-wschod/play:Łódź - Skrzyzowanie marszalkow (Toya)
+#DESCRIPTION Łódź - Skrzyzowanie marszalkow (Toya)
+#SERVICE 4097:0:1:9437:6AE8:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_kopcinskiegopilsudskiego.m3u8?#User-Agent=Mozilla/5.0:Łódź - Skrzyżowanie marszałków - południowy-wschód <Toya>
+#DESCRIPTION Łódź - Skrzyżowanie marszałków - południowy-wschód <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375819-wlokniarzy-kaliska-estakada/play:Łódź - Wlokniarzy - Kaliska estakada (Toya)
+#DESCRIPTION Łódź - Wlokniarzy - Kaliska estakada (Toya)
+#SERVICE 4097:0:1:613E:956A:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_wlokniarzykaliska.m3u8?#User-Agent=Mozilla/5.0:Łódź - Włókniarzy - Kaliska estakada <Toya>
+#DESCRIPTION Łódź - Włókniarzy - Kaliska estakada <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375827-wojska-polskiego-aleja-palki/play:Łódź - Wojska Polskiego - aleja Palki (Toya)
+#DESCRIPTION Łódź - Wojska Polskiego - aleja Palki (Toya)
+#SERVICE 4097:0:1:2BBC:8741:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_wppalki.m3u8?#User-Agent=Mozilla/5.0:Łódź - Wojska Polskiego - aleja Palki <Toya>
+#DESCRIPTION Łódź - Wojska Polskiego - aleja Palki <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375826-wyszynskiego-armii-krajowej/play:Łódź - Wyszynskiego - Armii Krajowej (Toya)
+#DESCRIPTION Łódź - Wyszynskiego - Armii Krajowej (Toya)
+#SERVICE 4097:0:1:C8CD:8DE8:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_wyszynskiegoarmiikrajowej.m3u8?#User-Agent=Mozilla/5.0:Łódź - Wyszyńskiego - Armii Krajowej <Toya>
+#DESCRIPTION Łódź - Wyszyńskiego - Armii Krajowej <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/4444137589-zachodnia-drewnowska/play:Łódź - Zachodnia - Drewnowska (Toya)
+#DESCRIPTION Łódź - Zachodnia - Drewnowska (Toya)
+#SERVICE 4097:0:1:4D52:78DB:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_podrzeczna1.m3u8?#User-Agent=Mozilla/5.0:Łódź - Zachodnia - Pałac Poznańskiego <Toya>
+#DESCRIPTION Łódź - Zachodnia - Pałac Poznańskiego <Toya>
+#SERVICE 4097:0:0:6EE6:1047:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/4444137588-zachodnia-palac-poznanskiego/play:Łódź - Zachodnia-Palac-Poznanskiego (Toya)
+#DESCRIPTION Łódź - Zachodnia-Palac-Poznanskiego (Toya)
+#SERVICE 4097:0:0:312D:CF45:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375816-zakladowa-hetmanska/play:Łódź - Zakladowa-Hetmanska(Toya)
+#DESCRIPTION Łódź - Zakladowa-Hetmanska(Toya)
+#SERVICE 4097:0:1:B294:9C8F:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_zakladowahetmanska.m3u8?#User-Agent=Mozilla/5.0:Łódź - Zakładowa - Hetmańska <Toya>
+#DESCRIPTION Łódź - Zakładowa - Hetmańska <Toya>
+#SERVICE 4097:0:1:EF31:1821:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_zielonalegionow.m3u8?#User-Agent=Mozilla/5.0:Łódź - Zielona - Legionów <Toya>
+#DESCRIPTION Łódź - Zielona - Legionów <Toya>
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375839-zielona-zeligowskiego/play:Łódź - Zielona - Zeligowskiego (Toya)
+#DESCRIPTION Łódź - Zielona - Zeligowskiego (Toya)
+#SERVICE 4097:0:1:A26A:2D95:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/lodz_zielonazeligowskiego.m3u8?#User-Agent=Mozilla/5.0:Łódź - Zielona - Żeligowskiego <Toya>
+#DESCRIPTION Łódź - Zielona - Żeligowskiego <Toya>
+#SERVICE 4097:0:0:E786:4AA4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//go.toya.net.pl/25-kamery/13758-lodz/44441375835-zielona-legionow/play:Łódź - Zielona-Legionów (Toya)
+#DESCRIPTION Łódź - Zielona-Legionów (Toya)
+#SERVICE 4097:0:1:1239:6DB:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/mysl_grunwaldzka.m3u8?#User-Agent=Mozilla/5.0:Mysłowice — Grunwaldzka <Toya>
+#DESCRIPTION Mysłowice — Grunwaldzka <Toya>
+#SERVICE 4097:0:1:A695:8FFE:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/mysl_katokrakowska.m3u8?#User-Agent=Mozilla/5.0:Mysłowice — Katowicka - Krakowska <Toya>
+#DESCRIPTION Mysłowice — Katowicka - Krakowska <Toya>
+#SERVICE 4097:0:1:1812:6C66:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/mysl_katomost.m3u8?#User-Agent=Mozilla/5.0:Mysłowice — Krakowska - Most Niepodległości <Toya>
+#DESCRIPTION Mysłowice — Krakowska - Most Niepodległości <Toya>
+#SERVICE 4097:0:1:719D:7EBB:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/mysl_mikolowskaak.m3u8#User-Agent=Mozilla/5.0:Mysłowice — Mikołowska - Armii Krajowej <Toya>
+#DESCRIPTION Mysłowice — Mikołowska - Armii Krajowej <Toya>
+#SERVICE 4097:0:1:C0CD:5284:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/mysl_rynek.m3u8?#User-Agent=Mozilla/5.0:Mysłowice — Rynek <Toya>
+#DESCRIPTION Mysłowice — Rynek <Toya>
+#SERVICE 4097:0:1:ADA6:84C9:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_pilsudskiegoniciarnianawschod.m3u8?#User-Agent=Mozilla/5.0:ND  Łódź Piłsudskiego - Niciarniana wschód <Toya>
+#DESCRIPTION ND  Łódź Piłsudskiego - Niciarniana wschód <Toya>
+#SERVICE 4097:0:1:AFB2:6A02:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_augustowrokicinskawschod.m3u8?#User-Agent=Mozilla/5.0:ND Łódź Augustów - Rokicińska wschód <Toya>
+#DESCRIPTION ND Łódź Augustów - Rokicińska wschód <Toya>
+#SERVICE 4097:0:1:E57:7799:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/lodz_augustowrokicinskazachod.m3u8?#User-Agent=Mozilla/5.0:ND Łódź Augustów - Rokicińska zachód <Toya>
+#DESCRIPTION ND Łódź Augustów - Rokicińska zachód <Toya>
+#SERVICE 4097:0:1:4971:89D:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/pabi_ksaw_pabianickajp2.m3u8?#User-Agent=Mozilla/5.0:Pabianice Ksawerów Łódzka-Pocztowa  <Toya>
+#DESCRIPTION Pabianice Ksawerów Łódzka-Pocztowa  <Toya>
+#SERVICE 4097:0:1:8AE3:3252:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/pabi_warszawskamajdany.m3u8?#User-Agent=Mozilla/5.0:Pabianice Warszawska - Majdany <Toya>
+#DESCRIPTION Pabianice Warszawska - Majdany <Toya>
+#SERVICE 4097:0:1:17F2:D96C:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/pabi_zamkowatraugutta.m3u8?#User-Agent=Mozilla/5.0:Pabianice Zamkowa - Traugutta  <Toya>
+#DESCRIPTION Pabianice Zamkowa - Traugutta  <Toya>
+#SERVICE 4097:0:1:E1F8:D703:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/piot_rondosolidarnosci.m3u8?#User-Agent=Mozilla/5.0:Piotrków Trybunalski — Rondo Solidarności <Toya>
+#DESCRIPTION Piotrków Trybunalski — Rondo Solidarności <Toya>
+#SERVICE 4097:0:1:6269:4C47:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/piot_rynektrybunalski.m3u8?#User-Agent=Mozilla/5.0:Piotrków Trybunalski — Rynek Trybunalski <Toya>
+#DESCRIPTION Piotrków Trybunalski — Rynek Trybunalski <Toya>
+#SERVICE 4097:0:1:F50C:7606:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/piot_sikorskiegoarmiikrajowej.m3u8?#User-Agent=Mozilla/5.0:Piotrków Trybunalski — Sikorskiego - Armii Krajowej <Toya>
+#DESCRIPTION Piotrków Trybunalski — Sikorskiego - Armii Krajowej <Toya>
+#SERVICE 4097:0:1:8A1:D0E1:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/piot_slowackiegokostromska.m3u8?#User-Agent=Mozilla/5.0:Piotrków Trybunalski — Słowackiego - Kostromska <Toya>
+#DESCRIPTION Piotrków Trybunalski — Słowackiego - Kostromska <Toya>
+#SERVICE 4097:0:1:A40F:7476:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/pisz_domkultury.m3u8?#User-Agent=Mozilla/5.0:Pisz — Piski Dom Kultury <Toya>
+#DESCRIPTION Pisz — Piski Dom Kultury <Toya>
+#SERVICE 4097:0:1:5AB7:B153:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/pisz_rondokaczynskiego.m3u8?#User-Agent=Mozilla/5.0:Pisz — Rondo im. Lecha Kaczyńskiego <Toya>
+#DESCRIPTION Pisz — Rondo im. Lecha Kaczyńskiego <Toya>
+#SERVICE 4097:0:1:73B:112A:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/prze_mostsiwca.m3u8?#User-Agent=Mozilla/5.0:Przemyśl  —  Most Siwca <Toya>
+#DESCRIPTION Przemyśl  —  Most Siwca <Toya>
+#SERVICE 4097:0:1:B38:AF55:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/prze_jagiellonska.m3u8?#User-Agent=Mozilla/5.0:Przemyśl —  Jagiellońska <Toya>
+#DESCRIPTION Przemyśl —  Jagiellońska <Toya>
+#SERVICE 4097:0:1:64D9:8DD4:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/prze_plackonstytucji.m3u8?#User-Agent=Mozilla/5.0:Przemyśl  — Plac Konstytucji <Toya>
+#DESCRIPTION Przemyśl  — Plac Konstytucji <Toya>
+#SERVICE 4097:0:1:DA5F:8686:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/prze_placniepodleglosci.m3u8?#User-Agent=Mozilla/5.0:Przemyśl —  Plac Niepodległości <Toya>
+#DESCRIPTION Przemyśl —  Plac Niepodległości <Toya>
+#SERVICE 4097:0:1:F739:369A:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/prze_rynekurzadmiasta.m3u8?#User-Agent=Mozilla/5.0:Przemyśl  — Rynek - Urząd Miasta <Toya>
+#DESCRIPTION Przemyśl  — Rynek - Urząd Miasta <Toya>
+#SERVICE 4097:0:1:363C:3E05:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/zgrz_galeriazgierskaarmiikrajowej.m3u8?#User-Agent=Mozilla/5.0:Zgierz — Galeria Zgierska-Armii Krajowej <Toya>
+#DESCRIPTION Zgierz — Galeria Zgierska-Armii Krajowej <Toya>
+#SERVICE 4097:0:1:7A5:1828:EC:0:0:0:0:https%3a//cdn-14-go.toya.net.pl/kamery/zgrz_kuraklodzkapoludnie.m3u8?#User-Agent=Mozilla/5.0:Zgierz — Kurak-Łódzka-Południe <Toya>
+#DESCRIPTION Zgierz — Kurak-Łódzka-Południe <Toya>
+#SERVICE 4097:0:1:A21D:176F:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/zgrz_osiedle650staffa.m3u8?#User-Agent=Mozilla/5.0:Zgierz — Osiedle 650 - Staffa - Droga S14 <Toya>
+#DESCRIPTION Zgierz — Osiedle 650 - Staffa - Droga S14 <Toya>
+#SERVICE 4097:0:1:5BDD:DFDC:EC:0:0:0:0:https%3a//cdn-13-go.toya.net.pl/kamery/zgrz_zsmparzeczewskagalczynskiego.m3u8?#User-Agent=Mozilla/5.0:Zgierz — ZSM-Parzęczewska-Gałczyńskiego <Toya>
+#DESCRIPTION Zgierz — ZSM-Parzęczewska-Gałczyńskiego <Toya>
