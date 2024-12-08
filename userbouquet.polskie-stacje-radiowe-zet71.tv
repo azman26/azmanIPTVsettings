@@ -1,4 +1,4 @@
-#NAME POLSKIE STACJE RADIOWE (zet71)
+#NAME POLSKIE STACJE RADIOWE  (zet71)  02-12-2024
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fm:RMF FM
 #DESCRIPTION RMF FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2:RMF 2 Pop
@@ -67,7 +67,7 @@
 #DESCRIPTION RMF Dodaphone
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top3:RMF Przebój Lata 2024
 #DESCRIPTION RMF Przebój Lata 2024
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Euro Hits: The Best Of
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Euro Hits%3a The Best Of
 #DESCRIPTION RMF Euro Hits: The Best Of
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fitness:RMF Fitness
 #DESCRIPTION RMF Fitness
@@ -611,7 +611,7 @@
 #DESCRIPTION OPEN FM Rocks
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/103:OPEN FM Sad
 #DESCRIPTION OPEN FM Sad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy: Soul & R'n'B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18:OPEN FM Sexy%3a Soul & R'n'B
 #DESCRIPTION OPEN FM Sexy: Soul & R'n'B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/60:OPEN FM Smooth Jazz
 #DESCRIPTION OPEN FM Smooth Jazz
@@ -683,7 +683,7 @@
 #DESCRIPTION OPEN FM Wesele
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/173:4FUN Radio
 #DESCRIPTION 4FUN Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio: muzyka i informacje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367:WP Radio%3a muzyka i informacje
 #DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/2010-1.mp3:ESKA - Bełchatów
 #DESCRIPTION ESKA - Bełchatów
