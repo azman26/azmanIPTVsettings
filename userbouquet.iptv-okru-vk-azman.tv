@@ -3,20 +3,26 @@
 #DESCRIPTION --- VK Music ---
 #SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-177948463_456239339:VIVA Russia
 #DESCRIPTION VIVA Russia
+#SERVICE 4097:0:1:C11:BA5E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-222985249_456239209:VIVA TV Hits
+#DESCRIPTION VIVA TV Hits
 #SERVICE 4097:0:1:B4E:75C4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-137060944_456240146:MAFI2A Music
 #DESCRIPTION MAFI2A Music
 #SERVICE 4097:0:1:31B:ED7D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-202691747_456239031:Techno Dance Music
 #DESCRIPTION Techno Dance Music
+#SERVICE 4097:0:1:D55B:962:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-224522942_456239026:Retro Music 1980-2000
+#DESCRIPTION Retro Music 1980-2000
 #SERVICE 4097:0:1:D429:C2D2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-339767_456244698:THT Music
 #DESCRIPTION THT Music
+#SERVICE 4097:0:1:C140:54D7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-220004278_456239017:TMF Rus
+#DESCRIPTION TMF Rus
 #SERVICE 4097:0:1:4868:132C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-6246566_456246663:MUZ TV
 #DESCRIPTION MUZ TV
 #SERVICE 4097:0:1:83A4:44EA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-215460136_456239039:MixM TV
 #DESCRIPTION MixM TV
 #SERVICE 4097:0:1:D1E4:A636:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-22186156_456239617:Europa Plus TV
 #DESCRIPTION Europa Plus TV
-#SERVICE 4097:0:1:532:E6F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-131307986_456239070:Eurodance Hits 90s 
-#DESCRIPTION Eurodance Hits 90s 
+#SERVICE 4097:0:1:532:E6F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-131307986_456239070:Eurodance Hits 90s
+#DESCRIPTION Eurodance Hits 90s
 #SERVICE 4097:0:1:B0CA:6549:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-27873200_456244784:Music History Radio
 #DESCRIPTION Music History Radio
 #SERVICE 4097:0:1:80FA:180C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-185160677_456239020:Ретро Хит Радио
@@ -87,7 +93,53 @@
 #DESCRIPTION Жара
 #SERVICE 4097:0:1:E299:B8A8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3665371340524:9 Volna
 #DESCRIPTION 9 Volna
+#SERVICE 4097:0:1:28C1:2A47:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3853054647979:МУЗЫКА ЮГА ТВ
+#DESCRIPTION МУЗЫКА ЮГА ТВ
 #SERVICE 4097:0:1:ECE4:7E5A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/1643385658936:KAVKAZ Music TV
 #DESCRIPTION KAVKAZ Music TV
 #SERVICE 4097:0:1:F308:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/260233305722:STRANA FM
 #DESCRIPTION STRANA FM
+#SERVICE 1:64:B:0:0:0:0:0:0:0::--- Ritsa RU ---
+#DESCRIPTION --- Ritsa RU ---
+#SERVICE 4097:0:1:FA5E:8953:EC:0:0:0:0: https%3a//fs2.persik.by/Dance2/index.m3u8:VIVA Plus
+#DESCRIPTION VIVA Plus
+#SERVICE 4097:0:1:70C4:3478:EC:0:0:0:0:https%3a//v2.catcast.tv/content/38484/index.m3u8:MCM
+#DESCRIPTION MCM
+#SERVICE 4097:0:1:8867:7E88:EC:0:0:0:0:https%3a//manifest.googlevideo.com/api/manifest/hls_variant/expire/1717375534/ei/zr1cZoqDDPeji9oP3IyY6Ac/ip/85.222.92.58/id/fea901f8c04af352/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-f5f7lnl6.googlevideo.com/mh/Ev/mm/31%2C29/mn/sn-f5f7lnl6%2Csn-f5f7kn7z/ms/au%2Crdu/mv/m/mvi/1/pl/18/tx/51103730/txs/51103729%2C51103730%2C51113346/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/2077500/vprv/1/go/1/rqh/5/mt/1717353643/fvip/5/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgF_sbls3j36kwMyR8YQTKSkF0F9WNqHwFyF3FOy_HY00CIQCq3isBo77x2qsWzKzZoqeSxRyjkfyrENO-i5eakGAVTg%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AHlkHjAwRQIgOpo559pzfBRScOtGBoACws3pefIIOeFlzOXRDvKh_lgCIQCafvme_ZvckT3LR-9M9jskAUrfVtPweJCEHSBmvokCKA%3D%3D/file/index.m3u8:DANCE 90'S
+#DESCRIPTION DANCE 90'S
+#SERVICE 4097:0:1:2987:D975:EC:0:0:0:0:https%3a//samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8:Now 80's
+#DESCRIPTION Now 80's
+#SERVICE 4097:0:1:70C4:3478:EC:0:0:0:0:https%3a//video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8:RETRO Plus
+#DESCRIPTION RETRO Plus
+#SERVICE 4097:0:1:3123:CF0E:EC:0:0:0:0: https%3a//cdn.tcncountry.net/scte35_aws/index.m3u8:The Country Network
+#DESCRIPTION The Country Network
+#SERVICE 4097:0:1:36D3:FC0C:EC:0:0:0:0: https%3a//tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8:Rock TV
+#DESCRIPTION Rock TV
+#SERVICE 4097:0:1:739A:ABE7:EC:0:0:0:0: https%3a//rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8:MOOZ DANCE
+#DESCRIPTION MOOZ DANCE
+#SERVICE 4097:0:1:88C2:16E6:EC:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8?:DLX Dance
+#DESCRIPTION DLX Dance
+#SERVICE 4097:0:1:C55:ECD9:EC:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8:DLX Music
+#DESCRIPTION DLX Music
+#SERVICE 4097:0:1:5589:6FD:EC:0:0:0:0: https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8:DLX Rock
+#DESCRIPTION DLX Rock
+#SERVICE 4097:0:1:1246:B12E:EC:0:0:0:0:https%3a//bss1.neterra.tv/magictv/magictv.m3u8:Magic TV
+#DESCRIPTION Magic TV
+#SERVICE 4097:0:1:FB0E:BE36:EC:0:0:0:0: https%3a//hls.pmchd.live/hls/stream.m3u8:PMC
+#DESCRIPTION PMC
+#SERVICE 4097:0:1:2AB9:A10C:EC:0:0:0:0:https%3a//cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8:ZWEI 2
+#DESCRIPTION ZWEI 2
+#SERVICE 4097:0:1:56BD:387D:EC:0:0:0:0: https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8:SCHLAGER DELUXE
+#DESCRIPTION SCHLAGER DELUXE
+#SERVICE 4097:0:1:C23D:B708:EC:0:0:0:0:https%3a//cdne.folxplay.tv/fxt/streams/ch-6/1080-ZZUMS5RSNA.m3u8:ONE 1 Adria
+#DESCRIPTION ONE 1 Adria
+#SERVICE 4097:0:1:6584:DE9F:EC:0:0:0:0:https%3a//freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream:FRESH TV Armenia
+#DESCRIPTION FRESH TV Armenia
+#SERVICE 4097:0:1:746E:3CF3:EC:0:0:0:0: https%3a//hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8:Shanson TV
+#DESCRIPTION Shanson TV
+#SERVICE 4097:0:1:4E86:7C6A:EC:0:0:0:0:https%3a//manifest.googlevideo.com/api/manifest/hls_variant/expire/1717374082/ei/IbhcZrnSPIOG6dsP76efqAw/ip/85.222.92.58/id/ZMaTYnDZkvw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJXHN7PiRU2M5JXZ4slT7voEQm-exRs8z1GEt-_fjHT0AiEA-VLYBLTUeRor9LjYR-6KlhoOJev3u7dycWXgAN8BNtI%3D/file/index.m3u8:Shift TV
+#DESCRIPTION Shift TV
+#SERVICE 4097:0:1:9015:5F23:EC:0:0:0:0:https%3a//d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/2.m3u8:Kaloopy TV
+#DESCRIPTION Kaloopy TV
+#SERVICE 4097:0:1:8FAA:324B:EC:0:0:0:0:https%3a//hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8:RU TV
+#DESCRIPTION RU TV
