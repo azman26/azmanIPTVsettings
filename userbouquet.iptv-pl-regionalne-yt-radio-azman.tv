@@ -1,4 +1,6 @@
 #NAME IPTV PL REGIONALNE YT RADIO (azman)
+#SERVICE 4097:0:1:321:3BC4:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@euronewspl/live:Euronews PL  (YT)
+#DESCRIPTION Euronews PL  (YT)
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- Rakuten TV PL ---
 #DESCRIPTION --- Rakuten TV PL ---
 #SERVICE 4097:0:1:1E7:A11A:2268:0:0:0:0:https%3a//d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5010&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=ae7c6f95-d0a4-4d5a-ace1-e64436b2d03d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1523:Top Movies Polska - Rakuten TV
@@ -59,16 +61,18 @@
 #DESCRIPTION --- Regionalne + YT ---
 #SERVICE 4097:0:1:428D:2BC0:13E:820000:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
 #DESCRIPTION 4Fun TV
+#SERVICE 4097:0:1:64:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvtoya.pl/player/live:Toya
+#DESCRIPTION Toya
+#SERVICE 4097:0:19:50:B052:2268:EEEE0000:0:0:0:https%3a//echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8:Echo24
+#DESCRIPTION Echo24
 #SERVICE 4097:0:16:57:E1:D58:EEEE0000:0:0:0:https%3a//tvreg.klemit.net/regionalna/stream/index.m3u8:TV Regionalna
 #DESCRIPTION TV Regionalna
 #SERVICE 4097:0:1:13:1:48:0:0:0:0:https%3a//6034e09794f07.streamlock.net%3a443/tv/dlaCiebieTv/playlist.m3u8:Dla Ciebie TV
 #DESCRIPTION Dla Ciebie TV
 #SERVICE 4097:0:1:7:1:48:0:0:0:0:https%3a//5cce8c6f0e84c.streamlock.net/LiveCast/smil%3aPlayStream9.smil/playlist.m3u8:Asta TV HD
 #DESCRIPTION Asta TV HD
-#SERVICE 4097:0:1:64:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tvtoya.pl/player/live:Toya
-#DESCRIPTION Toya
-#SERVICE 4097:0:19:50:B052:2268:EEEE0000:0:0:0:https%3a//echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8:Echo24
-#DESCRIPTION Echo24
+#SERVICE 4097:0:1:6:1:48:0:0:0:0:https%3a//stream.sferatv.pl/sferatvlive/live.m3u8:Sfera TV
+#DESCRIPTION Sfera TV
 #SERVICE 4097:0:1:15:1:48:0:0:0:0:http%3a//217.173.176.107%3a1935/live/tvk.stream/playlist.m3u8:TV Toruń
 #DESCRIPTION TV Toruń
 #SERVICE 4097:0:1:95:1:48:0:0:0:0:https%3a//live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8:TVT Rybnik
@@ -155,16 +159,6 @@
 #DESCRIPTION WebCamera.pl
 #SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl  Lato
 #DESCRIPTION WebCamera.pl  Lato
-#SERVICE 4097:0:1:32:1:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd:TV Trwam
-#DESCRIPTION TV Trwam
-#SERVICE 4097:0:1:327:1F40:13E:820000:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/tbn-abr/index.m3u8:TBN Polska HD
-#DESCRIPTION TBN Polska HD
-#SERVICE 4097:0:1:70:1:48:0:0:0:0:https%3a//cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8:EWTN Polska
-#DESCRIPTION EWTN Polska
-#SERVICE 4097:0:1:2709:DABA:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@jasnagoraklasztorojcowpaul7943/live:Jasna Góra  (YT)
-#DESCRIPTION Jasna Góra  (YT)
-#SERVICE 4097:0:1:3723:F8C1:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@SupremeMasterTVlive/live:SMTV  (YT)
-#DESCRIPTION SMTV  (YT)
 #SERVICE 4097:0:1:100:0:48:0:0:0:0:https%3a//stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8:Czwórka PR (Visual Radio)
 #DESCRIPTION Czwórka PR (Visual Radio)
 #SERVICE 4097:0:1:101:0:48:0:0:0:0:https%3a//stream15.polskieradio.pl/pr24_video/video_pr24.stream/chunklist_w1582075097.m3u8:Polskie Radio 24 (Visual Radio)
@@ -195,6 +189,16 @@
 #DESCRIPTION Sejm Kam 3
 #SERVICE 4097:0:1:6556:5C73:EC:0:0:0:0:https%3a//r.dcs.redcdn.pl/livehls/o2/sejm/ENC32/live.livx/playlist.m3u8:Sejm Kam 4
 #DESCRIPTION Sejm Kam 4
+#SERVICE 4097:0:1:32:1:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd:TV Trwam
+#DESCRIPTION TV Trwam
+#SERVICE 4097:0:1:327:1F40:13E:820000:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/tbn-abr/index.m3u8:TBN Polska HD
+#DESCRIPTION TBN Polska HD
+#SERVICE 4097:0:1:70:1:48:0:0:0:0:https%3a//cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8:EWTN Polska
+#DESCRIPTION EWTN Polska
+#SERVICE 4097:0:1:2709:DABA:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@jasnagoraklasztorojcowpaul7943/live:Jasna Góra  (YT)
+#DESCRIPTION Jasna Góra  (YT)
+#SERVICE 4097:0:1:3723:F8C1:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@SupremeMasterTVlive/live:SMTV  (YT)
+#DESCRIPTION SMTV  (YT)
 #SERVICE 4097:0:1:7EAD:9169:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8:TV Biznesowa
 #DESCRIPTION TV Biznesowa
 #SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:https%3a//str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8:wPolsce24
@@ -247,7 +251,7 @@
 #DESCRIPTION TV Wielkopolska  (YT)
 #SERVICE 4097:0:1:387F:3EDA:EC:0:0:0:0:https%3a//bozztv.com/dvrfl04/itv04006/index.m3u8:Polonico TV
 #DESCRIPTION Polonico TV
-#SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl/live/memfs/d546713a-25d2-4343-ba10-baea670debd9.m3u8:TVK Nowy Tomyśl
+#SERVICE 4097:0:1:BD0:D855:EC:0:0:0:0:https%3a//tvk.smnt.pl/memfs/2882ff48-26ef-420b-acca-b6a31e4f6330.m3u8:TVK Nowy Tomyśl
 #DESCRIPTION TVK Nowy Tomyśl
 #SERVICE 4097:0:1:D2B6:8DF8:EC:0:0:0:0:https%3a//tgn.bozztv.com/gama/itv04007-zdrowa/playlist.m3u8:Zdrowa TV
 #DESCRIPTION Zdrowa TV
@@ -255,8 +259,6 @@
 #DESCRIPTION TV Mazowsze
 #SERVICE 4097:0:1:59:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@LubelskaTVTV/live:New TV  (YT)
 #DESCRIPTION New TV  (YT)
-#SERVICE 4097:0:1:6:1:48:0:0:0:0:https%3a//stream.sferatv.pl/sferatvlive/live.m3u8:Sfera TV
-#DESCRIPTION Sfera TV
 #SERVICE 4097:0:1:9BE6:50FA:EC:0:0:0:0:https%3a//serwer.tvpro.ovh%3a5443/LiveApp/streams/telewizjapro.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined:Telewizja PRO
 #DESCRIPTION Telewizja PRO
 #SERVICE 4097:0:1:BB9:67:64:FFFF0000:0:0:0:https%3a//ineago.cf.insyscd.net/insysgo.live/wtk.smil/manifest.mpd:WTK
@@ -383,8 +385,8 @@
 #DESCRIPTION Radio ESKA ROCK
 #SERVICE 4097:0:2:1413:5DC:13E:820000:0:0:0:https%3a//an.cdn.eurozet.pl/ant-waw.mp3:Antyradio
 #DESCRIPTION Antyradio
-#SERVICE 4097:0:2:1411:5DC:13E:820000:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-net.mp3:Meloradio
-#DESCRIPTION Meloradio
+#SERVICE 4097:0:2:1411:5DC:13E:820000:0:0:0:https%3a//ml.cdn.eurozet.pl/mel-net.mp3:Melo
+#DESCRIPTION Melo
 #SERVICE 4097:0:2:A:A22A:2268:0:0:0:0:http%3a//stream3.nadaje.com%3a9000/:MUZYCZNE Radio
 #DESCRIPTION MUZYCZNE Radio
 #SERVICE 4097:0:2:C:A22A:2268:0:0:0:0:http%3a//91.232.4.33%3a9680/stream:Polskie Radio Koszalin
@@ -395,8 +397,8 @@
 #DESCRIPTION Radio BIAŁYSTOK
 #SERVICE 4097:0:2:13:A22A:2268:0:0:0:0:https%3a//stream.rcs.revma.com/062uq3z3kwzuv:Radio BIELSKO
 #DESCRIPTION Radio BIELSKO
-#SERVICE 4097:0:2:3C:A22A:2268:0:0:0:0:http%3a//primary.moodyradiostream.org/radioccm:Radio CCM
-#DESCRIPTION Radio CCM
+#SERVICE 4097:0:2:3C:A22A:2268:0:0:0:0:http%3a//primary.moodyradiostream.org/radioccm:Radio ESKA Południe
+#DESCRIPTION Radio ESKA Południe
 #SERVICE 4097:0:2:41:A22A:2268:0:0:0:0:https%3a//radio.centrum.fm/live:Radio CENTRUM
 #DESCRIPTION Radio CENTRUM
 #SERVICE 4097:0:2:14:A22A:2268:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7432/stream?sid=1:Radio DISCO PARTY
@@ -439,8 +441,6 @@
 #DESCRIPTION Radio MUZO.FM
 #SERVICE 4097:0:2:24:A22A:2268:0:0:0:0:http%3a//sluchaj.107i5.fm/:Radio NAKŁO
 #DESCRIPTION Radio NAKŁO
-#SERVICE 4097:0:2:25:A22A:2268:0:0:0:0:https%3a//streamer.radio.co/s93b51ccc1/listen:Radio NEWONCE
-#DESCRIPTION Radio NEWONCE
 #SERVICE 4097:0:2:26:A22A:2268:0:0:0:0:http%3a//88.199.169.10%3a8000/:Radio NIEPOKALANÓW
 #DESCRIPTION Radio NIEPOKALANÓW
 #SERVICE 4097:0:2:27:A22A:2268:0:0:0:0:https%3a//stream.rcs.revma.com/ypqt40u0x1zuv:Radio NOWY ŚWIAT
@@ -509,8 +509,6 @@
 #DESCRIPTION RDN MAŁOPOLSKA
 #SERVICE 4097:0:2:1009:F002:2268:EEEE0000:0:0:0:https%3a//pl-play.adtonos.com/8101/rock-radio:ROCK Radio
 #DESCRIPTION ROCK Radio
-#SERVICE 4097:0:2:39:A22A:2268:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350/stream:ROCKREACTOR
-#DESCRIPTION ROCKREACTOR
 #SERVICE 4097:0:2:4A:A22A:2268:0:0:0:0:http%3a//stream.open.fm/379:Rockserwis FM
 #DESCRIPTION Rockserwis FM
 #SERVICE 4097:0:2:3A:A22A:2268:0:0:0:0:http%3a//stream14.shoutcastsolutions.com%3a8057/256stream:SMOOTHJAZZ Radio
@@ -523,8 +521,6 @@
 #DESCRIPTION Radio ŁÓDŹ
 #SERVICE 4097:0:2:4C:A22A:2268:0:0:0:0: https%3a//stream.radiopiekary.pl/:Radio PIEKARY
 #DESCRIPTION Radio PIEKARY
-#SERVICE 4097:0:2:4B:A22A:2268:0:0:0:0:https%3a//free.rcast.net/62853:Radio ŚWINOUJŚCIE
-#DESCRIPTION Radio ŚWINOUJŚCIE
 #SERVICE 4097:0:2:4D:A22A:2268:0:0:0:0:http%3a//s1.slotex.pl%3a7038:Katolickie Radio PODLASIE
 #DESCRIPTION Katolickie Radio PODLASIE
 #SERVICE 4097:0:2:4E:A22A:2268:0:0:0:0:http%3a//stream02.radiogorzow.pl%3a10115:Radio GORZÓW
@@ -547,6 +543,14 @@
 #DESCRIPTION TRENDY Radio
 #SERVICE 4097:0:2:59:A22A:2268:0:0:0:0:http%3a//ic2.smcdn.pl/6130-1.mp3:ESKA Gorąca 20
 #DESCRIPTION ESKA Gorąca 20
+#SERVICE 4097:0:2:5A:A22A:2268:0:0:0:0:https%3a//streaming.inten.pl%3a8020/bonton.mp3:Radio BONTON
+#DESCRIPTION Radio BONTON
+#SERVICE 4097:0:2:5B:A22A:2268:0:0:0:0:https%3a//stream.rcs.revma.com/0n8y7mxcay8uv:Katolickie Radio Zamość
+#DESCRIPTION Katolickie Radio Zamość
+#SERVICE 4097:0:2:5C:A22A:2268:0:0:0:0:http%3a//stream3.nadaje.com%3a8054:Radio RSC
+#DESCRIPTION Radio RSC
+#SERVICE 4097:0:2:4B:A22A:2268:0:0:0:0:https%3a//free.rcast.net/62853:Radio ŚWINOUJŚCIE
+#DESCRIPTION Radio ŚWINOUJŚCIE
 #SERVICE 4097:0:2:50:A22A:2268:0:0:0:0: https%3a//stream12.hosterion.pl/stream/radioalex/stream:Radio ALEX Zakopane
 #DESCRIPTION Radio ALEX Zakopane
 #SERVICE 4097:0:2:57:A22A:2268:0:0:0:0:http%3a//dhtk2.noip.pl%3a8888/famka.mp3:Radio FAMKA
@@ -559,6 +563,10 @@
 #DESCRIPTION Radio FEST
 #SERVICE 4097:0:2:1C:A22A:2268:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7600/stream:Radio HEAVEN
 #DESCRIPTION Radio HEAVEN
+#SERVICE 4097:0:2:39:A22A:2268:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9350/stream:ROCKREACTOR
+#DESCRIPTION ROCKREACTOR
+#SERVICE 4097:0:2:25:A22A:2268:0:0:0:0:https%3a//streamer.radio.co/s93b51ccc1/listen:Radio NEWONCE
+#DESCRIPTION Radio NEWONCE
 #SERVICE 4097:0:1:D685:307E:EC:0:0:0:0:http%3a//s1.slotex.pl%3a7358/:Radio VANESSA
 #DESCRIPTION Radio VANESSA
 #SERVICE 4097:0:2:C1C:DDB:EC:0:0:0:0:https%3a//pa04.cdn.eurozet.pl/pla-net.mp3?redirected=04:Planeta FM
