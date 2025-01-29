@@ -1,6 +1,8 @@
 #NAME IPTV PL REGIONALNE YT RADIO (azman)
 #SERVICE 4097:0:1:321:3BC4:13E:820000:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@euronewspl/live:Euronews PL  (YT)
 #DESCRIPTION Euronews PL  (YT)
+#SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hls.goodgame.ru/hls/180805.m3u8:VIVA Russia
+#DESCRIPTION VIVA Russia
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- Rakuten TV PL ---
 #DESCRIPTION --- Rakuten TV PL ---
 #SERVICE 4097:0:1:1E7:A11A:2268:0:0:0:0:https%3a//d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=pl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5010&ads.rtv_content_language=pol&ads.rtvid=271863&ads.streaming_id=ae7c6f95-d0a4-4d5a-ace1-e64436b2d03d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1523:Top Movies Polska - Rakuten TV
@@ -79,6 +81,10 @@
 #DESCRIPTION TVT Rybnik
 #SERVICE 4097:0:1:58:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TelewizjaDamiRadom/live:TV DAMI  (YT)
 #DESCRIPTION TV DAMI  (YT)
+#SERVICE 4097:0:1:60:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@telewizjarelax/live:TV Relax  (YT)
+#DESCRIPTION TV Relax  (YT)
+#SERVICE 4097:0:1:5270:A0F1:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@BingPolski/live:Bing  (YT)
+#DESCRIPTION Bing  (YT)
 #SERVICE 4097:0:1:FBA5:39A2:EC:0:0:0:0:https%3a//91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8:Imperium TV Gliwice
 #DESCRIPTION Imperium TV Gliwice
 #SERVICE 4097:0:1:35A5:6494:EC:0:0:0:0:https%3a//91-193-208-12.eimperium.pl/ImperiumArchiwum/tracks-v1a1/mono.m3u8:Imperium Kronika
@@ -113,8 +119,6 @@
 #DESCRIPTION TV Kablowa Kołobrzeg (Serwis Inf)
 #SERVICE 4097:0:1:DF2:E4F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vimeo.com/1036816367:Index TV
 #DESCRIPTION Index TV
-#SERVICE 4097:0:1:3F8:65:64:FFFF0000:0:0:0:https%3a//stream-live.lrt.lt/lituanica/master.m3u8:LRT Lituanica
-#DESCRIPTION LRT Lituanica
 #SERVICE 4097:0:1:B0AF:C4F3:EC:0:0:0:0:https%3a//bsmbialogard.pl/live/index.m3u8:BTK
 #DESCRIPTION BTK
 #SERVICE 4097:0:1:43:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw/live:info PŁOCK  (YT)
@@ -137,24 +141,28 @@
 #DESCRIPTION TV Gorzów  (YT)
 #SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ztv-live/live:Zachodniopomorska TV  (YT)
 #DESCRIPTION Zachodniopomorska TV  (YT)
-#SERVICE 4097:0:1:60:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@telewizjarelax/live:TV Relax  (YT)
-#DESCRIPTION TV Relax  (YT)
+#SERVICE 4097:0:1:3AF1:7638:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@lubuskatv/live:Lubuska TV Horyzont  (YT)
+#DESCRIPTION Lubuska TV Horyzont  (YT)
 #SERVICE 4097:0:1:E0D3:E984:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@tvlubuszan/live:TV Lubuszan  (YT)
 #DESCRIPTION TV Lubuszan  (YT)
 #SERVICE 4097:0:1:9908:338A:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=tzO8YjJBC0c:Lokalna TV  (YT)
 #DESCRIPTION Lokalna TV  (YT)
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@redakcjartvp4066/live:Regionalna TV Podlasie  (YT)
 #DESCRIPTION Regionalna TV Podlasie  (YT)
-#SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ArcheTV/live:Arche TV  (YT)
-#DESCRIPTION Arche TV  (YT)
 #SERVICE 4097:0:1:1811:D699:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/live/5cA_PJmlslA?si=R4iikMcyZr7q7UdA:Arcadia TV World  (YT)
 #DESCRIPTION Arcadia TV World  (YT)
 #SERVICE 4097:0:1:A648:C711:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TViROLAND/live:TVi Roland  (YT)
 #DESCRIPTION TVi Roland  (YT)
 #SERVICE 4097:0:1:48:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV  (YT)
 #DESCRIPTION UAM.TV  (YT)
+#SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@ArcheTV/live:Arche TV  (YT)
+#DESCRIPTION Arche TV  (YT)
 #SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/c/Urz%C4%85dTransportuKolejowego/live:UTK Warszawa Zachodnia  (YT)
 #DESCRIPTION UTK Warszawa Zachodnia  (YT)
+#SERVICE 4097:0:1:3F8:65:64:FFFF0000:0:0:0:https%3a//stream-live.lrt.lt/lituanica/master.m3u8:LRT Lituanica
+#DESCRIPTION LRT Lituanica
+#SERVICE 4097:0:1:A855:B70C:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@1plus1/live:1+1 Ukraina  (YT)
+#DESCRIPTION 1+1 Ukraina  (YT)
 #SERVICE 4097:0:1:DD86:1985:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:WebCamera.pl
 #DESCRIPTION WebCamera.pl
 #SERVICE 4097:0:0:F5C:73B7:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8:WebCamera.pl  Lato
