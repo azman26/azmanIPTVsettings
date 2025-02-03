@@ -295,62 +295,6 @@
 #DESCRIPTION TVL Tarnobrzeg
 #SERVICE 4097:0:1:42:1:48:0:0:0:0:https%3a//tvsm.pl/live/hls/A3kaoVpwSNKVHHDybpTHjg/1647800785/video.m3u8:TVK SM Grudziądz
 #DESCRIPTION TVK SM Grudziądz
-#SERVICE 1:64:B:0:0:0:0:0:0:0::--- YT HLS m3u8 ---
-#DESCRIPTION --- YT HLS m3u8 ---
-#SERVICE 4097:0:1:59:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCYxbE-WoPqKq26sSeQ6eD1w.m3u8:New TV
-#DESCRIPTION New TV
-#SERVICE 4097:0:1:60:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCZvmZep3wknWdBPcKnwsPHA.m3u8:TV Relax
-#DESCRIPTION TV Relax
-#SERVICE 4097:0:1:58:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8:TV Dami
-#DESCRIPTION TV Dami
-#SERVICE 4097:0:1:2BB0:6879:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCVItG8Ke6xMGhQAi8HP5WCg.m3u8:TV Wielkopolska
-#DESCRIPTION TV Wielkopolska
-#SERVICE 4097:0:1:49:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8:TV Słowianin
-#DESCRIPTION TV Słowianin
-#SERVICE 4097:0:1:54:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UC0vwjMGoZpwG_lLBuF6_ALA.m3u8:TV Olsztyn
-#DESCRIPTION TV Olsztyn
-#SERVICE 4097:0:1:89:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCdBYAZdagaQcr-Fe15ifMPQ.m3u8:TV Narew
-#DESCRIPTION TV Narew
-#SERVICE 4097:0:1:91CB:4324:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCENo4wEDe_59Bb8rGGMZl_w.m3u8:HTS Słubice
-#DESCRIPTION HTS Słubice
-#SERVICE 4097:0:1:56:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UC2vPjreaN9Jpan45p66H7hA.m3u8:TV Sudecka
-#DESCRIPTION TV Sudecka
-#SERVICE 4097:0:1:52:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UC29dc_mBUWW4mz5h754v88w.m3u8:TV Żary
-#DESCRIPTION TV Żary
-#SERVICE 4097:0:1:44:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCEQZDk3FFLNM67Hx4jQaXVw.m3u8:Świebodzin TV
-#DESCRIPTION Świebodzin TV
-#SERVICE 4097:0:1:57:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8:TV Zabrze
-#DESCRIPTION TV Zabrze
-#SERVICE 4097:0:1:50:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCt5sVDyzu0NhrjR-d_b-lhg.m3u8:TV Gorzów
-#DESCRIPTION TV Gorzów
-#SERVICE 4097:0:1:13CA:A503:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8:Zachodniopomorska TV
-#DESCRIPTION Zachodniopomorska TV
-#SERVICE 4097:0:1:2F7C:ECD4:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCzu2j3tCxU99rqC7CLS-Hcw.m3u8:Tarnowska TV
-#DESCRIPTION Tarnowska TV
-#SERVICE 4097:0:1:41:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCU7uwCYami150L_lydp2OHQ.m3u8:Regionalna TV Podlasie
-#DESCRIPTION Regionalna TV Podlasie
-#SERVICE 4097:0:1:24F0:E816:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCC74l6m1z4H_bYknU1BkjUg.m3u8:Siedlce TV
-#DESCRIPTION Siedlce TV
-#SERVICE 4097:0:1:2D3:7ED6:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCciOOtgCargNFJw2BzR12Qw.m3u8:Arche TV
-#DESCRIPTION Arche TV
-#SERVICE 4097:0:1:3428:10AD:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCqEL2VjfPuqgj-RCYcfALLA.m3u8:Tor Służewiec
-#DESCRIPTION Tor Służewiec
-#SERVICE 4097:0:1:A24:AFF8:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCzk5x_PbhFKUoJx_HNTefDQ.m3u8:UTK Warszawa Zachodnia
-#DESCRIPTION UTK Warszawa Zachodnia
-#SERVICE 4097:0:1:59C:7812:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCh6RC0Oeyq8Ovz_KIzATjIw.m3u8:ViennaPLus
-#DESCRIPTION ViennaPLus
-#SERVICE 4097:0:1:70:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCEZ4rFLmTDVCTSJ8gDqOMzQ.m3u8:EWTN Polska
-#DESCRIPTION EWTN Polska
-#SERVICE 4097:0:1:81:1:48:0:0:0:0:https%3a//ythls.armelin.one/channel/UCOZvcN7zQbf5kpi321dVcZQ.m3u8:Dobre Media
-#DESCRIPTION Dobre Media
-#SERVICE 4097:0:1:2709:DABA:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCKAtPxfE2RAHSCwDABMMeAg.m3u8:Jasna Góra
-#DESCRIPTION Jasna Góra
-#SERVICE 4097:0:1:B07:EA16:EC:0:0:0:0:https%3a//ythls-v2..onrender.com/channel/UCPiu4CZlknkTworskK79CPg.m3u8:wPolsce.pl
-#DESCRIPTION wPolsce.pl
-#SERVICE 4097:0:1:2775:E944:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UCIfI7Yo22SMKp5PraztHM6w.m3u8:Kanał Sportowy
-#DESCRIPTION Kanał Sportowy
-#SERVICE 4097:0:1:E17C:265F:EC:0:0:0:0:https%3a//ythls.armelin.one/channel/UClhEl4bMD8_escGCCTmRAYg.m3u8:Kanał Zero
-#DESCRIPTION Kanał Zero
 #SERVICE 1:64:7:0:0:0:0:0:0:0::--- RADIO  PL  IP ---
 #DESCRIPTION --- RADIO  PL  IP ---
 #SERVICE 4097:0:2:1C9B:1CE8:71:820000:0:0:0:http%3a//stream3.polskieradio.pl%3a8950:Jedynka - PR
