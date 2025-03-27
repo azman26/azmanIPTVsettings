@@ -53,6 +53,8 @@
 #DESCRIPTION Eska Hity Na Czasie
 #SERVICE 4097:0:1:175D:100D:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/erpl-abr/tracks-v1a1/mono.ts.m3u8:Eska Rock Dobrze Rockuje
 #DESCRIPTION Eska Rock Dobrze Rockuje
+#SERVICE 4097:0:1:273E:63ED:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/vxpl-abr/index.m3u8:VOX W Rytmie Hitów
+#DESCRIPTION VOX W Rytmie Hitów
 #SERVICE 4097:0:1:15F3:51DC:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/hdpl-abr/tracks-v1a1/mono.ts.m3u8:HiDance
 #DESCRIPTION HiDance
 #SERVICE 4097:0:1:7A4C:2833:EC:0:0:0:0:https%3a//s-pl-01.mediatool.tv/playout/hmpl-abr/tracks-v1a1/mono.ts.m3u8:Hi Music
@@ -163,6 +165,10 @@
 #DESCRIPTION LPU TV  (YT)
 #SERVICE 4097:0:1:41:1:48:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@redakcjartvp4066/live:Regionalna TV Podlasie  (YT)
 #DESCRIPTION Regionalna TV Podlasie  (YT)
+#SERVICE 4097:0:1:AD1E:7F53:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@codziennypoznan9270/live:HEJ Poznań  (YT)
+#DESCRIPTION HEJ Poznań  (YT)
+#SERVICE 4097:0:1:A690:395D:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@SILVERTVPL/live:Silver TV  (YT)
+#DESCRIPTION Silver TV  (YT)
 #SERVICE 4097:0:1:6487:B652:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@wizjatvpolska01/live:Wizja TV Polska  (YT)
 #DESCRIPTION Wizja TV Polska  (YT)
 #SERVICE 4097:0:1:A648:C711:EC:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/@TViROLAND/live:TVi Roland  (YT)
