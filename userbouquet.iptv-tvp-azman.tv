@@ -17,6 +17,8 @@
 #DESCRIPTION TVP Kobieta
 #SERVICE 4097:0:1:4288:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-rozrywka,399724:TVP Rozrywka
 #DESCRIPTION TVP Rozrywka
+#SERVICE 4097:0:1:4B12:2266:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-na-dobre-i-na-zle,1998766:TVP Na Dobre i Na Złe
+#DESCRIPTION TVP Na Dobre i Na Złe
 #SERVICE 4097:0:1:3D59:2C88:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-kultura,399700:TVP Kultura
 #DESCRIPTION TVP Kultura
 #SERVICE 4097:0:16:5E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-kultura-2,399728:TVP Kultura 2
@@ -39,7 +41,7 @@
 #DESCRIPTION TVP Wilno
 #SERVICE 4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/belsat,399729:Belsat Tv
 #DESCRIPTION Belsat Tv
-#SERVICE 4097:0:1:B96E:8F4D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-parlament--sejm,1065594:TVP Sejm
+#SERVICE 4097:0:1:8285:6A03:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-parlament--sejm,1065594:TVP Sejm
 #DESCRIPTION TVP Sejm
 #SERVICE 4097:0:1:24A9:AEA4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-parlament--senat,1065595:TVP Senat
 #DESCRIPTION TVP Senat
