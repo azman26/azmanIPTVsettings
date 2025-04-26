@@ -45,12 +45,16 @@
 #DESCRIPTION RMF Best Of RMFon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_blues:RMF Blues
 #DESCRIPTION RMF Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_studencka_impreza:RMF Cafe
+#DESCRIPTION RMF Cafe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_celtic:RMF Celtic
 #DESCRIPTION RMF Celtic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_chillout:RMF Chillout
 #DESCRIPTION RMF Chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_club:RMF Club
 #DESCRIPTION RMF Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top9:RMF Crush
+#DESCRIPTION RMF Crush
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_cuba:RMF Cuba
 #DESCRIPTION RMF Cuba
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_dance:RMF Dance
@@ -65,8 +69,6 @@
 #DESCRIPTION RMF Dla Dzieci
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top7:RMF Dodaphone
 #DESCRIPTION RMF Dodaphone
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top3:RMF Przebój Lata 2024
-#DESCRIPTION RMF Przebój Lata 2024
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top5:RMF Euro Hits: The Best Of
 #DESCRIPTION RMF Euro Hits: The Best Of
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fitness:RMF Fitness
@@ -77,10 +79,24 @@
 #DESCRIPTION RMF FMF Classic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_francais:RMF Francais
 #DESCRIPTION RMF Francais
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top17:RMF Fresh Dance
+#DESCRIPTION RMF Fresh Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top19:RMF Fresh Hip Hop
+#DESCRIPTION RMF Fresh Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top18:RMF Fresh Polski Hip Hop
+#DESCRIPTION RMF Fresh Polski Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top20:RMF Fresh Polskie
+#DESCRIPTION RMF Fresh Polskie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top16:RMF Fresh Pop
+#DESCRIPTION RMF Fresh Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_funk:RMF Funk
 #DESCRIPTION RMF Funk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_gamemusic:RMF GameMusic
 #DESCRIPTION RMF GameMusic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_genzie:RMF Genzie
+#DESCRIPTION RMF Genzie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top8:RMF Girls Playlist
+#DESCRIPTION RMF Girls Playlist
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_gold:RMF Gold
 #DESCRIPTION RMF Gold
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_grunge:RMF Grunge
@@ -123,6 +139,10 @@
 #DESCRIPTION RMF Piosenka Filmowa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_piosenka_literacka:RMF Piosenka Literacka
 #DESCRIPTION RMF Piosenka Literacka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top:RMF Pitbull Hits
+#DESCRIPTION RMF Pitbull Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top10:RMF Po Polsku O Miłości
+#DESCRIPTION RMF Po Polsku O Miłości
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_pobudka:RMF Pobudka
 #DESCRIPTION RMF Pobudka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_polska_alternatywa:RMF Polska Alternatywa
@@ -139,6 +159,8 @@
 #DESCRIPTION RMF Poplista
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_prl:RMF PRL
 #DESCRIPTION RMF PRL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top3:RMF Przebój Lata 2024
+#DESCRIPTION RMF Przebój Lata 2024
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_przeboj_roku:RMF Przebój Roku 2024
 #DESCRIPTION RMF Przebój Roku 2024
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_queen:RMF Queen
@@ -153,24 +175,18 @@
 #DESCRIPTION RMF Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_rock_progresywny:RMF Rock Progresywny
 #DESCRIPTION RMF Rock Progresywny
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top11:RMF Rowerowy Power
+#DESCRIPTION RMF Rowerowy Power
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_sloneczne_przeboje:RMF Słoneczne Przeboje
 #DESCRIPTION RMF Słoneczne Przeboje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_smooth_jazz:RMF Smooth Jazz
 #DESCRIPTION RMF Smooth Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_studencka_impreza:RMF Studencka Impreza
-#DESCRIPTION RMF Studencka Impreza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_styl:RMF Styl
 #DESCRIPTION RMF Styl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_szanty:RMF Szanty
 #DESCRIPTION RMF Szanty
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top:RMF Świąteczne Nowości 2024
-#DESCRIPTION RMF Świąteczne Nowości 2024
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_swieta:RMF Święta
 #DESCRIPTION RMF Święta
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/team_ola_miroslaw:RMF Team Ola Mirosław
-#DESCRIPTION RMF Team Ola Mirosław
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/team_wilfredo_leon:RMF Team Wilfredo Leon
-#DESCRIPTION RMF Team Wilfredo Leon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_groove:RMF Teen
 #DESCRIPTION RMF Teen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_5_dance:RMF Top 30 Dance
@@ -185,6 +201,8 @@
 #DESCRIPTION RMF Top 30 Święta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top2:RMF Top 2024 Disco polo
 #DESCRIPTION RMF Top 2024 Disco polo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_true_crime:RMF True Crime
+#DESCRIPTION RMF True Crime
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_vibe:RMF Vibe
 #DESCRIPTION RMF Vibe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_bravo:RMF Viral
@@ -197,8 +215,8 @@
 #DESCRIPTION RMF Wakacyjne Top 100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic:RMF Classic
 #DESCRIPTION RMF Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classicplus_std:RMF Classic Bez Świątecznej Muzyki
-#DESCRIPTION RMF Classic Bez Świątecznej Muzyki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic_waw:RMF Classic Warszawa
+#DESCRIPTION RMF Classic Warszawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_chopin:RMF Classic Chopin
 #DESCRIPTION RMF Classic Chopin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classicplus_sku:RMF Classic Czas Skupienia
@@ -217,6 +235,8 @@
 #DESCRIPTION RMF Classic Muzyka Oscarowa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classicplus_pir:RMF Classic Na Pirackich Wodach
 #DESCRIPTION RMF Classic Na Pirackich Wodach
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top13:RMF Classic Oscary 2025
+#DESCRIPTION RMF Classic Oscary 2025
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic_rock:RMF Classic Rock
 #DESCRIPTION RMF Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classicplus_srd:RMF Classic Śródziemie
@@ -227,6 +247,8 @@
 #DESCRIPTION RMF Classic Tarantino
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classicplus_tho:RMF Classic Thor
 #DESCRIPTION RMF Classic Thor
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top12:RMF Classic Valentine
+#DESCRIPTION RMF Classic Valentine
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx:RMF MAXX
 #DESCRIPTION RMF MAXX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_byd:RMF MAXX - Bydgoszcz
@@ -267,6 +289,8 @@
 #DESCRIPTION RMF MAXX - Śląsk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_kie:RMF MAXX - Świętokrzyskie
 #DESCRIPTION RMF MAXX - Świętokrzyskie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_tmz:RMF MAXX - Tomaszów Mazowiecki
+#DESCRIPTION RMF MAXX - Tomaszów Mazowiecki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_gda:RMF MAXX - Trójmiasto
 #DESCRIPTION RMF MAXX - Trójmiasto
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_waw:RMF MAXX - Warszawa
@@ -379,6 +403,8 @@
 #DESCRIPTION Meloradio - Wrocław
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/MELDEL.mp3:Meloradio Delicate
 #DESCRIPTION Meloradio Delicate
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/MELFST.mp3:Meloradio Fast Songs
+#DESCRIPTION Meloradio Fast Songs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/MELHDN.mp3:Meloradio Hot Dance
 #DESCRIPTION Meloradio Hot Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/2010-1.mp3:ESKA - Bełchatów
@@ -465,8 +491,6 @@
 #DESCRIPTION ESKA - Zielona Góra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/2420-1.mp3:ESKA - Żary
 #DESCRIPTION ESKA - Żary
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/7990-1.mp3:ESKA - Z Wami FM
-#DESCRIPTION ESKA - Z Wami FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/6140-1.mp3:ESKA - Do Pracy
 #DESCRIPTION ESKA - Do Pracy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/6130-1.mp3:ESKA - G20
@@ -513,10 +537,10 @@
 #DESCRIPTION ESKA2 - Najlepsze Polskie Hity
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/6220-1.mp3:ESKA2 - Dla Dzieci
 #DESCRIPTION ESKA2 - Dla Dzieci
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/6230-1.mp3:ESKA2 - Gorąca Polska 20
+#DESCRIPTION ESKA2 - Gorąca Polska 20
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/6040-1.mp3:ESKA2 - Kultowe Polskie
 #DESCRIPTION ESKA2 - Kultowe Polskie
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/6090-1.mp3:ESKA2 - Polski Rock
-#DESCRIPTION ESKA2 - Polski Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/6230-1.mp3:ESKA2 - Polskie Na Czasie
 #DESCRIPTION ESKA2 - Polskie Na Czasie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//waw.ic.smcdn.pl/5980-1.mp3:ESKA Rock
@@ -811,6 +835,8 @@
 #DESCRIPTION Radio Mirage - Prywatka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ssl-1.radiohost.pl%3a9563:Radio Mirage - Space
 #DESCRIPTION Radio Mirage - Space
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.castpol.pl%3a8020/radio.mp3:Radio Mirage - Stars
+#DESCRIPTION Radio Mirage - Stars
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.radiombox.pl/radio/8000/RadioMbox320:Radio Mbox
 #DESCRIPTION Radio Mbox
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//panel.radiombox.pl/radio/8100/Chill320kbps:Radio Mbox - Chillout
@@ -955,10 +981,10 @@
 #DESCRIPTION Radio Yanosik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/s4exa6c6y33vv:Radio Yanosik - EDM
 #DESCRIPTION Radio Yanosik - EDM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/whxxccsdp7uvv:Radio Yanosik Rock
-#DESCRIPTION Radio Yanosik Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/8fqn8rr6ktuvv:Radio Yanosik - X-MAS
-#DESCRIPTION Radio Yanosik - X-MAS
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/8fqn8rr6ktuvv:Radio Yanosik - Love
+#DESCRIPTION Radio Yanosik - Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/whxxccsdp7uvv:Radio Yanosik - Rock
+#DESCRIPTION Radio Yanosik - Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZLOTE_PRZEBOJE.mp3:Radio Złote Przeboje
 #DESCRIPTION Radio Złote Przeboje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiostream.pl/tuba8900-1.mp3:Radio Złote Przeboje - Białystok
@@ -1247,8 +1273,6 @@
 #DESCRIPTION Radio Pielgrzym - Kazania /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.com.pl%3a9444:Radio Pielgrzym - Pieśni po polsku /katolickie/
 #DESCRIPTION Radio Pielgrzym - Pieśni po polsku /katolickie/
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//151.80.24.114/streammq.mp3:Radio Profeto.pl /katolickie/
-#DESCRIPTION Radio Profeto.pl /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.dabcom.pl/rdn_mpl:Radio RDN Małopolska /katolickie/
 #DESCRIPTION Radio RDN Małopolska /katolickie/
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.dabcom.pl/rdn_ns:Radio RDN Nowy Sącz /katolickie/
@@ -1691,7 +1715,7 @@
 #DESCRIPTION Radio Paweł Miazga
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7146:Radio Piekielskie 1
 #DESCRIPTION Radio Piekielskie 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7244/stream:Radio Piłeczka
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl%3a7348/stream:Radio Piłeczka
 #DESCRIPTION Radio Piłeczka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pl.cdn.eurozet.pl/pla-net.mp3:Radio Planeta FM
 #DESCRIPTION Radio Planeta FM
@@ -1763,6 +1787,8 @@
 #DESCRIPTION Radio Republika - Muzyka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu4.fastcast4u.com/proxy/radioreset?mp=/1:Radio Reset Obywatelski
 #DESCRIPTION Radio Reset Obywatelski
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream12.hosterion.pl/stream/radionutka:Radio Retrodance
+#DESCRIPTION Radio Retrodance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7030/stream:Radio RMC
 #DESCRIPTION Radio RMC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server.radiormi.pl/listen/radiormi/stream:Radio RMI
@@ -1805,6 +1831,8 @@
 #DESCRIPTION Radio Składankowe Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7854/stream:Radio Sky Radio Polska
 #DESCRIPTION Radio Sky Radio Polska
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.g-news.pl/radio/8000/radio.mp3:Radio Słoneczne
+#DESCRIPTION Radio Słoneczne
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bcast.vigormultimedia.com%3a48888/sjcompl320mp3:Radio SmoothJazz.com.pl
 #DESCRIPTION Radio SmoothJazz.com.pl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiosochaczew.pl:Radio Sochaczew
