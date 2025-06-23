@@ -1,29 +1,31 @@
 #NAME OK.RU and VK (azman)
 #SERVICE 1:64:26:0:0:0:0:0:0:0::--- VK Music ---
 #DESCRIPTION --- VK Music ---
-#SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-177948463_456239339:VIVA Russia
+#SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.ru/video-177948463_456239339:VIVA Russia
 #DESCRIPTION VIVA Russia
-#SERVICE 4097:0:1:C11:BA5E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-222985249_456239209:VIVA TV Hits
-#DESCRIPTION VIVA TV Hits
-#SERVICE 4097:0:1:B4E:75C4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-137060944_456240146:MAFI2A Music
-#DESCRIPTION MAFI2A Music
+#SERVICE 4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hls.goodgame.ru/hls/180805.m3u8:Viva Russia
+#DESCRIPTION Viva Russia
+#SERVICE 4097:0:1:4E31:53F2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.vkvideo.ru/vivatv:Viva TV Hits
+#DESCRIPTION Viva TV Hits
+#SERVICE 4097:0:1:D975:2D2E:EC:0:0:0:0:https%3a//fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8:Viva Plus
+#DESCRIPTION Viva Plus
 #SERVICE 4097:0:1:31B:ED7D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-202691747_456239031:Techno Dance Music
 #DESCRIPTION Techno Dance Music
-#SERVICE 4097:0:1:D55B:962:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-224522942_456239026:Retro Music 1980-2000
+#SERVICE 4097:0:1:D55B:962:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-224522942_456239091:Retro Music 1980-2000
 #DESCRIPTION Retro Music 1980-2000
-#SERVICE 4097:0:1:D429:C2D2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-339767_456244698:THT Music
-#DESCRIPTION THT Music
+#SERVICE 4097:0:1:532:E6F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-131307986_456239070:Eurodance Hits 90s
+#DESCRIPTION Eurodance Hits 90s
 #SERVICE 4097:0:1:C140:54D7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-220004278_456239017:TMF Rus
 #DESCRIPTION TMF Rus
+#SERVICE 4097:0:1:D429:C2D2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-339767_456244698:THT Music
+#DESCRIPTION THT Music
 #SERVICE 4097:0:1:4868:132C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-6246566_456246663:MUZ TV
 #DESCRIPTION MUZ TV
 #SERVICE 4097:0:1:83A4:44EA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-215460136_456239039:MixM TV
 #DESCRIPTION MixM TV
 #SERVICE 4097:0:1:D1E4:A636:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-22186156_456239617:Europa Plus TV
 #DESCRIPTION Europa Plus TV
-#SERVICE 4097:0:1:532:E6F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-131307986_456239070:Eurodance Hits 90s
-#DESCRIPTION Eurodance Hits 90s
-#SERVICE 4097:0:1:B0CA:6549:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-27873200_456244784:Music History Radio
+#SERVICE 4097:0:1:B0CA:6549:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-36662177_456242662:Music History Radio
 #DESCRIPTION Music History Radio
 #SERVICE 4097:0:1:80FA:180C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-185160677_456239020:Ретро Хит Радио
 #DESCRIPTION Ретро Хит Радио
@@ -39,6 +41,10 @@
 #DESCRIPTION 9 Volna
 #SERVICE 4097:0:1:C232:4443:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-157301156_456241063:KAVKAZ Music TV
 #DESCRIPTION KAVKAZ Music TV
+#SERVICE 4097:0:1:C11:BA5E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-222985249_456239209:VIVA TV Hits
+#DESCRIPTION VIVA TV Hits
+#SERVICE 4097:0:1:B4E:75C4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-137060944_456240146:MAFI2A Music
+#DESCRIPTION MAFI2A Music
 #SERVICE 1:64:27:0:0:0:0:0:0:0::--- OK.RU Music ---
 #DESCRIPTION --- OK.RU Music ---
 #SERVICE 4097:0:1:CD10:FEA5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/videoembed/6495200943678:VIVA TV
@@ -101,6 +107,8 @@
 #DESCRIPTION STRANA FM
 #SERVICE 1:64:B:0:0:0:0:0:0:0::--- Ritsa RU ---
 #DESCRIPTION --- Ritsa RU ---
+#SERVICE 5002:0:1:CA71:1D62:EC:0:0:0:0:https%3a//strm.yandex.ru/vod/vh-canvas-converted/vod-content/5284984016855045053/b548d191-40c7-4f9e-b7c4-4e9481cafb68/kaltura/desc_e5dc7b534a195d29eb935680d5f9921e/vrVeNVIw2j34/manifest.mpd?vsid=69f516a861035f85a540a98d1cc9aa7448eed0d74706xVASx0678x1750688406&t=1750688407441:Ritsa
+#DESCRIPTION Ritsa
 #SERVICE 4097:0:1:FA5E:8953:EC:0:0:0:0: https%3a//fs2.persik.by/Dance2/index.m3u8:VIVA Plus
 #DESCRIPTION VIVA Plus
 #SERVICE 4097:0:1:70C4:3478:EC:0:0:0:0:https%3a//v2.catcast.tv/content/38484/index.m3u8:MCM
