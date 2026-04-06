@@ -46,7 +46,8 @@
     { "name": "Nat Geo Animals", "url": "https://www.youtube.com/@NatGeoAnimals" },
     { "name": "Love Nature", "url": "https://www.youtube.com/lovenature" },
     { "name": "WebCameraPL", "url": "https://www.youtube.com/@WebCameraPl" },
-    { "name": "NASA", "url": "https://www.youtube.com/@NASA" }
+    { "name": "NASA", "url": "https://www.youtube.com/@NASA" },
+    { "name": "AstroFaza", "url": "https://www.youtube.com/@Astrofaza" }
   ],
   "Informacyjne i Publicystyczne": [
     { "name": "TVP Info", "url": "https://www.youtube.com/@tvpinfo" },
